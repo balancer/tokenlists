@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "display": "Default",
+  "include": ["src/**/*", "scripts/generate-lists.ts", "scripts/generate-lists.ts"],
+  "exclude": ["node_modules"],
+  "compilerOptions": {
+    "composite": false,
+    "target": "ES2022",
+    "module": "CommonJS",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "declaration": true,
+    "declarationMap": true,
+    "outDir": "./dist",
+    "inlineSources": true,
+    "isolatedModules": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "noUnusedLocals": false,
+    "noUnusedParameters": false,
+    "skipLibCheck": true,    
+    "inlineSourceMap": true,
+    "allowSyntheticDefaultImports": true
+  }
+}

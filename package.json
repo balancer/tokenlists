@@ -1,0 +1,49 @@
+{
+  "name": "@balancer/tokenlists",
+  "version": "0.0.1",
+  "description": "My new NPM package.",
+  "main": "./dist/index",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.mjs",
+      "require": "./dist/index"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "generate": "ts-node src/generate-lists.ts",
+    "build": "tsup src/index.ts --format cjs,esm --dts --clean",
+    "lint": "eslint . --ext .js,.ts --max-warnings 0",
+    "lint:fix": "npm run lint -- --fix",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:coverage": "vitest run --coverage"
+  },
+  "homepage": "https://github.com/balancer/tokenlists",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/balancer/tokenlists.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.40.1",
+    "@typescript-eslint/parser": "^5.40.1",
+    "@uniswap/token-lists": "^1.0.0-beta.31",
+    "eslint": "^8.20.0",
+    "eslint-config-prettier": "^8.7.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.8.4",
+    "ts-node": "^10.9.1",
+    "tsup": "^6.5.0",
+    "typescript": "^4.8.3",
+    "vitest": "^0.23.4"
+  }
+}
