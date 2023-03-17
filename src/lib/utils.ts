@@ -3,6 +3,7 @@ import path from 'path'
 import fs from 'fs'
 import { OverwritesForList, TokenListMetadata, TokensForList } from '../types'
 import { TokenList } from '@uniswap/token-lists'
+import { isEqual, omit } from 'lodash'
 
 export async function sleep(time: number) {
   return new Promise((resolve) => {
@@ -20,6 +21,16 @@ export function safeStringify(obj: any): string {
     obj,
     (key, value) => (typeof value === 'bigint' ? value.toString() : value),
     4
+  )
+}
+
+export function isEqualTokenlists(
+  newTokenlist: TokenList,
+  oldTokenlist: TokenList
+): boolean {
+  return isEqual(
+    omit(oldTokenlist, 'timestamp'),
+    omit(newTokenlist, 'timestamp')
   )
 }
 

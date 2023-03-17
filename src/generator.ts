@@ -1,6 +1,6 @@
 import 'dotenv/config'
 import { TokenList, TokenInfo } from '@uniswap/token-lists'
-import { Network, PartialTokenInfoMap } from './types'
+import { Network, PartialTokenInfoMap, TokenListMetadata } from './types'
 import { fetchOnchainMetadata } from './lib/fetchers/onchain'
 import { fetchExistingMetadata } from './lib/fetchers/existing'
 import { merge } from 'lodash'
@@ -11,6 +11,7 @@ import chalk from 'chalk'
 import {
   getTokenlistSrc,
   getTokenlistsToBuild,
+  isEqualTokenlists,
   safeStringify,
 } from './lib/utils'
 
@@ -82,7 +83,7 @@ async function build(tokenlistName: string) {
     console.timeEnd(chalk.cyan(`Generated tokens for chain ${network}`))
   }
 
-  const tokenList = buildTokenList(metadata, allTokens)
+  const tokenList = buildTokenList(metadata, allTokens, existingTokenList)
 
   fs.writeFileSync(
     `./generated/${tokenlistName}.tokenlist.json`,
@@ -91,14 +92,21 @@ async function build(tokenlistName: string) {
 }
 
 function buildTokenList(
-  metadata: Pick<TokenList, 'name' | 'logoURI' | 'keywords' | 'version'>,
-  tokens: TokenInfo[]
+  metadata: TokenListMetadata,
+  tokens: TokenInfo[],
+  existingTokenList: TokenList | undefined
 ): TokenList {
-  return {
+  const newTokenList = {
     ...metadata,
     timestamp: new Date().toISOString(),
     tokens,
   }
+
+  if (existingTokenList && isEqualTokenlists(newTokenList, existingTokenList)) {
+    newTokenList.timestamp = existingTokenList.timestamp
+  }
+
+  return newTokenList
 }
 
 async function generateTokens(
