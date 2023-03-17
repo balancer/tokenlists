@@ -10,8 +10,7 @@ To make changes to the balancer tokenlist edit the files in
 `src/tokenlists/balancer`.
 
 1. `metadata.ts` - Edit this to change the highlevel tokenlist metadata.
-1. `tokens.ts` - Edit it this to add or remove tokens from the generated
-   tokenlist.
+1. `tokens.ts` - Edit this to add or remove tokens from the generated tokenlist.
 1. `overwrite.ts` - Edit this to overwrite any token data that is incorrect when
    generated automatically.
 
