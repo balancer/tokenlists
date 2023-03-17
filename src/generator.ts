@@ -1,7 +1,4 @@
 import 'dotenv/config'
-import { tokens } from './tokens'
-import { overwrites } from './overwrites'
-import existingTokenlist from '../generated/balancer.tokenlist.json'
 import { TokenList, TokenInfo } from '@uniswap/token-lists'
 import { Network, PartialTokenInfoMap } from './types'
 import { fetchOnchainMetadata } from './lib/fetchers/onchain'
@@ -9,23 +6,38 @@ import { fetchExistingMetadata } from './lib/fetchers/existing'
 import { merge } from 'lodash'
 import { fetchCoingeckoMetadata } from './lib/fetchers/coingecko'
 import fs from 'fs'
+import { getAddress } from 'ethers'
+import chalk from 'chalk'
+import {
+  getTokenlistSrc,
+  getTokenlistsToBuild,
+  safeStringify,
+} from './lib/utils'
 
 /**
  * Primary generation function.
  *
  * Run via `npm run generate`
  */
-function run() {
-  console.log('Generating list...')
-  buildTokenInfo()
+async function run() {
+  const tokenlistsToBuild = getTokenlistsToBuild()
+  for (const tokenlist of tokenlistsToBuild) {
+    console.log(chalk.bgGreen(`Building tokenlist: ${tokenlist}`))
+    await build(tokenlist)
+    console.log(
+      chalk.bgCyan(`Built tokenlist: /generated/${tokenlist}.tokenlist.json`)
+    )
+  }
 }
 
-try {
-  run()
-} catch (error) {
-  console.error(error)
-  process.exit(1)
-}
+;(async () => {
+  try {
+    await run()
+  } catch (error) {
+    console.error(error)
+    process.exit(1)
+  }
+})()
 
 // ----------------------------------------------------------------]
 
@@ -36,15 +48,31 @@ try {
  * 4. Coingecko data (last resort on address my address basis)
  */
 
-async function buildTokenInfo() {
+async function build(tokenlistName: string) {
   let network: Network
   let allTokens: TokenInfo[] = []
+  const { tokens, overwrites, existingTokenList } = await getTokenlistSrc(
+    tokenlistName
+  )
 
   for (network in tokens) {
     const tokenAddresses = tokens[network]
-    // Fetch onchain data for all tokens via multicall
+
+    console.time(chalk.cyan(`Fetched onchain metadata for chain ${network}`))
     const onchainMetadata = await fetchOnchainMetadata(network, tokenAddresses)
-    const existingMetadata = await fetchExistingMetadata(network)
+    console.timeEnd(chalk.cyan(`Fetched onchain metadata for chain ${network}`))
+
+    console.time(chalk.cyan(`Fetched existing metadata for chain ${network}`))
+    const existingMetadata = await fetchExistingMetadata(
+      network,
+      overwrites,
+      existingTokenList
+    )
+    console.timeEnd(
+      chalk.cyan(`Fetched existing metadata for chain ${network}`)
+    )
+
+    console.time(chalk.cyan(`Generated tokens for chain ${network}`))
     const tokenInfo = await generateTokens(
       network,
       tokenAddresses,
@@ -52,14 +80,14 @@ async function buildTokenInfo() {
       existingMetadata
     )
     allTokens = allTokens.concat(tokenInfo)
+    console.timeEnd(chalk.cyan(`Generated tokens for chain ${network}`))
   }
 
   const tokenList = buildTokenList(allTokens)
 
   fs.writeFileSync(
-    `./generated/balancer.tokenlist.json`,
-    JSON.stringify(tokenList, null, 4),
-    (err:) => console.error(err)
+    `./generated/${tokenlistName}.tokenlist.json`,
+    safeStringify(tokenList)
   )
 }
 
@@ -105,9 +133,18 @@ async function generateTokens(
   return tokens
 }
 
-function satisfiesTokenInfoSchema(token: Partial<TokenInfo>): boolean {
-  return ['chainId', 'address', 'name', 'symbol', 'decimals', 'logoURI'].every(
-    (key) => Object.keys(token).includes(key)
+function satisfiesTokenInfoSchema({
+  token,
+  includeOptionals,
+}: {
+  token: Partial<TokenInfo>
+  includeOptionals: boolean
+}): boolean {
+  const requiredKeys = ['chainId', 'address', 'name', 'symbol', 'decimals']
+  if (includeOptionals) requiredKeys.push('logoURI')
+
+  return requiredKeys.every(
+    (key) => token?.[key as keyof TokenInfo] !== undefined
   )
 }
 
@@ -119,19 +156,28 @@ async function setTokenInfo(
 ): Promise<TokenInfo | undefined> {
   // combine existingMetadata and overwriteMetadata (precedence last to first)
   // We want the onchain data to be used only if it's missing from existing data.
-  let metatdata = merge(onchainMetadata, existingMetadata)
-  if (satisfiesTokenInfoSchema(metatdata)) {
-    return metatdata as TokenInfo
+  let metadata = merge(
+    { chainId: Number(network), address: getAddress(address) },
+    onchainMetadata,
+    existingMetadata
+  )
+
+  if (metadata.decimals) {
+    metadata = merge(metadata, { decimals: Number(metadata.decimals) })
+  }
+
+  if (satisfiesTokenInfoSchema({ token: metadata, includeOptionals: true })) {
+    return metadata as TokenInfo
   }
 
   const coingeckoMetadata = await fetchCoingeckoMetadata(network, address)
   // Again, we want the coingecko data to be used only if it's missing from existing data.
-  metatdata = merge(coingeckoMetadata, metatdata)
+  metadata = merge(coingeckoMetadata, metadata)
 
-  if (satisfiesTokenInfoSchema(metatdata)) {
-    return metatdata as TokenInfo
+  if (satisfiesTokenInfoSchema({ token: metadata, includeOptionals: false })) {
+    return metadata as TokenInfo
   } else {
-    console.warn('Failed to generate token info for:', address)
+    console.warn('Failed to generate token info for:', metadata)
     return undefined
   }
 }

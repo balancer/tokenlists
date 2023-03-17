@@ -1,8 +1,7 @@
 /* eslint-disable max-len */
-import { TokenInfo } from '@uniswap/token-lists'
-import { Network } from './types'
+import { Network, OverwritesForList } from '../../types'
 
-export const overwrites: Record<Network, Record<string, Partial<TokenInfo>>> = {
+export const overwrites: OverwritesForList = {
   [Network.Mainnet]: {
     '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2': {
       name: 'Wrapped Ether',

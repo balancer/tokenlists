@@ -1,9 +1,7 @@
-import { TokenInfo } from '@uniswap/token-lists'
-import { Network, PartialTokenInfoMap } from '../../types'
+import { TokenInfo, TokenList } from '@uniswap/token-lists'
+import { Network, OverwritesForList, PartialTokenInfoMap } from '../../types'
 import fs from 'fs'
 import { getAddress, isAddress } from 'ethers'
-import { overwrites } from '../../overwrites'
-import existingTokenlist from '../../../generated/balancer.tokenlist.json'
 import { merge, pick } from 'lodash'
 
 const trustWalletNetworkMap: Record<Network, string> = {
@@ -63,10 +61,16 @@ function fetchLocalTokenIcons(): PartialTokenInfoMap {
   return convertTokenInfoToMap(tokenIcons as TokenInfo[])
 }
 
-function fetchExistingTokensListMap(network: Network): PartialTokenInfoMap {
+function fetchExistingTokensListMap(
+  network: Network,
+  existingTokenlist: TokenList | undefined
+): PartialTokenInfoMap {
+  if (!existingTokenlist) return {}
+
   const tokens = existingTokenlist.tokens.filter(
     (token) => token.chainId === Number(network)
   )
+
   return convertTokenInfoToMap(tokens)
 }
 
@@ -78,24 +82,23 @@ function fetchExistingTokensListMap(network: Network): PartialTokenInfoMap {
  * 4. TrustWallet data
  */
 export async function fetchExistingMetadata(
-  network: Network
+  network: Network,
+  overwrites: OverwritesForList,
+  existingTokenList: TokenList | undefined
 ): Promise<PartialTokenInfoMap> {
   const overwritesMetadata = overwrites[network]
   const localTokenIcons = fetchLocalTokenIcons()
-  const existingListMetadata = fetchExistingTokensListMap(network)
+  const existingListMetadata = fetchExistingTokensListMap(
+    network,
+    existingTokenList
+  )
   const trustwalletTokenList = await fetchTrustWalletMetadata(network)
 
   // With merge, the last argument takes precedence
-  const data = merge(
+  return merge(
     trustwalletTokenList,
     existingListMetadata,
     localTokenIcons,
     overwritesMetadata
   )
-  fs.writeFile(
-    `./test-${network.toString()}.json`,
-    JSON.stringify(data, null, 4),
-    (err) => console.log(err)
-  )
-  return data
 }

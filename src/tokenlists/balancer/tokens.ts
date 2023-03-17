@@ -1,13 +1,6 @@
-/**
- * All tokens to be fectched for the all.tokenlist.json generated file.
- *
- * Inject token addresses here manually. On push to main a PR will be created
- * with changes to the all.tokenlist.json file.
- */
+import { Network, TokensForList } from '../../types'
 
-import { Network } from './types'
-
-export const tokens: Record<Network, string[]> = {
+export const tokens: TokensForList = {
   [Network.Mainnet]: [
     '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2',
     '0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48',
@@ -735,12 +728,10 @@ export const tokens: Record<Network, string[]> = {
   ],
   [Network.Gnosis]: [
     '0x7eF541E2a22058048904fE5744f9c7E4C57AF717',
-    '0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619',
     '0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1',
     '0xe91d153e0b41518a2ce8dd3d7944fa863463a97d',
     '0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83',
     '0x4ECaBa5870353805a9F068101A40E0f32ed605C6',
-    '0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063',
     '0x71850b7e9ee3f13ab46d67167341e4bdc905eef9',
     '0x41211BBa6d37F5a74b22e667533F080C7C7f3F13',
     '0xd16f72b02dA5f51231fDe542A8B9E2777a478c88',

@@ -7,6 +7,7 @@ import {
 } from 'ethers'
 import { Network } from '../types'
 import { set } from 'lodash'
+import chalk from 'chalk'
 
 /**
  * TYPES
@@ -128,7 +129,16 @@ export class Multicaller {
           // Automatically unwrap any simple return values
           return decodedResult.length > 1 ? decodedResult : decodedResult[0]
         } catch (error) {
-          console.warn('Failed to decode return data', returnData)
+          console.log(
+            chalk.dim(
+              'Failed to decode return data:',
+              returnData,
+              ', call:',
+              this.calls[i].address,
+              '#',
+              this.calls[i].function
+            )
+          )
           returnData
         }
       })

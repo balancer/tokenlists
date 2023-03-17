@@ -12,3 +12,9 @@ export enum Network {
 export type PartialTokenInfoMap = {
   [address: string]: Partial<TokenInfo>
 }
+
+export type TokensForList = Record<Network, string[]>
+export type OverwritesForList = Record<
+  Network,
+  Record<string, Partial<TokenInfo>>
+>

@@ -1,20 +1,17 @@
 module.exports = {
-  ignorePatterns: ["**/dist/**/*"],
+  ignorePatterns: ['**/dist/**/*'],
 
   env: {
-    node: true
+    node: true,
   },
 
   extends: [
-    "eslint:recommended",
+    'eslint:recommended',
     'plugin:@typescript-eslint/recommended',
     'plugin:prettier/recommended',
   ],
 
-  plugins: [
-    '@typescript-eslint',
-    'prettier'
-  ],
+  plugins: ['@typescript-eslint', 'prettier'],
 
   parserOptions: {
     ecmaVersion: 2020,
@@ -23,9 +20,9 @@ module.exports = {
 
   rules: {
     'prettier/prettier': 'warn',
-    "curly": ["error", "multi-line"],
-    "no-console": ["off"],
-    "max-len": ["warn", { ignoreComments: true }],
-    "@typescript-eslint/no-explicit-any": ["off"]
+    curly: ['error', 'multi-line'],
+    'no-console': ['off'],
+    'max-len': ['warn', { ignoreComments: true }],
+    '@typescript-eslint/no-explicit-any': ['off'],
   },
-};
+}

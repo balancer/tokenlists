@@ -2,7 +2,7 @@
   "$schema": "https://json.schemastore.org/tsconfig",
   "display": "Default",
   "include": ["src/**/*", "scripts/generate-lists.ts", "scripts/generate-lists.ts"],
-  "exclude": ["node_modules"],
+  "exclude": ["node_modules", "src/lib/templates/**/*"],
   "compilerOptions": {
     "composite": false,
     "target": "ES2022",
