@@ -29,8 +29,6 @@ jobs:
         uses: peter-evans/create-pull-request@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          branch: generate-tokenlists
-          commit-message: Generate tokenlists
           title: Generate tokenlists
           reviewers: zekraken-bot
           delete-branch: true
