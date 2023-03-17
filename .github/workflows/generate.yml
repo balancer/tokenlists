@@ -15,6 +15,9 @@ jobs:
         run: npm ci
       - name: Generate Files
         run: npm run generate
+        env:
+          INFURA_KEY: ${{ secrets.INFURA_KEY }}
+          POKT_KEY: ${{ secrets.POKT_KEY }}
       - name: Commit Changes
         run: |
           git config --global user.email "bot@balancer.finance"
