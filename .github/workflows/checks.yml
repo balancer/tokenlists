@@ -1,0 +1,14 @@
+name: Checks
+
+on:
+  - pull_request
+
+jobs:
+  Lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Install deps
+        run: npm ci
+      - name: Run lint
+        run: npm run lint
