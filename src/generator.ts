@@ -51,9 +51,8 @@ async function run() {
 async function build(tokenlistName: string) {
   let network: Network
   let allTokens: TokenInfo[] = []
-  const { tokens, overwrites, existingTokenList } = await getTokenlistSrc(
-    tokenlistName
-  )
+  const { metadata, tokens, overwrites, existingTokenList } =
+    await getTokenlistSrc(tokenlistName)
 
   for (network in tokens) {
     const tokenAddresses = tokens[network]
@@ -83,7 +82,7 @@ async function build(tokenlistName: string) {
     console.timeEnd(chalk.cyan(`Generated tokens for chain ${network}`))
   }
 
-  const tokenList = buildTokenList(allTokens)
+  const tokenList = buildTokenList(metadata, allTokens)
 
   fs.writeFileSync(
     `./generated/${tokenlistName}.tokenlist.json`,
@@ -91,23 +90,15 @@ async function build(tokenlistName: string) {
   )
 }
 
-function buildTokenList(tokens: TokenInfo[]): TokenList {
-  const tokenList: TokenList = {
-    name: 'Balancer',
-    keywords: ['balancer'],
+function buildTokenList(
+  metadata: Pick<TokenList, 'name' | 'logoURI' | 'keywords' | 'version'>,
+  tokens: TokenInfo[]
+): TokenList {
+  return {
+    ...metadata,
     timestamp: new Date().toISOString(),
-    logoURI:
-      // eslint-disable-next-line max-len
-      'https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png',
-    version: {
-      major: 1,
-      minor: 0,
-      patch: 0,
-    },
     tokens,
   }
-
-  return tokenList
 }
 
 async function generateTokens(

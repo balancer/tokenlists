@@ -30,21 +30,28 @@ export function getTokenlistsToBuild(): string[] {
 }
 
 export async function getTokenlistSrc(tokenlistName: string): Promise<{
+  metadata: Pick<TokenList, 'name' | 'logoURI' | 'keywords' | 'version'>
   tokens: TokensForList
   overwrites: OverwritesForList
   existingTokenList: TokenList | undefined
 }> {
   const tokenlistPath = [__dirname, '../tokenlists', tokenlistName]
+  const metadataPath = path.resolve(...tokenlistPath, 'metadata.json')
   const tokensPath = path.resolve(...tokenlistPath, 'tokens')
   const overwritesPath = path.resolve(...tokenlistPath, 'overwrites')
   const existingListPath = path.resolve(
+    __dirname,
     '../../generated',
-    tokenlistName,
-    'tokenlist.json'
+    tokenlistName + '.tokenlist.json'
   )
 
-  let tokens, overwrites, existingTokenList
+  let metadata, tokens, overwrites, existingTokenList
 
+  try {
+    metadata = require(metadataPath)
+  } catch (error) {
+    throw new Error(`Metadata file not found for tokenlist: ${tokenlistName}`)
+  }
   try {
     tokens = await import(tokensPath)
   } catch (error) {
@@ -56,12 +63,13 @@ export async function getTokenlistSrc(tokenlistName: string): Promise<{
     throw new Error(`Overwrites file not found for tokenlist: ${tokenlistName}`)
   }
   try {
-    existingTokenList = await import(existingListPath)
+    existingTokenList = require(existingListPath)
   } catch (error) {
     existingTokenList = undefined
   }
 
   return {
+    metadata,
     tokens: tokens.tokens,
     overwrites: overwrites.overwrites,
     existingTokenList,

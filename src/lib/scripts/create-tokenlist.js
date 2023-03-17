@@ -40,7 +40,7 @@ async function createTokenlist(name) {
   const newAppDir = path.resolve('src/tokenlists/', name)
   const tokenlistName = path.basename(newAppDir)
 
-  fs.ensureDirSync(name)
+  fs.ensureDirSync(newAppDir)
 
   console.log(`Creating a new tokenlist in ${chalk.green(newAppDir)}.`)
   console.log()

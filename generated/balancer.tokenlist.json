@@ -1,15 +1,23 @@
 {
     "name": "Balancer",
-    "keywords": [
-        "balancer"
-    ],
-    "timestamp": "2023-03-17T15:53:36.598Z",
-    "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
     "version": {
         "major": 1,
         "minor": 0,
         "patch": 0
     },
+    "keywords": [
+        "Balancer",
+        "DeFi",
+        "DEX",
+        "AMM",
+        "Exchange",
+        "Liquidity",
+        "Pool",
+        "Token",
+        "Swap"
+    ],
+    "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
+    "timestamp": "2023-03-17T16:31:09.935Z",
     "tokens": [
         {
             "chainId": 1,
@@ -3270,7 +3278,7 @@
             "address": "0x06147110022B768BA8F99A8f385df11a151A9cc8",
             "name": "ACE Token",
             "symbol": "ACE",
-            "decimals": "0"
+            "decimals": 0
         },
         {
             "chainId": 1,
