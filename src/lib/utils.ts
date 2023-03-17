@@ -1,7 +1,7 @@
 import { getAddress } from 'ethers'
 import path from 'path'
 import fs from 'fs'
-import { OverwritesForList, TokensForList } from '../types'
+import { OverwritesForList, TokenListMetadata, TokensForList } from '../types'
 import { TokenList } from '@uniswap/token-lists'
 
 export async function sleep(time: number) {
@@ -30,13 +30,13 @@ export function getTokenlistsToBuild(): string[] {
 }
 
 export async function getTokenlistSrc(tokenlistName: string): Promise<{
-  metadata: Pick<TokenList, 'name' | 'logoURI' | 'keywords' | 'version'>
+  metadata: TokenListMetadata
   tokens: TokensForList
   overwrites: OverwritesForList
   existingTokenList: TokenList | undefined
 }> {
   const tokenlistPath = [__dirname, '../tokenlists', tokenlistName]
-  const metadataPath = path.resolve(...tokenlistPath, 'metadata.json')
+  const metadataPath = path.resolve(...tokenlistPath, 'metadata')
   const tokensPath = path.resolve(...tokenlistPath, 'tokens')
   const overwritesPath = path.resolve(...tokenlistPath, 'overwrites')
   const existingListPath = path.resolve(
@@ -48,7 +48,7 @@ export async function getTokenlistSrc(tokenlistName: string): Promise<{
   let metadata, tokens, overwrites, existingTokenList
 
   try {
-    metadata = require(metadataPath)
+    metadata = await import(metadataPath)
   } catch (error) {
     throw new Error(`Metadata file not found for tokenlist: ${tokenlistName}`)
   }
@@ -69,7 +69,7 @@ export async function getTokenlistSrc(tokenlistName: string): Promise<{
   }
 
   return {
-    metadata,
+    metadata: metadata.metadata,
     tokens: tokens.tokens,
     overwrites: overwrites.overwrites,
     existingTokenList,
