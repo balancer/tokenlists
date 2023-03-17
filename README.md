@@ -7,7 +7,7 @@ generate it's
 ## Make changes to the Balancer tokenlist
 
 To make changes to the balancer tokenlist edit the files in
-`src/tokenlists/balancer`.
+[src/tokenlists/balancer](https://github.com/balancer/tokenlists/tree/main/src/tokenlists/balancer).
 
 1. `metadata.ts` - Edit this to change the highlevel tokenlist metadata.
 1. `tokens.ts` - Edit this to add or remove tokens from the generated tokenlist.
