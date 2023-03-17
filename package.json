@@ -1,38 +1,16 @@
 {
   "name": "@balancer/tokenlists",
-  "version": "0.0.1",
-  "description": "My new NPM package.",
-  "main": "./dist/index",
-  "module": "./dist/index.mjs",
-  "types": "./dist/index.d.ts",
-  "exports": {
-    ".": {
-      "import": "./dist/index.mjs",
-      "require": "./dist/index"
-    }
-  },
-  "files": [
-    "dist"
-  ],
+  "version": "1.0.0",
+  "description": "Balancer tokenlist generator",
   "scripts": {
     "generate": "ts-node src/generator.ts",
-    "build": "tsup src/index.ts --format cjs,esm --dts --clean",
+    "tokenlist:create": "node src/lib/scripts/create-tokenlist.js",
     "lint": "eslint . --ext .js,.ts --max-warnings 0",
     "lint:fix": "npm run lint -- --fix",
     "test": "vitest run",
     "test:watch": "vitest",
-    "test:coverage": "vitest run --coverage",
-    "tokenlist:create": "node src/lib/scripts/create-tokenlist.js"
+    "test:coverage": "vitest run --coverage"
   },
-  "homepage": "https://github.com/balancer/tokenlists",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/balancer/tokenlists.git"
-  },
-  "publishConfig": {
-    "access": "public"
-  },
-  "keywords": [],
   "license": "MIT",
   "devDependencies": {
     "@types/lodash": "^4.14.191",
