@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-03-17T16:31:09.935Z",
+    "timestamp": "2023-03-28T14:47:14.620Z",
     "tokens": [
         {
             "chainId": 1,
@@ -73,7 +73,7 @@
             "name": "Synthetix Network Token",
             "symbol": "SNX",
             "decimals": 18,
-            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets//logo.png"
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F/logo.png"
         },
         {
             "chainId": 1,
@@ -2300,7 +2300,7 @@
             "name": "Ampleforth",
             "symbol": "AMPL",
             "decimals": 9,
-            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets//logo.png"
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xD46bA6D942050d489DBd938a2C909A5d5039A161/logo.png"
         },
         {
             "chainId": 1,
