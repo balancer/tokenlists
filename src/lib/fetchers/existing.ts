@@ -35,6 +35,16 @@ async function fetchTrustWalletMetadata(
     const url = `https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/${trustWalletNetworkMap[network]}/tokenlist.json`
     const response = await fetch(url)
     const { tokens } = await response.json()
+    for (const token of tokens) {
+      // A couple of logo links in the trustwallet list are missing the token
+      // address, this hack fixes them.
+      if (token.logoURI.includes('//logo.png')) {
+        token.logoURI = token.logoURI.replace(
+          '//logo.png',
+          `/${token.address}/logo.png`
+        )
+      }
+    }
     return convertTokenInfoToMap(tokens)
   } catch (error) {
     console.warn('Failed to fetch TrustWallet tokenlist', error)
