@@ -86,3 +86,15 @@ export async function getTokenlistSrc(tokenlistName: string): Promise<{
     existingTokenList,
   }
 }
+
+export function selectByAddress<T>(
+  map: Record<string, T>,
+  address: string
+): T | undefined {
+  const foundAddress = Object.keys(map).find((itemAddress) => {
+    if (isSameAddress(itemAddress, address)) {
+      return true
+    }
+  })
+  if (foundAddress) return map[foundAddress]
+}
