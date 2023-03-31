@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-03-28T14:47:14.620Z",
+    "timestamp": "2023-03-31T03:05:09.631Z",
     "tokens": [
         {
             "chainId": 1,
@@ -3766,6 +3766,30 @@
             "symbol": "IBZ",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5aa7c403c7de4b3bb0cc07079a03e389671a4771.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xbFA413A2ff0F20456d57B643746133F54bFE0cd2",
+            "name": "Balancer Sturdy Boosted Pool (USDC)",
+            "symbol": "bb-s-USDC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xbfa413a2ff0f20456d57b643746133f54bfe0cd2.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xFD11CCdBdb7AB91Cb9427A6d6BF570C95876d195",
+            "name": "Balancer Sturdy Boosted Pool (DAI)",
+            "symbol": "bb-s-DAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfd11ccdbdb7ab91cb9427a6d6bf570c95876d195.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xDc063deAfcE952160eC112FA382ac206305657e6",
+            "name": "Balancer Sturdy Boosted Pool (USDT)",
+            "symbol": "bb-s-USDT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdc063deafce952160ec112fa382ac206305657e6.png"
         },
         {
             "chainId": 5,
