@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-03-31T03:05:09.631Z",
+    "timestamp": "2023-04-01T14:47:20.804Z",
     "tokens": [
         {
             "chainId": 1,
@@ -4094,6 +4094,22 @@
             "symbol": "bb-ag-WBTC",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd4015683b8153666190e0b2bec352580ebc4caca.png"
+        },
+        {
+            "chainId": 100,
+            "address": "0x2bF2ba13735160624a0fEaE98f6aC8F70885eA61",
+            "name": "Own a fraction",
+            "symbol": "FRACTION",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2bf2ba13735160624a0feae98f6ac8f70885ea61.png"
+        },
+        {
+            "chainId": 100,
+            "address": "0x63e62989D9EB2d37dfDB1F93A22f063635b07d51",
+            "name": "Minerva Wallet SuperToken",
+            "symbol": "MIVA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x63e62989d9eb2d37dfdb1f93a22f063635b07d51.png"
         },
         {
             "chainId": 137,
