@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-04-01T14:47:20.804Z",
+    "timestamp": "2023-04-02T21:10:00.716Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5068,6 +5068,14 @@
             "symbol": "LDO",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc3c7d422809852031b44ab29eec9f1eff2a58756.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x6749441Fdc8650b5b5a854ed255C82EF361f1596",
+            "name": "Luchadores.io LUCHA Token",
+            "symbol": "LUCHA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6749441fdc8650b5b5a854ed255c82ef361f1596.png"
         },
         {
             "chainId": 42161,
