@@ -166,7 +166,7 @@ async function setTokenInfo(
   }
 
   if (satisfiesTokenInfoSchema({ token: metadata, includeOptionals: true })) {
-    return metadata as TokenInfo
+    return formatMetadata(metadata)
   }
 
   const coingeckoMetadata = await fetchCoingeckoMetadata(network, address)
@@ -174,9 +174,31 @@ async function setTokenInfo(
   metadata = merge(coingeckoMetadata, metadata)
 
   if (satisfiesTokenInfoSchema({ token: metadata, includeOptionals: false })) {
-    return metadata as TokenInfo
+    return formatMetadata(metadata)
   } else {
     console.warn('Failed to generate token info for:', metadata)
     return undefined
   }
+}
+
+function formatMetadata(metadata: Partial<TokenInfo>): TokenInfo {
+  // Order provided metadata by specified key order.
+  const orderedByKey = Object.assign(
+    {
+      chainId: undefined,
+      address: undefined,
+      name: undefined,
+      symbol: undefined,
+      decimals: undefined,
+      logoURI: undefined,
+    },
+    metadata
+  )
+  // Remove undefined values.
+  Object.keys(orderedByKey).forEach((key) =>
+    orderedByKey[key as keyof TokenInfo] === undefined
+      ? delete orderedByKey[key as keyof TokenInfo]
+      : {}
+  )
+  return orderedByKey as unknown as TokenInfo
 }
