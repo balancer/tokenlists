@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-04-03T14:36:06.273Z",
+    "timestamp": "2023-04-03T17:42:34.594Z",
     "tokens": [
         {
             "chainId": 1,
@@ -3945,6 +3945,22 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdc063deafce952160ec112fa382ac206305657e6.png"
         },
         {
+            "chainId": 1,
+            "address": "0xF88Baf18FAB7e330fa0C4F83949E23F52FECECce",
+            "name": "Granary Token",
+            "symbol": "GRAIN",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf88baf18fab7e330fa0c4f83949e23f52fececce.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x6F9C26Fa731C7Ea4139Fa669962Cf8F1CE6C8b0B",
+            "name": "Oath Token",
+            "symbol": "OATH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6f9c26fa731c7ea4139fa669962cf8f1ce6c8b0b.png"
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -5684,6 +5700,22 @@
             "symbol": "bb-DAI+",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x117a3d474976274b37b7b94af5dcade5c90c6e85.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x80bB30D62a16e1F2084dEAE84dc293531c3AC3A1",
+            "name": "Granary Token",
+            "symbol": "GRAIN",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x80bb30d62a16e1f2084deae84dc293531c3ac3a1.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xa1150db5105987CEC5Fd092273d1e3cbb22b378b",
+            "name": "Oath Token",
+            "symbol": "OATH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa1150db5105987cec5fd092273d1e3cbb22b378b.png"
         }
     ]
 }
