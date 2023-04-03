@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-04-03T13:24:17.923Z",
+    "timestamp": "2023-04-03T13:34:07.751Z",
     "tokens": [
         {
             "chainId": 1,
@@ -3804,7 +3804,7 @@
             "name": "Balancer Governance Token",
             "symbol": "BAL",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xba100000625a3754423978a60c9317c58a424e3D.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xba100000625a3754423978a60c9317c58a424e3d.png"
         },
         {
             "chainId": 5,
@@ -4004,7 +4004,7 @@
             "name": "Balancer on xDai",
             "symbol": "BAL",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xba100000625a3754423978a60c9317c58a424e3D.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xba100000625a3754423978a60c9317c58a424e3d.png"
         },
         {
             "chainId": 100,
@@ -4338,7 +4338,7 @@
             "name": "Balancer (PoS)",
             "symbol": "BAL",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xba100000625a3754423978a60c9317c58a424e3D.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xba100000625a3754423978a60c9317c58a424e3d.png"
         },
         {
             "chainId": 137,
@@ -5086,7 +5086,7 @@
             "name": "Balancer",
             "symbol": "BAL",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xba100000625a3754423978a60c9317c58a424e3D.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xba100000625a3754423978a60c9317c58a424e3d.png"
         },
         {
             "chainId": 42161,
