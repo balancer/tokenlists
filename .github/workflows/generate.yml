@@ -18,6 +18,7 @@ jobs:
         env:
           INFURA_KEY: ${{ secrets.INFURA_KEY }}
           POKT_KEY: ${{ secrets.POKT_KEY }}
+          COINGECKO_API_KEY: ${{ secrets.COINGECKO_API_KEY }}
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4
         with:
