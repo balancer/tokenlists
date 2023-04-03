@@ -9,7 +9,7 @@
         "Balancer"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-03-28T14:47:44.589Z",
+    "timestamp": "2023-04-03T13:10:53.517Z",
     "tokens": [
         {
             "chainId": 1,
@@ -25,7 +25,7 @@
             "name": "Balancer",
             "symbol": "BAL",
             "decimals": 18,
-            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xba100000625a3754423978a60c9317c58a424e3d.png"
         },
         {
             "chainId": 1,
