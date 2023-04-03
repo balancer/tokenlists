@@ -84,7 +84,7 @@ export const overwrites: OverwritesForList = {
     },
   },
   [Network.Polygon]: {
-    '0x7eF541E2a22058048904fE5744f9c7E4C57AF717': {
+    '0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3': {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xba100000625a3754423978a60c9317c58a424e3D.png',
     },
