@@ -9,7 +9,7 @@
         "Balancer"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-04-04T13:06:00.338Z",
+    "timestamp": "2023-04-04T14:11:11.745Z",
     "tokens": [
         {
             "chainId": 1,
@@ -1234,6 +1234,46 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdbdb4d16eda451d0503b854cf79d55697f90c8df.png"
         },
         {
+            "chainId": 1,
+            "address": "0xF88Baf18FAB7e330fa0C4F83949E23F52FECECce",
+            "name": "Granary Token",
+            "symbol": "GRAIN",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf88baf18fab7e330fa0c4f83949e23f52fececce.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x6F9C26Fa731C7Ea4139Fa669962Cf8F1CE6C8b0B",
+            "name": "Oath Token",
+            "symbol": "OATH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6f9c26fa731c7ea4139fa669962cf8f1ce6c8b0b.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xbFA413A2ff0F20456d57B643746133F54bFE0cd2",
+            "name": "Balancer Sturdy Boosted Pool (USDC)",
+            "symbol": "bb-s-USDC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xbfa413a2ff0f20456d57b643746133f54bfe0cd2.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xFD11CCdBdb7AB91Cb9427A6d6BF570C95876d195",
+            "name": "Balancer Sturdy Boosted Pool (DAI)",
+            "symbol": "bb-s-DAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfd11ccdbdb7ab91cb9427a6d6bf570c95876d195.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xDc063deAfcE952160eC112FA382ac206305657e6",
+            "name": "Balancer Sturdy Boosted Pool (USDT)",
+            "symbol": "bb-s-USDT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdc063deafce952160ec112fa382ac206305657e6.png"
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -1488,6 +1528,38 @@
             "symbol": "bb-ag-WBTC",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd4015683b8153666190e0b2bec352580ebc4caca.png"
+        },
+        {
+            "chainId": 100,
+            "address": "0x177127622c4A00F3d409B75571e12cB3c8973d3c",
+            "name": "CoW Protocol Token from Mainnet",
+            "symbol": "COW",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x177127622c4a00f3d409b75571e12cb3c8973d3c.png"
+        },
+        {
+            "chainId": 100,
+            "address": "0x9C58BAcC331c9aa871AFD802DB6379a98e80CEdb",
+            "name": "Gnosis Token on xDai",
+            "symbol": "GNO",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9c58bacc331c9aa871afd802db6379a98e80cedb.png"
+        },
+        {
+            "chainId": 100,
+            "address": "0x2bF2ba13735160624a0fEaE98f6aC8F70885eA61",
+            "name": "Own a fraction",
+            "symbol": "FRACTION",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2bf2ba13735160624a0feae98f6ac8f70885ea61.png"
+        },
+        {
+            "chainId": 100,
+            "address": "0x63e62989D9EB2d37dfDB1F93A22f063635b07d51",
+            "name": "Minerva Wallet SuperToken",
+            "symbol": "MIVA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x63e62989d9eb2d37dfdb1f93a22f063635b07d51.png"
         },
         {
             "chainId": 137,
@@ -2537,6 +2609,14 @@
             "decimals": 18
         },
         {
+            "chainId": 137,
+            "address": "0x6749441Fdc8650b5b5a854ed255C82EF361f1596",
+            "name": "Luchadores.io LUCHA Token",
+            "symbol": "LUCHA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6749441fdc8650b5b5a854ed255c82ef361f1596.png"
+        },
+        {
             "chainId": 42161,
             "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
             "name": "Arbitrum",
@@ -2974,6 +3054,22 @@
             "symbol": "RDNT",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/26536/large/Radiant-Logo-200x200.png?1658715865"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x80bB30D62a16e1F2084dEAE84dc293531c3AC3A1",
+            "name": "Granary Token",
+            "symbol": "GRAIN",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x80bb30d62a16e1f2084deae84dc293531c3ac3a1.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xa1150db5105987CEC5Fd092273d1e3cbb22b378b",
+            "name": "Oath Token",
+            "symbol": "OATH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa1150db5105987cec5fd092273d1e3cbb22b378b.png"
         }
     ]
 }
