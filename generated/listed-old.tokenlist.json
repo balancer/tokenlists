@@ -9,7 +9,7 @@
         "Balancer"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-04-03T14:36:48.602Z",
+    "timestamp": "2023-04-04T13:06:00.338Z",
     "tokens": [
         {
             "chainId": 1,
@@ -2535,6 +2535,14 @@
             "name": "Balancer Tetu Boosted Pool (DAI)",
             "symbol": "bb-t-DAI",
             "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+            "name": "Arbitrum",
+            "symbol": "ARB",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/16547/large/photo_2023-03-29_21.47.00.jpeg?1680097630"
         },
         {
             "chainId": 42161,
