@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-04-04T14:10:58.267Z",
+    "timestamp": "2023-04-04T19:56:59.411Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5293,6 +5293,78 @@
             "symbol": "LUCHA",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6749441fdc8650b5b5a854ed255c82ef361f1596.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0xDa1CD1711743e57Dd57102E9e61b75f3587703da",
+            "name": "Balancer Tetu Boosted Pool (DAI)",
+            "symbol": "bb-t-DAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xda1cd1711743e57dd57102e9e61b75f3587703da.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x10B040038F87219D9B42e025E3bd9b8095C87dD9",
+            "name": "Balancer Tetu Boosted MATIC Pool",
+            "symbol": "bb-t-MATIC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x10b040038f87219d9b42e025e3bd9b8095c87dd9.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x45F376811B00922b06f1498A68A1CFd50122DD71",
+            "name": "tWMATIC",
+            "symbol": "tWMATIC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x45f376811b00922b06f1498a68a1cfd50122dd71.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x52Cc8389C6B93d740325729Cc7c958066CEE4262",
+            "name": "Balancer Tetu Boosted Pool (WMATIC)",
+            "symbol": "bb-t-WMATIC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x52cc8389c6b93d740325729cc7c958066cee4262.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x4739E50B59B552D490d3FDc60D200977A38510c0",
+            "name": "Balancer Tetu Boosted Pool (stMATIC)",
+            "symbol": "bb-t-stMATIC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4739e50b59b552d490d3fdc60d200977a38510c0.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0xF813a454C975ad418e8dB18764a2191D182478F4",
+            "name": "tstMATIC",
+            "symbol": "tstMATIC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf813a454c975ad418e8db18764a2191d182478f4.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x7c82A23B4C48D796dee36A9cA215b641C6a8709d",
+            "name": "Balancer Tetu Boosted Pool (USDT)",
+            "symbol": "bb-t-USDT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7c82a23b4c48d796dee36a9ca215b641c6a8709d.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0xae646817e458C0bE890b81e8d880206710E3c44e",
+            "name": "Balancer Tetu Boosted Pool (USDC)",
+            "symbol": "bb-t-USDC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xae646817e458c0be890b81e8d880206710e3c44e.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0xb3d658d5b95BF04E2932370DD1FF976fe18dd66A",
+            "name": "Balancer Tetu Boosted StablePool",
+            "symbol": "bb-t-USD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb3d658d5b95bf04e2932370dd1ff976fe18dd66a.png"
         },
         {
             "chainId": 42161,
