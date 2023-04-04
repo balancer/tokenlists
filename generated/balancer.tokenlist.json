@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-04-04T13:05:49.755Z",
+    "timestamp": "2023-04-04T14:10:58.267Z",
     "tokens": [
         {
             "chainId": 1,
@@ -4286,6 +4286,22 @@
             "symbol": "MIVA",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x63e62989d9eb2d37dfdb1f93a22f063635b07d51.png"
+        },
+        {
+            "chainId": 100,
+            "address": "0x177127622c4A00F3d409B75571e12cB3c8973d3c",
+            "name": "CoW Protocol Token from Mainnet",
+            "symbol": "COW",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x177127622c4a00f3d409b75571e12cb3c8973d3c.png"
+        },
+        {
+            "chainId": 100,
+            "address": "0x9C58BAcC331c9aa871AFD802DB6379a98e80CEdb",
+            "name": "Gnosis Token on xDai",
+            "symbol": "GNO",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9c58bacc331c9aa871afd802db6379a98e80cedb.png"
         },
         {
             "chainId": 137,
