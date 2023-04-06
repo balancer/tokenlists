@@ -61,6 +61,11 @@ export const overwrites: OverwritesForList = {
       symbol: 'bb-a-USD (old)',
       name: 'Balancer Aave Boosted StablePool (USD)',
     },
+    '0xE95A203B1a91a908F9B9CE46459d101078c2c3cb ': {
+      decimals: 18,
+      symbol: 'ankrETH',
+      name: 'Ankr Staked ETH',
+    },
   },
   [Network.Goerli]: {
     '0x9bA00D6856a4eDF4665BcA2C2309936572473B7E': {
