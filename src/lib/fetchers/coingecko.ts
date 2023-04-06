@@ -12,6 +12,14 @@ const platformIdMap: Record<Network, string> = {
   [Network.Gnosis]: 'xdai',
 }
 
+const baseUrl = process.env.COINGECKO_API_KEY
+  ? 'https://pro-api.coingecko.com/api/v3'
+  : 'https://api.coingecko.com/api/v3'
+
+const apiKeyParam = process.env.COINGECKO_API_KEY
+  ? `x_cg_pro_api_key=${process.env.COINGECKO_API_KEY}`
+  : ''
+
 let callIndex = 0
 
 export async function fetchCoingeckoMetadata(
@@ -23,16 +31,20 @@ export async function fetchCoingeckoMetadata(
     // Coingecko rate limits their API to 10 calls/second
     if (callIndex > 0 && callIndex % 10 === 0) {
       console.log(chalk.dim('Waiting for 2s to avoid Coingecko rate limit'))
-      await sleep(2000)
+      await sleep(3000)
     }
 
     const response = await fetch(
-      `https://api.coingecko.com/api/v3/coins/${
+      `${baseUrl}/coins/${
         platformIdMap[network]
-      }/contract/${address.toLowerCase()}`
+      }/contract/${address.toLowerCase()}?${apiKeyParam}`
     )
 
-    const { data } = await response.json()
+    if (response.status !== 200) {
+      throw new Error('Coingecko API error, status: ' + response.statusText)
+    }
+
+    const data = await response.json()
 
     const {
       name,
@@ -47,6 +59,7 @@ export async function fetchCoingeckoMetadata(
       logoURI,
     }
   } catch (e) {
+    console.log(e)
     console.log(chalk.dim(`Coingecko (not found): ${address}`))
     return undefined
   }

@@ -68,6 +68,10 @@ export const overwrites: OverwritesForList = {
     },
   },
   [Network.Goerli]: {
+    '0xfA8449189744799aD2AcE7e0EBAC8BB7575eff47': {
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xba100000625a3754423978a60c9317c58a424e3d.png',
+    },
     '0x9bA00D6856a4eDF4665BcA2C2309936572473B7E': {
       symbol: 'aUSDC',
       logoURI:
@@ -85,6 +89,10 @@ export const overwrites: OverwritesForList = {
     },
   },
   [Network.Polygon]: {
+    '0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3': {
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xba100000625a3754423978a60c9317c58a424e3d.png',
+    },
     '0x1D607Faa0A51518a7728580C238d912747e71F7a': {
       name: 'Data Economy Index',
       logoURI:
@@ -177,7 +185,7 @@ export const overwrites: OverwritesForList = {
   [Network.Arbitrum]: {
     '0x040d1EdC9569d4Bab2D15287Dc5A4F10F56a56B8': {
       logoURI:
-        'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xba100000625a3754423978a60c9317c58a424e3d.png',
     },
     '0x11cDb42B0EB46D95f990BeDD4695A6e3fA034978': {
       logoURI:
@@ -264,5 +272,10 @@ export const overwrites: OverwritesForList = {
     },
   },
   [Network.Optimism]: {},
-  [Network.Gnosis]: {},
+  [Network.Gnosis]: {
+    '0x7eF541E2a22058048904fE5744f9c7E4C57AF717': {
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xba100000625a3754423978a60c9317c58a424e3d.png',
+    },
+  },
 }
