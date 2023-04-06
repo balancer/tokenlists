@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-04-06T12:48:42.363Z",
+    "timestamp": "2023-04-06T15:11:08.204Z",
     "tokens": [
         {
             "chainId": 1,
@@ -3959,6 +3959,14 @@
             "symbol": "OATH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6f9c26fa731c7ea4139fa669962cf8f1ce6c8b0b.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x823E1B82cE1Dc147Bbdb25a203f046aFab1CE918",
+            "name": "Coil",
+            "symbol": "COIL",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x823e1b82ce1dc147bbdb25a203f046afab1ce918.png"
         },
         {
             "chainId": 1,
