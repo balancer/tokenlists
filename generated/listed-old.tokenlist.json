@@ -9,7 +9,7 @@
         "Balancer"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-04-06T12:48:53.669Z",
+    "timestamp": "2023-04-06T15:11:18.993Z",
     "tokens": [
         {
             "chainId": 1,
@@ -1272,6 +1272,14 @@
             "symbol": "bb-s-USDT",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdc063deafce952160ec112fa382ac206305657e6.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x823E1B82cE1Dc147Bbdb25a203f046aFab1CE918",
+            "name": "Coil",
+            "symbol": "COIL",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x823e1b82ce1dc147bbdb25a203f046afab1ce918.png"
         },
         {
             "chainId": 1,
