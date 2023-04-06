@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-04-04T19:56:59.411Z",
+    "timestamp": "2023-04-06T12:48:42.363Z",
     "tokens": [
         {
             "chainId": 1,
@@ -3961,6 +3961,21 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6f9c26fa731c7ea4139fa669962cf8f1ce6c8b0b.png"
         },
         {
+            "chainId": 1,
+            "address": "0x4Bc3263Eb5bb2Ef7Ad9aB6FB68be80E43b43801F",
+            "name": "Voucher Ethereum 2.0",
+            "symbol": "vETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4bc3263eb5bb2ef7ad9ab6fb68be80e43b43801f.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xa41A879bcFdd75983a987FD6b68fae37777e8b28",
+            "name": "XEX Crypto",
+            "symbol": "XEX",
+            "decimals": 18
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -5293,6 +5308,13 @@
             "symbol": "LUCHA",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6749441fdc8650b5b5a854ed255c82ef361f1596.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0xa41A879bcFdd75983a987FD6b68fae37777e8b28",
+            "name": "XEX Crypto",
+            "symbol": "XEX",
+            "decimals": 18
         },
         {
             "chainId": 137,
