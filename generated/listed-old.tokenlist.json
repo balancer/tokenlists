@@ -9,7 +9,7 @@
         "Balancer"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-04-04T19:57:10.619Z",
+    "timestamp": "2023-04-06T15:11:18.993Z",
     "tokens": [
         {
             "chainId": 1,
@@ -1272,6 +1272,29 @@
             "symbol": "bb-s-USDT",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdc063deafce952160ec112fa382ac206305657e6.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x823E1B82cE1Dc147Bbdb25a203f046aFab1CE918",
+            "name": "Coil",
+            "symbol": "COIL",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x823e1b82ce1dc147bbdb25a203f046afab1ce918.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x4Bc3263Eb5bb2Ef7Ad9aB6FB68be80E43b43801F",
+            "name": "Voucher Ethereum 2.0",
+            "symbol": "vETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4bc3263eb5bb2ef7ad9ab6fb68be80e43b43801f.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xa41A879bcFdd75983a987FD6b68fae37777e8b28",
+            "name": "XEX Crypto",
+            "symbol": "XEX",
+            "decimals": 18
         },
         {
             "chainId": 5,
@@ -2619,6 +2642,13 @@
             "symbol": "LUCHA",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6749441fdc8650b5b5a854ed255c82ef361f1596.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0xa41A879bcFdd75983a987FD6b68fae37777e8b28",
+            "name": "XEX Crypto",
+            "symbol": "XEX",
+            "decimals": 18
         },
         {
             "chainId": 137,
