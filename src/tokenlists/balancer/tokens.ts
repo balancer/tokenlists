@@ -736,6 +736,7 @@ export const tokens: TokensForList = {
     '0x117a3d474976274B37B7b94aF5DcAde5c90C6e85',
     '0x80bB30D62a16e1F2084dEAE84dc293531c3AC3A1',
     '0xa1150db5105987CEC5Fd092273d1e3cbb22b378b',
+    '0xEC70Dcb4A1EFa46b8F2D97C310C9c4790ba5ffA8',
   ],
   [Network.Optimism]: [
     '0x888a6195d42a95e80d81e1c506172772a80b80bc',
