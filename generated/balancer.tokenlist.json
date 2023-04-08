@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-04-06T12:48:42.363Z",
+    "timestamp": "2023-04-06T16:50:21.623Z",
     "tokens": [
         {
             "chainId": 1,
@@ -3962,6 +3962,14 @@
         },
         {
             "chainId": 1,
+            "address": "0x823E1B82cE1Dc147Bbdb25a203f046aFab1CE918",
+            "name": "Coil",
+            "symbol": "COIL",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x823e1b82ce1dc147bbdb25a203f046afab1ce918.png"
+        },
+        {
+            "chainId": 1,
             "address": "0x4Bc3263Eb5bb2Ef7Ad9aB6FB68be80E43b43801F",
             "name": "Voucher Ethereum 2.0",
             "symbol": "vETH",
@@ -3974,6 +3982,37 @@
             "name": "XEX Crypto",
             "symbol": "XEX",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xCAa052584b462198A5a9356c28bcE0634D65f65C",
+            "name": "Balancer Morpho Aave v2 Boosted StablePool",
+            "symbol": "bb-ma2-USD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xAFe7131a57E44f832cb2dE78ade38CaD644aaC2f",
+            "name": "Morpho-Aave Tether USD Supply Vault",
+            "symbol": "maUSDT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xafe7131a57e44f832cb2de78ade38cad644aac2f.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x36F8d0D0573ae92326827C4a82Fe4CE4C244cAb6",
+            "name": "Morpho-Aave Dai Stablecoin Supply Vault",
+            "symbol": "maDAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x36f8d0d0573ae92326827c4a82fe4ce4c244cab6.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xA5269A8e31B93Ff27B887B56720A25F844db0529",
+            "name": "Morpho-Aave USD Coin Supply Vault",
+            "symbol": "maUSDC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa5269a8e31b93ff27b887b56720a25f844db0529.png"
         },
         {
             "chainId": 5,
