@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-04-12T01:07:00.353Z",
+    "timestamp": "2023-04-12T10:09:24.269Z",
     "tokens": [
         {
             "chainId": 1,
@@ -4741,30 +4741,6 @@
             "symbol": "wARRR",
             "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x057acee6df29ecc20e87a77783838d90858c5e83.png"
-        },
-        {
-            "chainId": 1,
-            "address": "0xe025E3ca2bE02316033184551D4d3Aa22024D9DC",
-            "name": null,
-            "symbol": null,
-            "decimals": null,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe025e3ca2be02316033184551d4d3aa22024d9dc.png"
-        },
-        {
-            "chainId": 1,
-            "address": "0xEb91861f8A4e1C12333F42DCE8fB0Ecdc28dA716",
-            "name": null,
-            "symbol": null,
-            "decimals": null,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xeb91861f8a4e1c12333f42dce8fb0ecdc28da716.png"
-        },
-        {
-            "chainId": 1,
-            "address": "0x4d19F33948b99800B6113Ff3e83beC9b537C85d2",
-            "name": null,
-            "symbol": null,
-            "decimals": null,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4d19f33948b99800b6113ff3e83bec9b537c85d2.png"
         },
         {
             "chainId": 1,
