@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-04-12T10:09:24.269Z",
+    "timestamp": "2023-04-12T11:59:54.354Z",
     "tokens": [
         {
             "chainId": 1,
@@ -4917,6 +4917,38 @@
             "symbol": "bb-yv-DAI",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x8e6ec57a822c2f527f2df7c7d7d361df3e7530a1.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x6667c6fa9f2b3Fc1Cc8D85320b62703d938E4385",
+            "name": "Balancer Aave v3 Boosted Pool (DAI)",
+            "symbol": "bb-a-DAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6667c6fa9f2b3fc1cc8d85320b62703d938e4385.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xA1697F9Af0875B63DdC472d6EeBADa8C1fAB8568",
+            "name": "Balancer Aave v3 Boosted Pool (USDT)",
+            "symbol": "bb-a-USDT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa1697f9af0875b63ddc472d6eebada8c1fab8568.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xcbFA4532D8B2ade2C261D3DD5ef2A2284f792692",
+            "name": "Balancer Aave v3 Boosted Pool (USDC)",
+            "symbol": "bb-a-USDC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xcbfa4532d8b2ade2c261d3dd5ef2a2284f792692.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xfeBb0bbf162E64fb9D0dfe186E517d84C395f016",
+            "name": "Balancer Aave v3 Boosted StablePool",
+            "symbol": "bb-a-USD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfebb0bbf162e64fb9d0dfe186e517d84c395f016.png"
         },
         {
             "chainId": 5,
