@@ -9,7 +9,7 @@
         "Balancer"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-04-08T20:54:53.250Z",
+    "timestamp": "2023-04-12T01:07:14.914Z",
     "tokens": [
         {
             "chainId": 1,
@@ -1326,6 +1326,14 @@
             "symbol": "maUSDC",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa5269a8e31b93ff27b887b56720a25f844db0529.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x198d7387Fa97A73F05b8578CdEFf8F2A1f34Cd1F",
+            "name": "Wrapped Jones AURA",
+            "symbol": "wjAURA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x198d7387fa97a73f05b8578cdeff8f2a1f34cd1f.png"
         },
         {
             "chainId": 5,
