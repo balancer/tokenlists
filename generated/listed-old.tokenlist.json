@@ -9,7 +9,7 @@
         "Balancer"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-04-06T16:50:38.456Z",
+    "timestamp": "2023-04-08T20:54:53.250Z",
     "tokens": [
         {
             "chainId": 1,
@@ -3207,6 +3207,14 @@
             "symbol": "OATH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa1150db5105987cec5fd092273d1e3cbb22b378b.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xEC70Dcb4A1EFa46b8F2D97C310C9c4790ba5ffA8",
+            "name": "Rocket Pool ETH",
+            "symbol": "rETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xec70dcb4a1efa46b8f2d97c310c9c4790ba5ffa8.png"
         }
     ]
 }
