@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-04-12T11:59:54.354Z",
+    "timestamp": "2023-04-12T16:48:12.613Z",
     "tokens": [
         {
             "chainId": 1,
@@ -4949,6 +4949,14 @@
             "symbol": "bb-a-USD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfebb0bbf162e64fb9d0dfe186e517d84c395f016.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xE60779CC1b2c1d0580611c526a8DF0E3f870EC48",
+            "name": "unshETHing_Token",
+            "symbol": "USH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe60779cc1b2c1d0580611c526a8df0e3f870ec48.png"
         },
         {
             "chainId": 5,
