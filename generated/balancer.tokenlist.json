@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-04-12T16:48:12.613Z",
+    "timestamp": "2023-04-13T02:07:37.066Z",
     "tokens": [
         {
             "chainId": 1,
@@ -4957,6 +4957,30 @@
             "symbol": "USH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe60779cc1b2c1d0580611c526a8df0e3f870ec48.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x86A42b7A448c1568d21b00C90eaB53B8417eEaDc",
+            "name": "Wrapped sDAI",
+            "symbol": "sDAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x86a42b7a448c1568d21b00c90eab53b8417eeadc.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x822802f970CCd9aEB13d0368A2409804d28E1253",
+            "name": "Wrapped sUSDT",
+            "symbol": "sUSDT",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x822802f970ccd9aeb13d0368a2409804d28e1253.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xD7BC0dcb0B6ee14BDB204172ABA01458Abe91aC3",
+            "name": "Wrapped sUSDC",
+            "symbol": "sUSDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd7bc0dcb0b6ee14bdb204172aba01458abe91ac3.png"
         },
         {
             "chainId": 5,
