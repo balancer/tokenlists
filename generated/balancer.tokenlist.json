@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-04-11T09:11:12.201Z",
+    "timestamp": "2023-04-13T02:07:37.066Z",
     "tokens": [
         {
             "chainId": 1,
@@ -4009,6 +4009,14 @@
         },
         {
             "chainId": 1,
+            "address": "0x198d7387Fa97A73F05b8578CdEFf8F2A1f34Cd1F",
+            "name": "Wrapped Jones AURA",
+            "symbol": "wjAURA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x198d7387fa97a73f05b8578cdeff8f2a1f34cd1f.png"
+        },
+        {
+            "chainId": 1,
             "address": "0x798D1bE841a82a273720CE31c822C61a67a601C3",
             "name": "Digg",
             "symbol": "DIGG",
@@ -4736,30 +4744,6 @@
         },
         {
             "chainId": 1,
-            "address": "0xe025E3ca2bE02316033184551D4d3Aa22024D9DC",
-            "name": null,
-            "symbol": null,
-            "decimals": null,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe025e3ca2be02316033184551d4d3aa22024d9dc.png"
-        },
-        {
-            "chainId": 1,
-            "address": "0xEb91861f8A4e1C12333F42DCE8fB0Ecdc28dA716",
-            "name": null,
-            "symbol": null,
-            "decimals": null,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xeb91861f8a4e1c12333f42dce8fb0ecdc28da716.png"
-        },
-        {
-            "chainId": 1,
-            "address": "0x4d19F33948b99800B6113Ff3e83beC9b537C85d2",
-            "name": null,
-            "symbol": null,
-            "decimals": null,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4d19f33948b99800b6113ff3e83bec9b537c85d2.png"
-        },
-        {
-            "chainId": 1,
             "address": "0x60683B05e9a39E3509D8fdb9C959f23170f8A0fa",
             "name": "Balancer Idle Boosted StablePool",
             "symbol": "bb-i-USD",
@@ -4933,6 +4917,70 @@
             "symbol": "bb-yv-DAI",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x8e6ec57a822c2f527f2df7c7d7d361df3e7530a1.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x6667c6fa9f2b3Fc1Cc8D85320b62703d938E4385",
+            "name": "Balancer Aave v3 Boosted Pool (DAI)",
+            "symbol": "bb-a-DAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6667c6fa9f2b3fc1cc8d85320b62703d938e4385.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xA1697F9Af0875B63DdC472d6EeBADa8C1fAB8568",
+            "name": "Balancer Aave v3 Boosted Pool (USDT)",
+            "symbol": "bb-a-USDT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa1697f9af0875b63ddc472d6eebada8c1fab8568.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xcbFA4532D8B2ade2C261D3DD5ef2A2284f792692",
+            "name": "Balancer Aave v3 Boosted Pool (USDC)",
+            "symbol": "bb-a-USDC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xcbfa4532d8b2ade2c261d3dd5ef2a2284f792692.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xfeBb0bbf162E64fb9D0dfe186E517d84C395f016",
+            "name": "Balancer Aave v3 Boosted StablePool",
+            "symbol": "bb-a-USD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfebb0bbf162e64fb9d0dfe186e517d84c395f016.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xE60779CC1b2c1d0580611c526a8DF0E3f870EC48",
+            "name": "unshETHing_Token",
+            "symbol": "USH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe60779cc1b2c1d0580611c526a8df0e3f870ec48.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x86A42b7A448c1568d21b00C90eaB53B8417eEaDc",
+            "name": "Wrapped sDAI",
+            "symbol": "sDAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x86a42b7a448c1568d21b00c90eab53b8417eeadc.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x822802f970CCd9aEB13d0368A2409804d28E1253",
+            "name": "Wrapped sUSDT",
+            "symbol": "sUSDT",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x822802f970ccd9aeb13d0368a2409804d28e1253.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xD7BC0dcb0B6ee14BDB204172ABA01458Abe91aC3",
+            "name": "Wrapped sUSDC",
+            "symbol": "sUSDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd7bc0dcb0b6ee14bdb204172aba01458abe91ac3.png"
         },
         {
             "chainId": 5,

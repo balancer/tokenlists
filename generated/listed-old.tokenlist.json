@@ -9,7 +9,7 @@
         "Balancer"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-04-08T20:54:53.250Z",
+    "timestamp": "2023-04-12T10:09:35.346Z",
     "tokens": [
         {
             "chainId": 1,
@@ -1019,30 +1019,6 @@
         },
         {
             "chainId": 1,
-            "address": "0xe025E3ca2bE02316033184551D4d3Aa22024D9DC",
-            "name": null,
-            "symbol": null,
-            "decimals": null,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe025e3ca2be02316033184551d4d3aa22024d9dc.png"
-        },
-        {
-            "chainId": 1,
-            "address": "0xEb91861f8A4e1C12333F42DCE8fB0Ecdc28dA716",
-            "name": null,
-            "symbol": null,
-            "decimals": null,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xeb91861f8a4e1c12333f42dce8fb0ecdc28da716.png"
-        },
-        {
-            "chainId": 1,
-            "address": "0x4d19F33948b99800B6113Ff3e83beC9b537C85d2",
-            "name": null,
-            "symbol": null,
-            "decimals": null,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4d19f33948b99800b6113ff3e83bec9b537c85d2.png"
-        },
-        {
-            "chainId": 1,
             "address": "0x60683B05e9a39E3509D8fdb9C959f23170f8A0fa",
             "name": "Balancer Idle Boosted StablePool",
             "symbol": "bb-i-USD",
@@ -1326,6 +1302,14 @@
             "symbol": "maUSDC",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa5269a8e31b93ff27b887b56720a25f844db0529.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x198d7387Fa97A73F05b8578CdEFf8F2A1f34Cd1F",
+            "name": "Wrapped Jones AURA",
+            "symbol": "wjAURA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x198d7387fa97a73f05b8578cdeff8f2a1f34cd1f.png"
         },
         {
             "chainId": 5,

@@ -142,9 +142,7 @@ function satisfiesTokenInfoSchema({
   const requiredKeys = ['chainId', 'address', 'name', 'symbol', 'decimals']
   if (includeOptionals) requiredKeys.push('logoURI')
 
-  return requiredKeys.every(
-    (key) => token?.[key as keyof TokenInfo] !== undefined
-  )
+  return requiredKeys.every((key) => token?.[key as keyof TokenInfo] != null)
 }
 
 async function setTokenInfo(
