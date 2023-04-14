@@ -53,18 +53,29 @@ async function fetchTrustWalletMetadata(
 }
 
 type TokenIconInfo = Pick<TokenInfo, 'address' | 'logoURI'>
-function fetchLocalTokenIcons(): PartialTokenInfoMap {
+function fetchLocalTokenIcons(network: Network): PartialTokenInfoMap {
   const tokenIcons: TokenIconInfo[] = []
 
   const localImages: string[] = fs.readdirSync('src/assets/images/tokens')
   localImages.map((imageName) => {
-    const address = imageName.split('.png')[0]
-    if (!isAddress(address)) return
+    let address: string
+    const fileName = imageName.split('.png')[0]
+
+    if (!isAddress(fileName)) {
+      const [_network, _address] = (fileName as string).split('_')
+      if (_network === network && isAddress(_address)) {
+        address = _address
+      } else {
+        return
+      }
+    } else {
+      address = fileName
+    }
 
     tokenIcons.push({
       address: getAddress(address),
       // eslint-disable-next-line max-len
-      logoURI: `https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/${address.toLowerCase()}.png`,
+      logoURI: `https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/${fileName.toLowerCase()}.png`,
     })
   })
 
@@ -97,7 +108,7 @@ export async function fetchExistingMetadata(
   existingTokenList: TokenList | undefined
 ): Promise<PartialTokenInfoMap> {
   const overwritesMetadata = overwrites[network]
-  const localTokenIcons = fetchLocalTokenIcons()
+  const localTokenIcons = fetchLocalTokenIcons(network)
   const existingListMetadata = fetchExistingTokensListMap(
     network,
     existingTokenList
