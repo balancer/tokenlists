@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-04-13T02:58:20.008Z",
+    "timestamp": "2023-04-14T14:57:22.463Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6361,7 +6361,7 @@
             "name": "Balancer Tetu Boosted Pool (DAI)",
             "symbol": "bb-t-DAI",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xda1cd1711743e57dd57102e9e61b75f3587703da.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/137_0xda1cd1711743e57dd57102e9e61b75f3587703da.png"
         },
         {
             "chainId": 137,
@@ -6964,7 +6964,7 @@
             "name": "Balancer Aave v3 Boosted Pool (WETH)",
             "symbol": "bb-a-WETH",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xda1cd1711743e57dd57102e9e61b75f3587703da.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/42161_0xda1cd1711743e57dd57102e9e61b75f3587703da.png"
         }
     ]
 }
