@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-04-13T02:07:37.066Z",
+    "timestamp": "2023-04-14T14:57:22.463Z",
     "tokens": [
         {
             "chainId": 1,
@@ -4960,6 +4960,30 @@
         },
         {
             "chainId": 1,
+            "address": "0x24E79e946dEa5482212c38aaB2D0782F04cdB0E0",
+            "name": "Paladin stkAAVE",
+            "symbol": "palStkAAVE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x24e79e946dea5482212c38aab2d0782f04cdb0e0.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x79c58f70905F734641735BC61e45c19dD9Ad60bC",
+            "name": "Balancer USDC-DAI-USDT Stable Pool",
+            "symbol": "USDC-DAI-USDT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x79c58f70905f734641735bc61e45c19dd9ad60bc.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x60D604890feaa0b5460B28A424407c24fe89374a",
+            "name": "Balancer Aave v3 Boosted Pool (WETH)",
+            "symbol": "bb-a-WETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x60d604890feaa0b5460b28a424407c24fe89374a.png"
+        },
+        {
+            "chainId": 1,
             "address": "0x86A42b7A448c1568d21b00C90eaB53B8417eEaDc",
             "name": "Wrapped sDAI",
             "symbol": "sDAI",
@@ -6337,7 +6361,7 @@
             "name": "Balancer Tetu Boosted Pool (DAI)",
             "symbol": "bb-t-DAI",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xda1cd1711743e57dd57102e9e61b75f3587703da.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/137_0xda1cd1711743e57dd57102e9e61b75f3587703da.png"
         },
         {
             "chainId": 137,
@@ -6454,6 +6478,22 @@
             "name": "tDAI",
             "symbol": "tDAI",
             "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0xE4885Ed2818Cc9E840A25f94F9b2A28169D1AEA7",
+            "name": "Balancer Aave v3 Boosted Pool (WMATIC)",
+            "symbol": "bb-a-WMATIC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe4885ed2818cc9e840a25f94f9b2a28169d1aea7.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x0D6135b2cFBAE3b1c58368a93b855fa54FA5aae1",
+            "name": "Wrapped aWMATIC",
+            "symbol": "waWMATIC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0d6135b2cfbae3b1c58368a93b855fa54fa5aae1.png"
         },
         {
             "chainId": 42161,
@@ -6917,6 +6957,14 @@
             "symbol": "RDNT",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/26536/large/Radiant-Logo-200x200.png?1658715865"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xDa1CD1711743e57Dd57102E9e61b75f3587703da",
+            "name": "Balancer Aave v3 Boosted Pool (WETH)",
+            "symbol": "bb-a-WETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/42161_0xda1cd1711743e57dd57102e9e61b75f3587703da.png"
         }
     ]
 }
