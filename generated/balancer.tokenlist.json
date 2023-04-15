@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-04-14T14:57:22.463Z",
+    "timestamp": "2023-04-15T02:20:33.419Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6494,6 +6494,46 @@
             "symbol": "waWMATIC",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0d6135b2cfbae3b1c58368a93b855fa54fa5aae1.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x4a77eF015ddcd972fd9BA2C7D5D658689D090f1A",
+            "name": "Balancer wstETH-Boosted Aave WETH StablePool",
+            "symbol": "wstETH-bb-a-WETH-BPT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4a77ef015ddcd972fd9ba2c7d5d658689d090f1a.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0xb371aA09F5a110AB69b39A84B5469d29f9b22B76",
+            "name": "Balancer Aave v3 Boosted StablePool",
+            "symbol": "bb-am-USD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb371aa09f5a110ab69b39a84b5469d29f9b22b76.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x43894DE14462B421372bCFe445fA51b1b4A0Ff3D",
+            "name": "Balancer Aave v3 Boosted Pool (WETH)",
+            "symbol": "bb-a-WETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x43894de14462b421372bcfe445fa51b1b4a0ff3d.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0xe19ed40A47F9B0CEA4ca6D372dF66107758913Ec",
+            "name": "2BRL(BRZ)",
+            "symbol": "2BRL (BRZ)",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe19ed40a47f9b0cea4ca6d372df66107758913ec.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x216690738Aac4aa0C4770253CA26a28f0115c595",
+            "name": "Balancer stMATIC-Boosted Aave WMATIC StablePool",
+            "symbol": "stMATIC-bb-a-WMATIC-BPT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x216690738aac4aa0c4770253ca26a28f0115c595.png"
         },
         {
             "chainId": 42161,
