@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-04-15T02:20:33.419Z",
+    "timestamp": "2023-04-17T07:22:33.385Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5005,6 +5005,14 @@
             "symbol": "sUSDC",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd7bc0dcb0b6ee14bdb204172aba01458abe91ac3.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xf951E335afb289353dc249e82926178EaC7DEd78",
+            "name": "swETH",
+            "symbol": "swETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf951e335afb289353dc249e82926178eac7ded78.png"
         },
         {
             "chainId": 5,
