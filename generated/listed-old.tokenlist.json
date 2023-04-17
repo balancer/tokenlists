@@ -9,7 +9,7 @@
         "Balancer"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-04-14T14:57:33.854Z",
+    "timestamp": "2023-04-17T07:22:48.517Z",
     "tokens": [
         {
             "chainId": 1,
@@ -1310,6 +1310,14 @@
             "symbol": "wjAURA",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x198d7387fa97a73f05b8578cdeff8f2a1f34cd1f.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xf951E335afb289353dc249e82926178EaC7DEd78",
+            "name": "swETH",
+            "symbol": "swETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf951e335afb289353dc249e82926178eac7ded78.png"
         },
         {
             "chainId": 5,
