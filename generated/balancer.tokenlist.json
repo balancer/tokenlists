@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-04-17T07:22:33.385Z",
+    "timestamp": "2023-04-18T08:47:14.697Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6542,6 +6542,27 @@
             "symbol": "stMATIC-bb-a-WMATIC-BPT",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x216690738aac4aa0c4770253ca26a28f0115c595.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x89B28A9494589b09dbcCb69911c189f74FdAdc5a",
+            "name": "Balancer Aave v3 Boosted Pool (USDC)",
+            "symbol": "bb-a-USDC",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0xa5fE91dde37D8BF2daCACC0168B115D28eD03f84",
+            "name": "Balancer Aave v3 Boosted Pool (DAI)",
+            "symbol": "bb-a-DAI",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0xb59BE8f3C85A9DD6E2899103B6fbF6ea405B99a4",
+            "name": "Balancer Aave v3 Boosted Pool (USDT)",
+            "symbol": "bb-a-USDT",
+            "decimals": 18
         },
         {
             "chainId": 42161,
