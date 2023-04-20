@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-04-18T08:47:14.697Z",
+    "timestamp": "2023-04-20T16:41:55.816Z",
     "tokens": [
         {
             "chainId": 1,
@@ -3981,7 +3981,8 @@
             "address": "0xCAa052584b462198A5a9356c28bcE0634D65f65C",
             "name": "Balancer Morpho Aave v2 Boosted StablePool",
             "symbol": "bb-ma2-USD",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xcaa052584b462198a5a9356c28bce0634d65f65c.png"
         },
         {
             "chainId": 1,
