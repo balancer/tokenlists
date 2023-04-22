@@ -9,7 +9,7 @@
         "Balancer"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-04-14T14:57:33.854Z",
+    "timestamp": "2023-04-20T16:42:10.566Z",
     "tokens": [
         {
             "chainId": 1,
@@ -1277,7 +1277,8 @@
             "address": "0xCAa052584b462198A5a9356c28bcE0634D65f65C",
             "name": "Balancer Morpho Aave v2 Boosted StablePool",
             "symbol": "bb-ma2-USD",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xcaa052584b462198a5a9356c28bce0634d65f65c.png"
         },
         {
             "chainId": 1,
@@ -1310,6 +1311,70 @@
             "symbol": "wjAURA",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x198d7387fa97a73f05b8578cdeff8f2a1f34cd1f.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xf951E335afb289353dc249e82926178EaC7DEd78",
+            "name": "swETH",
+            "symbol": "swETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf951e335afb289353dc249e82926178eac7ded78.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x86A42b7A448c1568d21b00C90eaB53B8417eEaDc",
+            "name": "Wrapped sDAI",
+            "symbol": "sDAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x86a42b7a448c1568d21b00c90eab53b8417eeadc.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x822802f970CCd9aEB13d0368A2409804d28E1253",
+            "name": "Wrapped sUSDT",
+            "symbol": "sUSDT",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x822802f970ccd9aeb13d0368a2409804d28e1253.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xD7BC0dcb0B6ee14BDB204172ABA01458Abe91aC3",
+            "name": "Wrapped sUSDC",
+            "symbol": "sUSDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd7bc0dcb0b6ee14bdb204172aba01458abe91ac3.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xCAa052584b462198A5a9356c28bcE0634D65f65C",
+            "name": "Balancer Morpho Aave v2 Boosted StablePool",
+            "symbol": "bb-ma2-USD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xcaa052584b462198a5a9356c28bce0634d65f65c.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x7337224D59CB16C2Dc6938CD45A7b2c60C865D6A",
+            "name": "Balancer Morpho Aave v2 Boosted Pool (USDT)",
+            "symbol": "bb-ma2-USDT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7337224d59cb16c2dc6938cd45a7b2c60c865d6a.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x335d1709D4dA9aca59d16328db5Cd4eA66BFe06b",
+            "name": "Balancer Morpho Aave v2 Boosted Pool (DAI)",
+            "symbol": "bb-ma2-DAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x335d1709d4da9aca59d16328db5cd4ea66bfe06b.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x159cB00338fB63f263fd6f621Df619cEf71DA954",
+            "name": "Balancer Morpho Aave v2 Boosted Pool (USDC)",
+            "symbol": "bb-ma2-USDC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x159cb00338fb63f263fd6f621df619cef71da954.png"
         },
         {
             "chainId": 5,

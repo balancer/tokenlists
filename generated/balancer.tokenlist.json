@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-04-14T14:57:22.463Z",
+    "timestamp": "2023-04-22T14:37:12.559Z",
     "tokens": [
         {
             "chainId": 1,
@@ -3981,7 +3981,8 @@
             "address": "0xCAa052584b462198A5a9356c28bcE0634D65f65C",
             "name": "Balancer Morpho Aave v2 Boosted StablePool",
             "symbol": "bb-ma2-USD",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xcaa052584b462198a5a9356c28bce0634d65f65c.png"
         },
         {
             "chainId": 1,
@@ -5007,6 +5008,22 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd7bc0dcb0b6ee14bdb204172aba01458abe91ac3.png"
         },
         {
+            "chainId": 1,
+            "address": "0xf951E335afb289353dc249e82926178EaC7DEd78",
+            "name": "swETH",
+            "symbol": "swETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf951e335afb289353dc249e82926178eac7ded78.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x29FA1fee0F4F0Ab0e36eF7Ab8d7a35439eC6be75",
+            "name": "SafeStake Network Token",
+            "symbol": "DVT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x29fa1fee0f4f0ab0e36ef7ab8d7a35439ec6be75.png"
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -5119,6 +5136,14 @@
             "symbol": "miMATIC",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/15264/large/mimatic-red.png?1620281018"
+        },
+        {
+            "chainId": 5,
+            "address": "0xA89436b4a7DcD19514BC71C0ddeF60f66f0c78b5",
+            "name": "SafeStake Network Token",
+            "symbol": "DVT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa89436b4a7dcd19514bc71c0ddef60f66f0c78b5.png"
         },
         {
             "chainId": 10,
@@ -6494,6 +6519,67 @@
             "symbol": "waWMATIC",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0d6135b2cfbae3b1c58368a93b855fa54fa5aae1.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x4a77eF015ddcd972fd9BA2C7D5D658689D090f1A",
+            "name": "Balancer wstETH-Boosted Aave WETH StablePool",
+            "symbol": "wstETH-bb-a-WETH-BPT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4a77ef015ddcd972fd9ba2c7d5d658689d090f1a.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0xb371aA09F5a110AB69b39A84B5469d29f9b22B76",
+            "name": "Balancer Aave v3 Boosted StablePool",
+            "symbol": "bb-am-USD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb371aa09f5a110ab69b39a84b5469d29f9b22b76.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x43894DE14462B421372bCFe445fA51b1b4A0Ff3D",
+            "name": "Balancer Aave v3 Boosted Pool (WETH)",
+            "symbol": "bb-a-WETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x43894de14462b421372bcfe445fa51b1b4a0ff3d.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0xe19ed40A47F9B0CEA4ca6D372dF66107758913Ec",
+            "name": "2BRL(BRZ)",
+            "symbol": "2BRL (BRZ)",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe19ed40a47f9b0cea4ca6d372df66107758913ec.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x216690738Aac4aa0C4770253CA26a28f0115c595",
+            "name": "Balancer stMATIC-Boosted Aave WMATIC StablePool",
+            "symbol": "stMATIC-bb-a-WMATIC-BPT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x216690738aac4aa0c4770253ca26a28f0115c595.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x89B28A9494589b09dbcCb69911c189f74FdAdc5a",
+            "name": "Balancer Aave v3 Boosted Pool (USDC)",
+            "symbol": "bb-a-USDC",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0xa5fE91dde37D8BF2daCACC0168B115D28eD03f84",
+            "name": "Balancer Aave v3 Boosted Pool (DAI)",
+            "symbol": "bb-a-DAI",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0xb59BE8f3C85A9DD6E2899103B6fbF6ea405B99a4",
+            "name": "Balancer Aave v3 Boosted Pool (USDT)",
+            "symbol": "bb-a-USDT",
+            "decimals": 18
         },
         {
             "chainId": 42161,
