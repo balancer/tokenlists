@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-04-20T16:41:55.816Z",
+    "timestamp": "2023-04-22T14:37:12.559Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5016,6 +5016,14 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf951e335afb289353dc249e82926178eac7ded78.png"
         },
         {
+            "chainId": 1,
+            "address": "0x29FA1fee0F4F0Ab0e36eF7Ab8d7a35439eC6be75",
+            "name": "SafeStake Network Token",
+            "symbol": "DVT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x29fa1fee0f4f0ab0e36ef7ab8d7a35439ec6be75.png"
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -5128,6 +5136,14 @@
             "symbol": "miMATIC",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/15264/large/mimatic-red.png?1620281018"
+        },
+        {
+            "chainId": 5,
+            "address": "0xA89436b4a7DcD19514BC71C0ddeF60f66f0c78b5",
+            "name": "SafeStake Network Token",
+            "symbol": "DVT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa89436b4a7dcd19514bc71c0ddef60f66f0c78b5.png"
         },
         {
             "chainId": 10,
