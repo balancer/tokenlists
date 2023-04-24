@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-04-22T20:31:43.260Z",
+    "timestamp": "2023-04-24T12:03:49.151Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5030,6 +5030,14 @@
             "symbol": "DVT",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x29fa1fee0f4f0ab0e36ef7ab8d7a35439ec6be75.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x5F18ea482ad5cc6BC65803817C99f477043DcE85",
+            "name": "Agility",
+            "symbol": "AGI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5f18ea482ad5cc6bc65803817c99f477043dce85.png"
         },
         {
             "chainId": 5,
