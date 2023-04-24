@@ -655,6 +655,7 @@ export const tokens: TokensForList = {
     '0xf951E335afb289353dc249e82926178EaC7DEd78',
     '0xF1376bceF0f78459C0Ed0ba5ddce976F1ddF51F4',
     '0x29FA1fee0F4F0Ab0e36eF7Ab8d7a35439eC6be75',
+    '0x5F18ea482ad5cc6BC65803817C99f477043DcE85',
   ],
   [Network.Goerli]: [
     '0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1',
