@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-04-22T14:37:12.559Z",
+    "timestamp": "2023-04-24T12:03:49.151Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5017,11 +5017,27 @@
         },
         {
             "chainId": 1,
+            "address": "0xF1376bceF0f78459C0Ed0ba5ddce976F1ddF51F4",
+            "name": "Universal ETH",
+            "symbol": "uniETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf1376bcef0f78459c0ed0ba5ddce976f1ddf51f4.png"
+        },
+        {
+            "chainId": 1,
             "address": "0x29FA1fee0F4F0Ab0e36eF7Ab8d7a35439eC6be75",
             "name": "SafeStake Network Token",
             "symbol": "DVT",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x29fa1fee0f4f0ab0e36ef7ab8d7a35439ec6be75.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x5F18ea482ad5cc6BC65803817C99f477043DcE85",
+            "name": "Agility",
+            "symbol": "AGI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5f18ea482ad5cc6bc65803817c99f477043dce85.png"
         },
         {
             "chainId": 5,

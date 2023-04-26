@@ -9,7 +9,7 @@
         "Balancer"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-04-20T16:42:10.566Z",
+    "timestamp": "2023-04-24T11:59:19.799Z",
     "tokens": [
         {
             "chainId": 1,
@@ -925,7 +925,7 @@
             "chainId": 1,
             "address": "0xE95A203B1a91a908F9B9CE46459d101078c2c3cb",
             "name": "Ankr Staked ETH",
-            "symbol": "aETHc",
+            "symbol": "ankrETH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe95a203b1a91a908f9b9ce46459d101078c2c3cb.png"
         },
