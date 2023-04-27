@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-04-27T01:38:25.602Z",
+    "timestamp": "2023-04-27T02:05:17.786Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7153,7 +7153,7 @@
             "name": "Balancer Aave v3 Boosted Pool (USDC)",
             "symbol": "bb-a-USDC",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7c82a23b4c48d796dee36a9ca215b641c6a8709d.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/42161_0x7c82a23b4c48d796dee36a9ca215b641c6a8709d.png"
         },
         {
             "chainId": 42161,
