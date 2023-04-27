@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-04-27T02:05:17.786Z",
+    "timestamp": "2023-04-27T02:27:15.026Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7194,6 +7194,13 @@
             "symbol": "USDT",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x5A7f39435fD9c381e4932fa2047C9a5136A5E3E7",
+            "name": "Balancer wstETH-Boosted Aave WETH StablePool",
+            "symbol": "wstETH-bb-a-WETH-BPT",
+            "decimals": 18
         }
     ]
 }
