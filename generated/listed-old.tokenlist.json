@@ -9,7 +9,7 @@
         "Balancer"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-04-24T11:59:19.799Z",
+    "timestamp": "2023-04-27T01:38:41.991Z",
     "tokens": [
         {
             "chainId": 1,
@@ -2668,7 +2668,7 @@
             "name": "Balancer Tetu Boosted Pool (USDT)",
             "symbol": "bb-t-USDT",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7c82a23b4c48d796dee36a9ca215b641c6a8709d.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/137_0x7c82a23b4c48d796dee36a9ca215b641c6a8709d.png"
         },
         {
             "chainId": 137,
@@ -2721,7 +2721,7 @@
             "name": "Luchadores.io LUCHA Token",
             "symbol": "LUCHA",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6749441fdc8650b5b5a854ed255c82ef361f1596.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/137_0x6749441fdc8650b5b5a854ed255c82ef361f1596.png"
         },
         {
             "chainId": 137,
@@ -2760,7 +2760,7 @@
             "name": "Balancer Tetu Boosted Pool (stMATIC)",
             "symbol": "bb-t-stMATIC",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4739e50b59b552d490d3fdc60d200977a38510c0.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/137_0x4739e50b59b552d490d3fdc60d200977a38510c0.png"
         },
         {
             "chainId": 137,
@@ -2776,7 +2776,7 @@
             "name": "Balancer Tetu Boosted Pool (USDT)",
             "symbol": "bb-t-USDT",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7c82a23b4c48d796dee36a9ca215b641c6a8709d.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/137_0x7c82a23b4c48d796dee36a9ca215b641c6a8709d.png"
         },
         {
             "chainId": 137,
@@ -3015,7 +3015,7 @@
             "name": "Tether USD",
             "symbol": "USDT",
             "decimals": 6,
-            "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether.png?1668148663"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9.png"
         },
         {
             "chainId": 42161,

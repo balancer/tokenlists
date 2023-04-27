@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-04-26T02:47:49.646Z",
+    "timestamp": "2023-04-27T01:38:25.602Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5096,6 +5096,22 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5f18ea482ad5cc6bc65803817c99f477043dce85.png"
         },
         {
+            "chainId": 1,
+            "address": "0x0Ae38f7E10A43B5b2fB064B42a2f4514cbA909ef",
+            "name": "unshETH Ether",
+            "symbol": "unshETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0ae38f7e10a43b5b2fb064b42a2f4514cba909ef.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xb40b6608B2743E691C9B54DdBDEe7bf03cd79f1c",
+            "name": "UZD Zunami Stable",
+            "symbol": "UZD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb40b6608b2743e691c9b54ddbdee7bf03cd79f1c.png"
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -6443,7 +6459,7 @@
             "name": "Luchadores.io LUCHA Token",
             "symbol": "LUCHA",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6749441fdc8650b5b5a854ed255c82ef361f1596.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/137_0x6749441fdc8650b5b5a854ed255c82ef361f1596.png"
         },
         {
             "chainId": 137,
@@ -6490,7 +6506,7 @@
             "name": "Balancer Tetu Boosted Pool (stMATIC)",
             "symbol": "bb-t-stMATIC",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4739e50b59b552d490d3fdc60d200977a38510c0.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/137_0x4739e50b59b552d490d3fdc60d200977a38510c0.png"
         },
         {
             "chainId": 137,
@@ -6506,7 +6522,7 @@
             "name": "Balancer Tetu Boosted Pool (USDT)",
             "symbol": "bb-t-USDT",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7c82a23b4c48d796dee36a9ca215b641c6a8709d.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/137_0x7c82a23b4c48d796dee36a9ca215b641c6a8709d.png"
         },
         {
             "chainId": 137,
@@ -6874,7 +6890,7 @@
             "name": "Tether USD",
             "symbol": "USDT",
             "decimals": 6,
-            "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether.png?1668148663"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9.png"
         },
         {
             "chainId": 42161,
@@ -7123,6 +7139,61 @@
             "symbol": "bb-a-WETH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/42161_0xda1cd1711743e57dd57102e9e61b75f3587703da.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xEE02583596AEE94ccCB7e8ccd3921d955f17982A",
+            "name": "Balancer Aave v3 Boosted StablePool",
+            "symbol": "bb-a-USD",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x7c82A23B4C48D796dee36A9cA215b641C6a8709d",
+            "name": "Balancer Aave v3 Boosted Pool (USDC)",
+            "symbol": "bb-a-USDC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7c82a23b4c48d796dee36a9ca215b641c6a8709d.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x9E34631547aDcF2F8cefa0f5f223955C7B137571",
+            "name": "Balancer Aave v3 Boosted Pool (DAI)",
+            "symbol": "bb-a-DAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9e34631547adcf2f8cefa0f5f223955c7b137571.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x4739E50B59B552D490d3FDc60D200977A38510c0",
+            "name": "Balancer Aave v3 Boosted Pool (USDT)",
+            "symbol": "bb-a-USDT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4739e50b59b552d490d3fdc60d200977a38510c0.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+            "name": "Dai Stablecoin",
+            "symbol": "DAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9.png"
         }
     ]
 }
