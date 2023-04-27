@@ -6450,7 +6450,7 @@
             "name": "Balancer Tetu Boosted Pool (USDT)",
             "symbol": "bb-t-USDT",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7c82a23b4c48d796dee36a9ca215b641c6a8709d.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/137_0x7c82a23b4c48d796dee36a9ca215b641c6a8709d.png"
         },
         {
             "chainId": 137,
