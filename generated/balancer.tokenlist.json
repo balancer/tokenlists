@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-04-27T02:27:15.026Z",
+    "timestamp": "2023-04-28T01:39:02.321Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5469,6 +5469,14 @@
             "symbol": "GNO",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9c58bacc331c9aa871afd802db6379a98e80cedb.png"
+        },
+        {
+            "chainId": 100,
+            "address": "0x3a97704a1b25F08aa230ae53B352e2e72ef52843",
+            "name": "Agave Token",
+            "symbol": "AGVE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x3a97704a1b25f08aa230ae53b352e2e72ef52843.png"
         },
         {
             "chainId": 137,
