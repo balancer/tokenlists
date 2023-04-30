@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-04-28T01:39:02.321Z",
+    "timestamp": "2023-04-30T19:03:36.679Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7209,6 +7209,14 @@
             "name": "Balancer wstETH-Boosted Aave WETH StablePool",
             "symbol": "wstETH-bb-a-WETH-BPT",
             "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x4fc2A3Fb655847b7B72E19EAA2F10fDB5C2aDdbe",
+            "name": "Pepe Governance Token",
+            "symbol": "PEG",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4fc2a3fb655847b7b72e19eaa2f10fdb5c2addbe.png"
         }
     ]
 }
