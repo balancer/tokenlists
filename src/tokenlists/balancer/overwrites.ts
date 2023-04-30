@@ -66,6 +66,11 @@ export const overwrites: OverwritesForList = {
       symbol: 'ankrETH',
       name: 'Ankr Staked ETH',
     },
+    '0x9559Aaa82d9649C7A7b220E7c461d2E74c9a3593': {
+      decimals: 18,
+      symbol: 'staFi rETH',
+      name: 'staFi rETH',
+    },
   },
   [Network.Goerli]: {
     '0x9bA00D6856a4eDF4665BcA2C2309936572473B7E': {
