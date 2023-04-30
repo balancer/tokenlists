@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-04-30T19:03:36.679Z",
+    "timestamp": "2023-04-30T19:08:11.846Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5094,6 +5094,14 @@
             "symbol": "AGI",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5f18ea482ad5cc6bc65803817c99f477043dce85.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x0f2D719407FdBeFF09D87557AbB7232601FD9F29",
+            "name": "Synapse",
+            "symbol": "SYN",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0f2d719407fdbeff09d87557abb7232601fd9f29.png"
         },
         {
             "chainId": 1,
