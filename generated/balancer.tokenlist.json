@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-05-01T20:17:53.045Z",
+    "timestamp": "2023-05-01T21:02:14.171Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6701,21 +6701,24 @@
             "address": "0x89B28A9494589b09dbcCb69911c189f74FdAdc5a",
             "name": "Balancer Aave v3 Boosted Pool (USDC)",
             "symbol": "bb-a-USDC",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x89b28a9494589b09dbccb69911c189f74fdadc5a.png"
         },
         {
             "chainId": 137,
             "address": "0xa5fE91dde37D8BF2daCACC0168B115D28eD03f84",
             "name": "Balancer Aave v3 Boosted Pool (DAI)",
             "symbol": "bb-a-DAI",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa5fe91dde37d8bf2dacacc0168b115d28ed03f84.png"
         },
         {
             "chainId": 137,
             "address": "0xb59BE8f3C85A9DD6E2899103B6fbF6ea405B99a4",
             "name": "Balancer Aave v3 Boosted Pool (USDT)",
             "symbol": "bb-a-USDT",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb59be8f3c85a9dd6e2899103b6fbf6ea405b99a4.png"
         },
         {
             "chainId": 137,
@@ -7201,7 +7204,8 @@
             "address": "0xEE02583596AEE94ccCB7e8ccd3921d955f17982A",
             "name": "Balancer Aave v3 Boosted StablePool",
             "symbol": "bb-a-USD",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xee02583596aee94cccb7e8ccd3921d955f17982a.png"
         },
         {
             "chainId": 42161,
