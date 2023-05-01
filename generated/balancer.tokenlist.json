@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-05-01T19:30:52.666Z",
+    "timestamp": "2023-05-01T20:17:53.045Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5118,6 +5118,38 @@
             "symbol": "UZD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb40b6608b2743e691c9b54ddbdee7bf03cd79f1c.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x57d20c946A7A3812a7225B881CdcD8431D23431C",
+            "name": "Wrapped aUSDC",
+            "symbol": "waUSDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x57d20c946a7a3812a7225b881cdcd8431d23431c.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xa7E0e66F38b8ad8343CFF67118C1f33e827D1455",
+            "name": "Wrapped aUSDT",
+            "symbol": "waUSDT",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa7e0e66f38b8ad8343cff67118c1f33e827d1455.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x098256c06ab24F5655C5506A6488781BD711c14b",
+            "name": "Wrapped aDAI",
+            "symbol": "waDAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x098256c06ab24f5655c5506a6488781bd711c14b.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x59463BB67dDD04fe58ED291ba36C26d99A39fbc6",
+            "name": "Wrapped aWETH",
+            "symbol": "waWETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x59463bb67ddd04fe58ed291ba36c26d99a39fbc6.png"
         },
         {
             "chainId": 5,
