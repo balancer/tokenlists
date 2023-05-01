@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-04-30T19:08:11.846Z",
+    "timestamp": "2023-05-01T19:30:52.666Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6684,6 +6684,14 @@
             "name": "Balancer Aave v3 Boosted Pool (USDT)",
             "symbol": "bb-a-USDT",
             "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x366e293A5CF90A0458D9fF9f3f92234dA598F62e",
+            "name": "Kassandra",
+            "symbol": "KACY",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x366e293a5cf90a0458d9ff9f3f92234da598f62e.png"
         },
         {
             "chainId": 42161,
