@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-05-04T08:40:52.246Z",
+    "timestamp": "2023-05-04T20:10:04.486Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6990,6 +6990,14 @@
             "symbol": "GMX",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xf0cb2dc0db5e6c66B9a70Ac27B06b878da017028",
+            "name": "Olympus",
+            "symbol": "OHM",
+            "decimals": 9,
+            "logoURI": "https://assets.coingecko.com/coins/images/14483/large/token_OHM_%281%29.png?1628311611"
         },
         {
             "chainId": 42161,
