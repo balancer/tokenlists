@@ -691,6 +691,7 @@ export const tokens: TokensForList = {
     '0xA89436b4a7DcD19514BC71C0ddeF60f66f0c78b5',
   ],
   [Network.Polygon]: [
+    '0x8a037dbca8134ffc72c362e394e35e0cad618f85',
     '0x00e5646f60AC6Fb446f621d146B6E1886f002905',
     '0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a',
     '0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270',
