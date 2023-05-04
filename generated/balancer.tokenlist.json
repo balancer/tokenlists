@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-05-01T21:02:14.171Z",
+    "timestamp": "2023-05-04T20:10:04.486Z",
     "tokens": [
         {
             "chainId": 1,
@@ -4745,6 +4745,30 @@
         },
         {
             "chainId": 1,
+            "address": "0xe025E3ca2bE02316033184551D4d3Aa22024D9DC",
+            "name": "Euler Pool: Dai Stablecoin",
+            "symbol": "eDAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe025e3ca2be02316033184551d4d3aa22024d9dc.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xEb91861f8A4e1C12333F42DCE8fB0Ecdc28dA716",
+            "name": "Euler Pool: USD Coin",
+            "symbol": "eUSDC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xeb91861f8a4e1c12333f42dce8fb0ecdc28da716.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x4d19F33948b99800B6113Ff3e83beC9b537C85d2",
+            "name": "Euler Pool: Tether USD",
+            "symbol": "eUSDT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4d19f33948b99800b6113ff3e83bec9b537c85d2.png"
+        },
+        {
+            "chainId": 1,
             "address": "0x60683B05e9a39E3509D8fdb9C959f23170f8A0fa",
             "name": "Balancer Idle Boosted StablePool",
             "symbol": "bb-i-USD",
@@ -6966,6 +6990,14 @@
             "symbol": "GMX",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xf0cb2dc0db5e6c66B9a70Ac27B06b878da017028",
+            "name": "Olympus",
+            "symbol": "OHM",
+            "decimals": 9,
+            "logoURI": "https://assets.coingecko.com/coins/images/14483/large/token_OHM_%281%29.png?1628311611"
         },
         {
             "chainId": 42161,

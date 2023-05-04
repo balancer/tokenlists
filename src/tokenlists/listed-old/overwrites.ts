@@ -66,6 +66,21 @@ export const overwrites: OverwritesForList = {
       symbol: 'ankrETH',
       name: 'Ankr Staked ETH',
     },
+    '0xEb91861f8A4e1C12333F42DCE8fB0Ecdc28dA716': {
+      decimals: 18,
+      symbol: 'eUSDC',
+      name: 'Euler Pool: USD Coin',
+    },
+    '0x4d19F33948b99800B6113Ff3e83beC9b537C85d2': {
+      decimals: 18,
+      symbol: 'eUSDT',
+      name: 'Euler Pool: Tether USD',
+    },
+    '0xe025E3ca2bE02316033184551D4d3Aa22024D9DC': {
+      decimals: 18,
+      symbol: 'eDAI',
+      name: 'Euler Pool: Dai Stablecoin',
+    },
   },
   [Network.Goerli]: {
     '0xfA8449189744799aD2AcE7e0EBAC8BB7575eff47': {
