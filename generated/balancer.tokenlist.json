@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-05-04T20:10:04.486Z",
+    "timestamp": "2023-05-04T22:06:46.643Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5176,6 +5176,30 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x59463bb67ddd04fe58ed291ba36c26d99a39fbc6.png"
         },
         {
+            "chainId": 1,
+            "address": "0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c",
+            "name": "Euro Coin",
+            "symbol": "EUROC",
+            "decimals": 6,
+            "logoURI": "https://assets.coingecko.com/coins/images/26045/large/euro-coin.png?1655394420"
+        },
+        {
+            "chainId": 1,
+            "address": "0x9E3c6575f674BdeE85731d23259971Aa6ddA7b9b",
+            "name": "BREWSKI Coin",
+            "symbol": "BREWSKI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9e3c6575f674bdee85731d23259971aa6dda7b9b.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x73C69d24ad28e2d43D03CBf35F79fE26EBDE1011",
+            "name": "ARCH",
+            "symbol": "ARCH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x73c69d24ad28e2d43d03cbf35f79fe26ebde1011.png"
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -6751,6 +6775,13 @@
             "symbol": "KACY",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x366e293a5cf90a0458d9ff9f3f92234da598f62e.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x8a037dbcA8134FFc72C362e394e35E0Cad618F85",
+            "name": "Euro Coin (PoS)",
+            "symbol": "EUROC",
+            "decimals": 6
         },
         {
             "chainId": 42161,
