@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-05-04T22:06:46.643Z",
+    "timestamp": "2023-05-05T01:47:58.504Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5177,6 +5177,14 @@
         },
         {
             "chainId": 1,
+            "address": "0xa2E3356610840701BDf5611a53974510Ae27E2e1",
+            "name": "Wrapped Binance Beacon ETH",
+            "symbol": "wBETH",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/30061/large/wbeth-icon.png?1683001548"
+        },
+        {
+            "chainId": 1,
             "address": "0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c",
             "name": "Euro Coin",
             "symbol": "EUROC",
@@ -7332,6 +7340,14 @@
             "symbol": "PEG",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4fc2a3fb655847b7b72e19eaa2f10fdb5c2addbe.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xB261104A83887aE92392Fb5CE5899fCFe5481456",
+            "name": "NFTEarth",
+            "symbol": "NFTE",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/29116/large/20230223_224134.jpg?1677224110"
         }
     ]
 }
