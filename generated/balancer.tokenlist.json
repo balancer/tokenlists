@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-05-05T14:14:55.555Z",
+    "timestamp": "2023-05-08T13:45:23.649Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5209,11 +5209,35 @@
         },
         {
             "chainId": 1,
+            "address": "0x7945b0A6674b175695e5d1D08aE1e6F13744Abb0",
+            "name": "BaoUSD",
+            "symbol": "BaoUSD",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/28592/large/baoUSD.png?1672191676"
+        },
+        {
+            "chainId": 1,
             "address": "0x4d224452801ACEd8B2F0aebE155379bb5D594381",
             "name": "ApeCoin",
             "symbol": "APE",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/24383/large/apecoin.jpg?1647476455"
+        },
+        {
+            "chainId": 1,
+            "address": "0x80f0C1c49891dcFDD40b6e0F960F84E6042bcB6F",
+            "name": "DBXen Token",
+            "symbol": "DXN",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/29838/large/DBXen.jpg?1681718763"
+        },
+        {
+            "chainId": 1,
+            "address": "0x6982508145454Ce325dDbE47a25d4ec3d2311933",
+            "name": "Pepe",
+            "symbol": "PEPE",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/29850/large/pepe-token.jpeg?1682922725"
         },
         {
             "chainId": 5,
