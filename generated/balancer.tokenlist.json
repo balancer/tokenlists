@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-05-08T13:45:23.649Z",
+    "timestamp": "2023-05-09T01:37:04.700Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5238,6 +5238,28 @@
             "symbol": "PEPE",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/29850/large/pepe-token.jpeg?1682922725"
+        },
+        {
+            "chainId": 1,
+            "address": "0xCe391315b414D4c7555956120461D21808A69F3A",
+            "name": "Bao Token V2",
+            "symbol": "BAO",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/28287/large/BAOv2_128px.png?1669344588"
+        },
+        {
+            "chainId": 1,
+            "address": "0xa1e3F062CE5825c1e19207cd93CEFdaD82A8A631",
+            "name": "Bao ETH Basket",
+            "symbol": "bETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xf4edfad26EE0D23B69CA93112eccE52704E0006f",
+            "name": "Bao ETH",
+            "symbol": "baoETH",
+            "decimals": 18
         },
         {
             "chainId": 5,
