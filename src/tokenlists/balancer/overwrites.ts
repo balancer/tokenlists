@@ -86,6 +86,11 @@ export const overwrites: OverwritesForList = {
       symbol: 'eDAI',
       name: 'Euler Pool: Dai Stablecoin',
     },
+    '0xa2E3356610840701BDf5611a53974510Ae27E2e1': {
+      decimals: 18,
+      symbol: 'wBETH',
+      name: 'Wrapped Beacon ETH',
+    },
   },
   [Network.Goerli]: {
     '0x9bA00D6856a4eDF4665BcA2C2309936572473B7E': {
