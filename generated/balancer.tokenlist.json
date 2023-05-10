@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-05-04T22:06:46.643Z",
+    "timestamp": "2023-05-09T01:37:04.700Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5177,6 +5177,14 @@
         },
         {
             "chainId": 1,
+            "address": "0xa2E3356610840701BDf5611a53974510Ae27E2e1",
+            "name": "Wrapped Binance Beacon ETH",
+            "symbol": "wBETH",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/30061/large/wbeth-icon.png?1683001548"
+        },
+        {
+            "chainId": 1,
             "address": "0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c",
             "name": "Euro Coin",
             "symbol": "EUROC",
@@ -5198,6 +5206,60 @@
             "symbol": "ARCH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x73c69d24ad28e2d43d03cbf35f79fe26ebde1011.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x7945b0A6674b175695e5d1D08aE1e6F13744Abb0",
+            "name": "BaoUSD",
+            "symbol": "BaoUSD",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/28592/large/baoUSD.png?1672191676"
+        },
+        {
+            "chainId": 1,
+            "address": "0x4d224452801ACEd8B2F0aebE155379bb5D594381",
+            "name": "ApeCoin",
+            "symbol": "APE",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/24383/large/apecoin.jpg?1647476455"
+        },
+        {
+            "chainId": 1,
+            "address": "0x80f0C1c49891dcFDD40b6e0F960F84E6042bcB6F",
+            "name": "DBXen Token",
+            "symbol": "DXN",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/29838/large/DBXen.jpg?1681718763"
+        },
+        {
+            "chainId": 1,
+            "address": "0x6982508145454Ce325dDbE47a25d4ec3d2311933",
+            "name": "Pepe",
+            "symbol": "PEPE",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/29850/large/pepe-token.jpeg?1682922725"
+        },
+        {
+            "chainId": 1,
+            "address": "0xCe391315b414D4c7555956120461D21808A69F3A",
+            "name": "Bao Token V2",
+            "symbol": "BAO",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/28287/large/BAOv2_128px.png?1669344588"
+        },
+        {
+            "chainId": 1,
+            "address": "0xa1e3F062CE5825c1e19207cd93CEFdaD82A8A631",
+            "name": "Bao ETH Basket",
+            "symbol": "bETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xf4edfad26EE0D23B69CA93112eccE52704E0006f",
+            "name": "Bao ETH",
+            "symbol": "baoETH",
+            "decimals": 18
         },
         {
             "chainId": 5,
@@ -7332,6 +7394,14 @@
             "symbol": "PEG",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4fc2a3fb655847b7b72e19eaa2f10fdb5c2addbe.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xB261104A83887aE92392Fb5CE5899fCFe5481456",
+            "name": "NFTEarth",
+            "symbol": "NFTE",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/29116/large/20230223_224134.jpg?1677224110"
         }
     ]
 }
