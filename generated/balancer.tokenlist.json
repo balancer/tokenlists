@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-05-10T01:27:26.849Z",
+    "timestamp": "2023-05-11T13:04:29.011Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5284,6 +5284,13 @@
             "decimals": 18
         },
         {
+            "chainId": 1,
+            "address": "0x246ffB4d928E394a02E45761FecdbA6C2e79B8eB",
+            "name": "Balancer Instadapp Lite Boosted Pool (WETH)",
+            "symbol": "bb-insta-WETH",
+            "decimals": 18
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -7472,6 +7479,13 @@
             "symbol": "cBTC",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0cafac7a8dff6fa0918646e533c1f5d858a30dc4.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xA4914B824eF261D4ED0Ccecec29500862d57c0a1",
+            "name": "DFX Token",
+            "symbol": "DFX",
+            "decimals": 18
         }
     ]
 }
