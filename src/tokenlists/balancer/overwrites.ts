@@ -11,6 +11,11 @@ export const overwrites: OverwritesForList = {
       symbol: 'yCRV',
       decimals: 18,
     },
+    '0xdF5e0e81Dff6FAF3A7e52BA697820c5e32D806A8': {
+      name: 'STARSEEDS Protocol',
+      symbol: 'STARV2',
+      decimals: 18,
+    },
     '0x89d24A6b4CcB1B6fAA2625fE562bDD9a23260359': {
       name: 'Sai Stablecoin v1.0',
       symbol: 'SAI',
