@@ -29,6 +29,14 @@
         },
         {
             "chainId": 1,
+            "address": "0xacC6DA74d8c0C993d070cfd518Fb86279f3AeAf1",
+            "name": "StarSeeds Protocol",
+            "symbol": "STAR",
+            "decimals": 18,
+            "logoURI": "https://starseeds.exchange/img/Starseed-Dimension3.ef9fe489.jpg"
+        },
+        {
+            "chainId": 1,
             "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "name": "USD Coin",
             "symbol": "USDC",
