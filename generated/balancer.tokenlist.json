@@ -33,7 +33,15 @@
             "name": "StarSeeds Protocol",
             "symbol": "STAR",
             "decimals": 18,
-            "logoURI": "https://starseeds.exchange/img/Starseed-Dimension3.ef9fe489.jpg"
+            "logoURI": "https://drive.google.com/file/d/1qiSvWXr73NBsvrRwXb-3xte7-0N_SQb9/view?usp=sharing"
+        },
+         {
+            "chainId": 1,
+            "address": "0x4973f591784d9c94052a6c3ebd553fcd37bb0e5500020000000000000000087f",
+            "name": "*SD80-MaticX20",
+            "symbol": "SDMX",
+            "decimals": 6,
+            "logoURI": "https://png.pngtree.com/png-clipart/20220129/ourmid/pngtree-d-front-view-rendering-cryptocurrency-polygon-purple-coin-with-cartoon-style-png-image_4365962.png"
         },
         {
             "chainId": 1,
