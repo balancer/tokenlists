@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-05-11T13:04:29.011Z",
+    "timestamp": "2023-05-12T01:02:44.028Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5285,6 +5285,14 @@
         },
         {
             "chainId": 1,
+            "address": "0x6f40d4A6237C257fff2dB00FA0510DeEECd303eb",
+            "name": "Instadapp",
+            "symbol": "INST",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/14688/large/30hFM0-n_400x400.jpg?1617786420"
+        },
+        {
+            "chainId": 1,
             "address": "0x246ffB4d928E394a02E45761FecdbA6C2e79B8eB",
             "name": "Balancer Instadapp Lite Boosted Pool (WETH)",
             "symbol": "bb-insta-WETH",
@@ -7479,6 +7487,14 @@
             "symbol": "cBTC",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0cafac7a8dff6fa0918646e533c1f5d858a30dc4.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xB766039cc6DB368759C1E56B79AFfE831d0Cc507",
+            "name": "Rocket Pool Protocol",
+            "symbol": "RPL",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/2090/large/rocket_pool_%28RPL%29.png?1637662441"
         },
         {
             "chainId": 42161,
