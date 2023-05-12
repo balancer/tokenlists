@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-05-09T01:37:04.700Z",
+    "timestamp": "2023-05-11T13:04:29.011Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5262,6 +5262,35 @@
             "decimals": 18
         },
         {
+            "chainId": 1,
+            "address": "0xAFCdd4f666c84Fed1d8BD825aA762e3714F652c9",
+            "name": "Vita Inu",
+            "symbol": "VINU",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xafcdd4f666c84fed1d8bd825aa762e3714f652c9.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x7E9AfD25F5Ec0eb24d7d4b089Ae7EcB9651c8b1F",
+            "name": "baoUSD-LUSD StablePool",
+            "symbol": "B-baoUSD-LUSD-BPT",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x1A44E35d5451E0b78621A1B3e7a53DFaA306B1D0",
+            "name": "baoETH-ETH StablePool",
+            "symbol": "B-baoETH-ETH-BPT",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x246ffB4d928E394a02E45761FecdbA6C2e79B8eB",
+            "name": "Balancer Instadapp Lite Boosted Pool (WETH)",
+            "symbol": "bb-insta-WETH",
+            "decimals": 18
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -6846,6 +6875,22 @@
             "decimals": 6
         },
         {
+            "chainId": 137,
+            "address": "0xEe9A352F6aAc4aF1A5B9f467F6a93E0ffBe9Dd35",
+            "name": "MASQ (PoS)",
+            "symbol": "MASQ",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xee9a352f6aac4af1a5b9f467f6a93e0ffbe9dd35.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0xAFCdd4f666c84Fed1d8BD825aA762e3714F652c9",
+            "name": "Vita Inu",
+            "symbol": "VINU",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xafcdd4f666c84fed1d8bd825aa762e3714f652c9.png"
+        },
+        {
             "chainId": 42161,
             "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
             "name": "Arbitrum",
@@ -7402,6 +7447,45 @@
             "symbol": "NFTE",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/29116/large/20230223_224134.jpg?1677224110"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x8A9e7607635144e89Ca9424ff5B73390843217ab",
+            "name": "SyntheX US Dollar (Foreign Exchange)",
+            "symbol": "fUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x8a9e7607635144e89ca9424ff5b73390843217ab.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x1F865DEAa119f67d480c1019DA71eD06Fab18cE4",
+            "name": "SyntheX US Dollar (Crypto Market)",
+            "symbol": "cUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1f865deaa119f67d480c1019da71ed06fab18ce4.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xFEf62042C27B643f76e02C0CeF1d0cb41f2C5C77",
+            "name": "SyntheX Ethereum (Crypto Market)",
+            "symbol": "cETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfef62042c27b643f76e02c0cef1d0cb41f2c5c77.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x0Cafac7a8dFf6FA0918646E533c1f5D858A30DC4",
+            "name": "SyntheX Bitcoin (Crypto Market)",
+            "symbol": "cBTC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0cafac7a8dff6fa0918646e533c1f5d858a30dc4.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xA4914B824eF261D4ED0Ccecec29500862d57c0a1",
+            "name": "DFX Token",
+            "symbol": "DFX",
+            "decimals": 18
         }
     ]
 }
