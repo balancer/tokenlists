@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-05-12T01:02:44.028Z",
+    "timestamp": "2023-05-12T12:20:08.498Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7502,6 +7502,14 @@
             "name": "DFX Token",
             "symbol": "DFX",
             "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+            "name": "Arbitrum tBTC v2",
+            "symbol": "tBTC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6c84a8f1c29108f47a79964b5fe888d4f4d0de40.png"
         }
     ]
 }
