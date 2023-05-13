@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-05-12T12:20:08.498Z",
+    "timestamp": "2023-05-13T19:38:59.423Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5299,6 +5299,14 @@
             "decimals": 18
         },
         {
+            "chainId": 1,
+            "address": "0xA5B947687163FE88C3e6af5b17Ae69896F4abccf",
+            "name": "Poseidon - H2O Governance Token",
+            "symbol": "PSDN",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/25316/large/psdn_32.png?1651216148"
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -6543,6 +6551,13 @@
             "symbol": "TRYB",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4fb71290ac171e1d144f7221d882becac7196eb5.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0xacC6DA74d8c0C993d070cfd518Fb86279f3AeAf1",
+            "name": "STAR V2",
+            "symbol": "STARV2",
+            "decimals": 18
         },
         {
             "chainId": 137,
