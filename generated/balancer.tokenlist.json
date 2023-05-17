@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-05-13T19:38:59.423Z",
+    "timestamp": "2023-05-17T01:31:29.827Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5307,6 +5307,13 @@
             "logoURI": "https://assets.coingecko.com/coins/images/25316/large/psdn_32.png?1651216148"
         },
         {
+            "chainId": 1,
+            "address": "0x2f65AAc617D2AeB822C4a5A61BEB5e17872F4B18",
+            "name": "Ingot",
+            "symbol": "INGOT",
+            "decimals": 18
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -5600,6 +5607,14 @@
             "symbol": "bb-ag-USDC",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe7f88d7d4ef2eb18fcf9dd7216ba7da1c46f3dd6.png"
+        },
+        {
+            "chainId": 100,
+            "address": "0xfa57AA7beED63D03Aaf85fFd1753f5f6242588fb",
+            "name": "MtPelerin Shares",
+            "symbol": "MPS",
+            "decimals": "0",
+            "logoURI": "https://assets.coingecko.com/coins/images/11471/large/MPS.png?1590319120"
         },
         {
             "chainId": 100,
@@ -6912,6 +6927,13 @@
             "symbol": "VINU",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xafcdd4f666c84fed1d8bd825aa762e3714f652c9.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x2520D50bfD793D3C757900D81229422F70171969",
+            "name": "Moo Convex USDR",
+            "symbol": "mooConvexUSDR",
+            "decimals": 18
         },
         {
             "chainId": 42161,
