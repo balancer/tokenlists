@@ -7,6 +7,7 @@ export enum Network {
   Arbitrum = '42161',
   Optimism = '10',
   Gnosis = '100',
+  Zkevm = '1101',
 }
 
 export type PartialTokenInfoMap = {
