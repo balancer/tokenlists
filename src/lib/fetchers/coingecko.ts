@@ -10,6 +10,7 @@ const platformIdMap: Record<Network, string> = {
   [Network.Arbitrum]: 'arbitrum-one',
   [Network.Optimism]: 'optimistic-ethereum',
   [Network.Gnosis]: 'xdai',
+  [Network.Zkevm]: 'polygon-zkevm',
 }
 
 const baseUrl = process.env.COINGECKO_API_KEY
