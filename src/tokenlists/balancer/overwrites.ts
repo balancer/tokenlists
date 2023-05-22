@@ -11,6 +11,11 @@ export const overwrites: OverwritesForList = {
       symbol: 'yCRV',
       decimals: 18,
     },
+    "0x45804880De22913dAFE09f4980848ECE6EcbAf78":{
+      name:"Paxos Gold",
+      symbol: "PAXG",
+      decimals: 18
+    },
     '0x89d24A6b4CcB1B6fAA2625fE562bDD9a23260359': {
       name: 'Sai Stablecoin v1.0',
       symbol: 'SAI',
