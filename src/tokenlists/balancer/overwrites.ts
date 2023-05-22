@@ -303,4 +303,5 @@ export const overwrites: OverwritesForList = {
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xba100000625a3754423978a60c9317c58a424e3d.png',
     },
   },
+  [Network.Zkevm]: {},
 }

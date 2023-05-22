@@ -27,6 +27,7 @@ export const MulticallerAddressMap = {
   [Network.Arbitrum]: '0x80C7DD17B01855a6D2347444a0FCC36136a314de',
   [Network.Optimism]: '0x2DC0E2aa608532Da689e89e237dF582B783E552C',
   [Network.Gnosis]: '0xbb6fab6b627947dae0a75808250d8b2652952cb5',
+  [Network.Zkevm]: '0xca11bde05977b3631167028862be2a173976ca11',
 }
 
 export type Args = {

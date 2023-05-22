@@ -11,6 +11,7 @@ const trustWalletNetworkMap: Record<Network, string> = {
   [Network.Arbitrum]: 'ethereum',
   [Network.Optimism]: 'ethereum',
   [Network.Gnosis]: 'xdai',
+  [Network.Zkevm]: 'polygonzkevm',
 }
 
 function convertTokenInfoToMap(tokenInfo: TokenInfo[]): PartialTokenInfoMap {
