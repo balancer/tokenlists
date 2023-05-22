@@ -20,7 +20,6 @@ export type TokenListMetadata = Pick<
 >
 
 export type TokensForList = Record<Network, string[]>
-export type OverwritesForList = Record<
-  Network,
-  Record<string, Partial<TokenInfo>>
+export type OverwritesForList = Partial<
+  Record<Network, Record<string, Partial<TokenInfo>>>
 >
