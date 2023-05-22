@@ -10,6 +10,11 @@ function getProvider(network: Network): InfuraProvider | JsonRpcProvider {
       `https://poa-xdai.gateway.pokt.network/v1/lb/${process.env.POKT_KEY}`
     )
   }
+  if (network === Network.Zkevm) {
+    return new JsonRpcProvider(
+      `https://polygonzkevm-mainnet.g.alchemy.com/v2/${process.env.ALCHEMY_KEY}`
+    )
+  }
   return new InfuraProvider(Number(network), process.env.INFURA_KEY)
 }
 
