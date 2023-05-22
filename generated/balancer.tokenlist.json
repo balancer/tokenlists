@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-05-22T09:40:16.152Z",
+    "timestamp": "2023-05-22T13:51:03.134Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6948,14 +6948,16 @@
             "address": "0x120eF59b80774F02211563834d8E3b72cb1649d6",
             "name": "Balancer",
             "symbol": "BAL",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x120ef59b80774f02211563834d8e3b72cb1649d6.png"
         },
         {
             "chainId": 1101,
             "address": "0xC5015b9d9161Dca7e18e32f6f25C4aD850731Fd4",
             "name": "Dai Stablecoin",
             "symbol": "DAI",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc5015b9d9161dca7e18e32f6f25c4ad850731fd4.png"
         },
         {
             "chainId": 1101,
@@ -6979,14 +6981,15 @@
             "name": "Wrapped Ether",
             "symbol": "WETH",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/2518/large/weth.png?1628852295"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4f9a0e7fd2bf6067db6994cf12e4495df938e6e9.png"
         },
         {
             "chainId": 1101,
             "address": "0xEA034fb02eB1808C2cc3adbC15f447B93CbE08e1",
             "name": "Wrapped BTC",
             "symbol": "WBTC",
-            "decimals": 8
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xea034fb02eb1808c2cc3adbc15f447b93cbe08e1.png"
         },
         {
             "chainId": 1101,
@@ -7001,14 +7004,16 @@
             "address": "0x83b874c1e09D316059d929da402dcB1A98e92082",
             "name": "Staked MATIC",
             "symbol": "stMATIC",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x83b874c1e09d316059d929da402dcb1a98e92082.png"
         },
         {
             "chainId": 1101,
             "address": "0x68286607A1d43602d880D349187c3c48c0fD05E6",
             "name": "QuickSwap",
             "symbol": "QUICK",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x68286607a1d43602d880d349187c3c48c0fd05e6.png"
         },
         {
             "chainId": 42161,
