@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-05-22T13:51:03.134Z",
+    "timestamp": "2023-05-23T10:56:40.706Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5311,6 +5311,13 @@
             "address": "0x2f65AAc617D2AeB822C4a5A61BEB5e17872F4B18",
             "name": "Ingot",
             "symbol": "INGOT",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x183015a9bA6fF60230fdEaDc3F43b3D788b13e21",
+            "name": "R Stablecoin",
+            "symbol": "R",
             "decimals": 18
         },
         {
