@@ -2,7 +2,6 @@ import { Network, TokensForList } from '../../types'
 
 export const tokens: TokensForList = {
   [Network.Mainnet]: [
-    '0x45804880De22913dAFE09f4980848ECE6EcbAf78',
     '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2',
     '0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48',
     '0x6B175474E89094C44Da98b954EedeAC495271d0F',
@@ -689,6 +688,7 @@ export const tokens: TokensForList = {
     '0x246ffB4d928E394a02E45761FecdbA6C2e79B8eB',
     '0xA5B947687163FE88C3e6af5b17Ae69896F4abccf',
     '0x2f65AAc617D2AeB822C4a5A61BEB5e17872F4B18',
+    '0x45804880De22913dAFE09f4980848ECE6EcbAf78',
   ],
   [Network.Goerli]: [
     '0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1',
