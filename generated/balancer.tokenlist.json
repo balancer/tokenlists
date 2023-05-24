@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-05-24T12:54:04.518Z",
+    "timestamp": "2023-05-24T13:26:05.859Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5702,6 +5702,14 @@
             "symbol": "AGVE",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x3a97704a1b25f08aa230ae53b352e2e72ef52843.png"
+        },
+        {
+            "chainId": 100,
+            "address": "0xcB444e90D8198415266c6a2724b7900fb12FC56E",
+            "name": "Monerium EUR emoney",
+            "symbol": "EURe",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/23354/large/eur.png?1643926562"
         },
         {
             "chainId": 137,
