@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-05-25T11:43:18.457Z",
+    "timestamp": "2023-05-25T13:55:17.981Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7664,13 +7664,6 @@
             "address": "0xa7997F0eC9fa54E89659229fB26537B6A725b798",
             "name": "Paladin Token",
             "symbol": "PAL",
-            "decimals": 18
-        },
-        {
-            "chainId": 42161,
-            "address": "0xCcF8FB2374b508986a527Deb89Ef6Ba340C83E46",
-            "name": "Bull",
-            "symbol": "BULL",
             "decimals": 18
         }
     ]
