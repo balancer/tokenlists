@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-05-24T13:26:05.859Z",
+    "timestamp": "2023-05-25T02:19:40.679Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6950,6 +6950,13 @@
             "symbol": "VINU",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xafcdd4f666c84fed1d8bd825aa762e3714f652c9.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x553d3D295e0f695B9228246232eDF400ed3560B5",
+            "name": "Paxos Gold (PoS)",
+            "symbol": "PAXG",
+            "decimals": 18
         },
         {
             "chainId": 137,
