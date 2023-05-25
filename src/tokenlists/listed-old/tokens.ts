@@ -393,6 +393,7 @@ export const tokens: Partial<TokensForList> = {
     '0xa1150db5105987CEC5Fd092273d1e3cbb22b378b',
     '0xEC70Dcb4A1EFa46b8F2D97C310C9c4790ba5ffA8',
     '0xDa1CD1711743e57Dd57102E9e61b75f3587703da',
+    '0xCcF8FB2374b508986a527Deb89Ef6Ba340C83E46',
   ],
   [Network.Optimism]: [
     '0x888a6195d42a95e80d81e1c506172772a80b80bc',
