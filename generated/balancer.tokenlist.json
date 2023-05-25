@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-05-12T01:02:44.028Z",
+    "timestamp": "2023-05-24T13:26:05.859Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5299,6 +5299,36 @@
             "decimals": 18
         },
         {
+            "chainId": 1,
+            "address": "0xA5B947687163FE88C3e6af5b17Ae69896F4abccf",
+            "name": "Poseidon - H2O Governance Token",
+            "symbol": "PSDN",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/25316/large/psdn_32.png?1651216148"
+        },
+        {
+            "chainId": 1,
+            "address": "0x2f65AAc617D2AeB822C4a5A61BEB5e17872F4B18",
+            "name": "Ingot",
+            "symbol": "INGOT",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x45804880De22913dAFE09f4980848ECE6EcbAf78",
+            "name": "Paxos Gold",
+            "symbol": "PAXG",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x45804880De22913dAFE09f4980848ECE6EcbAf78/logo.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x183015a9bA6fF60230fdEaDc3F43b3D788b13e21",
+            "name": "R Stablecoin",
+            "symbol": "R",
+            "decimals": 18
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -5595,6 +5625,14 @@
         },
         {
             "chainId": 100,
+            "address": "0xfa57AA7beED63D03Aaf85fFd1753f5f6242588fb",
+            "name": "MtPelerin Shares",
+            "symbol": "MPS",
+            "decimals": 0,
+            "logoURI": "https://assets.coingecko.com/coins/images/11471/large/MPS.png?1590319120"
+        },
+        {
+            "chainId": 100,
             "address": "0xFFFf76A3280e95dC855696111C2562Da09db2Ac0",
             "name": "Balancer Agave Boosted Pool (GNO)",
             "symbol": "bb-ag-GNO",
@@ -5664,6 +5702,14 @@
             "symbol": "AGVE",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x3a97704a1b25f08aa230ae53b352e2e72ef52843.png"
+        },
+        {
+            "chainId": 100,
+            "address": "0xcB444e90D8198415266c6a2724b7900fb12FC56E",
+            "name": "Monerium EUR emoney",
+            "symbol": "EURe",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/23354/large/eur.png?1643926562"
         },
         {
             "chainId": 137,
@@ -6546,6 +6592,13 @@
         },
         {
             "chainId": 137,
+            "address": "0xacC6DA74d8c0C993d070cfd518Fb86279f3AeAf1",
+            "name": "STAR V2",
+            "symbol": "STARV2",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
             "address": "0x7BDF330f423Ea880FF95fC41A280fD5eCFD3D09f",
             "name": "Euro Tether (PoS)",
             "symbol": "EURT",
@@ -6897,6 +6950,93 @@
             "symbol": "VINU",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xafcdd4f666c84fed1d8bd825aa762e3714f652c9.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x2520D50bfD793D3C757900D81229422F70171969",
+            "name": "Moo Convex USDR",
+            "symbol": "mooConvexUSDR",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0xA486c6BC102f409180cCB8a94ba045D39f8fc7cB",
+            "name": "Nash Exchange Token (PoS)",
+            "symbol": "NEX",
+            "decimals": 8,
+            "logoURI": "https://assets.coingecko.com/coins/images/3246/large/Nash_M.png?1680864855"
+        },
+        {
+            "chainId": 1101,
+            "address": "0x120eF59b80774F02211563834d8E3b72cb1649d6",
+            "name": "Balancer",
+            "symbol": "BAL",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x120ef59b80774f02211563834d8e3b72cb1649d6.png"
+        },
+        {
+            "chainId": 1101,
+            "address": "0xC5015b9d9161Dca7e18e32f6f25C4aD850731Fd4",
+            "name": "Dai Stablecoin",
+            "symbol": "DAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc5015b9d9161dca7e18e32f6f25c4ad850731fd4.png"
+        },
+        {
+            "chainId": 1101,
+            "address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389"
+        },
+        {
+            "chainId": 1101,
+            "address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 6,
+            "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether.png?1668148663"
+        },
+        {
+            "chainId": 1101,
+            "address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4f9a0e7fd2bf6067db6994cf12e4495df938e6e9.png"
+        },
+        {
+            "chainId": 1101,
+            "address": "0xEA034fb02eB1808C2cc3adbC15f447B93CbE08e1",
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xea034fb02eb1808c2cc3adbc15f447b93cbe08e1.png"
+        },
+        {
+            "chainId": 1101,
+            "address": "0xa2036f0538221a77A3937F1379699f44945018d0",
+            "name": "Matic Token",
+            "symbol": "MATIC",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/14073/large/matic.png?1628852392"
+        },
+        {
+            "chainId": 1101,
+            "address": "0x83b874c1e09D316059d929da402dcB1A98e92082",
+            "name": "Staked MATIC",
+            "symbol": "stMATIC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x83b874c1e09d316059d929da402dcb1a98e92082.png"
+        },
+        {
+            "chainId": 1101,
+            "address": "0x68286607A1d43602d880D349187c3c48c0fD05E6",
+            "name": "QuickSwap",
+            "symbol": "QUICK",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x68286607a1d43602d880d349187c3c48c0fd05e6.png"
         },
         {
             "chainId": 42161,
@@ -7501,6 +7641,21 @@
             "address": "0xA4914B824eF261D4ED0Ccecec29500862d57c0a1",
             "name": "DFX Token",
             "symbol": "DFX",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+            "name": "Arbitrum tBTC v2",
+            "symbol": "tBTC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6c84a8f1c29108f47a79964b5fe888d4f4d0de40.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xa7997F0eC9fa54E89659229fB26537B6A725b798",
+            "name": "Paladin Token",
+            "symbol": "PAL",
             "decimals": 18
         }
     ]

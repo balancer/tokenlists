@@ -1,6 +1,6 @@
 import { Network, TokensForList } from '../../types'
 
-export const tokens: TokensForList = {
+export const tokens: Partial<TokensForList> = {
   [Network.Mainnet]: [
     '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2',
     '0xba100000625a3754423978a60c9317c58a424e3D',
