@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-05-25T13:55:17.981Z",
+    "timestamp": "2023-05-26T01:18:57.510Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5327,6 +5327,14 @@
             "name": "R Stablecoin",
             "symbol": "R",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x304A2050dF259DCA35335C90CE983AdC5f2Dc50C",
+            "name": "Wrapped sWETH",
+            "symbol": "sWETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x304a2050df259dca35335c90ce983adc5f2dc50c.png"
         },
         {
             "chainId": 5,
