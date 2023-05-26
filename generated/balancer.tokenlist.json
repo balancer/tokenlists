@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-05-26T01:18:57.510Z",
+    "timestamp": "2023-05-26T15:28:01.921Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5326,7 +5326,8 @@
             "address": "0x183015a9bA6fF60230fdEaDc3F43b3D788b13e21",
             "name": "R Stablecoin",
             "symbol": "R",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/29551/large/R_logo_CMC.png?1679621963"
         },
         {
             "chainId": 1,
@@ -5718,6 +5719,20 @@
             "symbol": "EURe",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/23354/large/eur.png?1643926562"
+        },
+        {
+            "chainId": 100,
+            "address": "0x4b1E2c2762667331Bc91648052F646d1b0d35984",
+            "name": "agEUR",
+            "symbol": "agEUR",
+            "decimals": 18
+        },
+        {
+            "chainId": 100,
+            "address": "0x6C76971f98945AE98dD7d4DFcA8711ebea946eA6",
+            "name": "Wrapped liquid staked Ether 2.0 from Mainnet",
+            "symbol": "wstETH",
+            "decimals": 18
         },
         {
             "chainId": 137,
@@ -6814,7 +6829,7 @@
         {
             "chainId": 137,
             "address": "0xEC38621e72D86775a89C7422746de1f52bbA5320",
-            "name": "Davos",
+            "name": "Davos.xyz USD",
             "symbol": "DAVOS",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/28775/large/DAVOS_200x200.png?1676529599"
