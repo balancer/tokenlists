@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-05-26T15:28:01.921Z",
+    "timestamp": "2023-05-29T11:29:09.482Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5725,7 +5725,8 @@
             "address": "0x4b1E2c2762667331Bc91648052F646d1b0d35984",
             "name": "agEUR",
             "symbol": "agEUR",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4b1e2c2762667331bc91648052f646d1b0d35984.png"
         },
         {
             "chainId": 100,
