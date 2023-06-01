@@ -10,6 +10,18 @@ export enum Network {
   Zkevm = '1101',
 }
 
+export interface Config {
+  coingecko: {
+    platformId: string
+  }
+  trustWalletNetwork: string
+  addresses: {
+    multicaller: string
+  }
+}
+
+export type Configs = Record<Network, Config>
+
 export type PartialTokenInfoMap = {
   [address: string]: Partial<TokenInfo>
 }
