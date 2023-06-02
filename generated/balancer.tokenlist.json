@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-05-30T22:27:33.521Z",
+    "timestamp": "2023-06-02T04:16:02.898Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5733,7 +5733,8 @@
             "address": "0x6C76971f98945AE98dD7d4DFcA8711ebea946eA6",
             "name": "Wrapped liquid staked Ether 2.0 from Mainnet",
             "symbol": "wstETH",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/18834/large/wstETH.png?1633565443"
         },
         {
             "chainId": 137,
