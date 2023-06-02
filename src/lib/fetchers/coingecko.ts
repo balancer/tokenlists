@@ -2,16 +2,7 @@ import { TokenInfo } from '@uniswap/token-lists'
 import chalk from 'chalk'
 import { Network } from '../../types'
 import { sleep } from '../utils'
-
-const platformIdMap: Record<Network, string> = {
-  [Network.Mainnet]: 'ethereum',
-  [Network.Goerli]: 'goerli',
-  [Network.Polygon]: 'polygon-pos',
-  [Network.Arbitrum]: 'arbitrum-one',
-  [Network.Optimism]: 'optimistic-ethereum',
-  [Network.Gnosis]: 'xdai',
-  [Network.Zkevm]: 'polygon-zkevm',
-}
+import config from '../../config'
 
 const baseUrl = process.env.COINGECKO_API_KEY
   ? 'https://pro-api.coingecko.com/api/v3'
@@ -37,7 +28,7 @@ export async function fetchCoingeckoMetadata(
 
     const response = await fetch(
       `${baseUrl}/coins/${
-        platformIdMap[network]
+        config[network].coingecko.platformId
       }/contract/${address.toLowerCase()}?${apiKeyParam}`
     )
 

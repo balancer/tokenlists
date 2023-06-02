@@ -39,4 +39,4 @@ sure the token name for WETH was 'Wrapped Ether' then you would add:
 ```
 
 within the `overwrites.ts` file under the relevant network key, in this case
-`[Network.Mainnet]`
+`[Network.Ethereum]`
