@@ -1,14 +1,14 @@
 import { Network, TokensForList } from '../../types'
-import arbitrum from './networks/arbitrum'
-import gnosis from './networks/gnosis'
-import goerli from './networks/goerli'
-import mainnet from './networks/mainnet'
-import optimism from './networks/optimism'
-import polygon from './networks/polygon'
-import zkevm from './networks/zkevm'
+import arbitrum from './tokens/arbitrum'
+import gnosis from './tokens/gnosis'
+import goerli from './tokens/goerli'
+import ethereum from './tokens/ethereum'
+import optimism from './tokens/optimism'
+import polygon from './tokens/polygon'
+import zkevm from './tokens/zkevm'
 
 export const tokens: TokensForList = {
-  [Network.Mainnet]: mainnet,
+  [Network.Mainnet]: ethereum,
   [Network.Goerli]: goerli,
   [Network.Polygon]: polygon,
   [Network.Arbitrum]: arbitrum,

@@ -10,7 +10,7 @@ To make changes to the balancer tokenlist edit the files in
 [src/tokenlists/balancer](https://github.com/balancer/tokenlists/tree/main/src/tokenlists/balancer).
 
 1. `metadata.ts` - Edit this to change the highlevel tokenlist metadata.
-1. `networks/<network>.ts` - Edit this to add or remove tokens from the generated tokenlist. E.g Tokens for Arbitrum go in `networks/arbitrum.ts`, tokens for Ethereum go in `networks/mainnet.ts`. 
+1. `tokens/<network>.ts` - Edit this to add or remove tokens from the generated tokenlist. E.g Tokens for Arbitrum go in `tokens/arbitrum.ts`, tokens for Ethereum go in `tokens/ethereum.ts`. 
 1. `overwrites.ts` - Edit this to overwrite any token data that is incorrect
    when generated automatically.
 
