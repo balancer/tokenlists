@@ -8,7 +8,7 @@ import polygon from './tokens/polygon'
 import zkevm from './tokens/zkevm'
 
 export const tokens: TokensForList = {
-  [Network.Mainnet]: ethereum,
+  [Network.Ethereum]: ethereum,
   [Network.Goerli]: goerli,
   [Network.Polygon]: polygon,
   [Network.Arbitrum]: arbitrum,

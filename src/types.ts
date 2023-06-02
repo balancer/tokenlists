@@ -1,7 +1,7 @@
 import { TokenInfo, TokenList } from '@uniswap/token-lists'
 
 export enum Network {
-  Mainnet = '1',
+  Ethereum = '1',
   Goerli = '5',
   Polygon = '137',
   Arbitrum = '42161',
