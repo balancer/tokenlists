@@ -1,5 +1,6 @@
 import { Network, TokensForList } from '../../types'
 import arbitrum from './tokens/arbitrum'
+import avalanche from './tokens/avalanche'
 import gnosis from './tokens/gnosis'
 import goerli from './tokens/goerli'
 import ethereum from './tokens/ethereum'
@@ -15,4 +16,5 @@ export const tokens: TokensForList = {
   [Network.Optimism]: optimism,
   [Network.Gnosis]: gnosis,
   [Network.Zkevm]: zkevm,
+  [Network.Avalanche]: avalanche,
 }
