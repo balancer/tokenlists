@@ -3,16 +3,7 @@ import { Network, OverwritesForList, PartialTokenInfoMap } from '../../types'
 import fs from 'fs'
 import { getAddress, isAddress } from 'ethers'
 import { merge, pick } from 'lodash'
-
-const trustWalletNetworkMap: Record<Network, string> = {
-  [Network.Mainnet]: 'ethereum',
-  [Network.Goerli]: 'ethereum',
-  [Network.Polygon]: 'polygon',
-  [Network.Arbitrum]: 'ethereum',
-  [Network.Optimism]: 'ethereum',
-  [Network.Gnosis]: 'xdai',
-  [Network.Zkevm]: 'polygonzkevm',
-}
+import config from '../../config'
 
 function convertTokenInfoToMap(tokenInfo: TokenInfo[]): PartialTokenInfoMap {
   return tokenInfo.reduce((map: PartialTokenInfoMap, obj) => {
@@ -33,7 +24,7 @@ async function fetchTrustWalletMetadata(
 ): Promise<PartialTokenInfoMap> {
   try {
     // eslint-disable-next-line max-len
-    const url = `https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/${trustWalletNetworkMap[network]}/tokenlist.json`
+    const url = `https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/${config[network].trustWalletNetwork}/tokenlist.json`
     const response = await fetch(url)
     const { tokens } = await response.json()
     for (const token of tokens) {

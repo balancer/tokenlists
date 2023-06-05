@@ -9,7 +9,7 @@
         "Balancer"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-05-04T08:48:20.897Z",
+    "timestamp": "2023-05-26T15:28:18.352Z",
     "tokens": [
         {
             "chainId": 1,
@@ -2665,7 +2665,7 @@
         {
             "chainId": 137,
             "address": "0xEC38621e72D86775a89C7422746de1f52bbA5320",
-            "name": "Davos",
+            "name": "Davos.xyz USD",
             "symbol": "DAVOS",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/28775/large/DAVOS_200x200.png?1676529599"

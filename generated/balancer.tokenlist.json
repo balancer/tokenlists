@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-05-25T11:43:18.457Z",
+    "timestamp": "2023-06-02T04:16:02.898Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5326,7 +5326,16 @@
             "address": "0x183015a9bA6fF60230fdEaDc3F43b3D788b13e21",
             "name": "R Stablecoin",
             "symbol": "R",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/29551/large/R_logo_CMC.png?1679621963"
+        },
+        {
+            "chainId": 1,
+            "address": "0x304A2050dF259DCA35335C90CE983AdC5f2Dc50C",
+            "name": "Wrapped sWETH",
+            "symbol": "sWETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x304a2050df259dca35335c90ce983adc5f2dc50c.png"
         },
         {
             "chainId": 5,
@@ -5710,6 +5719,22 @@
             "symbol": "EURe",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/23354/large/eur.png?1643926562"
+        },
+        {
+            "chainId": 100,
+            "address": "0x4b1E2c2762667331Bc91648052F646d1b0d35984",
+            "name": "agEUR",
+            "symbol": "agEUR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4b1e2c2762667331bc91648052f646d1b0d35984.png"
+        },
+        {
+            "chainId": 100,
+            "address": "0x6C76971f98945AE98dD7d4DFcA8711ebea946eA6",
+            "name": "Wrapped liquid staked Ether 2.0 from Mainnet",
+            "symbol": "wstETH",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/18834/large/wstETH.png?1633565443"
         },
         {
             "chainId": 137,
@@ -6806,7 +6831,7 @@
         {
             "chainId": 137,
             "address": "0xEC38621e72D86775a89C7422746de1f52bbA5320",
-            "name": "Davos",
+            "name": "Davos.xyz USD",
             "symbol": "DAVOS",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/28775/large/DAVOS_200x200.png?1676529599"
@@ -6973,6 +6998,21 @@
             "symbol": "NEX",
             "decimals": 8,
             "logoURI": "https://assets.coingecko.com/coins/images/3246/large/Nash_M.png?1680864855"
+        },
+        {
+            "chainId": 137,
+            "address": "0xF84BD51eab957c2e7B7D646A3427C5A50848281D",
+            "name": "AGA Rewards (PoS)",
+            "symbol": "AGAr",
+            "decimals": 8
+        },
+        {
+            "chainId": 137,
+            "address": "0x033d942A6b495C4071083f4CDe1f17e986FE856c",
+            "name": "AGA Token (PoS)",
+            "symbol": "AGA",
+            "decimals": 4,
+            "logoURI": "https://assets.coingecko.com/coins/images/12180/large/aga-logo.png?1597937396"
         },
         {
             "chainId": 1101,
@@ -7664,13 +7704,6 @@
             "address": "0xa7997F0eC9fa54E89659229fB26537B6A725b798",
             "name": "Paladin Token",
             "symbol": "PAL",
-            "decimals": 18
-        },
-        {
-            "chainId": 42161,
-            "address": "0xCcF8FB2374b508986a527Deb89Ef6Ba340C83E46",
-            "name": "Bull",
-            "symbol": "BULL",
             "decimals": 18
         }
     ]

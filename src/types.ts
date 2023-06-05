@@ -1,7 +1,7 @@
 import { TokenInfo, TokenList } from '@uniswap/token-lists'
 
 export enum Network {
-  Mainnet = '1',
+  Ethereum = '1',
   Goerli = '5',
   Polygon = '137',
   Arbitrum = '42161',
@@ -9,6 +9,18 @@ export enum Network {
   Gnosis = '100',
   Zkevm = '1101',
 }
+
+export interface Config {
+  coingecko: {
+    platformId: string
+  }
+  trustWalletNetwork: string
+  addresses: {
+    multicaller: string
+  }
+}
+
+export type Configs = Record<Network, Config>
 
 export type PartialTokenInfoMap = {
   [address: string]: Partial<TokenInfo>

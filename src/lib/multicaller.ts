@@ -8,6 +8,7 @@ import {
 import { Network } from '../types'
 import { set } from 'lodash'
 import chalk from 'chalk'
+import config from '../config'
 
 /**
  * TYPES
@@ -18,16 +19,6 @@ export type Call = {
   function: string | FunctionFragment
   abi: any
   params?: any[]
-}
-
-export const MulticallerAddressMap = {
-  [Network.Mainnet]: '0x5ba1e12693dc8f9c48aad8770482f4739beed696',
-  [Network.Goerli]: '0x5BA1e12693Dc8F9c48aAD8770482f4739bEeD696',
-  [Network.Polygon]: '0x275617327c958bD06b5D6b871E7f491D76113dd8',
-  [Network.Arbitrum]: '0x80C7DD17B01855a6D2347444a0FCC36136a314de',
-  [Network.Optimism]: '0x2DC0E2aa608532Da689e89e237dF582B783E552C',
-  [Network.Gnosis]: '0xbb6fab6b627947dae0a75808250d8b2652952cb5',
-  [Network.Zkevm]: '0xca11bde05977b3631167028862be2a173976ca11',
 }
 
 export type Args = {
@@ -176,7 +167,7 @@ export class Multicaller {
 
   private getMulticallerAddress(network: Network): string {
     try {
-      return getAddress(MulticallerAddressMap[network])
+      return getAddress(config[network].addresses.multicaller)
     } catch (error) {
       throw new Error(`Multicaller does not support this network: ${network}`)
     }
