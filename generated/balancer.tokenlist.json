@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-06-02T04:16:02.898Z",
+    "timestamp": "2023-06-05T14:29:05.302Z",
     "tokens": [
         {
             "chainId": 1,
@@ -106,6 +106,14 @@
             "symbol": "KNC",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/947/large/logo-kncl.png?1618984814"
+        },
+        {
+            "chainId": 1,
+            "address": "0x183015a9bA6fF60230fdEaDc3F43b3D788b13e21",
+            "name": "R Stablecoin",
+            "symbol": "R",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/29551/large/R_logo_CMC.png?1679621963"
         },
         {
             "chainId": 1,
@@ -5320,14 +5328,6 @@
             "symbol": "PAXG",
             "decimals": 18,
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x45804880De22913dAFE09f4980848ECE6EcbAf78/logo.png"
-        },
-        {
-            "chainId": 1,
-            "address": "0x183015a9bA6fF60230fdEaDc3F43b3D788b13e21",
-            "name": "R Stablecoin",
-            "symbol": "R",
-            "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/29551/large/R_logo_CMC.png?1679621963"
         },
         {
             "chainId": 1,
