@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-06-06T08:52:21.296Z",
+    "timestamp": "2023-06-06T09:30:57.419Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7719,7 +7719,8 @@
             "address": "0x8239A6b877804206C7799028232A7188DA487CeC",
             "name": "Balancer",
             "symbol": "BAL",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x8239a6b877804206c7799028232a7188da487cec.png"
         },
         {
             "chainId": 43114,
