@@ -13,6 +13,11 @@ function getProvider(network: Network): InfuraProvider | JsonRpcProvider {
       `https://polygonzkevm-mainnet.g.alchemy.com/v2/${process.env.ALCHEMY_KEY}`
     )
   }
+  if (network === Network.Avalanche) {
+    return new JsonRpcProvider(
+      `https://avalanche-mainnet.infura.io/v3/${process.env.INFURA_KEY}`
+    )
+  }
   return new InfuraProvider(Number(network), process.env.INFURA_KEY)
 }
 
