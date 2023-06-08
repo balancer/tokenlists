@@ -281,7 +281,14 @@ export const overwrites: OverwritesForList = {
         'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984/logo.png',
     },
     '0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8': {
-      name: 'USD Coin',
+      symbol: 'USDC.e',
+      name: 'Bridged USDC',
+      logoURI:
+        'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png',
+    },
+    '0xaf88d065e77c8cC2239327C5EDb3A432268e5831': {
+      symbol: 'USDC',
+      name: 'USDC Coin',
       logoURI:
         'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png',
     },
