@@ -9,7 +9,7 @@
         "Balancer"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-06-05T15:18:33.353Z",
+    "timestamp": "2023-06-08T15:49:18.957Z",
     "tokens": [
         {
             "chainId": 1,
@@ -3048,6 +3048,13 @@
             "symbol": "USDT",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6
         },
         {
             "chainId": 42161,

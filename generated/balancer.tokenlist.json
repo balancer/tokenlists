@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-06-08T15:13:35.273Z",
+    "timestamp": "2023-06-08T15:49:01.156Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7318,9 +7318,17 @@
         },
         {
             "chainId": 42161,
-            "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
-            "name": "USDC.e",
+            "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+            "name": "USDC Coin",
             "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+            "name": "Bridged USDC",
+            "symbol": "USDC.e",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
         },
@@ -7615,8 +7623,8 @@
         {
             "chainId": 42161,
             "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
-            "name": "USDC.e",
-            "symbol": "USDC",
+            "name": "Bridged USDC",
+            "symbol": "USDC.e",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
         },
@@ -7713,13 +7721,6 @@
             "name": "Paladin Token",
             "symbol": "PAL",
             "decimals": 18
-        },
-        {
-            "chainId": 42161,
-            "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
-            "name": "USD Coin",
-            "symbol": "USDC",
-            "decimals": 6
         },
         {
             "chainId": 43114,
