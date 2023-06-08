@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-06-08T19:14:17.252Z",
+    "timestamp": "2023-06-08T20:03:58.140Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7098,14 +7098,16 @@
             "address": "0xb23C20EFcE6e24Acca0Cef9B7B7aA196b84EC942",
             "name": "Rocket Pool ETH",
             "symbol": "rETH",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb23c20efce6e24acca0cef9b7b7aa196b84ec942.png"
         },
         {
             "chainId": 1101,
             "address": "0x5D8cfF95D7A57c0BF50B30b43c7CC0D52825D4a9",
             "name": "Wrapped liquid staked Ether 2.0",
             "symbol": "wstETH",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5d8cff95d7a57c0bf50b30b43c7cc0d52825d4a9.png"
         },
         {
             "chainId": 1101,
