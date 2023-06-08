@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-06-08T15:49:01.156Z",
+    "timestamp": "2023-06-08T19:14:17.252Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7092,6 +7092,48 @@
             "symbol": "QUICK",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x68286607a1d43602d880d349187c3c48c0fd05e6.png"
+        },
+        {
+            "chainId": 1101,
+            "address": "0xb23C20EFcE6e24Acca0Cef9B7B7aA196b84EC942",
+            "name": "Rocket Pool ETH",
+            "symbol": "rETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 1101,
+            "address": "0x5D8cfF95D7A57c0BF50B30b43c7CC0D52825D4a9",
+            "name": "Wrapped liquid staked Ether 2.0",
+            "symbol": "wstETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 1101,
+            "address": "0xe1F2c039a68A216dE6DD427Be6c60dEcf405762A",
+            "name": "Balancer wstETH Stable Pool",
+            "symbol": "B-wstETH-STABLE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1101,
+            "address": "0xe274c9deb6ed34cfe4130F8D0A8a948deA5bB286",
+            "name": "Balancer 0vix Boosted StablePool",
+            "symbol": "bb-o-USD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1101,
+            "address": "0x4B718E0E2fEA1dA68b763CD50C446FbA03CEB2Ea",
+            "name": "Balancer 0vix Boosted Pool (USDT)",
+            "symbol": "bb-o-USDT",
+            "decimals": 18
+        },
+        {
+            "chainId": 1101,
+            "address": "0x16C9a4D841E88E52b51936106010F27085a529EC",
+            "name": "Balancer 0vix Boosted Pool (USDC)",
+            "symbol": "bb-o-USDC",
+            "decimals": 18
         },
         {
             "chainId": 42161,
