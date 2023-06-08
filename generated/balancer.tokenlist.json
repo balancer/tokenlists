@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-06-06T09:30:57.419Z",
+    "timestamp": "2023-06-08T15:13:35.273Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5460,6 +5460,13 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa89436b4a7dcd19514bc71c0ddef60f66f0c78b5.png"
         },
         {
+            "chainId": 5,
+            "address": "0xE8310a081d2284EB42C84246f6Ab43bce7BbFb53",
+            "name": "BAR Test Token",
+            "symbol": "BAR",
+            "decimals": 18
+        },
+        {
             "chainId": 10,
             "address": "0x888a6195D42a95e80D81e1c506172772a80b80Bc",
             "name": "Beets Reaper Aave Boosted DAI",
@@ -7312,7 +7319,7 @@
         {
             "chainId": 42161,
             "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
-            "name": "USD Coin",
+            "name": "USDC.e",
             "symbol": "USDC",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
@@ -7608,7 +7615,7 @@
         {
             "chainId": 42161,
             "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
-            "name": "USD Coin",
+            "name": "USDC.e",
             "symbol": "USDC",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
@@ -7689,7 +7696,8 @@
             "address": "0xA4914B824eF261D4ED0Ccecec29500862d57c0a1",
             "name": "DFX Token",
             "symbol": "DFX",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/14091/large/DFX.png?1614320944"
         },
         {
             "chainId": 42161,
@@ -7705,6 +7713,13 @@
             "name": "Paladin Token",
             "symbol": "PAL",
             "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6
         },
         {
             "chainId": 43114,
