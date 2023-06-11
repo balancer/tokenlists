@@ -8,6 +8,7 @@ export enum Network {
   Optimism = '10',
   Gnosis = '100',
   Zkevm = '1101',
+  Avalanche = '43114',
 }
 
 export interface Config {

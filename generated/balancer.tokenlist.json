@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-06-02T04:16:02.898Z",
+    "timestamp": "2023-06-08T20:03:58.140Z",
     "tokens": [
         {
             "chainId": 1,
@@ -106,6 +106,14 @@
             "symbol": "KNC",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/947/large/logo-kncl.png?1618984814"
+        },
+        {
+            "chainId": 1,
+            "address": "0x183015a9bA6fF60230fdEaDc3F43b3D788b13e21",
+            "name": "R Stablecoin",
+            "symbol": "R",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/29551/large/R_logo_CMC.png?1679621963"
         },
         {
             "chainId": 1,
@@ -5323,14 +5331,6 @@
         },
         {
             "chainId": 1,
-            "address": "0x183015a9bA6fF60230fdEaDc3F43b3D788b13e21",
-            "name": "R Stablecoin",
-            "symbol": "R",
-            "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/29551/large/R_logo_CMC.png?1679621963"
-        },
-        {
-            "chainId": 1,
             "address": "0x304A2050dF259DCA35335C90CE983AdC5f2Dc50C",
             "name": "Wrapped sWETH",
             "symbol": "sWETH",
@@ -5458,6 +5458,13 @@
             "symbol": "DVT",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa89436b4a7dcd19514bc71c0ddef60f66f0c78b5.png"
+        },
+        {
+            "chainId": 5,
+            "address": "0xE8310a081d2284EB42C84246f6Ab43bce7BbFb53",
+            "name": "BAR Test Token",
+            "symbol": "BAR",
+            "decimals": 18
         },
         {
             "chainId": 10,
@@ -7087,6 +7094,50 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x68286607a1d43602d880d349187c3c48c0fd05e6.png"
         },
         {
+            "chainId": 1101,
+            "address": "0xb23C20EFcE6e24Acca0Cef9B7B7aA196b84EC942",
+            "name": "Rocket Pool ETH",
+            "symbol": "rETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb23c20efce6e24acca0cef9b7b7aa196b84ec942.png"
+        },
+        {
+            "chainId": 1101,
+            "address": "0x5D8cfF95D7A57c0BF50B30b43c7CC0D52825D4a9",
+            "name": "Wrapped liquid staked Ether 2.0",
+            "symbol": "wstETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5d8cff95d7a57c0bf50b30b43c7cc0d52825d4a9.png"
+        },
+        {
+            "chainId": 1101,
+            "address": "0xe1F2c039a68A216dE6DD427Be6c60dEcf405762A",
+            "name": "Balancer wstETH Stable Pool",
+            "symbol": "B-wstETH-STABLE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1101,
+            "address": "0xe274c9deb6ed34cfe4130F8D0A8a948deA5bB286",
+            "name": "Balancer 0vix Boosted StablePool",
+            "symbol": "bb-o-USD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1101,
+            "address": "0x4B718E0E2fEA1dA68b763CD50C446FbA03CEB2Ea",
+            "name": "Balancer 0vix Boosted Pool (USDT)",
+            "symbol": "bb-o-USDT",
+            "decimals": 18
+        },
+        {
+            "chainId": 1101,
+            "address": "0x16C9a4D841E88E52b51936106010F27085a529EC",
+            "name": "Balancer 0vix Boosted Pool (USDC)",
+            "symbol": "bb-o-USDC",
+            "decimals": 18
+        },
+        {
             "chainId": 42161,
             "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
             "name": "Arbitrum",
@@ -7311,9 +7362,17 @@
         },
         {
             "chainId": 42161,
-            "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
-            "name": "USD Coin",
+            "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+            "name": "USDC Coin",
             "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+            "name": "Bridged USDC",
+            "symbol": "USDC.e",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
         },
@@ -7608,8 +7667,8 @@
         {
             "chainId": 42161,
             "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
-            "name": "USD Coin",
-            "symbol": "USDC",
+            "name": "Bridged USDC",
+            "symbol": "USDC.e",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
         },
@@ -7689,7 +7748,8 @@
             "address": "0xA4914B824eF261D4ED0Ccecec29500862d57c0a1",
             "name": "DFX Token",
             "symbol": "DFX",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/14091/large/DFX.png?1614320944"
         },
         {
             "chainId": 42161,
@@ -7705,6 +7765,229 @@
             "name": "Paladin Token",
             "symbol": "PAL",
             "decimals": 18
+        },
+        {
+            "chainId": 43114,
+            "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+            "name": "Wrapped AVAX",
+            "symbol": "WAVAX",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/avalanchec/assets/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x8239A6b877804206C7799028232A7188DA487CeC",
+            "name": "Balancer",
+            "symbol": "BAL",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x8239a6b877804206c7799028232a7188da487cec.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+            "name": "TetherToken",
+            "symbol": "USDt",
+            "decimals": 6,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/avalanchec/assets/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/avalanchec/assets/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
+            "name": "Dai Stablecoin",
+            "symbol": "DAI.e",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/avalanchec/assets/0xd586E7F844cEa2F87f50152665BCbc2C279D8d70/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x50b7545627a5162F82A992c33b87aDc75187B218",
+            "name": "Wrapped BTC",
+            "symbol": "WBTC.e",
+            "decimals": 8,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/avalanchec/assets/0x50b7545627a5162F82A992c33b87aDc75187B218/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x63a72806098Bd3D9520cC43356dD78afe5D386D9",
+            "name": "Aave Token",
+            "symbol": "AAVE.e",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/avalanchec/assets/0x63a72806098Bd3D9520cC43356dD78afe5D386D9/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x02D980A0D7AF3fb7Cf7Df8cB35d9eDBCF355f665",
+            "name": "SHIBA INU",
+            "symbol": "SHIB.e",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/avalanchec/assets/0x02D980A0D7AF3fb7Cf7Df8cB35d9eDBCF355f665/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x8eBAf22B6F053dFFeaf46f4Dd9eFA95D89ba8580",
+            "name": "Uniswap",
+            "symbol": "UNI.e",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/avalanchec/assets/0x8eBAf22B6F053dFFeaf46f4Dd9eFA95D89ba8580/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x5947BB275c521040051D82396192181b413227A3",
+            "name": "Chainlink Token",
+            "symbol": "LINK.e",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/avalanchec/assets/0x5947BB275c521040051D82396192181b413227A3/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x1C20E891Bab6b1727d14Da358FAe2984Ed9B59EB",
+            "name": "TrueUSD",
+            "symbol": "TUSD",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/avalanchec/assets/0x1C20E891Bab6b1727d14Da358FAe2984Ed9B59EB/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x8a0cAc13c7da965a312f08ea4229c37869e85cB9",
+            "name": "Graph Token",
+            "symbol": "GRT.e",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/avalanchec/assets/0x8a0cAc13c7da965a312f08ea4229c37869e85cB9/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64",
+            "name": "Frax",
+            "symbol": "FRAX",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/avalanchec/assets/0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x214DB107654fF987AD859F34125307783fC8e387",
+            "name": "Frax Share",
+            "symbol": "FXS",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/avalanchec/assets/0x214DB107654fF987AD859F34125307783fC8e387/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x249848BeCA43aC405b8102Ec90Dd5F22CA513c06",
+            "name": "Curve DAO Token",
+            "symbol": "CRV.e",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/avalanchec/assets/0x249848BeCA43aC405b8102Ec90Dd5F22CA513c06/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xBeC243C995409E6520D7C41E404da5dEba4b209B",
+            "name": "Synthetix Network Token",
+            "symbol": "SNX.e",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/avalanchec/assets/0xBeC243C995409E6520D7C41E404da5dEba4b209B/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x88128fd4b259552A9A1D457f435a6527AAb72d42",
+            "name": "Maker",
+            "symbol": "MKR.e",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/avalanchec/assets/0x88128fd4b259552A9A1D457f435a6527AAb72d42/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x62edc0692BD897D2295872a9FFCac5425011c661",
+            "name": "GMX",
+            "symbol": "GMX",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/avalanchec/assets/0x62edc0692BD897D2295872a9FFCac5425011c661/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xd501281565bf7789224523144Fe5D98e8B28f267",
+            "name": "1INCH Token",
+            "symbol": "1INCH.e",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/avalanchec/assets/0xd501281565bf7789224523144Fe5D98e8B28f267/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x98443B96EA4b0858FDF3219Cd13e98C7A4690588",
+            "name": "Basic Attention Token",
+            "symbol": "BAT.e",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/avalanchec/assets/0x98443B96EA4b0858FDF3219Cd13e98C7A4690588/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xc3048E19E76CB9a3Aa9d77D8C03c29Fc906e2437",
+            "name": "Compound",
+            "symbol": "COMP.e",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/avalanchec/assets/0xc3048E19E76CB9a3Aa9d77D8C03c29Fc906e2437/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x9eAaC1B23d935365bD7b542Fe22cEEe2922f52dc",
+            "name": "yearn.finance",
+            "symbol": "YFI.e",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/avalanchec/assets/0x9eAaC1B23d935365bD7b542Fe22cEEe2922f52dc/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x37B608519F91f70F2EeB0e5Ed9AF4061722e4F76",
+            "name": "SushiToken",
+            "symbol": "SUSHI.e",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/avalanchec/assets/0x37B608519F91f70F2EeB0e5Ed9AF4061722e4F76/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+            "name": "JoeToken",
+            "symbol": "JOE",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/17569/large/traderjoe.png?1685690062"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x57319d41F71E81F3c65F2a47CA4e001EbAFd4F33",
+            "name": "JoeBar",
+            "symbol": "xJOE",
+            "decimals": 18
+        },
+        {
+            "chainId": 43114,
+            "address": "0x596fA47043f99A4e0F122243B841E55375cdE0d2",
+            "name": "ZRX",
+            "symbol": "ZRX.e",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/avalanchec/assets/0x596fA47043f99A4e0F122243B841E55375cdE0d2/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
+            "name": "Bitcoin",
+            "symbol": "BTC.b",
+            "decimals": 8,
+            "logoURI": "https://assets.coingecko.com/coins/images/26115/large/btcb.png?1655921693"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+            "name": "StargateToken",
+            "symbol": "STG",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/24413/large/STG_LOGO.png?1647654518"
         }
     ]
 }

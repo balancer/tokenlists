@@ -6,13 +6,16 @@ import ERC20_ABI from '../abi/ERC20.abi.json'
 function getProvider(network: Network): InfuraProvider | JsonRpcProvider {
   if (!process.env.INFURA_KEY) throw new Error('Missing INFURA_KEY env var')
   if (network === Network.Gnosis) {
-    return new JsonRpcProvider(
-      `https://poa-xdai.gateway.pokt.network/v1/lb/${process.env.POKT_KEY}`
-    )
+    return new JsonRpcProvider(`https://rpc.gnosischain.com`)
   }
   if (network === Network.Zkevm) {
     return new JsonRpcProvider(
       `https://polygonzkevm-mainnet.g.alchemy.com/v2/${process.env.ALCHEMY_KEY}`
+    )
+  }
+  if (network === Network.Avalanche) {
+    return new JsonRpcProvider(
+      `https://avalanche-mainnet.infura.io/v3/${process.env.INFURA_KEY}`
     )
   }
   return new InfuraProvider(Number(network), process.env.INFURA_KEY)

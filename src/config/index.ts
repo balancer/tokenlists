@@ -1,5 +1,6 @@
 import { Network, Configs } from '../types'
 import arbitrum from './arbitrum'
+import avalanche from './avalanche'
 import gnosis from './gnosis'
 import goerli from './goerli'
 import ethereum from './ethereum'
@@ -9,6 +10,7 @@ import zkevm from './zkevm'
 
 const config: Configs = {
   [Network.Arbitrum]: arbitrum,
+  [Network.Avalanche]: avalanche,
   [Network.Gnosis]: gnosis,
   [Network.Goerli]: goerli,
   [Network.Ethereum]: ethereum,

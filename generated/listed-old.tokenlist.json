@@ -9,7 +9,7 @@
         "Balancer"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-05-26T15:28:18.352Z",
+    "timestamp": "2023-06-08T16:15:09.834Z",
     "tokens": [
         {
             "chainId": 1,
@@ -58,6 +58,14 @@
             "symbol": "USDT",
             "decimals": 6,
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x183015a9bA6fF60230fdEaDc3F43b3D788b13e21",
+            "name": "R Stablecoin",
+            "symbol": "R",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/29551/large/R_200x200.png?1685954962"
         },
         {
             "chainId": 1,
@@ -3043,9 +3051,17 @@
         },
         {
             "chainId": 42161,
-            "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
-            "name": "USD Coin",
+            "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+            "name": "USDC Coin",
             "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+            "name": "Bridged USDC",
+            "symbol": "USDC.e",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
         },
