@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-06-08T20:03:58.140Z",
+    "timestamp": "2023-06-11T20:37:30.252Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5461,9 +5461,37 @@
         },
         {
             "chainId": 5,
+            "address": "0x7c7f7F252E0aA00960F6075bbEb278e8a06BC04c",
+            "name": "TokenTest1",
+            "symbol": "TKN1",
+            "decimals": 18
+        },
+        {
+            "chainId": 5,
+            "address": "0x9a1cB58840ee8c5533063c8d9b00d3a299B9C41e",
+            "name": "TokenTest2",
+            "symbol": "TKN2",
+            "decimals": 18
+        },
+        {
+            "chainId": 5,
             "address": "0xE8310a081d2284EB42C84246f6Ab43bce7BbFb53",
             "name": "BAR Test Token",
             "symbol": "BAR",
+            "decimals": 18
+        },
+        {
+            "chainId": 5,
+            "address": "0x6320cD32aA674d2898A68ec82e869385Fc5f7E2f",
+            "name": "Wrapped liquid staked Ether 2.0",
+            "symbol": "wstETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 5,
+            "address": "0x178E141a0E3b34152f73Ff610437A7bf9B83267A",
+            "name": "Rocket Pool ETH",
+            "symbol": "rETH",
             "decimals": 18
         },
         {
