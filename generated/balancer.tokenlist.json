@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-06-11T20:37:30.252Z",
+    "timestamp": "2023-06-12T01:13:43.034Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7793,6 +7793,14 @@
             "name": "Paladin Token",
             "symbol": "PAL",
             "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x29C1EA5ED7af53094b1a79eF60d20641987c867e",
+            "name": "Acid",
+            "symbol": "ACID",
+            "decimals": 9,
+            "logoURI": "https://assets.coingecko.com/coins/images/29418/large/acid_200_200.png?1678696816"
         },
         {
             "chainId": 43114,
