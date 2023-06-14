@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-06-12T01:13:43.034Z",
+    "timestamp": "2023-06-14T01:48:08.963Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5495,6 +5495,13 @@
             "decimals": 18
         },
         {
+            "chainId": 5,
+            "address": "0xB4f4231fC4Be7A34f0a1BE046538793Dc8D99c0E",
+            "name": "Universal ETH",
+            "symbol": "uniETH",
+            "decimals": 18
+        },
+        {
             "chainId": 10,
             "address": "0x888a6195D42a95e80D81e1c506172772a80b80Bc",
             "name": "Beets Reaper Aave Boosted DAI",
@@ -7801,6 +7808,14 @@
             "symbol": "ACID",
             "decimals": 9,
             "logoURI": "https://assets.coingecko.com/coins/images/29418/large/acid_200_200.png?1678696816"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x6A7661795C374c0bFC635934efAddFf3A7Ee23b6",
+            "name": "Dola USD Stablecoin",
+            "symbol": "DOLA",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/14287/large/dola.png?1667738374"
         },
         {
             "chainId": 43114,
