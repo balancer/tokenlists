@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-06-14T01:48:08.963Z",
+    "timestamp": "2023-06-15T14:00:57.929Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5336,6 +5336,14 @@
             "symbol": "sWETH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x304a2050df259dca35335c90ce983adc5f2dc50c.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xA53e968b8d8a5Be52d66e5BB35d9b6B6B5A5CD2F",
+            "name": "BIDSHOP",
+            "symbol": "BIDS",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/30404/large/Logo_200_200.png?1684373802"
         },
         {
             "chainId": 5,
