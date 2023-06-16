@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-06-15T14:00:57.929Z",
+    "timestamp": "2023-06-16T12:34:09.766Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7824,6 +7824,14 @@
             "symbol": "DOLA",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/14287/large/dola.png?1667738374"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xD0dC20e6342DB2dE82692B8Dc842301ff9121805",
+            "name": "NFTFi on Layer2",
+            "symbol": "80NFTE-20WETH-bb-BPT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd0dc20e6342db2de82692b8dc842301ff9121805.png"
         },
         {
             "chainId": 43114,
