@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-06-16T12:34:09.766Z",
+    "timestamp": "2023-06-17T02:27:55.414Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6667,13 +6667,6 @@
         },
         {
             "chainId": 137,
-            "address": "0xacC6DA74d8c0C993d070cfd518Fb86279f3AeAf1",
-            "name": "STAR V2",
-            "symbol": "STARV2",
-            "decimals": 18
-        },
-        {
-            "chainId": 137,
             "address": "0x7BDF330f423Ea880FF95fC41A280fD5eCFD3D09f",
             "name": "Euro Tether (PoS)",
             "symbol": "EURT",
@@ -7063,6 +7056,13 @@
             "symbol": "AGA",
             "decimals": 4,
             "logoURI": "https://assets.coingecko.com/coins/images/12180/large/aga-logo.png?1597937396"
+        },
+        {
+            "chainId": 137,
+            "address": "0xD289c01528921B5f6D5B111a50a99456D495bF78",
+            "name": "STAR V2",
+            "symbol": "STARV2",
+            "decimals": 18
         },
         {
             "chainId": 1101,
