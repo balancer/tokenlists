@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-06-17T02:27:55.414Z",
+    "timestamp": "2023-06-19T11:56:00.130Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5787,6 +5787,13 @@
             "logoURI": "https://assets.coingecko.com/coins/images/18834/large/wstETH.png?1633565443"
         },
         {
+            "chainId": 100,
+            "address": "0xbAd20c15A773bf03ab973302F61FAbceA5101f0A",
+            "name": "Balancer Stable WETH wstETH pool",
+            "symbol": "bb-WETH-wstETH",
+            "decimals": 18
+        },
+        {
             "chainId": 137,
             "address": "0x00e5646f60AC6Fb446f621d146B6E1886f002905",
             "name": "Rai Reflex Index (PoS)",
@@ -7832,6 +7839,20 @@
             "symbol": "80NFTE-20WETH-bb-BPT",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd0dc20e6342db2de82692b8dc842301ff9121805.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x1509706a6c66CA549ff0cB464de88231DDBe213B",
+            "name": "Aura",
+            "symbol": "AURA",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x223738a747383d6F9f827d95964e4d8E8AC754cE",
+            "name": "Aura BAL",
+            "symbol": "auraBAL",
+            "decimals": 18
         },
         {
             "chainId": 43114,
