@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-06-19T11:56:00.130Z",
+    "timestamp": "2023-06-19T23:29:53.945Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7072,6 +7072,34 @@
             "decimals": 18
         },
         {
+            "chainId": 137,
+            "address": "0x19244114931a17Db1F2AA6461F07e16501A524f4",
+            "name": "Olive MVLP Beefy",
+            "symbol": "oBIFI-MVLP",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x449533BcF3Fc5963515f87c17CDfE762b7Ab89fb",
+            "name": "Moo Pearl WBTC-USDR",
+            "symbol": "mooPearlWBTC-USDR",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x944A5C12cD4399ABC6883fF1ba40A14c23B2Fd37",
+            "name": "Moo Mai QI-MATIC",
+            "symbol": "mooMaiQI-MATIC",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x7CD5Ef300AdeAAD5fE7B8dd96ce160F1B368B8d1",
+            "name": "Moo Pearl STMATIC-USDR",
+            "symbol": "mooPearlSTMATIC-USDR",
+            "decimals": 18
+        },
+        {
             "chainId": 1101,
             "address": "0x120eF59b80774F02211563834d8E3b72cb1649d6",
             "name": "Balancer",
@@ -7845,14 +7873,16 @@
             "address": "0x1509706a6c66CA549ff0cB464de88231DDBe213B",
             "name": "Aura",
             "symbol": "AURA",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1509706a6c66ca549ff0cb464de88231ddbe213b.png"
         },
         {
             "chainId": 42161,
             "address": "0x223738a747383d6F9f827d95964e4d8E8AC754cE",
             "name": "Aura BAL",
             "symbol": "auraBAL",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x223738a747383d6f9f827d95964e4d8e8ac754ce.png"
         },
         {
             "chainId": 43114,
