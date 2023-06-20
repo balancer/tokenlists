@@ -206,6 +206,9 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0xde30da39c46104798bb5aa3fe8b9e0e1f348163f.png',
     },
+    '0xf5F4a92AfC0fDF40b7Cb0054b3C4f7335CeF2014': {
+      logoURI: 'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xBD8FdDa057de7e0162b7A386BeC253844B5E07A5.png'
+    }
   },
   [Network.Arbitrum]: {
     '0x040d1EdC9569d4Bab2D15287Dc5A4F10F56a56B8': {
@@ -302,8 +305,15 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png',
     },
+    '0x4e770ab9df7905649441BB4254c33b4B2B8D0a83': {
+      logoURI: 'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xBD8FdDa057de7e0162b7A386BeC253844B5E07A5.png'
+    }
   },
-  [Network.Optimism]: {},
+  [Network.Optimism]: {
+    '0x9F46A936BE9114bD2f71965a87C003341448b47E': {
+      logoURI: 'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xBD8FdDa057de7e0162b7A386BeC253844B5E07A5.png'
+    }
+  },
   [Network.Gnosis]: {
     '0x7eF541E2a22058048904fE5744f9c7E4C57AF717': {
       logoURI:
