@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-06-08T20:03:58.140Z",
+    "timestamp": "2023-06-21T01:38:47.277Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5338,6 +5338,21 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x304a2050df259dca35335c90ce983adc5f2dc50c.png"
         },
         {
+            "chainId": 1,
+            "address": "0xA53e968b8d8a5Be52d66e5BB35d9b6B6B5A5CD2F",
+            "name": "BIDSHOP",
+            "symbol": "BIDS",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/30404/large/Logo_200_200.png?1684373802"
+        },
+        {
+            "chainId": 1,
+            "address": "0xA35b1B31Ce002FBF2058D22F30f95D405200A15b",
+            "name": "ETHx",
+            "symbol": "ETHx",
+            "decimals": 18
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -5461,9 +5476,44 @@
         },
         {
             "chainId": 5,
+            "address": "0x7c7f7F252E0aA00960F6075bbEb278e8a06BC04c",
+            "name": "TokenTest1",
+            "symbol": "TKN1",
+            "decimals": 18
+        },
+        {
+            "chainId": 5,
+            "address": "0x9a1cB58840ee8c5533063c8d9b00d3a299B9C41e",
+            "name": "TokenTest2",
+            "symbol": "TKN2",
+            "decimals": 18
+        },
+        {
+            "chainId": 5,
             "address": "0xE8310a081d2284EB42C84246f6Ab43bce7BbFb53",
             "name": "BAR Test Token",
             "symbol": "BAR",
+            "decimals": 18
+        },
+        {
+            "chainId": 5,
+            "address": "0x6320cD32aA674d2898A68ec82e869385Fc5f7E2f",
+            "name": "Wrapped liquid staked Ether 2.0",
+            "symbol": "wstETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 5,
+            "address": "0x178E141a0E3b34152f73Ff610437A7bf9B83267A",
+            "name": "Rocket Pool ETH",
+            "symbol": "rETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 5,
+            "address": "0xB4f4231fC4Be7A34f0a1BE046538793Dc8D99c0E",
+            "name": "Universal ETH",
+            "symbol": "uniETH",
             "decimals": 18
         },
         {
@@ -5742,6 +5792,13 @@
             "symbol": "wstETH",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/18834/large/wstETH.png?1633565443"
+        },
+        {
+            "chainId": 100,
+            "address": "0xbAd20c15A773bf03ab973302F61FAbceA5101f0A",
+            "name": "Balancer Stable WETH wstETH pool",
+            "symbol": "bb-WETH-wstETH",
+            "decimals": 18
         },
         {
             "chainId": 137,
@@ -6624,13 +6681,6 @@
         },
         {
             "chainId": 137,
-            "address": "0xacC6DA74d8c0C993d070cfd518Fb86279f3AeAf1",
-            "name": "STAR V2",
-            "symbol": "STARV2",
-            "decimals": 18
-        },
-        {
-            "chainId": 137,
             "address": "0x7BDF330f423Ea880FF95fC41A280fD5eCFD3D09f",
             "name": "Euro Tether (PoS)",
             "symbol": "EURT",
@@ -7020,6 +7070,48 @@
             "symbol": "AGA",
             "decimals": 4,
             "logoURI": "https://assets.coingecko.com/coins/images/12180/large/aga-logo.png?1597937396"
+        },
+        {
+            "chainId": 137,
+            "address": "0xD289c01528921B5f6D5B111a50a99456D495bF78",
+            "name": "STAR V2",
+            "symbol": "STARV2",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x19244114931a17Db1F2AA6461F07e16501A524f4",
+            "name": "Olive MVLP Beefy",
+            "symbol": "oBIFI-MVLP",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x449533BcF3Fc5963515f87c17CDfE762b7Ab89fb",
+            "name": "Moo Pearl WBTC-USDR",
+            "symbol": "mooPearlWBTC-USDR",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x944A5C12cD4399ABC6883fF1ba40A14c23B2Fd37",
+            "name": "Moo Mai QI-MATIC",
+            "symbol": "mooMaiQI-MATIC",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x7CD5Ef300AdeAAD5fE7B8dd96ce160F1B368B8d1",
+            "name": "Moo Pearl STMATIC-USDR",
+            "symbol": "mooPearlSTMATIC-USDR",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0xa0FdCDDA62C4C6a0109A702a7Efe59B4E8807e3f",
+            "name": "Moo Mvx MVLP",
+            "symbol": "mooMvxMVLP",
+            "decimals": 18
         },
         {
             "chainId": 1101,
@@ -7765,6 +7857,46 @@
             "name": "Paladin Token",
             "symbol": "PAL",
             "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x29C1EA5ED7af53094b1a79eF60d20641987c867e",
+            "name": "Acid",
+            "symbol": "ACID",
+            "decimals": 9,
+            "logoURI": "https://assets.coingecko.com/coins/images/29418/large/acid_200_200.png?1678696816"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x6A7661795C374c0bFC635934efAddFf3A7Ee23b6",
+            "name": "Dola USD Stablecoin",
+            "symbol": "DOLA",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/14287/large/dola.png?1667738374"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xD0dC20e6342DB2dE82692B8Dc842301ff9121805",
+            "name": "NFTFi on Layer2",
+            "symbol": "80NFTE-20WETH-bb-BPT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd0dc20e6342db2de82692b8dc842301ff9121805.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x1509706a6c66CA549ff0cB464de88231DDBe213B",
+            "name": "Aura",
+            "symbol": "AURA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1509706a6c66ca549ff0cb464de88231ddbe213b.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x223738a747383d6F9f827d95964e4d8E8AC754cE",
+            "name": "Aura BAL",
+            "symbol": "auraBAL",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x223738a747383d6f9f827d95964e4d8e8ac754ce.png"
         },
         {
             "chainId": 43114,
