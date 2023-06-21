@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-06-19T23:29:53.945Z",
+    "timestamp": "2023-06-21T01:38:47.277Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5346,6 +5346,13 @@
             "logoURI": "https://assets.coingecko.com/coins/images/30404/large/Logo_200_200.png?1684373802"
         },
         {
+            "chainId": 1,
+            "address": "0xA35b1B31Ce002FBF2058D22F30f95D405200A15b",
+            "name": "ETHx",
+            "symbol": "ETHx",
+            "decimals": 18
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -7097,6 +7104,13 @@
             "address": "0x7CD5Ef300AdeAAD5fE7B8dd96ce160F1B368B8d1",
             "name": "Moo Pearl STMATIC-USDR",
             "symbol": "mooPearlSTMATIC-USDR",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0xa0FdCDDA62C4C6a0109A702a7Efe59B4E8807e3f",
+            "name": "Moo Mvx MVLP",
+            "symbol": "mooMvxMVLP",
             "decimals": 18
         },
         {
