@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-06-21T01:38:47.277Z",
+    "timestamp": "2023-06-21T15:35:20.947Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5347,6 +5347,14 @@
         },
         {
             "chainId": 1,
+            "address": "0xBD8FdDa057de7e0162b7A386BeC253844B5E07A5",
+            "name": "JARVIS",
+            "symbol": "JARVIS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xbd8fdda057de7e0162b7a386bec253844b5e07a5.png"
+        },
+        {
+            "chainId": 1,
             "address": "0xA35b1B31Ce002FBF2058D22F30f95D405200A15b",
             "name": "ETHx",
             "symbol": "ETHx",
@@ -5616,6 +5624,14 @@
             "symbol": "bb-rf-asUSD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc0d7013a05860271a1edb52415cf74bc85b2ace7.png"
+        },
+        {
+            "chainId": 10,
+            "address": "0x9F46A936BE9114bD2f71965a87C003341448b47E",
+            "name": "JARVIS",
+            "symbol": "JARVIS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9f46a936be9114bd2f71965a87c003341448b47e.png"
         },
         {
             "chainId": 100,
@@ -7108,9 +7124,24 @@
         },
         {
             "chainId": 137,
+            "address": "0xf5F4a92AfC0fDF40b7Cb0054b3C4f7335CeF2014",
+            "name": "JARVIS (FXERC20)",
+            "symbol": "fxJARVIS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf5f4a92afc0fdf40b7cb0054b3c4f7335cef2014.png"
+        },
+        {
+            "chainId": 137,
             "address": "0xa0FdCDDA62C4C6a0109A702a7Efe59B4E8807e3f",
             "name": "Moo Mvx MVLP",
             "symbol": "mooMvxMVLP",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x7f6A9B65Cf1fc091b0E012c2908F0F711DFc95B5",
+            "name": "80mooMvxMVLP-20wUSDR",
+            "symbol": "80mooMvxMVLP-20wUSDR",
             "decimals": 18
         },
         {
@@ -7897,6 +7928,14 @@
             "symbol": "auraBAL",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x223738a747383d6f9f827d95964e4d8e8ac754ce.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x4e770ab9df7905649441BB4254c33b4B2B8D0a83",
+            "name": "JARVIS",
+            "symbol": "JARVIS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4e770ab9df7905649441bb4254c33b4b2b8d0a83.png"
         },
         {
             "chainId": 43114,
