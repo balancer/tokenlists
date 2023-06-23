@@ -19,8 +19,6 @@ cli
 
 const { options } = cli.parse()
 
-console.log("Options: ", options);
-
 const tokenAddress = options.tokenAddress.replace(
   /[^0-9a-fA-Fx]+/g,
   ''
