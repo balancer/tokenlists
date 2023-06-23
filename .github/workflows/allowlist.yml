@@ -1,4 +1,4 @@
-name: Allowlist pool
+name: Allowlist Token
 
 on:
   workflow_call:
@@ -28,7 +28,7 @@ jobs:
       - name: Install deps
         run: npm install cac
       - name: Run allowlist script
-        run: npx vite-node ./src/lib/scripts/allowlist-token.ts --network ${{inputs.network}} --tokenAddress \"${{inputs.tokenAddress}}\" --tokenSymbol "${{inputs.tokenSymbol}}"
+        run: npx tsx ./src/lib/scripts/allowlist-token.ts --network ${{inputs.network}} --tokenAddress \"${{inputs.tokenAddress}}\" --tokenSymbol "${{inputs.tokenSymbol}}"
       - name: Run eslint fix of updated config files
         run: npm run lint:fix:config
       - name: Create Pull Request

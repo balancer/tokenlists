@@ -1,4 +1,4 @@
-name: Allowlist pool
+name: Allowlist Token Manually
 
 on:
   workflow_dispatch:

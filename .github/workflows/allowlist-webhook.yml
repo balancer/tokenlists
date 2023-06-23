@@ -1,4 +1,4 @@
-name: Allowlist Pool Webhook
+name: Allowlist Token Webhook
 
 on:
   repository_dispatch:
