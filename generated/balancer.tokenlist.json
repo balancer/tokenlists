@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-06-23T11:05:49.485Z",
+    "timestamp": "2023-06-23T11:38:41.049Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5375,6 +5375,14 @@
             "symbol": "FIEF",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/23710/large/61f837d2703b649ab0213d45_Black_logo_-_no_background-p-500.png?1645083867"
+        },
+        {
+            "chainId": 1,
+            "address": "0x3fCb7085B8F2F473F80bF6D879cAe99eA4DE9344",
+            "name": "Balancer Morpho Aave v3 Boosted Pool (WETH)",
+            "symbol": "bb-ma3-weth",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x3fcb7085b8f2f473f80bf6d879cae99ea4de9344.png"
         },
         {
             "chainId": 5,
