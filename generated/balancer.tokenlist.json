@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-06-21T15:35:20.947Z",
+    "timestamp": "2023-06-23T02:32:20.585Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5361,6 +5361,14 @@
             "decimals": 18
         },
         {
+            "chainId": 1,
+            "address": "0xeA068Fba19CE95f12d252aD8Cb2939225C4Ea02D",
+            "name": "Fief",
+            "symbol": "FIEF",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/23710/large/61f837d2703b649ab0213d45_Black_logo_-_no_background-p-500.png?1645083867"
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -5632,6 +5640,13 @@
             "symbol": "JARVIS",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9f46a936be9114bd2f71965a87c003341448b47e.png"
+        },
+        {
+            "chainId": 10,
+            "address": "0x88DfaAABaf06f3a41D2606EA98BC8edA109AbeBb",
+            "name": "Axelar Wrapped WMAI",
+            "symbol": "axlWMAI",
+            "decimals": 18
         },
         {
             "chainId": 100,
@@ -7145,6 +7160,13 @@
             "decimals": 18
         },
         {
+            "chainId": 137,
+            "address": "0x08aD99fB3f9f262853B54613249B4064901BD358",
+            "name": "Axelar Wrapped WMAI",
+            "symbol": "axlWMAI",
+            "decimals": 18
+        },
+        {
             "chainId": 1101,
             "address": "0x120eF59b80774F02211563834d8E3b72cb1649d6",
             "name": "Balancer",
@@ -7907,6 +7929,13 @@
         },
         {
             "chainId": 42161,
+            "address": "0x6CDA1D3D092811b2d48F7476adb59A6239CA9b95",
+            "name": "StaFi",
+            "symbol": "rETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
             "address": "0xD0dC20e6342DB2dE82692B8Dc842301ff9121805",
             "name": "NFTFi on Layer2",
             "symbol": "80NFTE-20WETH-bb-BPT",
@@ -7936,6 +7965,13 @@
             "symbol": "JARVIS",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4e770ab9df7905649441bb4254c33b4b2b8d0a83.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x88DfaAABaf06f3a41D2606EA98BC8edA109AbeBb",
+            "name": "Axelar Wrapped WMAI",
+            "symbol": "axlWMAI",
+            "decimals": 18
         },
         {
             "chainId": 43114,
