@@ -38,7 +38,7 @@ jobs:
           author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
           signoff: false
           branch: update-allowlist-${{inputs.network}}-${{inputs.tokenAddress}}
-          base: master
+          base: main
           delete-branch: true
           title: 'Allowlist ${{inputs.tokenSymbol}} on ${{inputs.network}}'
           body: |
