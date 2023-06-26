@@ -1,0 +1,33 @@
+name: Allowlist Token Manually
+
+on:
+  workflow_dispatch:
+    inputs:
+      network:
+        type: choice
+        description: Network
+        required: true
+        options:
+          - arbitrum
+          - avalanche
+          - mainnet
+          - gnosis-chain
+          - polygon
+          - optimism
+          - zkevm
+      tokenAddress:
+        type: string
+        description: Token Address
+        required: true
+      tokenSymbol:
+        type: string
+        description: Token Symbol
+        required: false
+
+jobs:
+  allowlist-token:
+    uses: ./.github/workflows/allowlist.yml
+    with:
+      network: ${{ github.event.inputs.network }}
+      tokenAddress: ${{ github.event.inputs.tokenAddress }}
+      tokenSymbol: ${{ github.event.inputs.tokenSymbol }}
