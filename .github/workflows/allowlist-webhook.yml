@@ -2,10 +2,10 @@ name: Allowlist Token Webhook
 
 on:
   repository_dispatch:
-    types: ['allowlist_pool']
+    types: ['allowlist_token']
 
 jobs:
-  allowlist-pool:
+  allowlist-token:
     uses: ./.github/workflows/allowlist.yml
     with:
       network: ${{ github.event.client_payload.network }}
