@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-06-23T11:38:41.049Z",
+    "timestamp": "2023-06-27T11:46:08.183Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7183,6 +7183,20 @@
             "decimals": 18
         },
         {
+            "chainId": 137,
+            "address": "0xB424dfDf817FaF38FF7acF6F2eFd2f2a843d1ACA",
+            "name": "Vault Qi",
+            "symbol": "vQi",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x8f1549718B9Ad2632Dc426EcC89305A83c1F03c8",
+            "name": "Star Dollar",
+            "symbol": "STARD",
+            "decimals": 18
+        },
+        {
             "chainId": 1101,
             "address": "0x120eF59b80774F02211563834d8E3b72cb1649d6",
             "name": "Balancer",
@@ -7368,7 +7382,7 @@
             "name": "TrueUSD",
             "symbol": "TUSD",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/3449/large/tusd.png?1618395665"
+            "logoURI": "https://assets.coingecko.com/coins/images/30837/large/tusd.jpeg?1687837876"
         },
         {
             "chainId": 42161,
@@ -7948,7 +7962,8 @@
             "address": "0x6CDA1D3D092811b2d48F7476adb59A6239CA9b95",
             "name": "StaFi",
             "symbol": "rETH",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6cda1d3d092811b2d48f7476adb59a6239ca9b95.png"
         },
         {
             "chainId": 42161,
