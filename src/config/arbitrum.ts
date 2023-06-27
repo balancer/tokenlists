@@ -1,4 +1,5 @@
 export default {
+  name: 'arbitrum',
   coingecko: {
     platformId: 'arbitrum-one',
   },

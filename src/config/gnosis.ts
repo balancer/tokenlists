@@ -1,4 +1,5 @@
 export default {
+  name: 'gnosis',
   coingecko: {
     platformId: 'xdai',
   },
