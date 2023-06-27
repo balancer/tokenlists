@@ -18,7 +18,8 @@ export function allowListToken({
   const arrayContent = match[1].trim()
 
   if (arrayContent.includes(tokenAddress)) {
-    throw Error(`${tokenAddress} is already allowlisted`)
+    console.log(`${tokenAddress} is already allowlisted`)
+    return
   }
 
   let updatedArrayContent = `${arrayContent}\n  '${tokenAddress}',`
