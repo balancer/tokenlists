@@ -9,7 +9,7 @@
         "Balancer"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-06-08T16:15:09.834Z",
+    "timestamp": "2023-06-27T11:46:24.224Z",
     "tokens": [
         {
             "chainId": 1,
@@ -2896,7 +2896,7 @@
             "name": "TrueUSD",
             "symbol": "TUSD",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/3449/large/tusd.png?1618395665"
+            "logoURI": "https://assets.coingecko.com/coins/images/30837/large/tusd.jpeg?1687837876"
         },
         {
             "chainId": 42161,
