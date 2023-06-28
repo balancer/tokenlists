@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-06-27T11:46:08.183Z",
+    "timestamp": "2023-06-28T01:04:07.975Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5383,6 +5383,30 @@
             "symbol": "bb-ma3-weth",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x3fcb7085b8f2f473f80bf6d879cae99ea4de9344.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x6340cE0f2b9271B59AB89D1320fBe1A51b6Fdde7",
+            "name": "xFT-V2T1",
+            "symbol": "xFT-V2T1",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6340ce0f2b9271b59ab89d1320fbe1a51b6fdde7.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x64B76158c3A9176b0eF6C00D1b957F10C07663d8",
+            "name": "xFT-V2T2",
+            "symbol": "xFT-V2T2",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x64b76158c3a9176b0ef6c00d1b957f10c07663d8.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x8e903856407d1C0cc90Fa273130f3605EcE6Cd01",
+            "name": "xFT-V2T3",
+            "symbol": "xFT-V2T3",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x8e903856407d1c0cc90fa273130f3605ece6cd01.png"
         },
         {
             "chainId": 5,
