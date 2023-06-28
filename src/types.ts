@@ -12,7 +12,7 @@ export enum Network {
 }
 
 export interface Config {
-  name: string;
+  name: string
   coingecko: {
     platformId: string
   }
