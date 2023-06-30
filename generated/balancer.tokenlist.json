@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-06-27T16:31:46.226Z",
+    "timestamp": "2023-06-30T23:50:29.936Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5407,6 +5407,13 @@
             "symbol": "xFT-V2T3",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x8e903856407d1c0cc90fa273130f3605ece6cd01.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x219A56e6056c6e72005bDA1F967aF5D626Af4501",
+            "name": "leNFT Token",
+            "symbol": "LE",
+            "decimals": 18
         },
         {
             "chainId": 5,
