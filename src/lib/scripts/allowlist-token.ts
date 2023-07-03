@@ -10,6 +10,8 @@
 
 import { cac } from 'cac'
 import { allowListToken } from './edit-tokenlist.js'
+import configs from '../../config'
+import { Config } from '../../types.js'
 
 const cli = cac()
 cli
@@ -44,15 +46,9 @@ function validateInput({
   network: string
   tokenAddress: string
 }) {
-  const networkNames = [
-    'arbitrum',
-    'gnosis-chain',
-    'goerli',
-    'mainnet',
-    'polygon',
-    'optimism',
-    'zkevm',
-  ]
+  const networkNames = Object.values(configs).map(
+    (config: Config) => config.name
+  )
   if (!networkNames.includes(network)) {
     throw Error(`Invalid network name: ${network}`)
   }

@@ -1,4 +1,5 @@
 export default {
+  name: 'polygon',
   coingecko: {
     platformId: 'polygon-pos',
   },

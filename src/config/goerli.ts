@@ -1,4 +1,5 @@
 export default {
+  name: 'goerli',
   coingecko: {
     platformId: 'goerli',
   },

@@ -1,4 +1,5 @@
 export default {
+  name: 'ethereum',
   coingecko: {
     platformId: 'ethereum',
   },

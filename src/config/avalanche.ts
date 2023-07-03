@@ -1,4 +1,5 @@
 export default {
+  name: 'avalanche',
   coingecko: {
     platformId: 'avalanche',
   },

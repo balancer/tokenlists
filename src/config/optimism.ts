@@ -1,4 +1,5 @@
 export default {
+  name: 'optimism',
   coingecko: {
     platformId: 'optimistic-ethereum',
   },
