@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-06-30T23:50:29.936Z",
+    "timestamp": "2023-07-03T13:44:02.988Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5358,7 +5358,8 @@
             "address": "0xA35b1B31Ce002FBF2058D22F30f95D405200A15b",
             "name": "ETHx",
             "symbol": "ETHx",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/30870/large/ETHx-small.png?1688373266"
         },
         {
             "chainId": 1,
@@ -7228,6 +7229,37 @@
             "decimals": 18
         },
         {
+            "chainId": 137,
+            "address": "0xAeF2B47b5e30661C3cC03b3E17fD8DCdDC1f27B6",
+            "name": "Uniswap V2",
+            "symbol": "UNI-V2",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4",
+            "name": "(PoS) Decentraland MANA",
+            "symbol": "MANA",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/878/large/decentraland-mana.png?1550108745"
+        },
+        {
+            "chainId": 137,
+            "address": "0x61299774020dA444Af134c82fa83E3810b309991",
+            "name": "Render Token",
+            "symbol": "RNDR",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/11636/large/rndr.png?1638840934"
+        },
+        {
+            "chainId": 137,
+            "address": "0xE261D618a959aFfFd53168Cd07D12E37B26761db",
+            "name": "Dimo",
+            "symbol": "DIMO",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/28383/large/Token_Logo.png?1670052785"
+        },
+        {
             "chainId": 1101,
             "address": "0x120eF59b80774F02211563834d8E3b72cb1649d6",
             "name": "Balancer",
@@ -8034,6 +8066,14 @@
             "name": "Axelar Wrapped WMAI",
             "symbol": "axlWMAI",
             "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0xF9DF075716B2D9B95616341DC6bC64c85e56645c",
+            "name": "Mayfair",
+            "symbol": "$MAY",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf9df075716b2d9b95616341dc6bc64c85e56645c.png"
         },
         {
             "chainId": 43114,
