@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-07-03T13:44:02.988Z",
+    "timestamp": "2023-07-06T03:27:12.325Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5414,6 +5414,20 @@
             "address": "0x219A56e6056c6e72005bDA1F967aF5D626Af4501",
             "name": "leNFT Token",
             "symbol": "LE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x3e1c0FC328E520CCb3c8b44F3d5b61e87136EeDc",
+            "name": "Fly",
+            "symbol": "FLY",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x0001A500A6B18995B03f44bb040A5fFc28E45CB0",
+            "name": "Autonolas",
+            "symbol": "OLAS",
             "decimals": 18
         },
         {
