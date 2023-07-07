@@ -1,0 +1,4 @@
+export default [
+  '0xb19382073c7A0aDdbb56Ac6AF1808Fa49e377B75', // BAL
+  '0x7b79995e5f793A07Bc00c21412e50Ecae098E7f9', // WETH
+]

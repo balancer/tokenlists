@@ -6,6 +6,7 @@ import goerli from './goerli'
 import ethereum from './ethereum'
 import optimism from './optimism'
 import polygon from './polygon'
+import sepolia from './sepolia'
 import zkevm from './zkevm'
 
 const config: Configs = {
@@ -16,6 +17,7 @@ const config: Configs = {
   [Network.Ethereum]: ethereum,
   [Network.Optimism]: optimism,
   [Network.Polygon]: polygon,
+  [Network.Sepolia]: sepolia,
   [Network.Zkevm]: zkevm,
 }
 
