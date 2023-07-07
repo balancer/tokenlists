@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-07-06T03:27:12.325Z",
+    "timestamp": "2023-07-07T19:48:21.548Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7272,6 +7272,21 @@
             "symbol": "DIMO",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/28383/large/Token_Logo.png?1670052785"
+        },
+        {
+            "chainId": 137,
+            "address": "0xF84BD51eab957c2e7B7D646A3427C5A50848281D",
+            "name": "AGA Rewards (PoS)",
+            "symbol": "AGAr",
+            "decimals": 8
+        },
+        {
+            "chainId": 137,
+            "address": "0x033d942A6b495C4071083f4CDe1f17e986FE856c",
+            "name": "AGA Token (PoS)",
+            "symbol": "AGA",
+            "decimals": 4,
+            "logoURI": "https://assets.coingecko.com/coins/images/12180/large/aga-logo.png?1597937396"
         },
         {
             "chainId": 1101,
