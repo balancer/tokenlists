@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-07-07T19:48:21.548Z",
+    "timestamp": "2023-07-11T07:18:56.516Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8326,6 +8326,20 @@
             "symbol": "STG",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/24413/large/STG_LOGO.png?1647654518"
+        },
+        {
+            "chainId": 11155111,
+            "address": "0xb19382073c7A0aDdbb56Ac6AF1808Fa49e377B75",
+            "name": "Balancer Governance Token",
+            "symbol": "BAL",
+            "decimals": 18
+        },
+        {
+            "chainId": 11155111,
+            "address": "0x7b79995e5f793A07Bc00c21412e50Ecae098E7f9",
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "decimals": 18
         }
     ]
 }
