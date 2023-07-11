@@ -6,6 +6,7 @@ import goerli from './tokens/goerli'
 import ethereum from './tokens/ethereum'
 import optimism from './tokens/optimism'
 import polygon from './tokens/polygon'
+import sepolia from './tokens/sepolia'
 import zkevm from './tokens/zkevm'
 
 export const tokens: TokensForList = {
@@ -17,4 +18,5 @@ export const tokens: TokensForList = {
   [Network.Gnosis]: gnosis,
   [Network.Zkevm]: zkevm,
   [Network.Avalanche]: avalanche,
+  [Network.Sepolia]: sepolia,
 }

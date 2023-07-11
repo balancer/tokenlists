@@ -9,6 +9,7 @@ export enum Network {
   Gnosis = '100',
   Zkevm = '1101',
   Avalanche = '43114',
+  Sepolia = '11155111',
 }
 
 export interface Config {
