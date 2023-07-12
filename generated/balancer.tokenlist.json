@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-07-12T13:43:44.700Z",
+    "timestamp": "2023-07-12T17:39:51.564Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5418,6 +5418,14 @@
         },
         {
             "chainId": 1,
+            "address": "0x32b86b99441480a7E5BD3A26c124ec2373e3F015",
+            "name": "BAD IDEA AI",
+            "symbol": "BAD",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/30871/large/Bad_idea.jpeg?1688373590"
+        },
+        {
+            "chainId": 1,
             "address": "0x3e1c0FC328E520CCb3c8b44F3d5b61e87136EeDc",
             "name": "Fly",
             "symbol": "FLY",
@@ -5428,6 +5436,64 @@
             "address": "0x0001A500A6B18995B03f44bb040A5fFc28E45CB0",
             "name": "Autonolas",
             "symbol": "OLAS",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x695BD8b642342d792a34392bEa1461b98895300B",
+            "name": "RATE governance token",
+            "symbol": "RATE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xF915110898d9a455Ad2DA51BF49520b41655Ccea",
+            "name": "TAI reflex index",
+            "symbol": "TAI",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/30574/large/tai.png?1685323205"
+        },
+        {
+            "chainId": 1,
+            "address": "0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919",
+            "name": "Rai Reflex Index",
+            "symbol": "RAI",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919/logo.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x2B218683178d029BAB6c9789b1073aA6c96E5176",
+            "name": "Balancer Savings DAI Boosted Pool",
+            "symbol": "bb-s-DAI",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xc50d4347209F285247BDa8A09Fc1C12CE42031c3",
+            "name": "Balancer Aave v3 Boosted Pool (USDC)",
+            "symbol": "bb-a-USDC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xcfAE6E251369467F465f13836Ac8135bd42f8A56",
+            "name": "Balancer Aave v3 Boosted Pool (USDT)",
+            "symbol": "bb-a-USDT",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xfa24A90A3F2bBE5FEEA92B95cD0d14Ce709649f9",
+            "name": "Balancer Aave v3 Boosted Pool (DAI)",
+            "symbol": "bb-a-DAI",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xbB6881874825E60e1160416D6C426eae65f2459E",
+            "name": "Balancer Aave v3 Boosted Pool (WETH)",
+            "symbol": "bb-a-WETH",
             "decimals": 18
         },
         {
@@ -7289,6 +7355,13 @@
             "logoURI": "https://assets.coingecko.com/coins/images/12180/large/aga-logo.png?1597937396"
         },
         {
+            "chainId": 137,
+            "address": "0xb0C830DCeB4EF55A60192472c20C8bf19dF03488",
+            "name": "Balancer Aave v3 Boosted Pool (WMATIC)",
+            "symbol": "bb-a-WMATIC",
+            "decimals": 18
+        },
+        {
             "chainId": 1101,
             "address": "0x120eF59b80774F02211563834d8E3b72cb1649d6",
             "name": "Balancer",
@@ -8103,6 +8176,34 @@
             "symbol": "$MAY",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf9df075716b2d9b95616341dc6bc64c85e56645c.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xaD28940024117B442a9EFB6D0f25C8B59e1c950B",
+            "name": "Balancer Aave v3 Boosted Pool (WETH)",
+            "symbol": "bb-a-WETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x6CB787a419c3e6Ee2e9FF365856c29CD10659113",
+            "name": "Balancer Aave v3 Boosted Pool (DAI)",
+            "symbol": "bb-a-DAI",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0xbD724Eb087d4cc0f61a5fED1fFFaF937937E14DE",
+            "name": "Balancer Aave v3 Boosted Pool (USDC)",
+            "symbol": "bb-a-USDC",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0xc46be4B8Bb6B5A3d3120660efae9C5416318ED40",
+            "name": "Balancer Aave v3 Boosted Pool (USDT)",
+            "symbol": "bb-a-USDT",
+            "decimals": 18
         },
         {
             "chainId": 43114,
