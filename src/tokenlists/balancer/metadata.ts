@@ -14,5 +14,5 @@ export const metadata = {
   ],
   logoURI:
     // eslint-disable-next-line max-len
-    'https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png',
+    'https://github.com/perryj533/yusdcoin/blob/main/YUSDnb256p.png',
 }
