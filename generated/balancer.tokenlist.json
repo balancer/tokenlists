@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-07-12T17:39:51.564Z",
+    "timestamp": "2023-07-14T11:40:38.004Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5497,6 +5497,13 @@
             "decimals": 18
         },
         {
+            "chainId": 1,
+            "address": "0x44d13160094b45f39b712843d887939027513129",
+            "name": "YUSD",
+            "symbol": "YUSD",
+            "decimals": 18
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -6198,6 +6205,14 @@
             "symbol": "BAL",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xba100000625a3754423978a60c9317c58a424e3d.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0xA2b205F8C0F0E30b3f73B7716a718C53cB8E5cC3",
+            "name": "FireVault EP",
+            "symbol": "fireEP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa2b205f8c0f0e30b3f73b7716a718c53cb8e5cc3.png"
         },
         {
             "chainId": 137,
@@ -7359,6 +7374,13 @@
             "address": "0xb0C830DCeB4EF55A60192472c20C8bf19dF03488",
             "name": "Balancer Aave v3 Boosted Pool (WMATIC)",
             "symbol": "bb-a-WMATIC",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0xC1381c17d29A22dF5c3015C3D83ebd90AbD0e6b3",
+            "name": "TruStake MATIC Vault Shares (FXERC20)",
+            "symbol": "fxTruMATIC",
             "decimals": 18
         },
         {
