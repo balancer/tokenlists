@@ -3626,6 +3626,14 @@
         },
         {
             "chainId": 1,
+            "address": "0x44d13160094b45f39b712843d887939027513129",
+            "name": "YUSD Coin",
+            "symbol": "YUSD",
+            "decimals": 18,
+            "logoURI": "https://github.com/perryj533/yusdcoin/blob/main/YUSDnb256p.png"
+        },
+        {
+            "chainId": 1,
             "address": "0xC88F47067dB2E25851317A2FDaE73a22c0777c37",
             "name": "oneBTC",
             "symbol": "oneBTC",
