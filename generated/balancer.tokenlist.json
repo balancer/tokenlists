@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-07-14T11:40:38.004Z",
+    "timestamp": "2023-07-15T21:05:43.885Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5504,6 +5504,21 @@
             "decimals": 18
         },
         {
+            "chainId": 1,
+            "address": "0x40D16FC0246aD3160Ccc09B8D0D3A2cD28aE6C2f",
+            "name": "Gho Token",
+            "symbol": "GHO",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/30663/large/ghoaave.jpeg?1686151372"
+        },
+        {
+            "chainId": 1,
+            "address": "0xc443C15033FCB6Cf72cC24f1BDA0Db070DdD9786",
+            "name": "Balancer Aave v3 Boosted StablePool",
+            "symbol": "bb-a-USD",
+            "decimals": 18
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -7382,6 +7397,28 @@
             "name": "TruStake MATIC Vault Shares (FXERC20)",
             "symbol": "fxTruMATIC",
             "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x99AB491471FBcB7D9d2b69729462fe223a4cCdab",
+            "name": "Moo Pearl TNGBL-USDR",
+            "symbol": "mooPearlTNGBL-USDR",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0xeD2905F595B6Ba103d8dF047Aa6dA3708FE6548b",
+            "name": "Moo Pearl WUSDR-USDR",
+            "symbol": "mooPearlWUSDR-USDR",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x236eeC6359fb44CCe8f97E99387aa7F8cd5cdE1f",
+            "name": "USD+",
+            "symbol": "USD+",
+            "decimals": 6,
+            "logoURI": "https://assets.coingecko.com/coins/images/25757/large/USD__logo.png?1653519267"
         },
         {
             "chainId": 1101,
