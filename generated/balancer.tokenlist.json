@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-07-15T21:05:43.885Z",
+    "timestamp": "2023-07-19T02:36:07.641Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5683,6 +5683,13 @@
             "decimals": 18
         },
         {
+            "chainId": 5,
+            "address": "0xa411c9Aa00E020e4f88Bc19996d29c5B7ADB4ACf",
+            "name": "Xocolatl MXN Stablecoin",
+            "symbol": "XOC",
+            "decimals": 18
+        },
+        {
             "chainId": 10,
             "address": "0x888a6195D42a95e80D81e1c506172772a80b80Bc",
             "name": "Beets Reaper Aave Boosted DAI",
@@ -5979,6 +5986,13 @@
             "address": "0xbAd20c15A773bf03ab973302F61FAbceA5101f0A",
             "name": "Balancer Stable WETH wstETH pool",
             "symbol": "bb-WETH-wstETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 100,
+            "address": "0xa411c9Aa00E020e4f88Bc19996d29c5B7ADB4ACf",
+            "name": "Xocolatl MXN Stablecoin",
+            "symbol": "XOC",
             "decimals": 18
         },
         {
@@ -7419,6 +7433,13 @@
             "symbol": "USD+",
             "decimals": 6,
             "logoURI": "https://assets.coingecko.com/coins/images/25757/large/USD__logo.png?1653519267"
+        },
+        {
+            "chainId": 137,
+            "address": "0xa411c9Aa00E020e4f88Bc19996d29c5B7ADB4ACf",
+            "name": "Xocolatl MXN Stablecoin",
+            "symbol": "XOC",
+            "decimals": 18
         },
         {
             "chainId": 1101,
