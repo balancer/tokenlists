@@ -9,7 +9,7 @@
         "Balancer"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-06-27T11:46:24.224Z",
+    "timestamp": "2023-07-19T02:36:50.236Z",
     "tokens": [
         {
             "chainId": 1,
@@ -1581,8 +1581,7 @@
             "address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
             "name": "Wrapped XDAI",
             "symbol": "WXDAI",
-            "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/14584/large/wrapped-xdai-logo.png?1641888881"
+            "decimals": 18
         },
         {
             "chainId": 100,
