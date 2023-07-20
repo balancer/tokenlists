@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-07-19T12:54:28.998Z",
+    "timestamp": "2023-07-20T02:39:06.495Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5702,7 +5702,8 @@
             "address": "0xa411c9Aa00E020e4f88Bc19996d29c5B7ADB4ACf",
             "name": "Xocolatl MXN Stablecoin",
             "symbol": "XOC",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa411c9aa00e020e4f88bc19996d29c5b7adb4acf.png"
         },
         {
             "chainId": 10,
@@ -6008,7 +6009,8 @@
             "address": "0xa411c9Aa00E020e4f88Bc19996d29c5B7ADB4ACf",
             "name": "Xocolatl MXN Stablecoin",
             "symbol": "XOC",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa411c9aa00e020e4f88bc19996d29c5b7adb4acf.png"
         },
         {
             "chainId": 137,
@@ -7454,7 +7456,8 @@
             "address": "0xa411c9Aa00E020e4f88Bc19996d29c5B7ADB4ACf",
             "name": "Xocolatl MXN Stablecoin",
             "symbol": "XOC",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa411c9aa00e020e4f88bc19996d29c5b7adb4acf.png"
         },
         {
             "chainId": 1101,
@@ -8299,6 +8302,14 @@
             "name": "Balancer Aave v3 Boosted Pool (USDT)",
             "symbol": "bb-a-USDT",
             "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0xe05A08226c49b636ACf99c40Da8DC6aF83CE5bB3",
+            "name": "Ankr Staked ETH",
+            "symbol": "ankrETH",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/13403/large/aETHc.png?1625756490"
         },
         {
             "chainId": 43114,
