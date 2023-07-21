@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-07-20T02:39:06.495Z",
+    "timestamp": "2023-07-21T01:23:27.654Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8533,6 +8533,81 @@
             "symbol": "STG",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/24413/large/STG_LOGO.png?1647654518"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xeA67626E1f0b59e0d172a04F5702ef90BcdF440C",
+            "name": "Balancer Aave v3 Boosted Pool (USDT)",
+            "symbol": "bb-a-USDT",
+            "decimals": 18
+        },
+        {
+            "chainId": 43114,
+            "address": "0xEb496161099D45B3ea4892408ef745c6182eB56e",
+            "name": "Balancer Aave v3 Boosted Pool (USDC)",
+            "symbol": "bb-a-USDC",
+            "decimals": 18
+        },
+        {
+            "chainId": 43114,
+            "address": "0xa1D14d922a575232066520EDA11E27760946c991",
+            "name": "Balancer Aave v3 Boosted StablePool",
+            "symbol": "bb-a-USD",
+            "decimals": 18
+        },
+        {
+            "chainId": 43114,
+            "address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
+            "name": "Staked AVAX",
+            "symbol": "sAVAX",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/23657/large/savax_blue.png?1644989825"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x7275c131b1F67e8B53b4691F92B0E35A4c1C6e22",
+            "name": "Balancer Aave v3 Boosted Pool (WAVAX)",
+            "symbol": "bb-a-WAVAX",
+            "decimals": 18
+        },
+        {
+            "chainId": 43114,
+            "address": "0xF7D9281e8e363584973F946201b82ba72C965D27",
+            "name": "YieldYak gAVAX",
+            "symbol": "yyAVAX",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/27221/large/yyAVAX_Token__200x200.png?1662685308"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xA25EaF2906FA1a3a13EdAc9B9657108Af7B703e3",
+            "name": "GoGoPool Liquid Staking Token",
+            "symbol": "ggAVAX",
+            "decimals": 18
+        },
+        {
+            "chainId": 43114,
+            "address": "0xc3344870d52688874b06d844E0C36cc39FC727F6",
+            "name": "Ankr Staked AVAX",
+            "symbol": "ankrAVAX",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/28695/large/ankrAVAX.png?1673413425"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x12D8CE035c5DE3Ce39B1fDD4C1d5a745EAbA3b8C",
+            "name": "Ankr Staked ETH",
+            "symbol": "ankrETH",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/13403/large/aETHc.png?1625756490"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xC891EB4cbdEFf6e073e859e987815Ed1505c2ACD",
+            "name": "Euro Coin",
+            "symbol": "EUROC",
+            "decimals": 6,
+            "logoURI": "https://assets.coingecko.com/coins/images/26045/large/euro-coin.png?1655394420"
         },
         {
             "chainId": 11155111,
