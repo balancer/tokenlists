@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-07-21T01:23:27.654Z",
+    "timestamp": "2023-07-23T02:26:49.596Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7458,6 +7458,13 @@
             "symbol": "XOC",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa411c9aa00e020e4f88bc19996d29c5b7adb4acf.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x6Df6355DB123C83fD33c0A3AAc790730E5d8bE59",
+            "name": "Dyson UniV3 WMATIC/WETH 0.05% Vault",
+            "symbol": "maticDysonUniV3WMATICWETH5BpsVault",
+            "decimals": 18
         },
         {
             "chainId": 1101,
