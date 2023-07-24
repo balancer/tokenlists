@@ -112,6 +112,16 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xba100000625a3754423978a60c9317c58a424e3d.png',
     },
+    '0xF4f37D555e9b7309a0d2cD631f62cEE2C1647342': {
+      decimals: 18,
+      symbol: 'T1',
+      name: 'test1',
+    },
+    '0xF84e99cB123AA1ed0C77A92A99C47f53Ab9eA9e9': {
+      decimals: 6,
+      symbol: 'T2',
+      name: 'test2',
+    },
   },
   [Network.Polygon]: {
     '0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3': {
