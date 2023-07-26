@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-07-26T18:39:22.591Z",
+    "timestamp": "2023-07-26T21:19:01.024Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5536,6 +5536,14 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa48f322f8b3edff967629af79e027628b9dd1298.png"
         },
         {
+            "chainId": 1,
+            "address": "0x94025780a1aB58868D9B2dBBB775f44b32e8E6e5",
+            "name": "BetSwirl v2",
+            "symbol": "BETS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x94025780a1ab58868d9b2dbbb775f44b32e8e6e5.png"
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -7484,6 +7492,14 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0d9447e16072b636b4a1e8f2b8c644e58f3eaa6a.png"
         },
         {
+            "chainId": 137,
+            "address": "0x94025780a1aB58868D9B2dBBB775f44b32e8E6e5",
+            "name": "BetSwirl v2",
+            "symbol": "BETS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x94025780a1ab58868d9b2dbbb775f44b32e8e6e5.png"
+        },
+        {
             "chainId": 1101,
             "address": "0x120eF59b80774F02211563834d8E3b72cb1649d6",
             "name": "Balancer",
@@ -8373,6 +8389,14 @@
             "decimals": 18
         },
         {
+            "chainId": 42161,
+            "address": "0x94025780a1aB58868D9B2dBBB775f44b32e8E6e5",
+            "name": "BetSwirl v2",
+            "symbol": "BETS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x94025780a1ab58868d9b2dbbb775f44b32e8e6e5.png"
+        },
+        {
             "chainId": 43114,
             "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
             "name": "Wrapped AVAX",
@@ -8679,6 +8703,14 @@
             "symbol": "stataAvaWAVAX",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa291ae608d8854cdbf9838e28e9badcf10181669.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x94025780a1aB58868D9B2dBBB775f44b32e8E6e5",
+            "name": "BetSwirl v2",
+            "symbol": "BETS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x94025780a1ab58868d9b2dbbb775f44b32e8e6e5.png"
         },
         {
             "chainId": 11155111,
