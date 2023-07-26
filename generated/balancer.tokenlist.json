@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-07-26T14:25:38.141Z",
+    "timestamp": "2023-07-26T15:45:53.335Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5528,6 +5528,13 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0085d59abadfbece4f85f298f889f26c54738512.png"
         },
         {
+            "chainId": 1,
+            "address": "0xa48F322F8b3edff967629Af79E027628b9Dd1298",
+            "name": "Davos.xyz USD",
+            "symbol": "DUSD",
+            "decimals": 18
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -8352,16 +8359,16 @@
         },
         {
             "chainId": 42161,
-            "address": "0x40af308e3d07ec769D85EB80aFb116525fF4aC99",
-            "name": "Balancer Aave v3 Boosted Pool (USDCe)",
-            "symbol": "bb-a-USDCe",
+            "address": "0xc6EeE8cb7643eC2F05F46d569e9eC8EF8b41b389",
+            "name": "Balancer Aave v3 Boosted StablePool",
+            "symbol": "bb-a-USD",
             "decimals": 18
         },
         {
             "chainId": 42161,
-            "address": "0xc6EeE8cb7643eC2F05F46d569e9eC8EF8b41b389",
-            "name": "Balancer Aave v3 Boosted StablePool",
-            "symbol": "bb-a-USD",
+            "address": "0x40af308e3d07ec769D85EB80aFb116525fF4aC99",
+            "name": "Balancer Aave v3 Boosted Pool (USDCe)",
+            "symbol": "bb-a-USDCe",
             "decimals": 18
         },
         {
