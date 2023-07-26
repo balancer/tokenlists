@@ -1,6 +1,7 @@
 import { Network, TokensForList } from '../../types'
 import arbitrum from './tokens/arbitrum'
 import avalanche from './tokens/avalanche'
+import base from './tokens/base'
 import gnosis from './tokens/gnosis'
 import goerli from './tokens/goerli'
 import ethereum from './tokens/ethereum'
@@ -19,4 +20,5 @@ export const tokens: TokensForList = {
   [Network.Zkevm]: zkevm,
   [Network.Avalanche]: avalanche,
   [Network.Sepolia]: sepolia,
+  [Network.Base]: base,
 }
