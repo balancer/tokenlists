@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-07-26T15:45:53.335Z",
+    "timestamp": "2023-07-26T18:39:22.591Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5532,7 +5532,8 @@
             "address": "0xa48F322F8b3edff967629Af79E027628b9Dd1298",
             "name": "Davos.xyz USD",
             "symbol": "DUSD",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa48f322f8b3edff967629af79e027628b9dd1298.png"
         },
         {
             "chainId": 5,
