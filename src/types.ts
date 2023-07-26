@@ -15,6 +15,7 @@ export enum Network {
 
 export interface Config {
   name: string
+  rpc?: string
   coingecko: {
     platformId: string
   }

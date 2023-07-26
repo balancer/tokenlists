@@ -1,5 +1,6 @@
 export default {
   name: 'gnosis',
+  rpc: 'https://rpc.gnosischain.com',
   coingecko: {
     platformId: 'xdai',
   },
