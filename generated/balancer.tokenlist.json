@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-07-23T02:26:49.596Z",
+    "timestamp": "2023-07-26T14:25:38.141Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5516,7 +5516,8 @@
             "address": "0xc443C15033FCB6Cf72cC24f1BDA0Db070DdD9786",
             "name": "Balancer Aave v3 Boosted StablePool",
             "symbol": "bb-a-USD",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/25769/large/0x7b50775383d3d6f0215a8f290f2c9e2eebbeceb2.png?1653604699"
         },
         {
             "chainId": 1,
@@ -7467,6 +7468,14 @@
             "decimals": 18
         },
         {
+            "chainId": 137,
+            "address": "0x0D9447E16072b636b4a1E8f2b8C644e58F3eaA6A",
+            "name": "uaht.io",
+            "symbol": "UAHT",
+            "decimals": 2,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0d9447e16072b636b4a1e8f2b8c644e58f3eaa6a.png"
+        },
+        {
             "chainId": 1101,
             "address": "0x120eF59b80774F02211563834d8E3b72cb1649d6",
             "name": "Balancer",
@@ -7580,6 +7589,21 @@
             "address": "0x16C9a4D841E88E52b51936106010F27085a529EC",
             "name": "Balancer 0vix Boosted Pool (USDC)",
             "symbol": "bb-o-USDC",
+            "decimals": 18
+        },
+        {
+            "chainId": 8453,
+            "address": "0x4200000000000000000000000000000000000006",
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4200000000000000000000000000000000000006.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2",
+            "name": "Balancer",
+            "symbol": "BAL",
             "decimals": 18
         },
         {
@@ -8319,6 +8343,28 @@
             "logoURI": "https://assets.coingecko.com/coins/images/13403/large/aETHc.png?1625756490"
         },
         {
+            "chainId": 42161,
+            "address": "0x1DEBd73E752bEaF79865Fd6446b0c970EaE7732f",
+            "name": "Coinbase Wrapped Staked ETH",
+            "symbol": "cbETH",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/27008/large/cbeth.png?1661390066"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x40af308e3d07ec769D85EB80aFb116525fF4aC99",
+            "name": "Balancer Aave v3 Boosted Pool (USDCe)",
+            "symbol": "bb-a-USDCe",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0xc6EeE8cb7643eC2F05F46d569e9eC8EF8b41b389",
+            "name": "Balancer Aave v3 Boosted StablePool",
+            "symbol": "bb-a-USD",
+            "decimals": 18
+        },
+        {
             "chainId": 43114,
             "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
             "name": "Wrapped AVAX",
@@ -8575,7 +8621,8 @@
             "address": "0x7275c131b1F67e8B53b4691F92B0E35A4c1C6e22",
             "name": "Balancer Aave v3 Boosted Pool (WAVAX)",
             "symbol": "bb-a-WAVAX",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7275c131b1f67e8b53b4691f92b0e35a4c1c6e22.png"
         },
         {
             "chainId": 43114,
@@ -8590,7 +8637,8 @@
             "address": "0xA25EaF2906FA1a3a13EdAc9B9657108Af7B703e3",
             "name": "GoGoPool Liquid Staking Token",
             "symbol": "ggAVAX",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa25eaf2906fa1a3a13edac9b9657108af7b703e3.png"
         },
         {
             "chainId": 43114,
@@ -8615,6 +8663,14 @@
             "symbol": "EUROC",
             "decimals": 6,
             "logoURI": "https://assets.coingecko.com/coins/images/26045/large/euro-coin.png?1655394420"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xA291Ae608d8854CdbF9838E28E9BADCf10181669",
+            "name": "Static Aave Avalanche WAVAX",
+            "symbol": "stataAvaWAVAX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa291ae608d8854cdbf9838e28e9badcf10181669.png"
         },
         {
             "chainId": 11155111,
