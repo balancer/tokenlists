@@ -1,5 +1,6 @@
 export default {
   name: 'base',
+  rpc: 'https://developer-access-mainnet.base.org',
   coingecko: {
     platformId: 'base',
   },
