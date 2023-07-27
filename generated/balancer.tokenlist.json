@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-07-26T21:19:01.024Z",
+    "timestamp": "2023-07-27T13:55:45.012Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5436,7 +5436,8 @@
             "address": "0x0001A500A6B18995B03f44bb040A5fFc28E45CB0",
             "name": "Autonolas",
             "symbol": "OLAS",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/31099/large/OLAS-token.png?1690454175"
         },
         {
             "chainId": 1,
@@ -7444,7 +7445,8 @@
             "address": "0xC1381c17d29A22dF5c3015C3D83ebd90AbD0e6b3",
             "name": "TruStake MATIC Vault Shares (FXERC20)",
             "symbol": "fxTruMATIC",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc1381c17d29a22df5c3015c3d83ebd90abd0e6b3.png"
         },
         {
             "chainId": 137,
@@ -7498,6 +7500,14 @@
             "symbol": "BETS",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x94025780a1ab58868d9b2dbbb775f44b32e8e6e5.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0xC1381c17d29A22dF5c3015C3D83ebd90AbD0e6b3",
+            "name": "TruStake MATIC Vault Shares (FXERC20)",
+            "symbol": "fxTruMATIC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc1381c17d29a22df5c3015c3d83ebd90abd0e6b3.png"
         },
         {
             "chainId": 1101,
