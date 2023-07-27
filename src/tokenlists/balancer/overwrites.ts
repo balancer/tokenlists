@@ -114,6 +114,16 @@ export const overwrites: OverwritesForList = {
     },
   },
   [Network.Polygon]: {
+     '0x081ec4c0e30159c8259bad8f4887f83010a681dc': {
+      name: 'DE',
+      logoURI:
+        'https://static.metafi.codefi.network/api/v1/tokenIcons/137/0x081ec4c0e30159c8259bad8f4887f83010a681dc.png',
+    },
+     '0x1a9b54a3075119f1546c52ca0940551a6ce5d2d0': {
+      name: 'TBY',
+      logoURI:
+        'https://static.metafi.codefi.network/api/v1/tokenIcons/137/0x1a9b54a3075119f1546c52ca0940551a6ce5d2d0.png',
+    },
     '0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3': {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xba100000625a3754423978a60c9317c58a424e3d.png',
