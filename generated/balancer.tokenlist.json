@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-07-28T06:08:01.914Z",
+    "timestamp": "2023-07-28T13:23:21.405Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7508,6 +7508,20 @@
             "symbol": "fxTruMATIC",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc1381c17d29a22df5c3015c3d83ebd90abd0e6b3.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x4eD141110F6EeeAbA9A1df36d8c26f684d2475Dc",
+            "name": "BRZ Token",
+            "symbol": "BRZ",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0xCdB3867935247049e87c38eA270edD305D84c9AE",
+            "name": "VNX Franc",
+            "symbol": "VCHF",
+            "decimals": 18
         },
         {
             "chainId": 1101,
