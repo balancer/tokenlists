@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-07-27T13:55:45.012Z",
+    "timestamp": "2023-07-28T06:08:01.914Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7638,7 +7638,24 @@
             "address": "0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2",
             "name": "Balancer",
             "symbol": "BAL",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7c6b91d9be155a6db01f749217d76ff02a7227f2.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+            "name": "Dai Stablecoin",
+            "symbol": "DAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x50c5725949a6f0c72e6c4a641f24049a917db0cb.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
+            "name": "Coinbase Wrapped Staked ETH",
+            "symbol": "cbETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22.png"
         },
         {
             "chainId": 42161,
