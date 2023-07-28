@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-07-28T13:23:21.405Z",
+    "timestamp": "2023-07-28T13:59:03.695Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7521,6 +7521,21 @@
             "address": "0xCdB3867935247049e87c38eA270edD305D84c9AE",
             "name": "VNX Franc",
             "symbol": "VCHF",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x081Ec4c0e30159C8259BAD8F4887f83010a681DC",
+            "name": "DeNet File Token",
+            "symbol": "DE",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/31086/large/0x081ec4c0e30159c8259bad8f4887f83010a681dc_%281%29.png?1690445100"
+        },
+        {
+            "chainId": 137,
+            "address": "0x1a9b54A3075119f1546C52cA0940551A6ce5d2D0",
+            "name": "Storage Gastoken V3",
+            "symbol": "TBY",
             "decimals": 18
         },
         {
