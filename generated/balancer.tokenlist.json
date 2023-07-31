@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-07-28T13:59:03.695Z",
+    "timestamp": "2023-07-31T16:11:13.553Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5724,6 +5724,20 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa411c9aa00e020e4f88bc19996d29c5b7adb4acf.png"
         },
         {
+            "chainId": 5,
+            "address": "0xC2713850898aa3b53e4ed4403C9c980a9F5d670C",
+            "name": "Looper ETH",
+            "symbol": "LETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 5,
+            "address": "0xA33a79c5Efadac7c07693c3ce32Acf9a1Fc5A387",
+            "name": "Tapio Ether",
+            "symbol": "tapETH",
+            "decimals": 18
+        },
+        {
             "chainId": 10,
             "address": "0x888a6195D42a95e80D81e1c506172772a80b80Bc",
             "name": "Beets Reaper Aave Boosted DAI",
@@ -7521,7 +7535,8 @@
             "address": "0xCdB3867935247049e87c38eA270edD305D84c9AE",
             "name": "VNX Franc",
             "symbol": "VCHF",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/29547/large/VNXCHF_%282%29.png?1679561328"
         },
         {
             "chainId": 137,
