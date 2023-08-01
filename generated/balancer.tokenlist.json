@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-07-31T16:11:13.553Z",
+    "timestamp": "2023-08-01T15:33:05.211Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7528,7 +7528,8 @@
             "address": "0x4eD141110F6EeeAbA9A1df36d8c26f684d2475Dc",
             "name": "BRZ Token",
             "symbol": "BRZ",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/8472/large/MicrosoftTeams-image_%286%29.png?1674480131"
         },
         {
             "chainId": 137,
@@ -8782,6 +8783,22 @@
             "symbol": "BETS",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x94025780a1ab58868d9b2dbbb775f44b32e8e6e5.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x69260B9483F9871ca57f81A90D91E2F96c2Cd11d",
+            "name": "GoGoPool Protocol",
+            "symbol": "GGP",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/30267/large/GGP_logo_square.png?1683776057"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
+            "name": "BENQI",
+            "symbol": "QI",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/16362/large/GergDDN3_400x400.jpg?1644984441"
         },
         {
             "chainId": 11155111,
