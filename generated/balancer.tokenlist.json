@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-08-01T15:33:05.211Z",
+    "timestamp": "2023-08-01T21:59:08.830Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5898,8 +5898,7 @@
             "address": "0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9",
             "name": "Honey",
             "symbol": "HNY",
-            "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/12895/large/hnys.png?1614100588"
+            "decimals": 18
         },
         {
             "chainId": 100,
@@ -7701,6 +7700,14 @@
             "symbol": "cbETH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x27D2DECb4bFC9C76F0309b8E88dec3a601Fe25a8",
+            "name": "Bald",
+            "symbol": "BALD",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/31119/large/cdjxKSjo_400x400.jpg?1690721640"
         },
         {
             "chainId": 42161,
