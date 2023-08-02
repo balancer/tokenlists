@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-08-01T21:59:08.830Z",
+    "timestamp": "2023-08-02T19:36:38.671Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5898,7 +5898,8 @@
             "address": "0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9",
             "name": "Honey",
             "symbol": "HNY",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/12895/large/hnys.png?1614100588"
         },
         {
             "chainId": 100,
@@ -7708,6 +7709,20 @@
             "symbol": "BALD",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/31119/large/cdjxKSjo_400x400.jpg?1690721640"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x6FbFcf88DB1aADA31F34215b2a1Df7fafb4883e9",
+            "name": "Balancer DAI-USDbC Stable Pool",
+            "symbol": "BPT-stabal3",
+            "decimals": 18
+        },
+        {
+            "chainId": 8453,
+            "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+            "name": "USD Base Coin",
+            "symbol": "USDbC",
+            "decimals": 6
         },
         {
             "chainId": 42161,
