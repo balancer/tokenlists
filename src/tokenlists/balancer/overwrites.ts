@@ -311,10 +311,4 @@ export const overwrites: OverwritesForList = {
     },
   },
   [Network.Zkevm]: {},
-  [Network.Avalanche]: {
-    '0x502580fc390606b47FC3b741d6D49909383c28a9': {
-      logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x502580fc390606b47FC3b741d6D49909383c28a9.png',
-    },
-  },
 }
