@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-08-02T19:36:38.671Z",
+    "timestamp": "2023-08-03T00:44:41.189Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5545,6 +5545,21 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x94025780a1ab58868d9b2dbbb775f44b32e8e6e5.png"
         },
         {
+            "chainId": 1,
+            "address": "0x4CF9475Fd029F7047286bE431be07f21d36Bf62B",
+            "name": "PlumeBot",
+            "symbol": "PLUME",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x67d85A291fcDC862A78812a3C26d55e28FFB2701",
+            "name": "Asymetrix Governance Token",
+            "symbol": "ASX",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/29984/large/Asymetrix_Logo_Only_Square_w200.png?1682410718"
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -7555,6 +7570,20 @@
             "decimals": 18
         },
         {
+            "chainId": 137,
+            "address": "0x03090a9811181A2AfE830a3a0B467698CcF3a8b1",
+            "name": "Balancer Boosted Aave USD",
+            "symbol": "bb-am-usd",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x2645B13FD2c5295296e94A76280B968bDcbbDfED",
+            "name": "Balancer DUSD/bbaUSD StablePool",
+            "symbol": "DUSD/bbaUSD",
+            "decimals": 18
+        },
+        {
             "chainId": 1101,
             "address": "0x120eF59b80774F02211563834d8E3b72cb1649d6",
             "name": "Balancer",
@@ -8489,6 +8518,21 @@
             "symbol": "BETS",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x94025780a1ab58868d9b2dbbb775f44b32e8e6e5.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xA1ea76C42b2938CfA9abea12357881006c528513",
+            "name": "Balancer DUSD/bbaUSD StablePool",
+            "symbol": "DUSD/bbaUSD",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x8EC1877698ACF262Fe8Ad8a295ad94D6ea258988",
+            "name": "Davos.xyz USD",
+            "symbol": "DUSD",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/28775/large/dusd_logo_200x200.png?1685432656"
         },
         {
             "chainId": 43114,
