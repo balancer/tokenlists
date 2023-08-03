@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-08-03T00:44:41.189Z",
+    "timestamp": "2023-08-03T01:49:46.123Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8865,6 +8865,14 @@
             "symbol": "QI",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/16362/large/GergDDN3_400x400.jpg?1644984441"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x502580fc390606b47FC3b741d6D49909383c28a9",
+            "name": "Hatchy",
+            "symbol": "HATCHY",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/27560/large/HATCHY_200x200_Logo.png?1664519097"
         },
         {
             "chainId": 11155111,
