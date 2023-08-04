@@ -9,7 +9,7 @@
         "Balancer"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-07-19T12:55:01.132Z",
+    "timestamp": "2023-08-04T00:05:33.548Z",
     "tokens": [
         {
             "chainId": 1,
@@ -65,7 +65,7 @@
             "name": "R Stablecoin",
             "symbol": "R",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/29551/large/R_200x200.png?1685954962"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x183015a9ba6ff60230fdeadc3f43b3d788b13e21.png"
         },
         {
             "chainId": 1,
