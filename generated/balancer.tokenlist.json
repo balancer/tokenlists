@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-08-04T00:05:22.304Z",
+    "timestamp": "2023-08-04T11:48:13.952Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5560,6 +5560,20 @@
             "logoURI": "https://assets.coingecko.com/coins/images/29984/large/Asymetrix_Logo_Only_Square_w200.png?1682410718"
         },
         {
+            "chainId": 1,
+            "address": "0xA0Bd81eA9833094eA76b5E8745A777ECef8a421d",
+            "name": "PepePrinter",
+            "symbol": "PepePrinter",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xa8258deE2a677874a48F5320670A869D74f0cbC1",
+            "name": "Warlord token",
+            "symbol": "WAR",
+            "decimals": 18
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -7584,6 +7598,13 @@
             "decimals": 18
         },
         {
+            "chainId": 137,
+            "address": "0x7aF62C1ebf97034B7542CcEC13a2e79BbcF34380",
+            "name": "tetuBal-BPT-80BAL-20WETH Stable Pool",
+            "symbol": "tetuBAL-BALWETH",
+            "decimals": 18
+        },
+        {
             "chainId": 1101,
             "address": "0x120eF59b80774F02211563834d8E3b72cb1649d6",
             "name": "Balancer",
@@ -7753,6 +7774,14 @@
             "symbol": "USDbC",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0xAB8a1c03b8E4e1D21c8Ddd6eDf9e07f26E843492",
+            "name": "SHREKT",
+            "symbol": "OGRE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xab8a1c03b8e4e1d21c8ddd6edf9e07f26e843492.png"
         },
         {
             "chainId": 42161,
