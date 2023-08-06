@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-08-04T11:48:13.952Z",
+    "timestamp": "2023-08-06T18:27:28.270Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7605,6 +7605,13 @@
             "decimals": 18
         },
         {
+            "chainId": 137,
+            "address": "0x512D177E435552F6619F3F4e1A36f77dE9B7DDB0",
+            "name": "Million Token Burn",
+            "symbol": "MTB",
+            "decimals": 18
+        },
+        {
             "chainId": 1101,
             "address": "0x120eF59b80774F02211563834d8E3b72cb1649d6",
             "name": "Balancer",
@@ -7782,6 +7789,13 @@
             "symbol": "OGRE",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xab8a1c03b8e4e1d21c8ddd6edf9e07f26e843492.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+            "name": "Axelar Wrapped USDC",
+            "symbol": "axlUSDC",
+            "decimals": 6
         },
         {
             "chainId": 42161,
