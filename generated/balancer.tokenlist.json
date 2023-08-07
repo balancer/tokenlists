@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-08-06T18:27:28.270Z",
+    "timestamp": "2023-08-07T12:23:04.931Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5574,6 +5574,13 @@
             "decimals": 18
         },
         {
+            "chainId": 1,
+            "address": "0x18DFa773Bb72AaBe52473D66FEc6675bE196d997",
+            "name": "Paw Cream DAO",
+            "symbol": "PAWD",
+            "decimals": 18
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -7795,7 +7802,16 @@
             "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
             "name": "Axelar Wrapped USDC",
             "symbol": "axlUSDC",
-            "decimals": 6
+            "decimals": 6,
+            "logoURI": "https://assets.coingecko.com/coins/images/26476/large/uausdc_D_3x.png?1690776252"
+        },
+        {
+            "chainId": 8453,
+            "address": "0xA48C87061f4081ca8b4e2BC01711edefB0DAB2fC",
+            "name": "Lord Inu",
+            "symbol": "LINU",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa48c87061f4081ca8b4e2bc01711edefb0dab2fc.png"
         },
         {
             "chainId": 42161,
@@ -8844,7 +8860,7 @@
             "name": "YieldYak gAVAX",
             "symbol": "yyAVAX",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/27221/large/yyAVAX_Token__200x200.png?1662685308"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf7d9281e8e363584973f946201b82ba72c965d27.png"
         },
         {
             "chainId": 43114,
