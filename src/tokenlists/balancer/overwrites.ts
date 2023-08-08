@@ -206,6 +206,10 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0xde30da39c46104798bb5aa3fe8b9e0e1f348163f.png',
     },
+    '0xEC38621e72D86775a89C7422746de1f52bbA5320': {
+      symbol: 'DUSD',
+      name: 'DUSD',
+    },
   },
   [Network.Arbitrum]: {
     '0x040d1EdC9569d4Bab2D15287Dc5A4F10F56a56B8': {
