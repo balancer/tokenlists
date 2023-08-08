@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-08-08T17:49:28.850Z",
+    "timestamp": "2023-08-08T18:59:07.023Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7208,10 +7208,10 @@
         {
             "chainId": 137,
             "address": "0xEC38621e72D86775a89C7422746de1f52bbA5320",
-            "name": "Davos.xyz USD",
-            "symbol": "DAVOS",
+            "name": "DUSD",
+            "symbol": "DUSD",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/28775/large/DAVOS_200x200.png?1676529599"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xec38621e72d86775a89c7422746de1f52bba5320.png"
         },
         {
             "chainId": 137,
@@ -7648,6 +7648,27 @@
             "address": "0x512D177E435552F6619F3F4e1A36f77dE9B7DDB0",
             "name": "Million Token Burn",
             "symbol": "MTB",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x230eCdB2a7CEE56d6889965A023AA0473D6dA507",
+            "name": "Balancer Aave v3 Boosted Pool (USDT)",
+            "symbol": "bb-a-USDT",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x63cE19cCd39930725b8a3D2733627804718Ab83D",
+            "name": "Balancer Aave v3 Boosted Pool (DAI)",
+            "symbol": "bb-a-DAI",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x89bb15076C9f2D86aa98ec6cFfC1a71e31c38953",
+            "name": "Balancer Aave v3 Boosted Pool (USDC)",
+            "symbol": "bb-a-USDC",
             "decimals": 18
         },
         {
@@ -8557,21 +8578,24 @@
             "address": "0x6CB787a419c3e6Ee2e9FF365856c29CD10659113",
             "name": "Balancer Aave v3 Boosted Pool (DAI)",
             "symbol": "bb-a-DAI",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6cb787a419c3e6ee2e9ff365856c29cd10659113.png"
         },
         {
             "chainId": 42161,
             "address": "0xbD724Eb087d4cc0f61a5fED1fFFaF937937E14DE",
             "name": "Balancer Aave v3 Boosted Pool (USDC)",
             "symbol": "bb-a-USDC",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xbd724eb087d4cc0f61a5fed1fffaf937937e14de.png"
         },
         {
             "chainId": 42161,
             "address": "0xc46be4B8Bb6B5A3d3120660efae9C5416318ED40",
             "name": "Balancer Aave v3 Boosted Pool (USDT)",
             "symbol": "bb-a-USDT",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc46be4b8bb6b5a3d3120660efae9c5416318ed40.png"
         },
         {
             "chainId": 42161,
@@ -8601,7 +8625,8 @@
             "address": "0x40af308e3d07ec769D85EB80aFb116525fF4aC99",
             "name": "Balancer Aave v3 Boosted Pool (USDCe)",
             "symbol": "bb-a-USDCe",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x40af308e3d07ec769d85eb80afb116525ff4ac99.png"
         },
         {
             "chainId": 42161,

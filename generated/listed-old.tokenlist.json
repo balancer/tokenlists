@@ -9,7 +9,7 @@
         "Balancer"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-08-04T00:05:33.548Z",
+    "timestamp": "2023-08-08T18:59:21.641Z",
     "tokens": [
         {
             "chainId": 1,
@@ -2676,7 +2676,7 @@
             "name": "Davos.xyz USD",
             "symbol": "DAVOS",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/28775/large/DAVOS_200x200.png?1676529599"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xec38621e72d86775a89c7422746de1f52bba5320.png"
         },
         {
             "chainId": 137,
