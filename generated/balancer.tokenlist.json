@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-08-07T12:23:04.931Z",
+    "timestamp": "2023-08-08T01:12:48.067Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5579,6 +5579,22 @@
             "name": "Paw Cream DAO",
             "symbol": "PAWD",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xa670d7237398238DE01267472C6f13e5B8010FD1",
+            "name": "somm",
+            "symbol": "somm",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa670d7237398238de01267472c6f13e5b8010fd1.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xb5b29320d2Dde5BA5BAFA1EbcD270052070483ec",
+            "name": "Real Yield ETH",
+            "symbol": "YieldETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb5b29320d2dde5ba5bafa1ebcd270052070483ec.png"
         },
         {
             "chainId": 5,
