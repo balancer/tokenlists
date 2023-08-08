@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-08-08T16:30:24.939Z",
+    "timestamp": "2023-08-08T17:49:28.850Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5603,6 +5603,14 @@
             "symbol": "YieldETH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb5b29320d2dde5ba5bafa1ebcd270052070483ec.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x48C3399719B582dD63eB5AADf12A40B4C3f52FA2",
+            "name": "StakeWise",
+            "symbol": "SWISE",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/15044/large/stakewise200.png?1619520721"
         },
         {
             "chainId": 5,
