@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-08-08T18:59:07.023Z",
+    "timestamp": "2023-08-09T12:59:38.902Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5613,6 +5613,13 @@
             "logoURI": "https://assets.coingecko.com/coins/images/15044/large/stakewise200.png?1619520721"
         },
         {
+            "chainId": 1,
+            "address": "0x392d70Fb17502B0bf47dd00Ee067eE0F058b83D8",
+            "name": "Enders",
+            "symbol": "E",
+            "decimals": 18
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -7672,6 +7679,14 @@
             "decimals": 18
         },
         {
+            "chainId": 137,
+            "address": "0xE4095d9372E68d108225c306A4491cacfB33B097",
+            "name": "VNX Euro",
+            "symbol": "VEUR",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/29351/large/VNXEUR_%281%29.png?1678262021"
+        },
+        {
             "chainId": 1101,
             "address": "0x120eF59b80774F02211563834d8E3b72cb1649d6",
             "name": "Balancer",
@@ -7865,6 +7880,14 @@
             "symbol": "LINU",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa48c87061f4081ca8b4e2bc01711edefb0dab2fc.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0xbeFD5C25A59ef2C1316c5A4944931171F30Cd3E4",
+            "name": "GoldenBoys",
+            "symbol": "GOLD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xbefd5c25a59ef2c1316c5a4944931171f30cd3e4.png"
         },
         {
             "chainId": 42161,
