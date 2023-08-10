@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-08-09T12:59:38.902Z",
+    "timestamp": "2023-08-10T11:29:30.856Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5620,6 +5620,13 @@
             "decimals": 18
         },
         {
+            "chainId": 1,
+            "address": "0x8929e9DbD2785e3BA16175E596CDD61520feE0D1",
+            "name": "Altitude",
+            "symbol": "ALTD",
+            "decimals": 18
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -7888,6 +7895,13 @@
             "symbol": "GOLD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xbefd5c25a59ef2c1316c5a4944931171f30cd3e4.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
+            "name": "Base tBTC v2",
+            "symbol": "tBTC",
+            "decimals": 18
         },
         {
             "chainId": 42161,
