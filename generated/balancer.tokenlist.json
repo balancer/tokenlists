@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-08-10T11:29:30.856Z",
+    "timestamp": "2023-08-10T15:55:52.044Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7902,6 +7902,14 @@
             "name": "Base tBTC v2",
             "symbol": "tBTC",
             "decimals": 18
+        },
+        {
+            "chainId": 8453,
+            "address": "0xFF8adeC2221f9f4D8dfbAFa6B9a297d17603493D",
+            "name": "WELL",
+            "symbol": "WELL",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xff8adec2221f9f4d8dfbafa6b9a297d17603493d.png"
         },
         {
             "chainId": 42161,
