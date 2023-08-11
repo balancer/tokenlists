@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-08-11T05:00:18.106Z",
+    "timestamp": "2023-08-11T06:12:25.501Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5624,6 +5624,28 @@
             "address": "0x8929e9DbD2785e3BA16175E596CDD61520feE0D1",
             "name": "Altitude",
             "symbol": "ALTD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xaa31c56bBbACE0EdC3e91305b13C8095167037A8",
+            "name": "You Only Live Once",
+            "symbol": "YOLO",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
+            "name": "tBTC v2",
+            "symbol": "tBTC",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/11224/large/0x18084fba666a33d37592fa2633fd49a74dd93a88.png?1674474504"
+        },
+        {
+            "chainId": 1,
+            "address": "0xe4e72f872c4048925a78E1e6Fddac411C9ae348A",
+            "name": "2BTC",
+            "symbol": "2BTC",
             "decimals": 18
         },
         {
