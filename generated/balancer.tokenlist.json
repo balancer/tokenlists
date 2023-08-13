@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-08-11T06:12:25.501Z",
+    "timestamp": "2023-08-13T20:22:03.383Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7716,6 +7716,13 @@
             "logoURI": "https://assets.coingecko.com/coins/images/29351/large/VNXEUR_%281%29.png?1678262021"
         },
         {
+            "chainId": 137,
+            "address": "0x9080a4FE31c24c3c021bc4c38E5a17caFb14839A",
+            "name": "KongZillaPepe",
+            "symbol": "KZP",
+            "decimals": 18
+        },
+        {
             "chainId": 1101,
             "address": "0x120eF59b80774F02211563834d8E3b72cb1649d6",
             "name": "Balancer",
@@ -7923,7 +7930,8 @@
             "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
             "name": "Base tBTC v2",
             "symbol": "tBTC",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/11224/large/0x18084fba666a33d37592fa2633fd49a74dd93a88.png?1674474504"
         },
         {
             "chainId": 8453,
@@ -7940,6 +7948,13 @@
             "symbol": "rETH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x190b2aa820495c0e92840e8fa699741976cd6439.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0xE3B53AF74a4BF62Ae5511055290838050bf764Df",
+            "name": "StargateToken",
+            "symbol": "STG",
+            "decimals": 18
         },
         {
             "chainId": 42161,
