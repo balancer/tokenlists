@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-08-14T12:53:16.269Z",
+    "timestamp": "2023-08-14T13:30:50.965Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7742,7 +7742,8 @@
             "address": "0xFA3872970c1952741C518B33f1DcE815f55Dc00A",
             "name": "Waru Token V2",
             "symbol": "WARU",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfa3872970c1952741c518b33f1dce815f55dc00a.png"
         },
         {
             "chainId": 1101,
