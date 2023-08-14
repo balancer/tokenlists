@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-08-13T20:22:03.383Z",
+    "timestamp": "2023-08-14T12:40:13.986Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5649,6 +5649,13 @@
             "decimals": 18
         },
         {
+            "chainId": 1,
+            "address": "0x5031e5a3eE67CbA6a0286e23974ffdDd96927c2A",
+            "name": "Privacy Matters",
+            "symbol": "0xLimo",
+            "decimals": 18
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -7720,6 +7727,21 @@
             "address": "0x9080a4FE31c24c3c021bc4c38E5a17caFb14839A",
             "name": "KongZillaPepe",
             "symbol": "KZP",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x0266F4F08D82372CF0FcbCCc0Ff74309089c74d1",
+            "name": "Rocket Pool ETH (PoS)",
+            "symbol": "rETH",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/20764/large/reth.png?1637652366"
+        },
+        {
+            "chainId": 137,
+            "address": "0xFA3872970c1952741C518B33f1DcE815f55Dc00A",
+            "name": "Waru Token V2",
+            "symbol": "WARU",
             "decimals": 18
         },
         {
