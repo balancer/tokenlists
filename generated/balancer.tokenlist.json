@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-08-14T12:40:13.986Z",
+    "timestamp": "2023-08-14T12:53:16.269Z",
     "tokens": [
         {
             "chainId": 1,
@@ -9172,6 +9172,27 @@
             "name": "WBTC",
             "symbol": "WBTC",
             "decimals": 8
+        },
+        {
+            "chainId": 11155111,
+            "address": "0x7AF17A48a6336F7dc1beF9D485139f7B6f4FB5C8",
+            "name": "DAI Token",
+            "symbol": "DAI",
+            "decimals": 18
+        },
+        {
+            "chainId": 11155111,
+            "address": "0xE9c71Be534E71478695abF4F786486b9Ab714A2b",
+            "name": "USDe-stkUSDe linear pool",
+            "symbol": "bb-usde",
+            "decimals": 18
+        },
+        {
+            "chainId": 11155111,
+            "address": "0x2978951aD3fD7BaA52DCf7571FE24Ab0895358C8",
+            "name": "USDe",
+            "symbol": "USDe",
+            "decimals": 18
         }
     ]
 }
