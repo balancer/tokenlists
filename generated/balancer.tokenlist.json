@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-08-14T13:30:50.965Z",
+    "timestamp": "2023-08-15T22:55:06.008Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5849,6 +5849,48 @@
             "decimals": 18
         },
         {
+            "chainId": 5,
+            "address": "0x72E77B9f7E6586B25324A9434C0d42d78bb00efb",
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 5,
+            "address": "0x3cD99D149C2A7677D920cEDdeA865129e276D5e4",
+            "name": "Rocket Pool ETH",
+            "symbol": "rETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 5,
+            "address": "0xa675663742e3362924a3e032d306f129629d34b5",
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 5,
+            "address": "0xA53a23a91A779fbB337e74E5e3F58b41Eed01037",
+            "name": "Rocket Pool ETH",
+            "symbol": "rETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 5,
+            "address": "0x7C068817BcCfE2D2fe3b50f3655e7EEC0a96A88c",
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 5,
+            "address": "0xF6c184eB69Fa254739daD44287F98F65aB6308fB",
+            "name": "Rocket Pool ETH",
+            "symbol": "rETH",
+            "decimals": 18
+        },
+        {
             "chainId": 10,
             "address": "0x888a6195D42a95e80D81e1c506172772a80b80Bc",
             "name": "Beets Reaper Aave Boosted DAI",
@@ -7966,11 +8008,11 @@
         },
         {
             "chainId": 8453,
-            "address": "0x190b2aA820495c0e92840E8FA699741976cd6439",
+            "address": "0xB6fe221Fe9EeF5aBa221c348bA20A1Bf5e73624c",
             "name": "Rocket Pool ETH",
             "symbol": "rETH",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x190b2aa820495c0e92840e8fa699741976cd6439.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb6fe221fe9eef5aba221c348ba20a1bf5e73624c.png"
         },
         {
             "chainId": 8453,
@@ -8769,7 +8811,8 @@
             "address": "0x43aB8f7d2A8Dd4102cCEA6b438F6d747b1B9F034",
             "name": "Savvy",
             "symbol": "SVY",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/31253/large/Fxrd6DT.png?1692063506"
         },
         {
             "chainId": 43114,
