@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-08-15T22:55:06.008Z",
+    "timestamp": "2023-08-16T20:07:46.836Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5495,7 +5495,8 @@
             "address": "0xbB6881874825E60e1160416D6C426eae65f2459E",
             "name": "Balancer Aave v3 Boosted Pool (WETH)",
             "symbol": "bb-a-WETH",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/31285/large/eth-diamond-black-gray.png?1692194016"
         },
         {
             "chainId": 1,
@@ -5654,6 +5655,14 @@
             "name": "Privacy Matters",
             "symbol": "0xLimo",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x40370aEd88933021e20CF7C4D67E00417CdA2202",
+            "name": "Xave Token",
+            "symbol": "XAV",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/28299/large/Xave_Logomark_%28Color%29_%281%29.png?1669265691"
         },
         {
             "chainId": 5,
@@ -7786,6 +7795,20 @@
             "symbol": "WARU",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfa3872970c1952741c518b33f1dce815f55dc00a.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x8C89fb53d4D83173Dd65B7a94569558Ce393460F",
+            "name": "Balancer FRAX-USDC Stable Pool",
+            "symbol": "FRAX-USDC-BPT",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0xC474B8512664eDc9e746Ee5e786478AEA15887d2",
+            "name": "Balancer frxETH-WETH Stable Pool",
+            "symbol": "frxETH-WETH-BPT",
+            "decimals": 18
         },
         {
             "chainId": 1101,
