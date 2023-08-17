@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-08-16T20:07:46.836Z",
+    "timestamp": "2023-08-17T12:52:22.581Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5289,7 +5289,8 @@
             "address": "0x1A44E35d5451E0b78621A1B3e7a53DFaA306B1D0",
             "name": "baoETH-ETH StablePool",
             "symbol": "B-baoETH-ETH-BPT",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "missing_large.png"
         },
         {
             "chainId": 1,
