@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-08-17T12:52:22.581Z",
+    "timestamp": "2023-08-18T17:43:42.601Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5282,7 +5282,8 @@
             "address": "0x7E9AfD25F5Ec0eb24d7d4b089Ae7EcB9651c8b1F",
             "name": "baoUSD-LUSD StablePool",
             "symbol": "B-baoUSD-LUSD-BPT",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "missing_large.png"
         },
         {
             "chainId": 1,
@@ -5666,6 +5667,34 @@
             "logoURI": "https://assets.coingecko.com/coins/images/28299/large/Xave_Logomark_%28Color%29_%281%29.png?1669265691"
         },
         {
+            "chainId": 1,
+            "address": "0x559b7bfC48a5274754b08819F75C5F27aF53D53b",
+            "name": "QiDao",
+            "symbol": "QI",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x37b18B10ce5635a84834b26095A0AE5639dCB752",
+            "name": "Balancer ETHx-WETH Stable Pool",
+            "symbol": "ETHx-WETH-BPT",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xD5D99B7e9697bA8bB1dA48f07BA81900c7572CeA",
+            "name": "Balancer DUSD-3POOL Stable Pool",
+            "symbol": "DUSD-3POOL-BPT",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xE7e2c68d3b13d905BBb636709cF4DfD21076b9D2",
+            "name": "Balancer swETH-WETH Stable Pool",
+            "symbol": "swETH-WETH-BPT",
+            "decimals": 18
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -5898,6 +5927,20 @@
             "address": "0xF6c184eB69Fa254739daD44287F98F65aB6308fB",
             "name": "Rocket Pool ETH",
             "symbol": "rETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 5,
+            "address": "0x97A31B8871F42edC3038ff16979B7f2646633BD0",
+            "name": "Asymetrix Governance Token",
+            "symbol": "ASX",
+            "decimals": 18
+        },
+        {
+            "chainId": 5,
+            "address": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
             "decimals": 18
         },
         {
@@ -7812,6 +7855,14 @@
             "decimals": 18
         },
         {
+            "chainId": 137,
+            "address": "0xC19669A405067927865B40Ea045a2baabbbe57f5",
+            "name": "STAR",
+            "symbol": "STAR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc19669a405067927865b40ea045a2baabbbe57f5.png"
+        },
+        {
             "chainId": 1101,
             "address": "0x120eF59b80774F02211563834d8E3b72cb1649d6",
             "name": "Balancer",
@@ -8043,6 +8094,13 @@
             "address": "0xE3B53AF74a4BF62Ae5511055290838050bf764Df",
             "name": "StargateToken",
             "symbol": "STG",
+            "decimals": 18
+        },
+        {
+            "chainId": 8453,
+            "address": "0xA9C9Dcb054421DEDc9d9006CFfe843D0a5Cd6339",
+            "name": "Sustainable Growth",
+            "symbol": "SUS",
             "decimals": 18
         },
         {
@@ -8837,6 +8895,28 @@
             "symbol": "SVY",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/31253/large/Fxrd6DT.png?1692063506"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xC19669A405067927865B40Ea045a2baabbbe57f5",
+            "name": "STAR",
+            "symbol": "STAR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc19669a405067927865b40ea045a2baabbbe57f5.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x423A1323c871aBC9d89EB06855bF5347048Fc4A5",
+            "name": "Balancer Stable 4pool",
+            "symbol": "4POOL-BPT",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x3CdF30e36154a66A4478e15ED41659b5BB0738f1",
+            "name": "Balancer DUSD-4POOL Stable Pool",
+            "symbol": "DUSD-4POOL-BPT",
+            "decimals": 18
         },
         {
             "chainId": 43114,
