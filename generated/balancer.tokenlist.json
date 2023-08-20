@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-08-20T01:25:23.766Z",
+    "timestamp": "2023-08-20T12:41:54.154Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8136,28 +8136,32 @@
             "address": "0x0868D3aecd29fE4e4f4490B4D3D0e937C6eF07EC",
             "name": "Sisyphus",
             "symbol": "SIS",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0868d3aecd29fe4e4f4490b4d3d0e937c6ef07ec.png"
         },
         {
             "chainId": 8453,
             "address": "0x4B1b0cE9613Cd9Ffc490b0Ea7947238a056d73B9",
             "name": "FoobarFriendTech",
             "symbol": "FOO",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4b1b0ce9613cd9ffc490b0ea7947238a056d73b9.png"
         },
         {
             "chainId": 8453,
             "address": "0x62F40e8C13F6C0201C789060191c72F7281a93dE",
             "name": "icebergy",
             "symbol": "ICE",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x62f40e8c13f6c0201c789060191c72f7281a93de.png"
         },
         {
             "chainId": 8453,
             "address": "0x50dA2dF8516AbD418Bf3F60B8e074B9e2915241e",
             "name": "0xSolarcurve Shares",
             "symbol": "SOLAR",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x50da2df8516abd418bf3f60b8e074b9e2915241e.png"
         },
         {
             "chainId": 42161,
