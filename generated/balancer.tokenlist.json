@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-08-19T14:41:14.347Z",
+    "timestamp": "2023-08-20T01:25:23.766Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7884,6 +7884,13 @@
             "decimals": 18
         },
         {
+            "chainId": 137,
+            "address": "0xb4fe0D66065d703A02D5f649BcEe65C38e950385",
+            "name": "Quassar",
+            "symbol": "QUAS",
+            "decimals": 18
+        },
+        {
             "chainId": 1101,
             "address": "0x120eF59b80774F02211563834d8E3b72cb1649d6",
             "name": "Balancer",
@@ -8122,6 +8129,34 @@
             "address": "0xA9C9Dcb054421DEDc9d9006CFfe843D0a5Cd6339",
             "name": "Sustainable Growth",
             "symbol": "SUS",
+            "decimals": 18
+        },
+        {
+            "chainId": 8453,
+            "address": "0x0868D3aecd29fE4e4f4490B4D3D0e937C6eF07EC",
+            "name": "Sisyphus",
+            "symbol": "SIS",
+            "decimals": 18
+        },
+        {
+            "chainId": 8453,
+            "address": "0x4B1b0cE9613Cd9Ffc490b0Ea7947238a056d73B9",
+            "name": "FoobarFriendTech",
+            "symbol": "FOO",
+            "decimals": 18
+        },
+        {
+            "chainId": 8453,
+            "address": "0x62F40e8C13F6C0201C789060191c72F7281a93dE",
+            "name": "icebergy",
+            "symbol": "ICE",
+            "decimals": 18
+        },
+        {
+            "chainId": 8453,
+            "address": "0x50dA2dF8516AbD418Bf3F60B8e074B9e2915241e",
+            "name": "0xSolarcurve Shares",
+            "symbol": "SOLAR",
             "decimals": 18
         },
         {
