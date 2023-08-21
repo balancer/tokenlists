@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-08-21T14:02:32.070Z",
+    "timestamp": "2023-08-21T22:47:33.263Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5707,6 +5707,14 @@
             "name": "ALTR",
             "symbol": "ALTR",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x5c6D51ecBA4D8E4F20373e3ce96a62342B125D6d",
+            "name": "Element Finance",
+            "symbol": "ELFI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5c6d51ecba4d8e4f20373e3ce96a62342b125d6d.png"
         },
         {
             "chainId": 5,
