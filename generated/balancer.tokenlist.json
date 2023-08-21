@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-08-21T02:12:13.251Z",
+    "timestamp": "2023-08-21T14:02:32.070Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8177,6 +8177,14 @@
             "symbol": "ONE",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe989950a7a26d78e4b74936716ee161aff76f2f4.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0xe28BD1aC6388A82570aC3aa323623C51A60b54ad",
+            "name": "MarcZeller",
+            "symbol": "MZ",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe28bd1ac6388a82570ac3aa323623c51a60b54ad.png"
         },
         {
             "chainId": 42161,
