@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-08-20T12:41:54.154Z",
+    "timestamp": "2023-08-21T02:12:13.251Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7891,6 +7891,13 @@
             "decimals": 18
         },
         {
+            "chainId": 137,
+            "address": "0xe6Ba37F375d11411565cB44C8A75E584483FBE1b",
+            "name": "TrustbarToken",
+            "symbol": "TRUSTBAR",
+            "decimals": 18
+        },
+        {
             "chainId": 1101,
             "address": "0x120eF59b80774F02211563834d8E3b72cb1649d6",
             "name": "Balancer",
@@ -8162,6 +8169,14 @@
             "symbol": "SOLAR",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x50da2df8516abd418bf3f60b8e074b9e2915241e.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0xE989950A7a26d78e4b74936716eE161afF76f2F4",
+            "name": "TheRealOne_eth",
+            "symbol": "ONE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe989950a7a26d78e4b74936716ee161aff76f2f4.png"
         },
         {
             "chainId": 42161,
