@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-08-21T22:47:33.263Z",
+    "timestamp": "2023-08-22T16:27:00.125Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5469,7 +5469,8 @@
             "address": "0x2B218683178d029BAB6c9789b1073aA6c96E5176",
             "name": "Balancer Savings DAI Boosted Pool",
             "symbol": "bb-s-DAI",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/31367/large/bb-s-dai.png?1692693634"
         },
         {
             "chainId": 1,
@@ -9348,6 +9349,13 @@
             "symbol": "HATCHY",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/27560/large/HATCHY_200x200_Logo.png?1664519097"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xB26f0e66317846Bd5fE0cBAa1d269f0efEb05c96",
+            "name": "Balancer USDC-USDT Stable Pool",
+            "symbol": "USDC-USDT-BPT",
+            "decimals": 18
         },
         {
             "chainId": 11155111,
