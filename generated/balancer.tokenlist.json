@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-08-23T14:48:51.002Z",
+    "timestamp": "2023-08-23T19:40:39.645Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6276,6 +6276,21 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa411c9aa00e020e4f88bc19996d29c5b7adb4acf.png"
         },
         {
+            "chainId": 100,
+            "address": "0x1509706a6c66CA549ff0cB464de88231DDBe213B",
+            "name": "Aura",
+            "symbol": "AURA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1509706a6c66ca549ff0cb464de88231ddbe213b.png"
+        },
+        {
+            "chainId": 100,
+            "address": "0x2086f52651837600180dE173B09470F54EF74910",
+            "name": "Balancer Stable USD",
+            "symbol": "staBAL3",
+            "decimals": 18
+        },
+        {
             "chainId": 137,
             "address": "0x00e5646f60AC6Fb446f621d146B6E1886f002905",
             "name": "Rai Reflex Index (PoS)",
@@ -9374,6 +9389,22 @@
             "name": "Balancer USDC-USDT Stable Pool",
             "symbol": "USDC-USDT-BPT",
             "decimals": 18
+        },
+        {
+            "chainId": 43114,
+            "address": "0x7678e162f38ec9ef2Bfd1d0aAF9fd93355E5Fa0b",
+            "name": "VNX Euro",
+            "symbol": "VEUR",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/29351/large/VNXEUR_%281%29.png?1678262021"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x228a48df6819CCc2eCa01e2192ebAFfFdAD56c19",
+            "name": "VNX Franc",
+            "symbol": "VCHF",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/29547/large/VNXCHF_%282%29.png?1679561328"
         },
         {
             "chainId": 11155111,
