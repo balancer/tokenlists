@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-08-22T16:27:00.125Z",
+    "timestamp": "2023-08-23T14:48:51.002Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5700,14 +5700,16 @@
             "address": "0x7635B612792e4bFB7F2FA12a3E5d5A3f2e3C34BC",
             "name": "LCNY Stablecoin",
             "symbol": "LCNY",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7635b612792e4bfb7f2fa12a3e5d5a3f2e3c34bc.png"
         },
         {
             "chainId": 1,
             "address": "0xD1ffCacFc630CE68d3cd3369F5db829a3ed01fE2",
             "name": "ALTR",
             "symbol": "ALTR",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd1ffcacfc630ce68d3cd3369f5db829a3ed01fe2.png"
         },
         {
             "chainId": 1,
@@ -8145,7 +8147,8 @@
             "address": "0xA9C9Dcb054421DEDc9d9006CFfe843D0a5Cd6339",
             "name": "Sustainable Growth",
             "symbol": "SUS",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa9c9dcb054421dedc9d9006cffe843d0a5cd6339.png"
         },
         {
             "chainId": 8453,
@@ -9009,6 +9012,21 @@
             "name": "Balancer DUSD-4POOL Stable Pool",
             "symbol": "DUSD-4POOL-BPT",
             "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x0c8972437a38b389ec83d1E666b69b8a4fcf8bfd",
+            "name": "Balancer wstETH/rETH/sfrxETH CSP",
+            "symbol": "wstETH/rETH/sfrxETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x95aB45875cFFdba1E5f451B950bC2E42c0053f39",
+            "name": "Staked Frax Ether",
+            "symbol": "sfrxETH",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/28285/large/sfrxETH_icon.png?1679886768"
         },
         {
             "chainId": 43114,
