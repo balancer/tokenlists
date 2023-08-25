@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-08-25T18:28:20.186Z",
+    "timestamp": "2023-08-25T20:56:51.650Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6272,6 +6272,14 @@
             "symbol": "AGVE",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x3a97704a1b25f08aa230ae53b352e2e72ef52843.png"
+        },
+        {
+            "chainId": 100,
+            "address": "0x8e5bBbb09Ed1ebdE8674Cda39A0c169401db4252",
+            "name": "Wrapped BTC on xDai",
+            "symbol": "WBTC",
+            "decimals": 8,
+            "logoURI": "https://assets.coingecko.com/coins/images/7598/large/wrapped_bitcoin_wbtc.png?1548822744"
         },
         {
             "chainId": 100,
