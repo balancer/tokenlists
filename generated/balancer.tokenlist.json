@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-08-23T19:40:39.645Z",
+    "timestamp": "2023-08-25T13:40:50.827Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5713,11 +5713,40 @@
         },
         {
             "chainId": 1,
+            "address": "0x6124822d06E8df607bF7e6e630CaA48D45CB30c1",
+            "name": "Harbinger of Rise",
+            "symbol": "HARBINGER",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xaA35Cc8660Cc26D86913e771C141Fd6eeB5fF29e",
+            "name": "Monk",
+            "symbol": "MONK",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
             "address": "0x5c6D51ecBA4D8E4F20373e3ce96a62342B125D6d",
             "name": "Element Finance",
             "symbol": "ELFI",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5c6d51ecba4d8e4f20373e3ce96a62342b125d6d.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x8353157092ED8Be69a9DF8F95af097bbF33Cb2aF",
+            "name": "Balancer GHO/USDT/USDC",
+            "symbol": "GHO/USDT/USDC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xCA30c93B02514f86d5C86a6e375E3A330B435Fb5",
+            "name": "Backed IB01 $ Treasury Bond 0-1yr",
+            "symbol": "bIB01",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca30c93b02514f86d5c86a6e375e3a330b435fb5.png"
         },
         {
             "chainId": 5,
@@ -5967,6 +5996,14 @@
             "name": "Wrapped Ether",
             "symbol": "WETH",
             "decimals": 18
+        },
+        {
+            "chainId": 5,
+            "address": "0xCA30c93B02514f86d5C86a6e375E3A330B435Fb5",
+            "name": "Backed IB01 $ Treasury Bond 0-1yr",
+            "symbol": "bIB01",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca30c93b02514f86d5c86a6e375e3a330b435fb5.png"
         },
         {
             "chainId": 10,
@@ -6289,6 +6326,14 @@
             "name": "Balancer Stable USD",
             "symbol": "staBAL3",
             "decimals": 18
+        },
+        {
+            "chainId": 100,
+            "address": "0xCA30c93B02514f86d5C86a6e375E3A330B435Fb5",
+            "name": "Backed IB01 $ Treasury Bond 0-1yr",
+            "symbol": "bIB01",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca30c93b02514f86d5c86a6e375e3a330b435fb5.png"
         },
         {
             "chainId": 137,
@@ -7924,6 +7969,14 @@
             "decimals": 18
         },
         {
+            "chainId": 137,
+            "address": "0xCA30c93B02514f86d5C86a6e375E3A330B435Fb5",
+            "name": "Backed IB01 $ Treasury Bond 0-1yr",
+            "symbol": "bIB01",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca30c93b02514f86d5c86a6e375e3a330b435fb5.png"
+        },
+        {
             "chainId": 1101,
             "address": "0x120eF59b80774F02211563834d8E3b72cb1649d6",
             "name": "Balancer",
@@ -9044,6 +9097,29 @@
             "logoURI": "https://assets.coingecko.com/coins/images/28285/large/sfrxETH_icon.png?1679886768"
         },
         {
+            "chainId": 42161,
+            "address": "0xae48b7C8e096896E32D53F10d0Bf89f82ec7b987",
+            "name": "Fractal Protocol Vault Token",
+            "symbol": "USDF",
+            "decimals": 6,
+            "logoURI": "https://assets.coingecko.com/coins/images/30946/large/fractal.jpeg?1689089141"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xa7952cd7Ea8Effbd81c2B4De72A1E5b9Bd1b3E2a",
+            "name": "Balancer USDF/4pool",
+            "symbol": "USDF/4pool",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0xCA30c93B02514f86d5C86a6e375E3A330B435Fb5",
+            "name": "Backed IB01 $ Treasury Bond 0-1yr",
+            "symbol": "bIB01",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca30c93b02514f86d5c86a6e375e3a330b435fb5.png"
+        },
+        {
             "chainId": 43114,
             "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
             "name": "Wrapped AVAX",
@@ -9405,6 +9481,14 @@
             "symbol": "VCHF",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/29547/large/VNXCHF_%282%29.png?1679561328"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xCA30c93B02514f86d5C86a6e375E3A330B435Fb5",
+            "name": "Backed IB01 $ Treasury Bond 0-1yr",
+            "symbol": "bIB01",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca30c93b02514f86d5c86a6e375e3a330b435fb5.png"
         },
         {
             "chainId": 11155111,
