@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-08-25T13:40:50.827Z",
+    "timestamp": "2023-08-25T18:28:20.186Z",
     "tokens": [
         {
             "chainId": 1,
@@ -9118,6 +9118,13 @@
             "symbol": "bIB01",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca30c93b02514f86d5c86a6e375e3a330b435fb5.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xEE7E36B8b24a1c60C28E7336e937D43F74AAD740",
+            "name": "STAR Stable Pool",
+            "symbol": "STAR-USDCe-BPT",
+            "decimals": 18
         },
         {
             "chainId": 43114,
