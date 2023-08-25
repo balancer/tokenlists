@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-08-21T14:02:32.070Z",
+    "timestamp": "2023-08-23T19:40:39.645Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5469,7 +5469,8 @@
             "address": "0x2B218683178d029BAB6c9789b1073aA6c96E5176",
             "name": "Balancer Savings DAI Boosted Pool",
             "symbol": "bb-s-DAI",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/31367/large/bb-s-dai.png?1692693634"
         },
         {
             "chainId": 1,
@@ -5699,14 +5700,24 @@
             "address": "0x7635B612792e4bFB7F2FA12a3E5d5A3f2e3C34BC",
             "name": "LCNY Stablecoin",
             "symbol": "LCNY",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7635b612792e4bfb7f2fa12a3e5d5a3f2e3c34bc.png"
         },
         {
             "chainId": 1,
             "address": "0xD1ffCacFc630CE68d3cd3369F5db829a3ed01fE2",
             "name": "ALTR",
             "symbol": "ALTR",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd1ffcacfc630ce68d3cd3369f5db829a3ed01fe2.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x5c6D51ecBA4D8E4F20373e3ce96a62342B125D6d",
+            "name": "Element Finance",
+            "symbol": "ELFI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5c6d51ecba4d8e4f20373e3ce96a62342b125d6d.png"
         },
         {
             "chainId": 5,
@@ -6263,6 +6274,21 @@
             "symbol": "XOC",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa411c9aa00e020e4f88bc19996d29c5b7adb4acf.png"
+        },
+        {
+            "chainId": 100,
+            "address": "0x1509706a6c66CA549ff0cB464de88231DDBe213B",
+            "name": "Aura",
+            "symbol": "AURA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1509706a6c66ca549ff0cb464de88231ddbe213b.png"
+        },
+        {
+            "chainId": 100,
+            "address": "0x2086f52651837600180dE173B09470F54EF74910",
+            "name": "Balancer Stable USD",
+            "symbol": "staBAL3",
+            "decimals": 18
         },
         {
             "chainId": 137,
@@ -8136,7 +8162,8 @@
             "address": "0xA9C9Dcb054421DEDc9d9006CFfe843D0a5Cd6339",
             "name": "Sustainable Growth",
             "symbol": "SUS",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa9c9dcb054421dedc9d9006cffe843d0a5cd6339.png"
         },
         {
             "chainId": 8453,
@@ -9002,6 +9029,21 @@
             "decimals": 18
         },
         {
+            "chainId": 42161,
+            "address": "0x0c8972437a38b389ec83d1E666b69b8a4fcf8bfd",
+            "name": "Balancer wstETH/rETH/sfrxETH CSP",
+            "symbol": "wstETH/rETH/sfrxETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x95aB45875cFFdba1E5f451B950bC2E42c0053f39",
+            "name": "Staked Frax Ether",
+            "symbol": "sfrxETH",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/28285/large/sfrxETH_icon.png?1679886768"
+        },
+        {
             "chainId": 43114,
             "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
             "name": "Wrapped AVAX",
@@ -9340,6 +9382,29 @@
             "symbol": "HATCHY",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/27560/large/HATCHY_200x200_Logo.png?1664519097"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xB26f0e66317846Bd5fE0cBAa1d269f0efEb05c96",
+            "name": "Balancer USDC-USDT Stable Pool",
+            "symbol": "USDC-USDT-BPT",
+            "decimals": 18
+        },
+        {
+            "chainId": 43114,
+            "address": "0x7678e162f38ec9ef2Bfd1d0aAF9fd93355E5Fa0b",
+            "name": "VNX Euro",
+            "symbol": "VEUR",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/29351/large/VNXEUR_%281%29.png?1678262021"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x228a48df6819CCc2eCa01e2192ebAFfFdAD56c19",
+            "name": "VNX Franc",
+            "symbol": "VCHF",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/29547/large/VNXCHF_%282%29.png?1679561328"
         },
         {
             "chainId": 11155111,
