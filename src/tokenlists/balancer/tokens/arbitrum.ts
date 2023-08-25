@@ -105,4 +105,5 @@ export default [
   '0x0c8972437a38b389ec83d1E666b69b8a4fcf8bfd', // wstETH/rETH/sfrxETH
   '0x95aB45875cFFdba1E5f451B950bC2E42c0053f39', // sfrxETH
   '0xae48b7C8e096896E32D53F10d0Bf89f82ec7b987', // USDF
+  '0xa7952cd7Ea8Effbd81c2B4De72A1E5b9Bd1b3E2a', // USDF/4pool
 ]
