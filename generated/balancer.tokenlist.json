@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-08-25T20:56:51.650Z",
+    "timestamp": "2023-08-26T22:31:17.046Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5747,6 +5747,14 @@
             "symbol": "bIB01",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca30c93b02514f86d5c86a6e375e3a330b435fb5.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202",
+            "name": "Kyber Network Crystal v2",
+            "symbol": "KNC",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/14899/large/RwdVsGcw_400x400.jpg?1618923851"
         },
         {
             "chainId": 5,
