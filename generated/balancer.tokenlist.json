@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-08-26T22:31:17.046Z",
+    "timestamp": "2023-08-27T14:08:11.904Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8281,6 +8281,27 @@
             "symbol": "MZ",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe28bd1ac6388a82570ac3aa323623c51a60b54ad.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x7bd499100dAEe002C8Df900D831a3Dc0c2C91040",
+            "name": "85BPT-stabal3-15ONE",
+            "symbol": "85BPT-stabal3-15ONE",
+            "decimals": 18
+        },
+        {
+            "chainId": 8453,
+            "address": "0xFb4C2E6E6e27B5b4a07a36360C89EDE29bB3c9B6",
+            "name": "Balancer cbETH/WETH StablePool",
+            "symbol": "cbETH/WETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 8453,
+            "address": "0x2Db50a0e0310723EF0C2a165CB9A9f80D772ba2F",
+            "name": "Balancer 50 STABAL3 50 WETH",
+            "symbol": "BPT-50STABAL3-50WETH",
+            "decimals": 18
         },
         {
             "chainId": 42161,
