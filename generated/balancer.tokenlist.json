@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-08-28T18:06:34.898Z",
+    "timestamp": "2023-08-28T18:53:05.580Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5755,6 +5755,14 @@
             "symbol": "KNC",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/14899/large/RwdVsGcw_400x400.jpg?1618923851"
+        },
+        {
+            "chainId": 1,
+            "address": "0xC4cafEFBc3dfeA629c589728d648CB6111DB3136",
+            "name": "Term Bound Yield 6 month 2024-2-19",
+            "symbol": "TBY-feb1924",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc4cafefbc3dfea629c589728d648cb6111db3136.png"
         },
         {
             "chainId": 1,
