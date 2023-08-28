@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-08-27T14:08:11.904Z",
+    "timestamp": "2023-08-28T18:06:34.898Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5755,6 +5755,13 @@
             "symbol": "KNC",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/14899/large/RwdVsGcw_400x400.jpg?1618923851"
+        },
+        {
+            "chainId": 1,
+            "address": "0x6Ae5a7857aAd26722cB02CC168e38c52E0e4e45d",
+            "name": "Balancer TBY-feb1924 USDC Stable Pool",
+            "symbol": "TBY-feb1924-USDC-BPT",
+            "decimals": 18
         },
         {
             "chainId": 5,
