@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-08-28T18:53:05.580Z",
+    "timestamp": "2023-09-03T22:22:21.510Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5628,7 +5628,8 @@
             "address": "0x8929e9DbD2785e3BA16175E596CDD61520feE0D1",
             "name": "Altitude",
             "symbol": "ALTD",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/30114/large/logo.png?1683102953"
         },
         {
             "chainId": 1,
@@ -5769,6 +5770,20 @@
             "address": "0x6Ae5a7857aAd26722cB02CC168e38c52E0e4e45d",
             "name": "Balancer TBY-feb1924 USDC Stable Pool",
             "symbol": "TBY-feb1924-USDC-BPT",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xA88cAdd23d9688a923e1f4cDAF660e285C359868",
+            "name": "MonkCoin",
+            "symbol": "MONK",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x70a304C1776Db52417420722cBAc4b3902ca6aEa",
+            "name": "The Concept",
+            "symbol": "🔵​",
             "decimals": 18
         },
         {
@@ -8319,6 +8334,20 @@
             "decimals": 18
         },
         {
+            "chainId": 8453,
+            "address": "0xA6C6502C020D58651a8a1DC044ba7514AC41bCCe",
+            "name": "Gekko Wrapped Shares",
+            "symbol": "Gekko",
+            "decimals": 18
+        },
+        {
+            "chainId": 8453,
+            "address": "0xffcbF84650cE02DaFE96926B37a0ac5E34932fa5",
+            "name": "XEN Crypto",
+            "symbol": "cbXEN",
+            "decimals": 18
+        },
+        {
             "chainId": 42161,
             "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
             "name": "Arbitrum",
@@ -9176,6 +9205,34 @@
             "address": "0xEE7E36B8b24a1c60C28E7336e937D43F74AAD740",
             "name": "STAR Stable Pool",
             "symbol": "STAR-USDCe-BPT",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0xEAD7e0163e3b33bF0065C9325fC8fb9B18cc8213",
+            "name": "Balancer STAR/USDC StablePool",
+            "symbol": "STAR/USDC-BPT ",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x6B9f3f6b9054A45702D3F2C6e3D32A60204934cb",
+            "name": "Balancer USDF/USDC",
+            "symbol": "USDF/USDC",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x9f20de1fc9b161b34089cbEAE888168B44b03461",
+            "name": "ARBIS | We have the yields",
+            "symbol": "ARBIS",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x20547341E58fB558637FA15379C92e11F7b7F710",
+            "name": "Mozaic Token",
+            "symbol": "MOZ",
             "decimals": 18
         },
         {
