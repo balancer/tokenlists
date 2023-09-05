@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-09-03T22:22:21.510Z",
+    "timestamp": "2023-09-05T15:38:51.042Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5782,9 +5782,31 @@
         {
             "chainId": 1,
             "address": "0x70a304C1776Db52417420722cBAc4b3902ca6aEa",
-            "name": "The Concept",
+            "name": "​",
             "symbol": "🔵​",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x70d5E3234F6329c1D5a26796dcf4e109d69A3488",
+            "name": "Balancer uniETH/wstETH/rETH",
+            "symbol": "uniETH/wstETH/rETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x257Cd65f7b902E0Ef3A22F1d7E3D1cEE43CC395F",
+            "name": "Peoples Bitcoin",
+            "symbol": "BITCOIN",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x5bBe36152d3CD3eB7183A82470b39b29EedF068B",
+            "name": "Hord ETH Staking",
+            "symbol": "hETH",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/29624/large/eth-staking-pool-icon.92471e99_%282%29_1.png?1683599515"
         },
         {
             "chainId": 5,
@@ -8033,7 +8055,7 @@
         {
             "chainId": 1101,
             "address": "0xC5015b9d9161Dca7e18e32f6f25C4aD850731Fd4",
-            "name": "Dai Stablecoin",
+            "name": "Dai",
             "symbol": "DAI",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc5015b9d9161dca7e18e32f6f25c4ad850731fd4.png"
@@ -8049,7 +8071,7 @@
         {
             "chainId": 1101,
             "address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
-            "name": "Tether USD",
+            "name": "Tether",
             "symbol": "USDT",
             "decimals": 6,
             "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether.png?1668148663"
@@ -8057,7 +8079,7 @@
         {
             "chainId": 1101,
             "address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
-            "name": "Wrapped Ether",
+            "name": "WETH",
             "symbol": "WETH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4f9a0e7fd2bf6067db6994cf12e4495df938e6e9.png"
@@ -8065,7 +8087,7 @@
         {
             "chainId": 1101,
             "address": "0xEA034fb02eB1808C2cc3adbC15f447B93CbE08e1",
-            "name": "Wrapped BTC",
+            "name": "Wrapped Bitcoin",
             "symbol": "WBTC",
             "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xea034fb02eb1808c2cc3adbc15f447b93cbe08e1.png"
@@ -8073,7 +8095,7 @@
         {
             "chainId": 1101,
             "address": "0xa2036f0538221a77A3937F1379699f44945018d0",
-            "name": "Matic Token",
+            "name": "Wrapped Matic",
             "symbol": "MATIC",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/14073/large/matic.png?1628852392"
@@ -8081,7 +8103,7 @@
         {
             "chainId": 1101,
             "address": "0x83b874c1e09D316059d929da402dcB1A98e92082",
-            "name": "Staked MATIC",
+            "name": "Lido Staked Matic",
             "symbol": "stMATIC",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x83b874c1e09d316059d929da402dcb1a98e92082.png"
@@ -8089,7 +8111,7 @@
         {
             "chainId": 1101,
             "address": "0x68286607A1d43602d880D349187c3c48c0fD05E6",
-            "name": "QuickSwap",
+            "name": "Quickswap",
             "symbol": "QUICK",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x68286607a1d43602d880d349187c3c48c0fd05e6.png"
@@ -8338,7 +8360,8 @@
             "address": "0xA6C6502C020D58651a8a1DC044ba7514AC41bCCe",
             "name": "Gekko Wrapped Shares",
             "symbol": "Gekko",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa6c6502c020d58651a8a1dc044ba7514ac41bcce.png"
         },
         {
             "chainId": 8453,
