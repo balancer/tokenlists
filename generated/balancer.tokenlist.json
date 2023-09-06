@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-09-05T15:38:51.042Z",
+    "timestamp": "2023-09-06T15:22:40.552Z",
     "tokens": [
         {
             "chainId": 1,
@@ -523,7 +523,8 @@
             "address": "0x06AF07097C9Eeb7fD685c692751D5C66dB49c215",
             "name": "Chai",
             "symbol": "CHAI",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/10147/large/CHAI.png?1576467289"
         },
         {
             "chainId": 1,
@@ -2128,7 +2129,7 @@
         {
             "chainId": 1,
             "address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
-            "name": "Binance USD",
+            "name": "BUSD",
             "symbol": "BUSD",
             "decimals": 18,
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x4Fabb145d64652a948d72533023f6E7A623C7C53/logo.png"
@@ -5809,6 +5810,13 @@
             "logoURI": "https://assets.coingecko.com/coins/images/29624/large/eth-staking-pool-icon.92471e99_%282%29_1.png?1683599515"
         },
         {
+            "chainId": 1,
+            "address": "0xF51092Fe93B4E9282f42c459F05D93D2D079549e",
+            "name": "RociFi",
+            "symbol": "ROCI",
+            "decimals": 18
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -6402,6 +6410,14 @@
             "symbol": "bIB01",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca30c93b02514f86d5c86a6e375e3a330b435fb5.png"
+        },
+        {
+            "chainId": 100,
+            "address": "0x58b9cB810A68a7f3e1E4f8Cb45D1B9B3c79705E8",
+            "name": "Connext",
+            "symbol": "NEXT",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/31293/large/connext.png?1692331440"
         },
         {
             "chainId": 137,
@@ -8045,6 +8061,21 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca30c93b02514f86d5c86a6e375e3a330b435fb5.png"
         },
         {
+            "chainId": 137,
+            "address": "0xC8bB8eDa94931cA2F20EF43eA7dBD58E68400400",
+            "name": "VNX Gold",
+            "symbol": "VNXAU",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/28019/large/VNX_Token_logo_%283%29.png?1687227572"
+        },
+        {
+            "chainId": 137,
+            "address": "0xE6A537a407488807F0bbeb0038B79004f19DDDFb",
+            "name": "BRLA Token",
+            "symbol": "BRLA",
+            "decimals": 18
+        },
+        {
             "chainId": 1101,
             "address": "0x120eF59b80774F02211563834d8E3b72cb1649d6",
             "name": "Balancer",
@@ -8115,50 +8146,6 @@
             "symbol": "QUICK",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x68286607a1d43602d880d349187c3c48c0fd05e6.png"
-        },
-        {
-            "chainId": 1101,
-            "address": "0xb23C20EFcE6e24Acca0Cef9B7B7aA196b84EC942",
-            "name": "Rocket Pool ETH",
-            "symbol": "rETH",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb23c20efce6e24acca0cef9b7b7aa196b84ec942.png"
-        },
-        {
-            "chainId": 1101,
-            "address": "0x5D8cfF95D7A57c0BF50B30b43c7CC0D52825D4a9",
-            "name": "Wrapped liquid staked Ether 2.0",
-            "symbol": "wstETH",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5d8cff95d7a57c0bf50b30b43c7cc0d52825d4a9.png"
-        },
-        {
-            "chainId": 1101,
-            "address": "0xe1F2c039a68A216dE6DD427Be6c60dEcf405762A",
-            "name": "Balancer wstETH Stable Pool",
-            "symbol": "B-wstETH-STABLE",
-            "decimals": 18
-        },
-        {
-            "chainId": 1101,
-            "address": "0xe274c9deb6ed34cfe4130F8D0A8a948deA5bB286",
-            "name": "Balancer 0vix Boosted StablePool",
-            "symbol": "bb-o-USD",
-            "decimals": 18
-        },
-        {
-            "chainId": 1101,
-            "address": "0x4B718E0E2fEA1dA68b763CD50C446FbA03CEB2Ea",
-            "name": "Balancer 0vix Boosted Pool (USDT)",
-            "symbol": "bb-o-USDT",
-            "decimals": 18
-        },
-        {
-            "chainId": 1101,
-            "address": "0x16C9a4D841E88E52b51936106010F27085a529EC",
-            "name": "Balancer 0vix Boosted Pool (USDC)",
-            "symbol": "bb-o-USDC",
-            "decimals": 18
         },
         {
             "chainId": 8453,
