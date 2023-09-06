@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-09-06T15:22:40.552Z",
+    "timestamp": "2023-09-06T21:50:05.026Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6420,6 +6420,28 @@
             "logoURI": "https://assets.coingecko.com/coins/images/31293/large/connext.png?1692331440"
         },
         {
+            "chainId": 100,
+            "address": "0xCA30c93B02514f86d5C86a6e375E3A330B435Fb5",
+            "name": "Backed IB01 $ Treasury Bond 0-1yr",
+            "symbol": "bIB01",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca30c93b02514f86d5c86a6e375e3a330b435fb5.png"
+        },
+        {
+            "chainId": 100,
+            "address": "0x52d134c6DB5889FaD3542A09eAf7Aa90C0fdf9E4",
+            "name": "Backed IBTA $ Treasury Bond 1-3yr",
+            "symbol": "bIBTA",
+            "decimals": 18
+        },
+        {
+            "chainId": 100,
+            "address": "0x1e2C4fb7eDE391d116E6B41cD0608260e8801D59",
+            "name": "Backed CSPX Core S&P 500",
+            "symbol": "bCSPX",
+            "decimals": 18
+        },
+        {
             "chainId": 137,
             "address": "0x00e5646f60AC6Fb446f621d146B6E1886f002905",
             "name": "Rai Reflex Index (PoS)",
@@ -8201,11 +8223,10 @@
         },
         {
             "chainId": 8453,
-            "address": "0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2",
+            "address": "0x4158734D47Fc9692176B5085E0F52ee0Da5d47F1",
             "name": "Balancer",
             "symbol": "BAL",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7c6b91d9be155a6db01f749217d76ff02a7227f2.png"
+            "decimals": 18
         },
         {
             "chainId": 8453,
@@ -8400,6 +8421,21 @@
             "name": "XEN Crypto",
             "symbol": "cbXEN",
             "decimals": 18
+        },
+        {
+            "chainId": 8453,
+            "address": "0x0C659734f1eEF9C63B7Ebdf78a164CDd745586Db",
+            "name": "Balancer USDC/USDbC/axlUSDC",
+            "symbol": "USDC/USDbC/axlUSDC",
+            "decimals": 18
+        },
+        {
+            "chainId": 8453,
+            "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389"
         },
         {
             "chainId": 42161,
