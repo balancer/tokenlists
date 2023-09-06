@@ -8148,6 +8148,50 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x68286607a1d43602d880d349187c3c48c0fd05e6.png"
         },
         {
+            "chainId": 1101,
+            "address": "0xb23C20EFcE6e24Acca0Cef9B7B7aA196b84EC942",
+            "name": "Rocket Pool ETH",
+            "symbol": "rETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb23c20efce6e24acca0cef9b7b7aa196b84ec942.png"
+        },
+        {
+            "chainId": 1101,
+            "address": "0x5D8cfF95D7A57c0BF50B30b43c7CC0D52825D4a9",
+            "name": "Wrapped liquid staked Ether 2.0",
+            "symbol": "wstETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5d8cff95d7a57c0bf50b30b43c7cc0d52825d4a9.png"
+        },
+        {
+            "chainId": 1101,
+            "address": "0xe1F2c039a68A216dE6DD427Be6c60dEcf405762A",
+            "name": "Balancer wstETH Stable Pool",
+            "symbol": "B-wstETH-STABLE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1101,
+            "address": "0xe274c9deb6ed34cfe4130F8D0A8a948deA5bB286",
+            "name": "Balancer 0vix Boosted StablePool",
+            "symbol": "bb-o-USD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1101,
+            "address": "0x4B718E0E2fEA1dA68b763CD50C446FbA03CEB2Ea",
+            "name": "Balancer 0vix Boosted Pool (USDT)",
+            "symbol": "bb-o-USDT",
+            "decimals": 18
+        },
+        {
+            "chainId": 1101,
+            "address": "0x16C9a4D841E88E52b51936106010F27085a529EC",
+            "name": "Balancer 0vix Boosted Pool (USDC)",
+            "symbol": "bb-o-USDC",
+            "decimals": 18
+        },
+        {
             "chainId": 8453,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
