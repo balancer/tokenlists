@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-09-06T21:50:05.026Z",
+    "timestamp": "2023-09-07T00:39:51.227Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5811,6 +5811,27 @@
         },
         {
             "chainId": 1,
+            "address": "0x943c5F4F54509d1e78B1fCD93B92c43ce83d3141",
+            "name": "Amphora Protocol",
+            "symbol": "AMPH",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xD842D9651F69cEBc0b2Cffc291fC3D3Fe7b5D226",
+            "name": "USDA Token",
+            "symbol": "USDA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x43833f0C2025dFA80b5556574FAA11CBf7F3f4eB",
+            "name": "Wrapped USDA",
+            "symbol": "wUSDA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
             "address": "0xF51092Fe93B4E9282f42c459F05D93D2D079549e",
             "name": "RociFi",
             "symbol": "ROCI",
@@ -8170,50 +8191,6 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x68286607a1d43602d880d349187c3c48c0fd05e6.png"
         },
         {
-            "chainId": 1101,
-            "address": "0xb23C20EFcE6e24Acca0Cef9B7B7aA196b84EC942",
-            "name": "Rocket Pool ETH",
-            "symbol": "rETH",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb23c20efce6e24acca0cef9b7b7aa196b84ec942.png"
-        },
-        {
-            "chainId": 1101,
-            "address": "0x5D8cfF95D7A57c0BF50B30b43c7CC0D52825D4a9",
-            "name": "Wrapped liquid staked Ether 2.0",
-            "symbol": "wstETH",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5d8cff95d7a57c0bf50b30b43c7cc0d52825d4a9.png"
-        },
-        {
-            "chainId": 1101,
-            "address": "0xe1F2c039a68A216dE6DD427Be6c60dEcf405762A",
-            "name": "Balancer wstETH Stable Pool",
-            "symbol": "B-wstETH-STABLE",
-            "decimals": 18
-        },
-        {
-            "chainId": 1101,
-            "address": "0xe274c9deb6ed34cfe4130F8D0A8a948deA5bB286",
-            "name": "Balancer 0vix Boosted StablePool",
-            "symbol": "bb-o-USD",
-            "decimals": 18
-        },
-        {
-            "chainId": 1101,
-            "address": "0x4B718E0E2fEA1dA68b763CD50C446FbA03CEB2Ea",
-            "name": "Balancer 0vix Boosted Pool (USDT)",
-            "symbol": "bb-o-USDT",
-            "decimals": 18
-        },
-        {
-            "chainId": 1101,
-            "address": "0x16C9a4D841E88E52b51936106010F27085a529EC",
-            "name": "Balancer 0vix Boosted Pool (USDC)",
-            "symbol": "bb-o-USDC",
-            "decimals": 18
-        },
-        {
             "chainId": 8453,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -8226,7 +8203,8 @@
             "address": "0x4158734D47Fc9692176B5085E0F52ee0Da5d47F1",
             "name": "Balancer",
             "symbol": "BAL",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4158734d47fc9692176b5085e0f52ee0da5d47f1.png"
         },
         {
             "chainId": 8453,
