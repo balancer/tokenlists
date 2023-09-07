@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-09-07T00:39:51.227Z",
+    "timestamp": "2023-09-07T14:30:05.900Z",
     "tokens": [
         {
             "chainId": 1,
@@ -90,6 +90,14 @@
             "symbol": "YFI",
             "decimals": 18,
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x4E9e4Ab99Cfc14B852f552f5Fb3Aa68617825B6c",
+            "name": "SolarCoin on Mainnet",
+            "symbol": "SLR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4e9e4ab99cfc14b852f552f5fb3aa68617825b6c.png"
         },
         {
             "chainId": 1,
@@ -8458,6 +8466,13 @@
             "symbol": "USDC",
             "decimals": 6,
             "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2",
+            "name": "Balancer",
+            "symbol": "BAL",
+            "decimals": 18
         },
         {
             "chainId": 42161,
