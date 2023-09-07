@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-09-06T21:50:05.026Z",
+    "timestamp": "2023-09-07T00:39:51.227Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5811,6 +5811,27 @@
         },
         {
             "chainId": 1,
+            "address": "0x943c5F4F54509d1e78B1fCD93B92c43ce83d3141",
+            "name": "Amphora Protocol",
+            "symbol": "AMPH",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xD842D9651F69cEBc0b2Cffc291fC3D3Fe7b5D226",
+            "name": "USDA Token",
+            "symbol": "USDA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x43833f0C2025dFA80b5556574FAA11CBf7F3f4eB",
+            "name": "Wrapped USDA",
+            "symbol": "wUSDA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
             "address": "0xF51092Fe93B4E9282f42c459F05D93D2D079549e",
             "name": "RociFi",
             "symbol": "ROCI",
@@ -8226,7 +8247,8 @@
             "address": "0x4158734D47Fc9692176B5085E0F52ee0Da5d47F1",
             "name": "Balancer",
             "symbol": "BAL",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4158734d47fc9692176b5085e0f52ee0da5d47f1.png"
         },
         {
             "chainId": 8453,
