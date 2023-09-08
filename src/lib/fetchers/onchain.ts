@@ -17,8 +17,6 @@ export async function fetchOnchainMetadata(
   network: Network,
   tokenAddresses: string[]
 ): Promise<PartialTokenInfoMap> {
-  if (network === Network.Zkevm) return {}
-
   const provider = getProvider(network)
   const multicaller = new Multicaller({ network, provider })
 
