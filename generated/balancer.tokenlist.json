@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-09-08T18:35:20.298Z",
+    "timestamp": "2023-09-08T21:59:29.294Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8466,13 +8466,6 @@
             "symbol": "USDC",
             "decimals": 6,
             "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389"
-        },
-        {
-            "chainId": 8453,
-            "address": "0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2",
-            "name": "Balancer",
-            "symbol": "BAL",
-            "decimals": 18
         },
         {
             "chainId": 42161,
