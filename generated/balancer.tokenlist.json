@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-09-08T21:59:29.294Z",
+    "timestamp": "2023-09-14T20:34:34.866Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8466,6 +8466,20 @@
             "symbol": "USDC",
             "decimals": 6,
             "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x11C1879227D463b60db18C17c20aE739aE8E961a",
+            "name": "Axelar Wrapped BAL",
+            "symbol": "axlBAL",
+            "decimals": 18
+        },
+        {
+            "chainId": 8453,
+            "address": "0x58F2110B61F97fD6B9200b038d92f17c722A5A33",
+            "name": "Balancer axlBAL/BAL Stable",
+            "symbol": "axlBAL/BAL",
+            "decimals": 18
         },
         {
             "chainId": 42161,
