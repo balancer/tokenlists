@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-09-14T20:34:34.866Z",
+    "timestamp": "2023-09-17T15:56:44.574Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5844,6 +5844,21 @@
             "name": "RociFi",
             "symbol": "ROCI",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xF9a449382b54edc12faB88B54C13C296249B41AE",
+            "name": "StalloneSchwarzeneggerVanDammeChuckNorrisStevenSeagalJackieChan",
+            "symbol": "CASH",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xf0655DcEE37E5C0b70Fffd70D85f88F8eDf0AfF6",
+            "name": "UniDex",
+            "symbol": "UNIDX",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/13178/large/unidx.png?1634888975"
         },
         {
             "chainId": 5,
