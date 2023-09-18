@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-09-17T15:56:44.574Z",
+    "timestamp": "2023-09-18T08:53:18.778Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8238,6 +8238,20 @@
         },
         {
             "chainId": 1101,
+            "address": "0x1d0A8a31CDb04efAC3153237526Fb15cc65A2520",
+            "name": "Balancer rETH Stable Pool",
+            "symbol": "B-rETH-STABLE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1101,
+            "address": "0xDF725FdE6E89981Fb30D9bF999841aC2C160b512",
+            "name": "Balancer wstETH/rETH Stable Pool",
+            "symbol": "B-wstETH/rETH-STABLE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1101,
             "address": "0xe274c9deb6ed34cfe4130F8D0A8a948deA5bB286",
             "name": "Balancer 0vix Boosted StablePool",
             "symbol": "bb-o-USD",
@@ -9382,7 +9396,8 @@
             "address": "0x20547341E58fB558637FA15379C92e11F7b7F710",
             "name": "Mozaic Token",
             "symbol": "MOZ",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/30100/large/Main_Logo_1-200x200jpg.jpg?1693813032"
         },
         {
             "chainId": 43114,
