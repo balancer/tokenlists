@@ -30,4 +30,12 @@ export default [
   '0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913', // USDC
   '0x11C1879227D463b60db18C17c20aE739aE8E961a', // axlBAL
   '0x58F2110B61F97fD6B9200b038d92f17c722A5A33', // axlBAL/BAL
+  '0x0f76d32cdccdcbd602a55af23eaf58fd1ee17245', // bERNA
+  '0x20c64dee8fda5269a78f2d5bdba861ca1d83df7a', // bHIGH
+  '0x2f11eeee0bf21e7661a22dbbbb9068f4ad191b86', // bNIU
+  '0x2f123cf3f37ce3328cc9b5b8415f9ec5109b45e7', // bC3M
+  '0x52d134c6db5889fad3542a09eaf7aa90c0fdf9e4', // bIBTA
+  '0xbbcb0356bb9e6b3faa5cbf9e5f36185d53403ac9', // bCOIN
+  '0xc3ce78b037dda1b966d31ec7979d3f3a38571a8e', // bCSPX
+  '0xca30c93b02514f86d5c86a6e375e3a330b435fb5', // bIB01
 ]
