@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-09-18T11:09:50.727Z",
+    "timestamp": "2023-09-19T15:30:24.941Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8320,6 +8320,13 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6cabaf65ab23d337008c529e3b2040908cac3b38.png"
         },
         {
+            "chainId": 137,
+            "address": "0xdddCa1d1fd4E72B85B7B95f07651AB36B62F69E9",
+            "name": "Grosh",
+            "symbol": "GROSH",
+            "decimals": 18
+        },
+        {
             "chainId": 1101,
             "address": "0x120eF59b80774F02211563834d8E3b72cb1649d6",
             "name": "Balancer",
@@ -9704,6 +9711,20 @@
             "symbol": "bIB01",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca30c93b02514f86d5c86a6e375e3a330b435fb5.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x3f09C77B19AD8Bb527355ec32d5ce98421fec2E3",
+            "name": "Balancer axlBAL/BAL StablePool",
+            "symbol": "axlBAL/BAL",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x11C1879227D463b60db18C17c20aE739aE8E961a",
+            "name": "Axelar Wrapped BAL",
+            "symbol": "axlBAL",
+            "decimals": 18
         },
         {
             "chainId": 43114,
