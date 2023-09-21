@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-09-19T15:30:24.941Z",
+    "timestamp": "2023-09-21T15:25:17.530Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5925,6 +5925,13 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca30c93b02514f86d5c86a6e375e3a330b435fb5.png"
         },
         {
+            "chainId": 1,
+            "address": "0xa9a3fD9bEB95EA62eAa9cfFc966fC1fFbe1A6f0d",
+            "name": "ShrekCoin",
+            "symbol": "SHREK",
+            "decimals": 18
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -8760,6 +8767,20 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca30c93b02514f86d5c86a6e375e3a330b435fb5.png"
         },
         {
+            "chainId": 8453,
+            "address": "0xA3d1a8DEB97B111454B294E2324EfAD13a9d8396",
+            "name": "OVN",
+            "symbol": "OVN",
+            "decimals": 18
+        },
+        {
+            "chainId": 8453,
+            "address": "0xd95ca61CE9aAF2143E81Ef5462C0c2325172E028",
+            "name": "Wrapped USD+",
+            "symbol": "wUSD+",
+            "decimals": 6
+        },
+        {
             "chainId": 42161,
             "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
             "name": "Arbitrum",
@@ -9725,6 +9746,20 @@
             "name": "Axelar Wrapped BAL",
             "symbol": "axlBAL",
             "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0xA3d1a8DEB97B111454B294E2324EfAD13a9d8396",
+            "name": "OVN",
+            "symbol": "OVN",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0xB86fb1047A955C0186c77ff6263819b37B32440D",
+            "name": "Wrapped USD+",
+            "symbol": "wUSD+",
+            "decimals": 6
         },
         {
             "chainId": 43114,
