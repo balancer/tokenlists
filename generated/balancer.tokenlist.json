@@ -10279,6 +10279,14 @@
             "name": "USDe",
             "symbol": "USDe",
             "decimals": 18
-        }
+        },
+        {
+            "chainId": 1,
+            "address": "0xd70bD499De609844EdfaF13d762db48CdeffBd8C",
+            "name": "RoMatic Token",
+            "symbol": "ROMATIC",
+            "decimals": 18,
+            
+        },
     ]
 }
