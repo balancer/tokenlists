@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-09-21T15:25:17.530Z",
+    "timestamp": "2023-09-26T15:42:19.698Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5843,7 +5843,8 @@
             "address": "0xF51092Fe93B4E9282f42c459F05D93D2D079549e",
             "name": "RociFi",
             "symbol": "ROCI",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/31960/large/Icon-03.png?1695727264"
         },
         {
             "chainId": 1,
@@ -5929,6 +5930,20 @@
             "address": "0xa9a3fD9bEB95EA62eAa9cfFc966fC1fFbe1A6f0d",
             "name": "ShrekCoin",
             "symbol": "SHREK",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x40C806394d03d350420d13CD7d1DE1C806f34956",
+            "name": "Balancer qETH/WETH ",
+            "symbol": "qETH/WETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xbf30461210b37012783957D90dC26B95Ce3b6f2d",
+            "name": "Swivel Governance Token",
+            "symbol": "SWIV",
             "decimals": 18
         },
         {
