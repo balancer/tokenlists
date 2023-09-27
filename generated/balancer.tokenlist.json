@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-09-26T15:42:19.698Z",
+    "timestamp": "2023-09-27T13:52:00.558Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5945,6 +5945,22 @@
             "name": "Swivel Governance Token",
             "symbol": "SWIV",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x92CC36D66e9d739D50673d1f27929a371FB83a67",
+            "name": "Wagmi",
+            "symbol": "WAGMI",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/31887/large/wagmi_token_logo.png?1695372579"
+        },
+        {
+            "chainId": 1,
+            "address": "0xf16e81dce15B08F326220742020379B855B87DF9",
+            "name": "IceToken",
+            "symbol": "ICE",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/14586/large/ice.png?1617188825"
         },
         {
             "chainId": 5,
