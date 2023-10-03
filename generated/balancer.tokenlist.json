@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-10-03T01:18:08.608Z",
+    "timestamp": "2023-10-03T11:43:22.026Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5963,6 +5963,13 @@
             "logoURI": "https://assets.coingecko.com/coins/images/14586/large/ice.png?1617188825"
         },
         {
+            "chainId": 1,
+            "address": "0x4C5Cb5D87709387f8821709f7a6664f00DcF0C93",
+            "name": "Raft",
+            "symbol": "RAFT",
+            "decimals": 18
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -6045,7 +6052,7 @@
             "address": "0x98f71Bc76129fe6191afD91A36A20BDA7FF1bfE5",
             "name": "Totem Token",
             "symbol": "TOT",
-            "decimals": "0"
+            "decimals": 0
         },
         {
             "chainId": 5,
@@ -8369,6 +8376,13 @@
             "address": "0xdddCa1d1fd4E72B85B7B95f07651AB36B62F69E9",
             "name": "Grosh",
             "symbol": "GROSH",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x7CcB1Cc5A55c199D838e54B3fB5b662Bc99355e6",
+            "name": "Fusd",
+            "symbol": "FSD",
             "decimals": 18
         },
         {
