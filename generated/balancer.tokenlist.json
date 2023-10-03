@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-09-27T13:52:00.558Z",
+    "timestamp": "2023-10-03T01:18:08.608Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6039,6 +6039,13 @@
             "name": "Wrapped aDAI",
             "symbol": "aDAI",
             "decimals": 18
+        },
+        {
+            "chainId": 5,
+            "address": "0x98f71Bc76129fe6191afD91A36A20BDA7FF1bfE5",
+            "name": "Totem Token",
+            "symbol": "TOT",
+            "decimals": "0"
         },
         {
             "chainId": 5,
