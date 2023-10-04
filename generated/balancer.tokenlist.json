@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-10-04T13:50:59.481Z",
+    "timestamp": "2023-10-04T13:58:47.414Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7120,54 +7120,6 @@
             "symbol": "MaticX",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfa68fb4628dff1028cfec22b4162fccd0d45efb6.png"
-        },
-        {
-            "chainId": 137,
-            "address": "0x3Ad707dA309f3845cd602059901E39C4dcd66473",
-            "name": "ETH 2x Flexible Leverage Index",
-            "symbol": "ETH2x-FLI-P",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x3ad707da309f3845cd602059901e39c4dcd66473.png"
-        },
-        {
-            "chainId": 137,
-            "address": "0x4f025829C4B13dF652f38Abd2AB901185fF1e609",
-            "name": "Inverse ETH Flexible Leverage Index",
-            "symbol": "iETH-FLI-P",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4f025829c4b13df652f38abd2ab901185ff1e609.png"
-        },
-        {
-            "chainId": 137,
-            "address": "0xd6cA869a4EC9eD2C7E618062Cdc45306d8dBBc14",
-            "name": "BTC 2x Flexible Leverage Index",
-            "symbol": "BTC2x-FLI-P",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd6ca869a4ec9ed2c7e618062cdc45306d8dbbc14.png"
-        },
-        {
-            "chainId": 137,
-            "address": "0x130cE4E4F76c2265f94a961D70618562de0bb8d2",
-            "name": "Inverse BTC Flexible Leverage Index",
-            "symbol": "iBTC-FLI-P",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x130ce4e4f76c2265f94a961d70618562de0bb8d2.png"
-        },
-        {
-            "chainId": 137,
-            "address": "0xf287D97B6345bad3D88856b26Fb7c0ab3F2C7976",
-            "name": "MATIC 2x Flexible Leverage Index",
-            "symbol": "MATIC2x-FLI-P",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf287d97b6345bad3d88856b26fb7c0ab3f2c7976.png"
-        },
-        {
-            "chainId": 137,
-            "address": "0x340f412860dA7b7823df372a2b59Ff78b7ae6abc",
-            "name": "Inverse MATIC Flexible Leverage Index",
-            "symbol": "iMATIC-FLI-P",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x340f412860da7b7823df372a2b59ff78b7ae6abc.png"
         },
         {
             "chainId": 137,
