@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-10-03T11:43:22.026Z",
+    "timestamp": "2023-10-04T13:50:59.481Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5970,6 +5970,13 @@
             "decimals": 18
         },
         {
+            "chainId": 1,
+            "address": "0x867172DE8AD0F66E9591860Be18f40EB00068159",
+            "name": "Plague",
+            "symbol": "MOQ",
+            "decimals": 18
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -6642,6 +6649,14 @@
             "symbol": "bIB01",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca30c93b02514f86d5c86a6e375e3a330b435fb5.png"
+        },
+        {
+            "chainId": 100,
+            "address": "0xaf204776c7245bF4147c2612BF6e5972Ee483701",
+            "name": "Savings xDAI",
+            "symbol": "sDAI",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/32066/large/sDAI_Logo_%281%29.png?1696292026"
         },
         {
             "chainId": 137,
@@ -8383,6 +8398,13 @@
             "address": "0x7CcB1Cc5A55c199D838e54B3fB5b662Bc99355e6",
             "name": "Fusd",
             "symbol": "FSD",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x6442E09576C87AC68e249A0C56f718088a0e7D2D",
+            "name": "AVA",
+            "symbol": "AVA",
             "decimals": 18
         },
         {
