@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-10-04T13:58:47.414Z",
+    "timestamp": "2023-10-06T15:26:16.557Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5198,7 +5198,7 @@
             "name": "Wrapped Binance Beacon ETH",
             "symbol": "wBETH",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/30061/large/wbeth-icon.png?1683001548"
+            "logoURI": "https://assets.coingecko.com/coins/images/30061/large/wbeth-icon.png?1696528983"
         },
         {
             "chainId": 1,
@@ -5238,7 +5238,7 @@
             "name": "ApeCoin",
             "symbol": "APE",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/24383/large/apecoin.jpg?1647476455"
+            "logoURI": "https://assets.coingecko.com/coins/images/24383/large/apecoin.jpg?1696523566"
         },
         {
             "chainId": 1,
@@ -5254,7 +5254,7 @@
             "name": "Pepe",
             "symbol": "PEPE",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/29850/large/pepe-token.jpeg?1682922725"
+            "logoURI": "https://assets.coingecko.com/coins/images/29850/large/pepe-token.jpeg?1696528776"
         },
         {
             "chainId": 1,
@@ -5815,7 +5815,7 @@
             "name": "Hord ETH Staking",
             "symbol": "hETH",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/29624/large/eth-staking-pool-icon.92471e99_%282%29_1.png?1683599515"
+            "logoURI": "https://assets.coingecko.com/coins/images/29624/large/eth-staking-pool-icon.92471e99_%282%29_1.png?1696528560"
         },
         {
             "chainId": 1,
@@ -5974,6 +5974,27 @@
             "address": "0x867172DE8AD0F66E9591860Be18f40EB00068159",
             "name": "Plague",
             "symbol": "MOQ",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xaF4ce7CD4F8891ecf1799878c3e9A35b8BE57E09",
+            "name": "Wrapped USK",
+            "symbol": "wUSK",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x571f54D23cDf2211C83E9A0CbD92AcA36c48Fa02",
+            "name": "paUSD Stablecoin",
+            "symbol": "paUSD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x01536b22ea06e4A315E3DAAF05a12683Ed4dc14c",
+            "name": "wUSK/paUSD/USDC",
+            "symbol": "e-cs-kp-usd",
             "decimals": 18
         },
         {
@@ -6378,7 +6399,7 @@
             "name": "Wrapped XDAI",
             "symbol": "WXDAI",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/14584/large/wrapped-xdai-logo.png?1641888881"
+            "logoURI": "https://assets.coingecko.com/coins/images/14584/large/wrapped-xdai-logo.png?1696514264"
         },
         {
             "chainId": 100,
@@ -6402,7 +6423,7 @@
             "name": "Honey",
             "symbol": "HNY",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/12895/large/hnys.png?1614100588"
+            "logoURI": "https://assets.coingecko.com/coins/images/12895/large/hnys.png?1696512683"
         },
         {
             "chainId": 100,
@@ -6568,7 +6589,8 @@
             "address": "0x2086f52651837600180dE173B09470F54EF74910",
             "name": "Balancer Stable USD",
             "symbol": "staBAL3",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/32112/large/bal3.png?1696561317"
         },
         {
             "chainId": 100,
@@ -6816,7 +6838,7 @@
             "name": "Jarvis Reward Token (PoS)",
             "symbol": "JRT",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/10390/large/cfeii0y.png?1578868949"
+            "logoURI": "https://assets.coingecko.com/coins/images/10390/large/cfeii0y.png?1696510389"
         },
         {
             "chainId": 137,
@@ -7175,7 +7197,7 @@
             "name": "Luchadores.io LUCHA Token",
             "symbol": "LUCHA",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/22794/large/lucha.png?1642581523"
+            "logoURI": "https://assets.coingecko.com/coins/images/22794/large/lucha.png?1696522097"
         },
         {
             "chainId": 137,
@@ -7887,7 +7909,7 @@
             "name": "AGA Token (PoS)",
             "symbol": "AGA",
             "decimals": 4,
-            "logoURI": "https://assets.coingecko.com/coins/images/12180/large/aga-logo.png?1597937396"
+            "logoURI": "https://assets.coingecko.com/coins/images/12180/large/aga-logo.png?1696512017"
         },
         {
             "chainId": 137,
@@ -8876,7 +8898,7 @@
             "name": "TrueUSD",
             "symbol": "TUSD",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/30837/large/tusd.jpeg?1687837876"
+            "logoURI": "https://assets.coingecko.com/coins/images/30837/large/tusd.jpeg?1696529695"
         },
         {
             "chainId": 42161,
