@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-10-06T15:26:16.557Z",
+    "timestamp": "2023-10-08T22:26:10.302Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6681,6 +6681,13 @@
             "logoURI": "https://assets.coingecko.com/coins/images/32066/large/sDAI_Logo_%281%29.png?1696292026"
         },
         {
+            "chainId": 100,
+            "address": "0xcE11e14225575945b8E6Dc0D4F2dD4C570f79d9f",
+            "name": "Autonolas from Mainnet",
+            "symbol": "OLAS",
+            "decimals": 18
+        },
+        {
             "chainId": 137,
             "address": "0x00e5646f60AC6Fb446f621d146B6E1886f002905",
             "name": "Rai Reflex Index (PoS)",
@@ -8819,7 +8826,8 @@
             "address": "0xA3d1a8DEB97B111454B294E2324EfAD13a9d8396",
             "name": "OVN",
             "symbol": "OVN",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "missing_large.png"
         },
         {
             "chainId": 8453,
