@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-10-08T22:26:10.302Z",
+    "timestamp": "2023-10-09T12:44:59.086Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5967,7 +5967,8 @@
             "address": "0x4C5Cb5D87709387f8821709f7a6664f00DcF0C93",
             "name": "Raft",
             "symbol": "RAFT",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4c5cb5d87709387f8821709f7a6664f00dcf0c93.png"
         },
         {
             "chainId": 1,
@@ -6685,6 +6686,27 @@
             "address": "0xcE11e14225575945b8E6Dc0D4F2dD4C570f79d9f",
             "name": "Autonolas from Mainnet",
             "symbol": "OLAS",
+            "decimals": 18
+        },
+        {
+            "chainId": 100,
+            "address": "0x7644fA5D0eA14FcF3E813Fdf93ca9544f8567655",
+            "name": "Balancer Stable USD",
+            "symbol": "sBAL3",
+            "decimals": 18
+        },
+        {
+            "chainId": 100,
+            "address": "0x06135A9Ae830476d3a941baE9010B63732a055F4",
+            "name": "Balancer Stable stEUR EURe pool",
+            "symbol": "stEUR/EURe",
+            "decimals": 18
+        },
+        {
+            "chainId": 100,
+            "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
+            "name": "Staked agEUR",
+            "symbol": "stEUR",
             "decimals": 18
         },
         {
