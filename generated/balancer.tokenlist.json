@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-10-09T12:44:59.086Z",
+    "timestamp": "2023-10-11T13:14:51.483Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5682,7 +5682,8 @@
             "address": "0x559b7bfC48a5274754b08819F75C5F27aF53D53b",
             "name": "QiDao",
             "symbol": "QI",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/15329/large/qi.png?1696514977"
         },
         {
             "chainId": 1,
@@ -5999,6 +6000,22 @@
             "decimals": 18
         },
         {
+            "chainId": 1,
+            "address": "0x24Ae2dA0f361AA4BE46b48EB19C91e02c5e4f27E",
+            "name": "Mev Liquid Staking Receipt",
+            "symbol": "mevETH",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/32153/large/MEV_logo_2.png?1696598728"
+        },
+        {
+            "chainId": 1,
+            "address": "0xf939E0A03FB07F59A73314E73794Be0E57ac1b4E",
+            "name": "Curve.Fi USD Stablecoin",
+            "symbol": "crvUSD",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/30118/large/crvusd.jpeg?1696529040"
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -6261,6 +6278,13 @@
             "symbol": "bIB01",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca30c93b02514f86d5c86a6e375e3a330b435fb5.png"
+        },
+        {
+            "chainId": 5,
+            "address": "0x2D7fA140eC620Db445CdE5A25C44Ae6FbeE96CF9",
+            "name": "OneZeroEight",
+            "symbol": "108",
+            "decimals": 18
         },
         {
             "chainId": 10,
@@ -9838,6 +9862,13 @@
             "name": "Wrapped USD+",
             "symbol": "wUSD+",
             "decimals": 6
+        },
+        {
+            "chainId": 42161,
+            "address": "0x09cCB590404C4784cce1AAED486280BC5Dc4750a",
+            "name": "OneZeroEight",
+            "symbol": "108",
+            "decimals": 18
         },
         {
             "chainId": 43114,
