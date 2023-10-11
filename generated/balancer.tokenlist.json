@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-10-11T17:21:46.500Z",
+    "timestamp": "2023-10-11T17:42:01.632Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6013,7 +6013,7 @@
             "name": "Curve.Fi USD Stablecoin",
             "symbol": "crvUSD",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/30118/large/crvusd.jpeg?1696529040"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf939e0a03fb07f59a73314e73794be0e57ac1b4e.png"
         },
         {
             "chainId": 5,
