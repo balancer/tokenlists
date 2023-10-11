@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-10-11T16:25:07.704Z",
+    "timestamp": "2023-10-11T17:21:46.500Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8881,7 +8881,7 @@
             "name": "OVN",
             "symbol": "OVN",
             "decimals": 18,
-            "logoURI": "missing_large.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa3d1a8deb97b111454b294e2324efad13a9d8396.png"
         },
         {
             "chainId": 8453,
@@ -9870,14 +9870,16 @@
             "address": "0xA3d1a8DEB97B111454B294E2324EfAD13a9d8396",
             "name": "OVN",
             "symbol": "OVN",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa3d1a8deb97b111454b294e2324efad13a9d8396.png"
         },
         {
             "chainId": 42161,
             "address": "0xB86fb1047A955C0186c77ff6263819b37B32440D",
             "name": "Wrapped USD+",
             "symbol": "wUSD+",
-            "decimals": 6
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb86fb1047a955c0186c77ff6263819b37b32440d.png"
         },
         {
             "chainId": 42161,
