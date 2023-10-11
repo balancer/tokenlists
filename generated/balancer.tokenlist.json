@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-10-11T13:14:51.483Z",
+    "timestamp": "2023-10-11T16:25:07.704Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6734,6 +6734,14 @@
             "decimals": 18
         },
         {
+            "chainId": 100,
+            "address": "0xaBEf652195F98A91E490f047A5006B71c85f058d",
+            "name": "Curve.Fi USD Stablecoin from Mainnet",
+            "symbol": "crvUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xabef652195f98a91e490f047a5006b71c85f058d.png"
+        },
+        {
             "chainId": 137,
             "address": "0x00e5646f60AC6Fb446f621d146B6E1886f002905",
             "name": "Rai Reflex Index (PoS)",
@@ -8883,6 +8891,14 @@
             "decimals": 6
         },
         {
+            "chainId": 8453,
+            "address": "0x417Ac0e078398C154EdFadD9Ef675d30Be60Af93",
+            "name": "Curve.Fi USD Stablecoin",
+            "symbol": "crvUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x417ac0e078398c154edfadd9ef675d30be60af93.png"
+        },
+        {
             "chainId": 42161,
             "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
             "name": "Arbitrum",
@@ -9869,6 +9885,14 @@
             "name": "OneZeroEight",
             "symbol": "108",
             "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x498Bf2B1e120FeD3ad3D42EA2165E9b73f99C1e5",
+            "name": "Curve.Fi USD Stablecoin",
+            "symbol": "crvUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x498bf2b1e120fed3ad3d42ea2165e9b73f99c1e5.png"
         },
         {
             "chainId": 43114,
