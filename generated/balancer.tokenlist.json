@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-10-12T13:29:18.272Z",
+    "timestamp": "2023-10-16T15:29:53.648Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6023,6 +6023,41 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf939e0a03fb07f59a73314e73794be0e57ac1b4e.png"
         },
         {
+            "chainId": 1,
+            "address": "0xA43A7c62D56dF036C187E1966c03E2799d8987ed",
+            "name": "TruStake MATIC Vault Shares",
+            "symbol": "TruMATIC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x74E5E53056526b2609d82E85486005EF2A2Db001",
+            "name": "Balancer TruMATIC-MATIC Stable Pool",
+            "symbol": "TruMATIC-MATIC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x5a8F45b943A7E6a4BEA463A98de68940A153c78a",
+            "name": "NOVA",
+            "symbol": "NOVA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x220e4201aA472262Df2C24Dd8069243cf4B76c12",
+            "name": "BlockchainValley",
+            "symbol": "4IR",
+            "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "address": "0x29911647aA4E4258C5babaF335D78f1165140756",
+            "name": "YARN",
+            "symbol": "YARN",
+            "decimals": 18
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -6747,6 +6782,20 @@
             "symbol": "crvUSD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xabef652195f98a91e490f047a5006b71c85f058d.png"
+        },
+        {
+            "chainId": 100,
+            "address": "0x72a040c63496C9306AB3409A11Dff73176E203FD",
+            "name": "Balancer sBAL3/crvUSD",
+            "symbol": "sBAL3/crvUSD",
+            "decimals": 18
+        },
+        {
+            "chainId": 100,
+            "address": "0xc9F00C3a713008DDf69b768d90d4978549bFDF94",
+            "name": "Balancer crvUSD/sDAI",
+            "symbol": "crvUSD/sDAI",
+            "decimals": 18
         },
         {
             "chainId": 137,
@@ -8457,6 +8506,13 @@
             "decimals": 18
         },
         {
+            "chainId": 137,
+            "address": "0x2FAe42d39D18223A199ea7902A166D0130ad9CF1",
+            "name": "Print3D",
+            "symbol": "PRT3D",
+            "decimals": 18
+        },
+        {
             "chainId": 1101,
             "address": "0x120eF59b80774F02211563834d8E3b72cb1649d6",
             "name": "Balancer",
@@ -9923,7 +9979,8 @@
             "address": "0x8b5e4C9a188b1A187f2D1E80b1c2fB17fA2922e1",
             "name": "GoldenBoys",
             "symbol": "GOLD",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/31353/large/goldenboys.png?1696530170"
         },
         {
             "chainId": 42161,
