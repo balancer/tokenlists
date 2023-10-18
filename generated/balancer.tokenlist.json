@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-10-16T15:29:53.648Z",
+    "timestamp": "2023-10-18T11:59:18.983Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6058,6 +6058,21 @@
             "decimals": 18
         },
         {
+            "chainId": 1,
+            "address": "0xb9098D3669A78e9AfE8b94a97290407400D9dA31",
+            "name": "Protectorate",
+            "symbol": "PRTC",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/30901/large/IMG_1778.png?1696529746"
+        },
+        {
+            "chainId": 1,
+            "address": "0x79eDCB257c76279ac22189b8C16Cc9aC70Db6bD8",
+            "name": "NOVA",
+            "symbol": "NOVA",
+            "decimals": 18
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -6795,6 +6810,13 @@
             "address": "0xc9F00C3a713008DDf69b768d90d4978549bFDF94",
             "name": "Balancer crvUSD/sDAI",
             "symbol": "crvUSD/sDAI",
+            "decimals": 18
+        },
+        {
+            "chainId": 100,
+            "address": "0x6f4ae97d73C295D69828618Ef18bdD1BA0593DF1",
+            "name": "Balancer Stable USD 4pool",
+            "symbol": "STABAL4",
             "decimals": 18
         },
         {
@@ -9987,6 +10009,13 @@
             "address": "0xA1a8bf131571A2139FEB79401aA4A2E9482Df627",
             "name": "Balancer 50wstETH/50-4Pool ",
             "symbol": "50wstETH/50-4Pool",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0xDD4AB36f31891fF25A69121FCCC732d93eB976Dd",
+            "name": "Prime",
+            "symbol": "D2D",
             "decimals": 18
         },
         {
