@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-10-18T11:59:18.983Z",
+    "timestamp": "2023-10-18T12:22:21.014Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6027,7 +6027,8 @@
             "address": "0xA43A7c62D56dF036C187E1966c03E2799d8987ed",
             "name": "TruStake MATIC Vault Shares",
             "symbol": "TruMATIC",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa43a7c62d56df036c187e1966c03e2799d8987ed.png"
         },
         {
             "chainId": 1,
