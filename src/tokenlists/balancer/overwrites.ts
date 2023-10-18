@@ -172,11 +172,6 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/trustwallet/assets/2563ac9dc5369d8e3255cde663cf7f08e3c58914/blockchains/solana/info/logo.png',
     },
-    '0xd93f7E271cB87c23AaA73edC008A79646d1F9912': {
-      name: 'Wrapped SOL (Wormhole)',
-      logoURI:
-        'https://raw.githubusercontent.com/trustwallet/assets/2563ac9dc5369d8e3255cde663cf7f08e3c58914/blockchains/solana/info/logo.png',
-    },
     '0xE7804D91dfCDE7F776c90043E03eAa6Df87E6395': {
       name: 'DFX Token',
       logoURI:
