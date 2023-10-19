@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-10-19T15:46:52.443Z",
+    "timestamp": "2023-10-19T17:09:18.485Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6078,13 +6078,6 @@
             "address": "0x79eDCB257c76279ac22189b8C16Cc9aC70Db6bD8",
             "name": "NOVA",
             "symbol": "NOVA",
-            "decimals": 18
-        },
-        {
-            "chainId": 1,
-            "address": "0x857f4fE9426F48526eFcCF55E7528F6dD5ecE6fd",
-            "name": "AmazonMicrosoftNvidiaTeslaMetaSamsungApplePetroChinaToyotaJPMorgan",
-            "symbol": "SILVER",
             "decimals": 18
         },
         {
