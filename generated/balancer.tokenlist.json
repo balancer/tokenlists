@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-10-18T12:22:21.014Z",
+    "timestamp": "2023-10-19T15:46:52.443Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6060,6 +6060,13 @@
         },
         {
             "chainId": 1,
+            "address": "0x57F5E098CaD7A3D1Eed53991D4d66C45C9AF7812",
+            "name": "Wrapped Mountain Protocol USD",
+            "symbol": "wUSDM",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
             "address": "0xb9098D3669A78e9AfE8b94a97290407400D9dA31",
             "name": "Protectorate",
             "symbol": "PRTC",
@@ -6072,6 +6079,21 @@
             "name": "NOVA",
             "symbol": "NOVA",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x857f4fE9426F48526eFcCF55E7528F6dD5ecE6fd",
+            "name": "AmazonMicrosoftNvidiaTeslaMetaSamsungApplePetroChinaToyotaJPMorgan",
+            "symbol": "SILVER",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xD0Cd466b34A24fcB2f87676278AF2005Ca8A78c4",
+            "name": "Popcorn",
+            "symbol": "POP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd0cd466b34a24fcb2f87676278af2005ca8a78c4.png"
         },
         {
             "chainId": 5,
@@ -7011,6 +7033,14 @@
             "symbol": "SOL",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/2563ac9dc5369d8e3255cde663cf7f08e3c58914/blockchains/solana/info/logo.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0xd93f7E271cB87c23AaA73edC008A79646d1F9912",
+            "name": "Wrapped SOL",
+            "symbol": "SOL",
+            "decimals": 9,
+            "logoURI": "https://assets.coingecko.com/coins/images/22876/large/SOL_wh_small.png?1696522175"
         },
         {
             "chainId": 137,
