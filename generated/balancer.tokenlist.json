@@ -8536,6 +8536,15 @@
             "decimals": 18
         },
         {
+            
+            "chainId": 137,
+            "address": "0xc298812164bd558268f51cc6e3b8b5daaf0b6341",
+            "name": "PLATA",
+            "symbol": "PLT",
+            "decimals": 18,
+            "logoURI": "https://plata.ie/images/platatoken200px.png"
+        },
+        {
             "chainId": 1101,
             "address": "0x120eF59b80774F02211563834d8E3b72cb1649d6",
             "name": "Balancer",
