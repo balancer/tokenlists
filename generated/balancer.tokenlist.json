@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-10-19T17:09:18.485Z",
+    "timestamp": "2023-10-20T19:42:55.885Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6783,7 +6783,8 @@
             "address": "0xcE11e14225575945b8E6Dc0D4F2dD4C570f79d9f",
             "name": "Autonolas from Mainnet",
             "symbol": "OLAS",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xce11e14225575945b8e6dc0d4f2dd4c570f79d9f.png"
         },
         {
             "chainId": 100,
