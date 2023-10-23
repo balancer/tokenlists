@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-10-20T19:42:55.885Z",
+    "timestamp": "2023-10-23T11:54:13.474Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8560,6 +8560,13 @@
             "decimals": 18
         },
         {
+            "chainId": 137,
+            "address": "0x6a6525d88dE3c2434dC060f54EaEc8fdFa12869C",
+            "name": "2brl (BRLA)",
+            "symbol": "2brl (BRLA)",
+            "decimals": 18
+        },
+        {
             "chainId": 1101,
             "address": "0x120eF59b80774F02211563834d8E3b72cb1649d6",
             "name": "Balancer",
@@ -8904,7 +8911,8 @@
             "address": "0x0C659734f1eEF9C63B7Ebdf78a164CDd745586Db",
             "name": "Balancer USDC/USDbC/axlUSDC",
             "symbol": "USDC/USDbC/axlUSDC",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "missing_large.png"
         },
         {
             "chainId": 8453,
@@ -10042,6 +10050,14 @@
             "name": "Prime",
             "symbol": "D2D",
             "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x6bcc14B02CD624EbE1a8A665Cb6d4067Aa097230",
+            "name": "Foxify",
+            "symbol": "FOX",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/32354/large/Foxify_200x200.png?1697475371"
         },
         {
             "chainId": 43114,
