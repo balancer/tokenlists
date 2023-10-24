@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-10-24T13:22:54.089Z",
+    "timestamp": "2023-10-24T16:46:42.364Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6063,7 +6063,8 @@
             "address": "0x57F5E098CaD7A3D1Eed53991D4d66C45C9AF7812",
             "name": "Wrapped Mountain Protocol USD",
             "symbol": "wUSDM",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x57f5e098cad7a3d1eed53991d4d66c45c9af7812.png"
         },
         {
             "chainId": 1,
@@ -6087,6 +6088,13 @@
             "symbol": "POP",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd0cd466b34a24fcb2f87676278af2005ca8a78c4.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x35c5C8C7B77942f9D44B535Fa590D8b503B2b00C",
+            "name": "Balancer DUSD/sDAI StablePool",
+            "symbol": "DUSD/sDAI",
+            "decimals": 18
         },
         {
             "chainId": 5,
