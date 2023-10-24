@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-10-23T19:51:45.057Z",
+    "timestamp": "2023-10-24T13:22:54.089Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6300,6 +6300,13 @@
             "address": "0x3cD99D149C2A7677D920cEDdeA865129e276D5e4",
             "name": "Rocket Pool ETH",
             "symbol": "rETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 5,
+            "address": "0x67140fE03AA046399e52d6bD019Cc05c39b0bB3F",
+            "name": "ROOT",
+            "symbol": "ROOT",
             "decimals": 18
         },
         {
