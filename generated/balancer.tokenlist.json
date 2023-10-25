@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-10-24T16:46:42.364Z",
+    "timestamp": "2023-10-25T12:21:31.732Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6088,6 +6088,13 @@
             "symbol": "POP",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd0cd466b34a24fcb2f87676278af2005ca8a78c4.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xEBcF2FbE20e7bBBD5232EB186B85c143d362074e",
+            "name": "Dream",
+            "symbol": "DREAM",
+            "decimals": 18
         },
         {
             "chainId": 1,
