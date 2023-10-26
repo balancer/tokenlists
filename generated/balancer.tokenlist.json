@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-10-25T12:21:31.732Z",
+    "timestamp": "2023-10-26T15:23:57.530Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6104,6 +6104,13 @@
             "decimals": 18
         },
         {
+            "chainId": 1,
+            "address": "0xDD36FdA7329291db8666540186cB36FCF0E36Eac",
+            "name": "Balancer sDAI/DOLA StablePool",
+            "symbol": "sDAI/DOLA",
+            "decimals": 18
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -6380,6 +6387,14 @@
             "name": "OneZeroEight",
             "symbol": "108",
             "decimals": 18
+        },
+        {
+            "chainId": 10,
+            "address": "0x4200000000000000000000000000000000000006",
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4200000000000000000000000000000000000006.png"
         },
         {
             "chainId": 10,
