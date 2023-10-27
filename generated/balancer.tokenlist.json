@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-10-27T23:26:18.993Z",
+    "timestamp": "2023-10-27T23:54:25.340Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5540,14 +5540,6 @@
             "symbol": "bb-a-USD",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/25769/large/0x7b50775383d3d6f0215a8f290f2c9e2eebbeceb2.png?1653604699"
-        },
-        {
-            "chainId": 1,
-            "address": "0x0085D59AbaDFBecE4f85F298f889f26c54738512",
-            "name": "ROOT",
-            "symbol": "ROOT",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0085d59abadfbece4f85f298f889f26c54738512.png"
         },
         {
             "chainId": 1,
