@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-10-27T19:12:32.705Z",
+    "timestamp": "2023-10-27T23:26:18.993Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6109,6 +6109,14 @@
             "name": "Balancer sDAI/DOLA StablePool",
             "symbol": "sDAI/DOLA",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x8d2658E0F52dF7875A7b3e58FC12F82F5e34dd61",
+            "name": "ROOT",
+            "symbol": "ROOT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x8d2658e0f52df7875a7b3e58fc12f82f5e34dd61.png"
         },
         {
             "chainId": 5,
