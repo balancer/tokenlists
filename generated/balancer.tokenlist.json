@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-10-26T15:23:57.530Z",
+    "timestamp": "2023-10-27T19:12:32.705Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5816,7 +5816,7 @@
             "name": "Hord ETH Staking",
             "symbol": "hETH",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/29624/large/eth-staking-pool-icon.92471e99_%282%29_1.png?1696528560"
+            "logoURI": "https://assets.coingecko.com/coins/images/29624/large/hETH_TOKEN.png?1698343953"
         },
         {
             "chainId": 1,
@@ -6386,6 +6386,13 @@
             "address": "0x2D7fA140eC620Db445CdE5A25C44Ae6FbeE96CF9",
             "name": "OneZeroEight",
             "symbol": "108",
+            "decimals": 18
+        },
+        {
+            "chainId": 5,
+            "address": "0x9Ba0160dB96B0eeD89c39D9a71624845E87782af",
+            "name": "ROOT",
+            "symbol": "ROOT",
             "decimals": 18
         },
         {
