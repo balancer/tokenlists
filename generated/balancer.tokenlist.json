@@ -10643,6 +10643,30 @@
             "name": "USDe",
             "symbol": "USDe",
             "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x55380fe7A1910dFf29A47B622057ab4139DA42C5",
+            "name": "Leveraged ETH",
+            "symbol": "xETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/AladdinDAO/aladdin-assets/main/images/branding/x-logo.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xc608Dfb90A430Df79a8a1eDBC8be7f1A0Eb4E763",
+            "name": "Fractional ETH",
+            "symbol": "fETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/AladdinDAO/aladdin-assets/main/images/branding/f-logo.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x179F38f78346F5942E95C5C59CB1da7F55Cf7CAd",
+            "name": "FXN Token",
+            "symbol": "FXN",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/AladdinDAO/aladdin-assets/main/images/branding/fxn.png"
         }
     ]
 }
