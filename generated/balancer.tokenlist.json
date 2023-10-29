@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-10-28T16:44:44.956Z",
+    "timestamp": "2023-10-29T21:16:06.834Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6412,6 +6412,54 @@
         },
         {
             "chainId": 10,
+            "address": "0x4200000000000000000000000000000000000042",
+            "name": "Optimism",
+            "symbol": "OP",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/25244/large/Optimism.png?1696524385"
+        },
+        {
+            "chainId": 10,
+            "address": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://assets.coingecko.com/coins/images/6319/large/usdc.png?1696506694"
+        },
+        {
+            "chainId": 10,
+            "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://assets.coingecko.com/coins/images/31580/large/USDC-icon.png?1696530397"
+        },
+        {
+            "chainId": 10,
+            "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 6,
+            "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether.png?1696501661"
+        },
+        {
+            "chainId": 10,
+            "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+            "name": "Dai Stablecoin",
+            "symbol": "DAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xda10009cbd5d07dd0cecc66161fc93d7c9000da1.png"
+        },
+        {
+            "chainId": 10,
+            "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "decimals": 8,
+            "logoURI": "https://assets.coingecko.com/coins/images/7598/large/wrapped_bitcoin_wbtc.png?1696507857"
+        },
+        {
+            "chainId": 10,
             "address": "0x888a6195D42a95e80D81e1c506172772a80b80Bc",
             "name": "Beets Reaper Aave Boosted DAI",
             "symbol": "bb-rf-aDAI",
@@ -6525,6 +6573,98 @@
             "name": "Axelar Wrapped WMAI",
             "symbol": "axlWMAI",
             "decimals": 18
+        },
+        {
+            "chainId": 10,
+            "address": "0x9Bcef72be871e61ED4fBbc7630889beE758eb81D",
+            "name": "Rocket Pool ETH",
+            "symbol": "rETH",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/20764/large/reth.png?1696520159"
+        },
+        {
+            "chainId": 10,
+            "address": "0x8aE125E8653821E851F12A49F7765db9a9ce7384",
+            "name": "Dola USD Stablecoin",
+            "symbol": "DOLA",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/14287/large/dola.png?1696513984"
+        },
+        {
+            "chainId": 10,
+            "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://assets.coingecko.com/coins/images/31580/large/USDC-icon.png?1696530397"
+        },
+        {
+            "chainId": 10,
+            "address": "0xd3594E879B358F430E20F82bea61e83562d49D48",
+            "name": "ParaSwap",
+            "symbol": "PSP",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/20403/large/ep7GqM19_400x400.jpg?1696519812"
+        },
+        {
+            "chainId": 10,
+            "address": "0x39FdE572a18448F8139b7788099F0a0740f51205",
+            "name": "Oath Token",
+            "symbol": "OATH",
+            "decimals": 18
+        },
+        {
+            "chainId": 10,
+            "address": "0xe05A08226c49b636ACf99c40Da8DC6aF83CE5bB3",
+            "name": "Ankr Staked ETH",
+            "symbol": "ankrETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 10,
+            "address": "0xd6909e9e702024eb93312B989ee46794c0fB1C9D",
+            "name": "Biconomy Token",
+            "symbol": "BICO",
+            "decimals": 18
+        },
+        {
+            "chainId": 10,
+            "address": "0xfD389Dc9533717239856190F42475d3f263a270d",
+            "name": "Granary Token",
+            "symbol": "GRAIN",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/29740/large/Grain.png?1696528670"
+        },
+        {
+            "chainId": 10,
+            "address": "0x3b08fcd15280e7B5A6e404c4abb87F7C774D1B2e",
+            "name": "OVN",
+            "symbol": "OVN",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/31970/large/OVN.png?1696959174"
+        },
+        {
+            "chainId": 10,
+            "address": "0xA348700745D249c3b49D2c2AcAC9A5AE8155F826",
+            "name": "Wrapped USD+",
+            "symbol": "wUSD+",
+            "decimals": 6
+        },
+        {
+            "chainId": 10,
+            "address": "0x00a35FD824c717879BF370E70AC6868b95870Dfb",
+            "name": "IronBank",
+            "symbol": "IB",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/22902/large/ironbank.png?1696522198"
+        },
+        {
+            "chainId": 10,
+            "address": "0xc5b001DC33727F8F26880B184090D3E252470D45",
+            "name": "Ethos Reserve Note",
+            "symbol": "ERN",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/29744/large/ERN200x200.png?1696528676"
         },
         {
             "chainId": 100,
@@ -10126,6 +10266,30 @@
             "logoURI": "https://assets.coingecko.com/coins/images/32354/large/Foxify_200x200.png?1697475371"
         },
         {
+            "chainId": 42161,
+            "address": "0x55380fe7A1910dFf29A47B622057ab4139DA42C5",
+            "name": "Leveraged ETH",
+            "symbol": "xETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x55380fe7a1910dff29a47b622057ab4139da42c5.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xc608Dfb90A430Df79a8a1eDBC8be7f1A0Eb4E763",
+            "name": "Fractional ETH",
+            "symbol": "fETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc608dfb90a430df79a8a1edbc8be7f1a0eb4e763.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x179F38f78346F5942E95C5C59CB1da7F55Cf7CAd",
+            "name": "FXN Token",
+            "symbol": "FXN",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x179f38f78346f5942e95c5c59cb1da7f55cf7cad.png"
+        },
+        {
             "chainId": 43114,
             "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
             "name": "Wrapped AVAX",
@@ -10643,30 +10807,6 @@
             "name": "USDe",
             "symbol": "USDe",
             "decimals": 18
-        },
-        {
-            "chainId": 42161,
-            "address": "0x55380fe7A1910dFf29A47B622057ab4139DA42C5",
-            "name": "Leveraged ETH",
-            "symbol": "xETH",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/AladdinDAO/aladdin-assets/main/images/branding/x-logo.png"
-        },
-        {
-            "chainId": 42161,
-            "address": "0xc608Dfb90A430Df79a8a1eDBC8be7f1A0Eb4E763",
-            "name": "Fractional ETH",
-            "symbol": "fETH",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/AladdinDAO/aladdin-assets/main/images/branding/f-logo.png"
-        },
-        {
-            "chainId": 42161,
-            "address": "0x179F38f78346F5942E95C5C59CB1da7F55Cf7CAd",
-            "name": "FXN Token",
-            "symbol": "FXN",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/AladdinDAO/aladdin-assets/main/images/branding/fxn.png"
         }
     ]
 }
