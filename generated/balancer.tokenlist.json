@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-10-31T14:37:41.504Z",
+    "timestamp": "2023-10-31T15:48:19.724Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6613,13 +6613,6 @@
             "symbol": "PSP",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/20403/large/ep7GqM19_400x400.jpg?1696519812"
-        },
-        {
-            "chainId": 10,
-            "address": "0x39FdE572a18448F8139b7788099F0a0740f51205",
-            "name": "Oath Token",
-            "symbol": "OATH",
-            "decimals": 18
         },
         {
             "chainId": 10,
