@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-10-31T13:42:13.294Z",
+    "timestamp": "2023-10-31T14:10:11.316Z",
     "tokens": [
         {
             "chainId": 1,
@@ -9713,7 +9713,7 @@
             "name": "Radiant",
             "symbol": "RDNT",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/26536/large/Radiant-Logo-200x200.png?1658715865"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x3082cc23568ea640225c2467653db90e9250aaa0.png"
         },
         {
             "chainId": 42161,
