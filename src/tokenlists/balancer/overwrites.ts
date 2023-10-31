@@ -307,7 +307,12 @@ export const overwrites: OverwritesForList = {
         'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png',
     },
   },
-  [Network.Optimism]: {},
+  [Network.Optimism]: {
+    '0xe05A08226c49b636ACf99c40Da8DC6aF83CE5bB3': {
+      logoURI:
+        'https://www.ankr.com/_next/static/images/ethereum-ankreth-logo-794cb04ee270a7cb5c8559924aa5211d.png',
+    },
+  },
   [Network.Gnosis]: {
     '0x7eF541E2a22058048904fE5744f9c7E4C57AF717': {
       logoURI:
