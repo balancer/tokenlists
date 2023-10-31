@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-10-31T14:37:41.504Z",
+    "timestamp": "2023-10-31T15:55:04.718Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6619,7 +6619,8 @@
             "address": "0x39FdE572a18448F8139b7788099F0a0740f51205",
             "name": "Oath Token",
             "symbol": "OATH",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x39fde572a18448f8139b7788099f0a0740f51205.png"
         },
         {
             "chainId": 10,
@@ -6673,13 +6674,6 @@
             "symbol": "ERN",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/29744/large/ERN200x200.png?1696528676"
-        },
-        {
-            "chainId": 10,
-            "address": "0x39FdE572a18448F8139b7788099F0a0740f51205",
-            "name": "Oath Token",
-            "symbol": "OATH",
-            "decimals": 18
         },
         {
             "chainId": 10,
