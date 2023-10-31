@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-10-29T21:16:06.834Z",
+    "timestamp": "2023-10-31T13:42:13.294Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6115,6 +6115,13 @@
             "address": "0x562dE17D35e3B3389ceF3BF02424EDaD14e328F7",
             "name": "NOVA",
             "symbol": "NOVA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x137dDB47Ee24EaA998a535Ab00378d6BFa84F893",
+            "name": "Radiant",
+            "symbol": "RDNT",
             "decimals": 18
         },
         {
