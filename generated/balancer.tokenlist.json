@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-10-31T16:23:25.450Z",
+    "timestamp": "2023-11-01T17:06:35.304Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6627,7 +6627,8 @@
             "address": "0xd6909e9e702024eb93312B989ee46794c0fB1C9D",
             "name": "Biconomy Token",
             "symbol": "BICO",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd6909e9e702024eb93312b989ee46794c0fb1c9d.png"
         },
         {
             "chainId": 10,
@@ -6650,7 +6651,8 @@
             "address": "0xA348700745D249c3b49D2c2AcAC9A5AE8155F826",
             "name": "Wrapped USD+",
             "symbol": "wUSD+",
-            "decimals": 6
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa348700745d249c3b49d2c2acac9a5ae8155f826.png"
         },
         {
             "chainId": 10,
