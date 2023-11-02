@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-11-01T17:06:35.304Z",
+    "timestamp": "2023-11-02T11:59:03.953Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6086,7 +6086,8 @@
             "address": "0xEBcF2FbE20e7bBBD5232EB186B85c143d362074e",
             "name": "Dream",
             "symbol": "DREAM",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/32665/large/DREAM_200x200.png?1698902861"
         },
         {
             "chainId": 1,
@@ -7544,6 +7545,13 @@
             "address": "0x6f4ae97d73C295D69828618Ef18bdD1BA0593DF1",
             "name": "Balancer Stable USD 4pool",
             "symbol": "STABAL4",
+            "decimals": 18
+        },
+        {
+            "chainId": 100,
+            "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
+            "name": "Staked agEUR",
+            "symbol": "stEUR",
             "decimals": 18
         },
         {
