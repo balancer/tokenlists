@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-11-02T11:59:03.953Z",
+    "timestamp": "2023-11-06T14:06:40.402Z",
     "tokens": [
         {
             "chainId": 1,
@@ -1516,7 +1516,7 @@
         {
             "chainId": 1,
             "address": "0x4e352cF164E64ADCBad318C3a1e222E9EBa4Ce42",
-            "name": "MCDEX Token",
+            "name": "MUX Protocol",
             "symbol": "MCB",
             "decimals": 18,
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x4e352cF164E64ADCBad318C3a1e222E9EBa4Ce42/logo.png"
@@ -6127,6 +6127,14 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x137ddb47ee24eaa998a535ab00378d6bfa84f893.png"
         },
         {
+            "chainId": 1,
+            "address": "0x51Fa2efd62ee56a493f24AE963eAce7D0051929E",
+            "name": "POSEIDON OCEAN",
+            "symbol": "psdnOCEAN",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x51fa2efd62ee56a493f24ae963eace7d0051929e.png"
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -9282,6 +9290,13 @@
             "address": "0x6a6525d88dE3c2434dC060f54EaEc8fdFa12869C",
             "name": "2brl (BRLA)",
             "symbol": "2brl (BRLA)",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0xe292178333Fc7424211795895865adac05bAf3bE",
+            "name": "JARVIS",
+            "symbol": "JARVIS",
             "decimals": 18
         },
         {
