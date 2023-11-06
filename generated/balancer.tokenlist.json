@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-11-06T14:06:40.402Z",
+    "timestamp": "2023-11-06T16:25:49.690Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6418,6 +6418,14 @@
             "name": "ROOT",
             "symbol": "ROOT",
             "decimals": 18
+        },
+        {
+            "chainId": 5,
+            "address": "0xdd57C65e43Ee2E6af8916669800f06a8E4b08623",
+            "name": "Alkimi Exchange",
+            "symbol": "$ADS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdd57c65e43ee2e6af8916669800f06a8e4b08623.png"
         },
         {
             "chainId": 10,
