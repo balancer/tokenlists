@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-11-07T13:56:18.472Z",
+    "timestamp": "2023-11-07T20:33:21.968Z",
     "tokens": [
         {
             "chainId": 1,
@@ -10853,6 +10853,38 @@
             "symbol": "FXN",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x179f38f78346f5942e95c5c59cb1da7f55cf7cad.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x43aB8f7d2A8Dd4102cCEA6b438F6d747b1B9F034",
+            "name": "Savvy",
+            "symbol": "SVY",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/31253/large/Fxrd6DT.png?1692063506"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xF202Ab403Cd7E90197ec0f010ee897E283037706",
+            "name": "Savvy USD",
+            "symbol": "svUSD",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/31006/large/logo_%289%29.png?1696529843"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xf7728582002ef82908c8242CF552E969BA863Ffa",
+            "name": "Savvy ETH",
+            "symbol": "svETH",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/31005/large/logo_%288%29.png?1696529842"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xeEE18334c414A47FB886a7317E1885b2Bfb8c2A6",
+            "name": "Savvy BTC",
+            "symbol": "svBTC",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/31004/large/logo_%287%29.png?1696529841"
         },
         {
             "chainId": 43114,
