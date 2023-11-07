@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-11-06T16:25:49.690Z",
+    "timestamp": "2023-11-07T13:56:18.472Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7200,6 +7200,13 @@
             "address": "0x62eC8b26C08Ffe504F22390A65e6E3c1e45E9877",
             "name": "Beets Reaper Sonne Boosted DAI",
             "symbol": "bb-rf-soDAI",
+            "decimals": 18
+        },
+        {
+            "chainId": 10,
+            "address": "0xb4Bc46bc6cB217B59ea8F4530BaE26Bf69F677f0",
+            "name": "BeethovenxToken",
+            "symbol": "BEETS",
             "decimals": 18
         },
         {
