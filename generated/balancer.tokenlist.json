@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-11-07T20:33:21.968Z",
+    "timestamp": "2023-11-07T23:14:51.617Z",
     "tokens": [
         {
             "chainId": 1,
@@ -9793,6 +9793,14 @@
             "symbol": "axlETH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb829b68f57cc546da7e5806a929e53be32a4625d.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x7905EA12CC81a215A5F1D0F46DF73a53E19E9264",
+            "name": "TagTech",
+            "symbol": "TAG",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7905ea12cc81a215a5f1d0f46df73a53e19e9264.png"
         },
         {
             "chainId": 42161,
