@@ -91,6 +91,13 @@ export const overwrites: OverwritesForList = {
       symbol: 'wBETH',
       name: 'Wrapped Beacon ETH',
     },
+    '0xCe391315b414D4c7555956120461D21808A69F3A': {
+      decimals: 18,
+      symbol: 'BAO',
+      name: 'Bao Token V2',
+      logoURI:
+      'https://raw.githubusercontent.com/baofinance/bao-app/master/public/images/icons/icon-128.png',
+    },
   },
   [Network.Goerli]: {
     '0x9bA00D6856a4eDF4665BcA2C2309936572473B7E': {
