@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-11-07T23:14:51.617Z",
+    "timestamp": "2023-11-10T02:43:14.466Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6133,6 +6133,13 @@
             "symbol": "psdnOCEAN",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x51fa2efd62ee56a493f24ae963eace7d0051929e.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xa1c67d5Bbcb118ea6bf5b94540B4A67f44D0284a",
+            "name": "Fafo Finance",
+            "symbol": "FAFO",
+            "decimals": 18
         },
         {
             "chainId": 5,
