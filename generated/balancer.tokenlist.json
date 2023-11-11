@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-11-10T02:43:14.466Z",
+    "timestamp": "2023-11-11T16:00:44.659Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6142,6 +6142,21 @@
             "decimals": 18
         },
         {
+            "chainId": 1,
+            "address": "0x3dE1b8854Ec4F1a6E45Fc56b8008AbB14EB103FB",
+            "name": "Balancer USDV/sDAI",
+            "symbol": "USDV/sDAI",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x0E573Ce2736Dd9637A0b21058352e1667925C7a8",
+            "name": "USDV",
+            "symbol": "USDV",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0e573ce2736dd9637a0b21058352e1667925c7a8.png"
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -10900,6 +10915,36 @@
             "symbol": "svBTC",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/31004/large/logo_%287%29.png?1696529841"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xAa77663912565623AB91ddFe08b803762792A8a9",
+            "name": "USDV",
+            "symbol": "USDV",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xaa77663912565623ab91ddfe08b803762792a8a9.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
+            "name": "Frax",
+            "symbol": "FRAX",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/13422/large/FRAX_icon.png?1696513182"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xe6fcB0Ac7e05196B0870ae2AEb80dC9079eE1a25",
+            "name": "Balancer USDV/USDC",
+            "symbol": "USDV/USDC",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0xe6d48f62A7d87e6bD13C283CA55068F0a73e6A5F",
+            "name": "Balancer USDV/FRAX",
+            "symbol": "USDV/FRAX",
+            "decimals": 18
         },
         {
             "chainId": 43114,
