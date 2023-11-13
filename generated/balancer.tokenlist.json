@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-11-11T16:00:44.659Z",
+    "timestamp": "2023-11-13T00:38:48.823Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6157,6 +6157,13 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0e573ce2736dd9637a0b21058352e1667925c7a8.png"
         },
         {
+            "chainId": 1,
+            "address": "0x9CA0ffCbae87A66a8f4604BFec724DA04e2474AE",
+            "name": "Balancer USDV/USDC",
+            "symbol": "USDV/USDC",
+            "decimals": 18
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -9334,6 +9341,13 @@
             "address": "0xe292178333Fc7424211795895865adac05bAf3bE",
             "name": "JARVIS",
             "symbol": "JARVIS",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0xddD550b75d41a1980170A4b2e4B8c61557084af2",
+            "name": "EAC",
+            "symbol": "EAC",
             "decimals": 18
         },
         {
