@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-11-14T15:41:39.735Z",
+    "timestamp": "2023-11-14T18:59:33.760Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6162,6 +6162,14 @@
             "name": "Balancer USDV/USDC",
             "symbol": "USDV/USDC",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3",
+            "name": "Origin Ether",
+            "symbol": "OETH",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/29733/large/OETH.png?1696528663"
         },
         {
             "chainId": 5,
