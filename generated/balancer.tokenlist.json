@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-11-14T13:25:26.839Z",
+    "timestamp": "2023-11-14T15:41:39.735Z",
     "tokens": [
         {
             "chainId": 1,
@@ -9380,9 +9380,32 @@
         },
         {
             "chainId": 137,
+            "address": "0x596eBE76e2DB4470966ea395B0d063aC6197A8C5",
+            "name": "Jarvis Reward Token (PoS)",
+            "symbol": "JRT",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/10390/large/cfeii0y.png?1696510389"
+        },
+        {
+            "chainId": 137,
             "address": "0xddD550b75d41a1980170A4b2e4B8c61557084af2",
             "name": "EAC",
             "symbol": "EAC",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x37b8E1152fB90A867F3dccA6e8d537681B04705E",
+            "name": "Proto Gyro Dollar",
+            "symbol": "p-GYD",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/29416/large/gyd.png?1696528365"
+        },
+        {
+            "chainId": 137,
+            "address": "0x15e86Be6084C6A5a8c17732D398dFbC2Ec574CEC",
+            "name": "TEST Gyroscope Wrapped aDAI",
+            "symbol": "TV-aDAIv2",
             "decimals": 18
         },
         {
