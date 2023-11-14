@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-11-11T16:00:44.659Z",
+    "timestamp": "2023-11-14T13:25:26.839Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5262,7 +5262,7 @@
             "name": "Bao Token V2",
             "symbol": "BAO",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/28287/large/BAOv2_128px.png?1669344588"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xce391315b414d4c7555956120461d21808a69f3a.png"
         },
         {
             "chainId": 1,
@@ -6157,6 +6157,13 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0e573ce2736dd9637a0b21058352e1667925c7a8.png"
         },
         {
+            "chainId": 1,
+            "address": "0x9CA0ffCbae87A66a8f4604BFec724DA04e2474AE",
+            "name": "Balancer USDV/USDC",
+            "symbol": "USDV/USDC",
+            "decimals": 18
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -6448,6 +6455,41 @@
             "symbol": "$ADS",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdd57c65e43ee2e6af8916669800f06a8e4b08623.png"
+        },
+        {
+            "chainId": 5,
+            "address": "0xDdb5Dc0E4B3f008227cA93F330Ad4932a1680277",
+            "name": "HDAOToken",
+            "symbol": "HDAO",
+            "decimals": 18
+        },
+        {
+            "chainId": 5,
+            "address": "0xA299d2cF306F99D5caf106F86da5c4f46dBa9fd0",
+            "name": "TestEnergyToken",
+            "symbol": "TET",
+            "decimals": 18
+        },
+        {
+            "chainId": 5,
+            "address": "0x629f83F9d37a496a38825e71D1e6Ba4BF25feD80",
+            "name": "USDHToken",
+            "symbol": "USDH",
+            "decimals": 18
+        },
+        {
+            "chainId": 5,
+            "address": "0x5D86C1076710D91720679E423D4Dd0bA58dC5684",
+            "name": "Fake Wrapped Ethereum",
+            "symbol": "FWETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 5,
+            "address": "0x812aA52061571a7851ab37E73A4CBd268191c867",
+            "name": "Fake OXT",
+            "symbol": "FOXT",
+            "decimals": 18
         },
         {
             "chainId": 10,
@@ -9337,6 +9379,50 @@
             "decimals": 18
         },
         {
+            "chainId": 137,
+            "address": "0xddD550b75d41a1980170A4b2e4B8c61557084af2",
+            "name": "EAC",
+            "symbol": "EAC",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x9C90975B13d04D7d535359887C236ac51f2298cE",
+            "name": "ICHI Vault Liquidity",
+            "symbol": "ICHI_Vault_LP",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0xb4D8874602bE84A5e96BD54E220dE59F8F42950B",
+            "name": "ICHI Vault Liquidity",
+            "symbol": "ICHI_Vault_LP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb4d8874602be84a5e96bd54e220de59f8f42950b.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x9C90975B13d04D7d535359887C236ac51f2298cE",
+            "name": "ICHI Vault Liquidity",
+            "symbol": "ICHI_Vault_LP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9c90975b13d04d7d535359887c236ac51f2298ce.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0xA571963278014B5B3A686778747fDf8ad4dFBb94",
+            "name": "STARV3 by StarSeeds Protocol",
+            "symbol": "STARV3",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0xE4F7ed41e2461f162C9409015874716A1E96776F",
+            "name": "Tetu Vault tetuBAL-BALWETH",
+            "symbol": "xtetuBAL-BALWETH",
+            "decimals": 18
+        },
+        {
             "chainId": 1101,
             "address": "0x120eF59b80774F02211563834d8E3b72cb1649d6",
             "name": "Balancer",
@@ -11463,6 +11549,34 @@
             "address": "0x2978951aD3fD7BaA52DCf7571FE24Ab0895358C8",
             "name": "USDe",
             "symbol": "USDe",
+            "decimals": 18
+        },
+        {
+            "chainId": 11155111,
+            "address": "0xf2f22774a86564d216EF4f190435df1665Cb22dC",
+            "name": "HumanDAOTest",
+            "symbol": "HDAOT",
+            "decimals": 18
+        },
+        {
+            "chainId": 11155111,
+            "address": "0xDA0BDf11d2b7182F8156D1BbACD464861e3E01a0",
+            "name": "HDaoEnergy",
+            "symbol": "ENRGT",
+            "decimals": 1
+        },
+        {
+            "chainId": 11155111,
+            "address": "0xB15E74216dCFC359C15e73E01c264759267C6AD0",
+            "name": "WETHHdao",
+            "symbol": "HWETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 11155111,
+            "address": "0xa096d0A81CdA1D33a88cA481eACC018df9fbBF46",
+            "name": "USDHdaoTest",
+            "symbol": "USDH",
             "decimals": 18
         }
     ]
