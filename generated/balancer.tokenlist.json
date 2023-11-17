@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-11-14T18:59:33.760Z",
+    "timestamp": "2023-11-17T13:14:30.464Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6172,6 +6172,29 @@
             "logoURI": "https://assets.coingecko.com/coins/images/29733/large/OETH.png?1696528663"
         },
         {
+            "chainId": 1,
+            "address": "0x97D0CfEB4FdE54B430307c9482d6f79C761Fe9B6",
+            "name": "Epoch",
+            "symbol": "EPOCH",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x044d078F1c86508e13328842Cc75AC021B272958",
+            "name": "WrappedPeercoin",
+            "symbol": "wPPC",
+            "decimals": 6,
+            "logoURI": "https://assets.coingecko.com/coins/images/4/large/peercoin-icon-green-transparent_6x.png?1696501402"
+        },
+        {
+            "chainId": 1,
+            "address": "0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee",
+            "name": "Wrapped eETH",
+            "symbol": "weETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee.png"
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -6497,6 +6520,13 @@
             "address": "0x812aA52061571a7851ab37E73A4CBd268191c867",
             "name": "Fake OXT",
             "symbol": "FOXT",
+            "decimals": 18
+        },
+        {
+            "chainId": 5,
+            "address": "0x03bedb30E61fEb6AF8AD0eDDa1131Bfb1b0AD9F7",
+            "name": "USDH Tether Token",
+            "symbol": "USDHT",
             "decimals": 18
         },
         {
@@ -9454,6 +9484,14 @@
             "decimals": 18
         },
         {
+            "chainId": 137,
+            "address": "0x91E7E32C710661C44ae44D10Aa86135d91C3Ed65",
+            "name": "WrappedPeercoin",
+            "symbol": "wPPC",
+            "decimals": 6,
+            "logoURI": "https://assets.coingecko.com/coins/images/4/large/peercoin-icon-green-transparent_6x.png?1696501402"
+        },
+        {
             "chainId": 1101,
             "address": "0x120eF59b80774F02211563834d8E3b72cb1649d6",
             "name": "Balancer",
@@ -9940,6 +9978,20 @@
             "symbol": "TAG",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7905ea12cc81a215a5f1d0f46df73a53e19e9264.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x0C316e55f987Ef2d467F18852301492bcA7E8a69",
+            "name": "Balancer USDbC/tUSDbC",
+            "symbol": "USDbC/tUSDbC",
+            "decimals": 18
+        },
+        {
+            "chainId": 8453,
+            "address": "0x68f0a05FDc8773d9a5Fd1304ca411ACc234ce22c",
+            "name": "Tetu V2 tUSDbC",
+            "symbol": "tUSDbC",
+            "decimals": 6
         },
         {
             "chainId": 42161,
@@ -10967,7 +11019,8 @@
             "address": "0xDD4AB36f31891fF25A69121FCCC732d93eB976Dd",
             "name": "Prime",
             "symbol": "D2D",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdd4ab36f31891ff25a69121fccc732d93eb976dd.png"
         },
         {
             "chainId": 42161,
@@ -11061,6 +11114,20 @@
             "address": "0xe6d48f62A7d87e6bD13C283CA55068F0a73e6A5F",
             "name": "Balancer USDV/FRAX",
             "symbol": "USDV/FRAX",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0xef093cCFdD4d5A590B028463E0528049939889C9",
+            "name": "Balancer SWEEP-USDC StablePool",
+            "symbol": "SWEEP-USDC-BPT",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0xB88a5Ac00917a02d82c7cd6CEBd73E2852d43574",
+            "name": "SweepCoin",
+            "symbol": "SWEEP",
             "decimals": 18
         },
         {
