@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-11-19T15:38:44.234Z",
+    "timestamp": "2023-11-20T15:56:38.927Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6224,6 +6224,54 @@
             "decimals": 18
         },
         {
+            "chainId": 1,
+            "address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+            "name": "SHIBA INU",
+            "symbol": "SHIB",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x6982508145454Ce325dDbE47a25d4ec3d2311933",
+            "name": "Pepe",
+            "symbol": "PEPE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6982508145454ce325ddbe47a25d4ec3d2311933.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xcf0C122c6b73ff809C693DB761e7BaeBe62b6a2E",
+            "name": "FLOKI",
+            "symbol": "FLOKI",
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xcf0c122c6b73ff809c693db761e7baebe62b6a2e.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xb131f4A55907B10d1F0A50d8ab8FA09EC342cd74",
+            "name": "Memecoin",
+            "symbol": "MEME",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb131f4a55907b10d1f0a50d8ab8fa09ec342cd74.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x72e4f9F808C49A2a61dE9C5896298920Dc4EEEa9",
+            "name": "HarryPotterObamaSonic10Inu",
+            "symbol": "BITCOIN",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x72e4f9f808c49a2a61de9c5896298920dc4eeea9.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x761D38e5ddf6ccf6Cf7c55759d5210750B5D60F3",
+            "name": "Dogelon",
+            "symbol": "ELON",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3.png"
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -9491,13 +9539,6 @@
         },
         {
             "chainId": 137,
-            "address": "0x9C90975B13d04D7d535359887C236ac51f2298cE",
-            "name": "ICHI Vault Liquidity",
-            "symbol": "ICHI_Vault_LP",
-            "decimals": 18
-        },
-        {
-            "chainId": 137,
             "address": "0xb4D8874602bE84A5e96BD54E220dE59F8F42950B",
             "name": "ICHI Vault Liquidity",
             "symbol": "ICHI_Vault_LP",
@@ -9591,6 +9632,28 @@
             "name": "Uniswap V2",
             "symbol": "UNI-V2",
             "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0xCaAF554900E33ae5DBc66ae9f8ADc3049B7D31dB",
+            "name": "liveRetro",
+            "symbol": "liveRetro",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x3A29CAb2E124919d14a6F735b6033a3AaD2B260F",
+            "name": "Option to buy RETRO",
+            "symbol": "oRETRO",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x86F371838A321F92237DaD7b8DA5c76d2c084934",
+            "name": "Moo Compound Polygon USDC",
+            "symbol": "mooCompoundPolygonUSDC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x86f371838a321f92237dad7b8da5c76d2c084934.png"
         },
         {
             "chainId": 1101,
