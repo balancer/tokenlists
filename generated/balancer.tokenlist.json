@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-11-23T14:21:41.276Z",
+    "timestamp": "2023-11-23T15:10:31.353Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6302,7 +6302,7 @@
             "name": "Alkimi Exchange",
             "symbol": "$ADS",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/17979/large/Alkimi_Alternatives_PNG.png?1696517497"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x3106a0a076bedae847652f42ef07fd58589e001f.png"
         },
         {
             "chainId": 1,
