@@ -41,6 +41,11 @@ export const overwrites: OverwritesForList = {
       symbol: 'USDC',
       name: 'USD Coin',
     },
+    '0x304A2050dF259DCA35335C90CE983AdC5f2Dc50C': {
+      decimals: 18,
+      symbol: 'sWETH',
+      name: 'Sturdy Wrapped ETH',
+    },
     '0x2BBf681cC4eb09218BEe85EA2a5d3D13Fa40fC0C': {
       decimals: 18,
       symbol: 'bb-a-USDT (old)',
