@@ -48,4 +48,9 @@ export default [
   '0x68f0a05FDc8773d9a5Fd1304ca411ACc234ce22c', // tUSDbC
   '0xB88a5Ac00917a02d82c7cd6CEBd73E2852d43574', // SWEEP
   '0x15D9D108437B17d1FA70392f9eD086306229ec91', // SWEEP-USDC-BPT
+  '0xe9d8108db53428a0e577e9a3f28d950c3e6ae1e1'  // baseDEFLI 
+  '0x3ce13deddea2f51826ee1f33ee9db5227bfc8fe1'  // baseDESKY 
+  '0x9b8850ed1a59f63dfc0069a4be0fc3a6b1a1305f'  // baseDACARS 
+  '0x7c5cf42bc0a59bb91589dcf663a42e6668e4a57b'  // bDecharge 
+  '0x5a01bdaa010938eb7615c63cb22cf3e94e8505df'  // DRODEC
 ]
