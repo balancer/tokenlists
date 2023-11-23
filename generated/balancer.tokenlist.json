@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-11-20T15:56:38.927Z",
+    "timestamp": "2023-11-22T18:46:45.593Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5975,14 +5975,16 @@
             "address": "0xaF4ce7CD4F8891ecf1799878c3e9A35b8BE57E09",
             "name": "Wrapped USK",
             "symbol": "wUSK",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xaf4ce7cd4f8891ecf1799878c3e9a35b8be57e09.png"
         },
         {
             "chainId": 1,
             "address": "0x571f54D23cDf2211C83E9A0CbD92AcA36c48Fa02",
             "name": "paUSD Stablecoin",
             "symbol": "paUSD",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x571f54d23cdf2211c83e9a0cbd92aca36c48fa02.png"
         },
         {
             "chainId": 1,
@@ -6027,7 +6029,8 @@
             "address": "0x74E5E53056526b2609d82E85486005EF2A2Db001",
             "name": "Balancer TruMATIC-MATIC Stable Pool",
             "symbol": "TruMATIC-MATIC",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "missing_large.png"
         },
         {
             "chainId": 1,
@@ -6270,6 +6273,14 @@
             "symbol": "ELON",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x3106a0a076BeDAE847652F42ef07FD58589E001f",
+            "name": "Alkimi Exchange",
+            "symbol": "$ADS",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/17979/large/Alkimi_Alternatives_PNG.png?1696517497"
         },
         {
             "chainId": 5,
@@ -6580,10 +6591,10 @@
         },
         {
             "chainId": 5,
-            "address": "0x629f83F9d37a496a38825e71D1e6Ba4BF25feD80",
+            "address": "0x7e09999FC7F4997Ef747365d8E1fdc5fD872b7aA",
             "name": "USDHToken",
             "symbol": "USDH",
-            "decimals": 18
+            "decimals": 6
         },
         {
             "chainId": 5,
@@ -6601,10 +6612,10 @@
         },
         {
             "chainId": 5,
-            "address": "0x03bedb30E61fEb6AF8AD0eDDa1131Bfb1b0AD9F7",
+            "address": "0x5499f8a9C38a85f0078F9D880e5336736111e52b",
             "name": "USDH Tether Token",
             "symbol": "USDHT",
-            "decimals": 18
+            "decimals": 6
         },
         {
             "chainId": 10,
@@ -9595,7 +9606,8 @@
             "address": "0xCaAF554900E33ae5DBc66ae9f8ADc3049B7D31dB",
             "name": "liveRetro",
             "symbol": "liveRetro",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/33076/large/Rectangle_23015.png?1700544954"
         },
         {
             "chainId": 137,
@@ -9638,7 +9650,8 @@
             "address": "0xCaAF554900E33ae5DBc66ae9f8ADc3049B7D31dB",
             "name": "liveRetro",
             "symbol": "liveRetro",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/33076/large/Rectangle_23015.png?1700544954"
         },
         {
             "chainId": 137,
