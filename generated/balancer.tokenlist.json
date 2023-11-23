@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-11-22T18:46:45.593Z",
+    "timestamp": "2023-11-23T14:21:41.276Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5343,7 +5343,7 @@
         {
             "chainId": 1,
             "address": "0x304A2050dF259DCA35335C90CE983AdC5f2Dc50C",
-            "name": "Wrapped sWETH",
+            "name": "Sturdy Wrapped ETH",
             "symbol": "sWETH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x304a2050df259dca35335c90ce983adc5f2dc50c.png"
@@ -6276,11 +6276,40 @@
         },
         {
             "chainId": 1,
+            "address": "0xe07F9D810a48ab5c3c914BA3cA53AF14E4491e8A",
+            "name": "Gyro Dollar",
+            "symbol": "GYD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x50359088f666a9E70DC00B565Ecd9F853a572c7c",
+            "name": "Balancer osETH<>ETH Stable Pool",
+            "symbol": "osETH-ETH BPT",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xf1C9acDc66974dFB6dEcB12aA385b9cD01190E38",
+            "name": "Staked ETH",
+            "symbol": "osETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf1c9acdc66974dfb6decb12aa385b9cd01190e38.png"
+        },
+        {
+            "chainId": 1,
             "address": "0x3106a0a076BeDAE847652F42ef07FD58589E001f",
             "name": "Alkimi Exchange",
             "symbol": "$ADS",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/17979/large/Alkimi_Alternatives_PNG.png?1696517497"
+        },
+        {
+            "chainId": 1,
+            "address": "0x969064d81f301a98E4054f377365b1532a4fb921",
+            "name": "SPHINX",
+            "symbol": "SPHINX",
+            "decimals": 18
         },
         {
             "chainId": 5,
@@ -9667,6 +9696,21 @@
             "symbol": "mooCompoundPolygonUSDC",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x86f371838a321f92237dad7b8da5c76d2c084934.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x01d1a890D40d890d59795aFCce22F5AdbB511A3a",
+            "name": "Wrapped FRK",
+            "symbol": "wFRK",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x01d1a890d40d890d59795afcce22f5adbb511a3a.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x46356123e062F93D6b0D56F6Ff6C3744E87C22d7",
+            "name": "Balancer wFRK/PAR/jEUR",
+            "symbol": "p-cs-kp-eur",
+            "decimals": 18
         },
         {
             "chainId": 1101,
