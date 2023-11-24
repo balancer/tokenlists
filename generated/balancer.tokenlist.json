@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-11-23T15:10:31.353Z",
+    "timestamp": "2023-11-24T20:55:53.970Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6312,6 +6312,21 @@
             "decimals": 18
         },
         {
+            "chainId": 1,
+            "address": "0x86B4dBE5D203e634a12364C0e428fa242A3FbA98",
+            "name": "poundtoken",
+            "symbol": "GBPT",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/26591/large/gbpt.jpeg?1696525666"
+        },
+        {
+            "chainId": 1,
+            "address": "0x682037ade7347828BD7cBBcfA8E38Cd74FC2F95E",
+            "name": "PUHU",
+            "symbol": "PUHU",
+            "decimals": 18
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -6911,7 +6926,8 @@
             "address": "0xb4Bc46bc6cB217B59ea8F4530BaE26Bf69F677f0",
             "name": "BeethovenxToken",
             "symbol": "BEETS",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png?1696518608"
         },
         {
             "chainId": 10,
@@ -7426,7 +7442,8 @@
             "address": "0xb4Bc46bc6cB217B59ea8F4530BaE26Bf69F677f0",
             "name": "BeethovenxToken",
             "symbol": "BEETS",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png?1696518608"
         },
         {
             "chainId": 10,
