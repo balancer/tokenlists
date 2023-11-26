@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-11-24T20:55:53.970Z",
+    "timestamp": "2023-11-26T00:50:40.423Z",
     "tokens": [
         {
             "chainId": 1,
@@ -11381,6 +11381,14 @@
             "name": "SweepCoin",
             "symbol": "SWEEP",
             "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0xAeAeeD23478c3a4b798e4ed40D8B7F41366Ae861",
+            "name": "Ankr Network",
+            "symbol": "ANKR",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/4324/large/U85xTl2.png?1696504928"
         },
         {
             "chainId": 43114,
