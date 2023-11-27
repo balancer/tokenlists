@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-11-27T15:43:16.908Z",
+    "timestamp": "2023-11-27T16:46:44.129Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6333,6 +6333,30 @@
             "symbol": "stADS",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb986fd52697f16be888bfad2c5bf12cd67ce834b.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x823556202e86763853b40e9cDE725f412e294689",
+            "name": "Altered State Machine Utility Token",
+            "symbol": "ASTO",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/24893/large/ASTO.png?1696524051"
+        },
+        {
+            "chainId": 1,
+            "address": "0xf293d23BF2CDc05411Ca0edDD588eb1977e8dcd4",
+            "name": "Sylo",
+            "symbol": "SYLO",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/6430/large/SYLO.svg?1696506795"
+        },
+        {
+            "chainId": 1,
+            "address": "0xa3d4BEe77B05d4a0C943877558Ce21A763C4fa29",
+            "name": "The Root Network",
+            "symbol": "ROOT",
+            "decimals": 6,
+            "logoURI": "https://assets.coingecko.com/coins/images/33122/large/6T1Tapl__400x400.jpg?1700740439"
         },
         {
             "chainId": 5,
