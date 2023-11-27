@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-11-26T00:50:40.423Z",
+    "timestamp": "2023-11-27T15:43:16.908Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6327,6 +6327,14 @@
             "decimals": 18
         },
         {
+            "chainId": 1,
+            "address": "0xb986Fd52697f16bE888bFAD2c5bF12cd67Ce834B",
+            "name": "80$ADS-20WETH",
+            "symbol": "stADS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb986fd52697f16be888bfad2c5bf12cd67ce834b.png"
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -9727,6 +9735,71 @@
             "address": "0x46356123e062F93D6b0D56F6Ff6C3744E87C22d7",
             "name": "Balancer wFRK/PAR/jEUR",
             "symbol": "p-cs-kp-eur",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0xBFA35599c7AEbb0dAcE9b5aa3ca5f2a79624D8Eb",
+            "name": "RETRO",
+            "symbol": "RETRO",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/31136/large/retro.png?1696529965"
+        },
+        {
+            "chainId": 137,
+            "address": "0x39aB6574c289c3Ae4d88500eEc792AB5B947A5Eb",
+            "name": "Dystopia token",
+            "symbol": "DYST",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/25786/large/dystopialogo.jpg?1696524872"
+        },
+        {
+            "chainId": 137,
+            "address": "0x8159462d255C1D24915CB51ec361F700174cD994",
+            "name": "Balancer stMATIC Stable Pool",
+            "symbol": "B-stMATIC-Stable",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x65Fe9314bE50890Fb01457be076fAFD05Ff32B9A",
+            "name": "Balancer wstETH StablePool",
+            "symbol": "B-stETH-BPT",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0xb20fC01D21A50d2C734C4a1262B4404d41fA7BF0",
+            "name": "Balancer MaticX Stable Pool",
+            "symbol": " B-MaticX-Stable",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0xF32E6dC7709c596c5a5f328fa01eDd8eC3F62517",
+            "name": "STARV3-Materia  by StarSeeds Protocol",
+            "symbol": "STARV3-M",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x752cC75254cc6e52E250128d56c23F073e6146a6",
+            "name": "STEER_UNIV3_VAULT_272",
+            "symbol": "STEER_UNIV3_VAULT_272",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x2999621e985B91b01C1EcDe25bbc58eF0362eD8E",
+            "name": "STEER_QUICKSWAP_VAULT_297",
+            "symbol": "STEERQV297",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x17840DF7CAa07e298b16E8612157B90ED231C973",
+            "name": "DAO",
+            "symbol": "DAO",
             "decimals": 18
         },
         {
