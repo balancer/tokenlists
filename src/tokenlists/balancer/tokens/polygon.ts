@@ -248,4 +248,5 @@ export default [
   '0x86F371838A321F92237DaD7b8DA5c76d2c084934', // Moo Compound Polygon USDC (mooCompoundPolygonUSDC)
   '0x01d1a890D40d890d59795aFCce22F5AdbB511A3a', // wFRK
   '0x46356123e062F93D6b0D56F6Ff6C3744E87C22d7', // p-cs-kp-eur
+  '0xBFA35599c7AEbb0dAcE9b5aa3ca5f2a79624D8Eb', // RETRO
 ]
