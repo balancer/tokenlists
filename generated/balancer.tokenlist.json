@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-11-28T03:00:53.560Z",
+    "timestamp": "2023-11-28T03:16:16.060Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6328,6 +6328,13 @@
         },
         {
             "chainId": 1,
+            "address": "0xcE246eEa10988C495B4A90a905Ee9237a0f91543",
+            "name": "VaultCraft",
+            "symbol": "VCX",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
             "address": "0xb986Fd52697f16bE888bFAD2c5bF12cd67Ce834B",
             "name": "80$ADS-20WETH",
             "symbol": "stADS",
@@ -9647,7 +9654,8 @@
             "address": "0xA571963278014B5B3A686778747fDf8ad4dFBb94",
             "name": "STARV3 by StarSeeds Protocol",
             "symbol": "STARV3",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa571963278014b5b3a686778747fdf8ad4dfbb94.png"
         },
         {
             "chainId": 137,
@@ -11486,6 +11494,20 @@
             "symbol": "ANKR",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/4324/large/U85xTl2.png?1696504928"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x451B0Afd69ACe11Ec0AC339033D54d2543b088a8",
+            "name": "Balancer plsRDNT StablePool",
+            "symbol": "plsRDNT-Stable",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x6dbF2155B0636cb3fD5359FCcEFB8a2c02B6cb51",
+            "name": "Plutus RDNT V2",
+            "symbol": "plsRDNT",
+            "decimals": 18
         },
         {
             "chainId": 42161,
