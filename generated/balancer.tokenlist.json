@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-11-28T03:16:16.060Z",
+    "timestamp": "2023-11-28T15:47:04.654Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6331,7 +6331,8 @@
             "address": "0xcE246eEa10988C495B4A90a905Ee9237a0f91543",
             "name": "VaultCraft",
             "symbol": "VCX",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/33237/large/VCX_Token_200x200.png?1701147660"
         },
         {
             "chainId": 1,
@@ -11507,7 +11508,8 @@
             "address": "0x6dbF2155B0636cb3fD5359FCcEFB8a2c02B6cb51",
             "name": "Plutus RDNT V2",
             "symbol": "plsRDNT",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6dbf2155b0636cb3fd5359fccefb8a2c02b6cb51.png"
         },
         {
             "chainId": 42161,
