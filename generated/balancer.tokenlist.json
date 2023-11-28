@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-11-27T16:46:44.129Z",
+    "timestamp": "2023-11-28T03:00:53.560Z",
     "tokens": [
         {
             "chainId": 1,
@@ -11486,6 +11486,13 @@
             "symbol": "ANKR",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/4324/large/U85xTl2.png?1696504928"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x32dF62dc3aEd2cD6224193052Ce665DC18165841",
+            "name": "RDNT-WETH",
+            "symbol": "RDNT-WETH",
+            "decimals": 18
         },
         {
             "chainId": 43114,
