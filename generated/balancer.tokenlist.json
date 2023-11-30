@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-11-30T03:24:49.340Z",
+    "timestamp": "2023-11-30T12:45:50.001Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6217,7 +6217,8 @@
             "address": "0xB88a5Ac00917a02d82c7cd6CEBd73E2852d43574",
             "name": "SweepCoin",
             "symbol": "SWEEP",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb88a5ac00917a02d82c7cd6cebd73e2852d43574.png"
         },
         {
             "chainId": 1,
@@ -6332,7 +6333,7 @@
             "name": "VaultCraft",
             "symbol": "VCX",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/33237/large/VCX_Token_200x200.png?1701147660"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xce246eea10988c495b4a90a905ee9237a0f91543.png"
         },
         {
             "chainId": 1,
@@ -6365,6 +6366,13 @@
             "symbol": "ROOT",
             "decimals": 6,
             "logoURI": "https://assets.coingecko.com/coins/images/33122/large/6T1Tapl__400x400.jpg?1700740439"
+        },
+        {
+            "chainId": 1,
+            "address": "0xDACf5Fa19b1f720111609043ac67A9818262850c",
+            "name": "Balancer osETH/wETH StablePool",
+            "symbol": "osETH/wETH-BPT",
+            "decimals": 18
         },
         {
             "chainId": 5,
@@ -7497,7 +7505,8 @@
             "address": "0xB88a5Ac00917a02d82c7cd6CEBd73E2852d43574",
             "name": "SweepCoin",
             "symbol": "SWEEP",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb88a5ac00917a02d82c7cd6cebd73e2852d43574.png"
         },
         {
             "chainId": 100,
@@ -10349,7 +10358,8 @@
             "address": "0xB88a5Ac00917a02d82c7cd6CEBd73E2852d43574",
             "name": "SweepCoin",
             "symbol": "SWEEP",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb88a5ac00917a02d82c7cd6cebd73e2852d43574.png"
         },
         {
             "chainId": 8453,
@@ -11493,7 +11503,8 @@
             "address": "0xB88a5Ac00917a02d82c7cd6CEBd73E2852d43574",
             "name": "SweepCoin",
             "symbol": "SWEEP",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb88a5ac00917a02d82c7cd6cebd73e2852d43574.png"
         },
         {
             "chainId": 42161,
@@ -11966,6 +11977,21 @@
             "symbol": "bIB01",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca30c93b02514f86d5c86a6e375e3a330b435fb5.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x121b0DfC48444C4d10caddeD9885D90E7453E878",
+            "name": "Balancer SWEEP-USDC StablePool",
+            "symbol": "SWEEP-USDC-BPT",
+            "decimals": 18
+        },
+        {
+            "chainId": 43114,
+            "address": "0xB88a5Ac00917a02d82c7cd6CEBd73E2852d43574",
+            "name": "SweepCoin",
+            "symbol": "SWEEP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb88a5ac00917a02d82c7cd6cebd73e2852d43574.png"
         },
         {
             "chainId": 11155111,
