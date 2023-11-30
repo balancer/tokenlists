@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-11-28T15:47:04.654Z",
+    "timestamp": "2023-11-30T03:24:49.340Z",
     "tokens": [
         {
             "chainId": 1,
@@ -4507,7 +4507,7 @@
         {
             "chainId": 1,
             "address": "0x9c354503C38481a7A7a51629142963F98eCC12D0",
-            "name": "Origin Dollar Governance",
+            "name": "Origin DeFi Governance",
             "symbol": "OGV",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9c354503c38481a7a7a51629142963f98ecc12d0.png"
@@ -9836,6 +9836,13 @@
             "decimals": 18
         },
         {
+            "chainId": 137,
+            "address": "0x27f485b62C4A7E635F561A87560Adf5090239E93",
+            "name": "DFX Token (L2)",
+            "symbol": "DFX",
+            "decimals": 18
+        },
+        {
             "chainId": 1101,
             "address": "0x120eF59b80774F02211563834d8E3b72cb1649d6",
             "name": "Balancer",
@@ -11516,6 +11523,13 @@
             "address": "0x32dF62dc3aEd2cD6224193052Ce665DC18165841",
             "name": "RDNT-WETH",
             "symbol": "RDNT-WETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x27f485b62C4A7E635F561A87560Adf5090239E93",
+            "name": "DFX Token (L2)",
+            "symbol": "DFX",
             "decimals": 18
         },
         {

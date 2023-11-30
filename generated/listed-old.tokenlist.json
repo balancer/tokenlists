@@ -9,7 +9,7 @@
         "Balancer"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-10-06T15:26:36.612Z",
+    "timestamp": "2023-11-30T03:25:00.370Z",
     "tokens": [
         {
             "chainId": 1,
@@ -764,7 +764,7 @@
         {
             "chainId": 1,
             "address": "0x9c354503C38481a7A7a51629142963F98eCC12D0",
-            "name": "Origin Dollar Governance",
+            "name": "Origin DeFi Governance",
             "symbol": "OGV",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9c354503c38481a7a7a51629142963f98ecc12d0.png"
