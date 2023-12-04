@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-11-30T12:45:50.001Z",
+    "timestamp": "2023-12-04T15:04:30.764Z",
     "tokens": [
         {
             "chainId": 1,
@@ -726,10 +726,11 @@
         },
         {
             "chainId": 1,
-            "address": "0x8762db106B2c2A0bccB3A80d1Ed41273552616E8",
+            "address": "0x320623b8E4fF03373931769A31Fc52A4E78B5d70",
             "name": "Reserve Rights",
             "symbol": "RSR",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/8365/large/rsr.png?1696508558"
         },
         {
             "chainId": 1,
@@ -5269,14 +5270,16 @@
             "address": "0xa1e3F062CE5825c1e19207cd93CEFdaD82A8A631",
             "name": "Bao ETH Basket",
             "symbol": "bETH",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa1e3f062ce5825c1e19207cd93cefdad82a8a631.png"
         },
         {
             "chainId": 1,
             "address": "0xf4edfad26EE0D23B69CA93112eccE52704E0006f",
             "name": "Bao ETH",
             "symbol": "baoETH",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf4edfad26ee0d23b69ca93112ecce52704e0006f.png"
         },
         {
             "chainId": 1,
@@ -5292,7 +5295,7 @@
             "name": "baoUSD-LUSD StablePool",
             "symbol": "B-baoUSD-LUSD-BPT",
             "decimals": 18,
-            "logoURI": "missing_large.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7e9afd25f5ec0eb24d7d4b089ae7ecb9651c8b1f.png"
         },
         {
             "chainId": 1,
@@ -5300,7 +5303,7 @@
             "name": "baoETH-ETH StablePool",
             "symbol": "B-baoETH-ETH-BPT",
             "decimals": 18,
-            "logoURI": "missing_large.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1a44e35d5451e0b78621a1b3e7a53dfaa306b1d0.png"
         },
         {
             "chainId": 1,
@@ -6373,6 +6376,36 @@
             "name": "Balancer osETH/wETH StablePool",
             "symbol": "osETH/wETH-BPT",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x704054aC9b28e1B627A9103B1b5CE035C7302E37",
+            "name": "Shytoshi Isomer",
+            "symbol": "KUMO",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x7Bf05033aC41915b4e95726a9e8E522381435970",
+            "name": "Ryoshi Isomer",
+            "symbol": "YUME",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x4591DBfF62656E7859Afe5e45f6f47D3669fBB28",
+            "name": "Prisma mkUSD",
+            "symbol": "mkUSD",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/31519/large/mkUSD_200.png?1696530329"
+        },
+        {
+            "chainId": 1,
+            "address": "0xdA47862a83dac0c112BA89c6abC2159b95afd71C",
+            "name": "Prisma Governance Token",
+            "symbol": "PRISMA",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/31520/large/PRISMA_200.png?1696530330"
         },
         {
             "chainId": 5,
@@ -7838,7 +7871,8 @@
             "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
             "name": "Staked agEUR",
             "symbol": "stEUR",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/32036/large/stEUR-x4.png?1696530832"
         },
         {
             "chainId": 100,
@@ -7874,7 +7908,8 @@
             "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
             "name": "Staked agEUR",
             "symbol": "stEUR",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/32036/large/stEUR-x4.png?1696530832"
         },
         {
             "chainId": 137,
@@ -9590,7 +9625,8 @@
             "address": "0x43C73b90E0C2A355784dCf0Da12f477729b31e77",
             "name": "Soil",
             "symbol": "SOIL",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/32050/large/SOIL_sygnet_dark_blue.png?1696530847"
         },
         {
             "chainId": 137,
@@ -9849,6 +9885,63 @@
             "address": "0x27f485b62C4A7E635F561A87560Adf5090239E93",
             "name": "DFX Token (L2)",
             "symbol": "DFX",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x1dd95eb83bb1CB9539e1074f24483303971E9C58",
+            "name": "Wrapped CASH",
+            "symbol": "WCASH",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
+            "name": "Polygon tBTC v2",
+            "symbol": "tBTC",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/11224/large/0x18084fba666a33d37592fa2633fd49a74dd93a88.png?1696511155"
+        },
+        {
+            "chainId": 137,
+            "address": "0x2297aEbD383787A160DD0d9F71508148769342E3",
+            "name": "Bitcoin",
+            "symbol": "BTC.b",
+            "decimals": 8
+        },
+        {
+            "chainId": 137,
+            "address": "0x02d2e2D7a89D6c5CB3681cfCb6F7dAC02A55eDA4",
+            "name": "Balancer csMATIC Stable Pool",
+            "symbol": "B-csMATIC-Stable",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x72d31b6dD46DaaE07391036097A2CB4648991eCD",
+            "name": "STAR-Power/StarSeeds Protocol",
+            "symbol": "SP",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x95e20aF7bdA863A3e675524C31039e9DFaa4b603",
+            "name": "Interest Bearing STARV3",
+            "symbol": "iBSTARV3",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x8D0663d2d738e6078Bb77589dE4231eD9fcFd014",
+            "name": "Moo Aura Poly Gyroscope stMATIC-MATIC",
+            "symbol": "mooAuraPolyGyroscopestMATIC-MATIC",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x6F79CA179FE1cD131574a08B96e92744B6649128",
+            "name": "Moo Quick MATIC-WETH Narrow",
+            "symbol": "mooQuickMATIC-WETHNarrow",
             "decimals": 18
         },
         {
@@ -10366,6 +10459,13 @@
             "address": "0x15D9D108437B17d1FA70392f9eD086306229ec91",
             "name": "Balancer SWEEP-USDC StablePool",
             "symbol": "SWEEP-USDC-BPT",
+            "decimals": 18
+        },
+        {
+            "chainId": 8453,
+            "address": "0xd9623BeD998Af3722E62e5c0a90Af8abfF9E10c9",
+            "name": "COIN",
+            "symbol": "COIN",
             "decimals": 18
         },
         {
