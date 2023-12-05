@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-12-04T15:04:30.764Z",
+    "timestamp": "2023-12-05T17:07:40.292Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6408,6 +6408,13 @@
             "logoURI": "https://assets.coingecko.com/coins/images/31520/large/PRISMA_200.png?1696530330"
         },
         {
+            "chainId": 1,
+            "address": "0x0737846dAEC8D312515e8cA260F130E3cF04cfB5",
+            "name": "SHIBADOPT",
+            "symbol": "SHOPT",
+            "decimals": 18
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -10469,6 +10476,14 @@
             "decimals": 18
         },
         {
+            "chainId": 8453,
+            "address": "0x1509706a6c66CA549ff0cB464de88231DDBe213B",
+            "name": "Aura",
+            "symbol": "AURA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1509706a6c66ca549ff0cb464de88231ddbe213b.png"
+        },
+        {
             "chainId": 42161,
             "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
             "name": "Arbitrum",
@@ -11642,6 +11657,14 @@
             "name": "DFX Token (L2)",
             "symbol": "DFX",
             "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x422e604492c9Bd9C43F03aD1F78C37968303ebD3",
+            "name": "Lumin Finance",
+            "symbol": "LUMIN",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x422e604492c9bd9c43f03ad1f78c37968303ebd3.png"
         },
         {
             "chainId": 43114,
