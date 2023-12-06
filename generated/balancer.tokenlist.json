@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-12-06T19:13:04.044Z",
+    "timestamp": "2023-12-06T23:30:39.734Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6283,7 +6283,8 @@
             "address": "0xe07F9D810a48ab5c3c914BA3cA53AF14E4491e8A",
             "name": "Gyro Dollar",
             "symbol": "GYD",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe07f9d810a48ab5c3c914ba3ca53af14e4491e8a.png"
         },
         {
             "chainId": 1,
