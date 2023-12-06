@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-12-05T17:07:40.292Z",
+    "timestamp": "2023-12-06T19:13:04.044Z",
     "tokens": [
         {
             "chainId": 1,
@@ -9892,7 +9892,8 @@
             "address": "0x27f485b62C4A7E635F561A87560Adf5090239E93",
             "name": "DFX Token (L2)",
             "symbol": "DFX",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/14091/large/DFX.png?1696513813"
         },
         {
             "chainId": 137,
@@ -9950,6 +9951,14 @@
             "name": "Moo Quick MATIC-WETH Narrow",
             "symbol": "mooQuickMATIC-WETHNarrow",
             "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://assets.coingecko.com/coins/images/6319/large/usdc.png?1696506694"
         },
         {
             "chainId": 1101,
@@ -11656,7 +11665,8 @@
             "address": "0x27f485b62C4A7E635F561A87560Adf5090239E93",
             "name": "DFX Token (L2)",
             "symbol": "DFX",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/14091/large/DFX.png?1696513813"
         },
         {
             "chainId": 42161,
