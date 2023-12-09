@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-12-06T23:30:39.734Z",
+    "timestamp": "2023-12-09T04:26:50.828Z",
     "tokens": [
         {
             "chainId": 1,
@@ -9960,6 +9960,13 @@
             "symbol": "USDC",
             "decimals": 6,
             "logoURI": "https://assets.coingecko.com/coins/images/6319/large/usdc.png?1696506694"
+        },
+        {
+            "chainId": 137,
+            "address": "0xB476B7A027da3D9fB5A5c9CB6078A34f7289B476",
+            "name": "Moo Balancer jEUR-PAR",
+            "symbol": "mooBalancer jEUR-PAR",
+            "decimals": 18
         },
         {
             "chainId": 1101,
