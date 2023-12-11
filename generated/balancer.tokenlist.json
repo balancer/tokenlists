@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-12-11T15:56:49.799Z",
+    "timestamp": "2023-12-11T22:39:07.809Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7569,6 +7569,38 @@
             "symbol": "SWEEP",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb88a5ac00917a02d82c7cd6cebd73e2852d43574.png"
+        },
+        {
+            "chainId": 10,
+            "address": "0x76FB31fb4af56892A25e32cFC43De717950c9278",
+            "name": "Aave Token",
+            "symbol": "AAVE",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png?1696512452"
+        },
+        {
+            "chainId": 10,
+            "address": "0xf329e36C7bF6E5E86ce2150875a84Ce77f477375",
+            "name": "Aave Optimism AAVE",
+            "symbol": "aOptAAVE",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/32887/large/aave.png?1699773604"
+        },
+        {
+            "chainId": 10,
+            "address": "0x191c10Aa4AF7C30e871E70C95dB0E4eb77237530",
+            "name": "Aave Optimism LINK",
+            "symbol": "aOptLINK",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/32888/large/link.png?1699773900"
+        },
+        {
+            "chainId": 10,
+            "address": "0x6fd9d7AD17242c41f7131d257212c54A0e816691",
+            "name": "Uniswap",
+            "symbol": "UNI",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uni.jpg?1696512319"
         },
         {
             "chainId": 100,
