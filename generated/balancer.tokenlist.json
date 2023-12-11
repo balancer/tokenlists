@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-12-09T04:26:50.828Z",
+    "timestamp": "2023-12-11T15:56:49.799Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6416,6 +6416,27 @@
             "decimals": 18
         },
         {
+            "chainId": 1,
+            "address": "0x146Ae546b7A2d676E5eD9E5d92647c8dDb8e2388",
+            "name": "Grand Theft Degens",
+            "symbol": "GTD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x3d9d19AAD039af4437227417CF85b9ccB76A7c64",
+            "name": "PLACEHOLDERvMINT",
+            "symbol": "PvMINT",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xf40e07eA958745aFaB23698Ce02D7230C7654085",
+            "name": "Honolulu Protocol",
+            "symbol": "HNLU",
+            "decimals": 18
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -9930,7 +9951,8 @@
             "address": "0x72d31b6dD46DaaE07391036097A2CB4648991eCD",
             "name": "STAR-Power/StarSeeds Protocol",
             "symbol": "SP",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x72d31b6dd46daae07391036097a2cb4648991ecd.png"
         },
         {
             "chainId": 137,
@@ -9963,9 +9985,24 @@
         },
         {
             "chainId": 137,
+            "address": "0xe0bCEEF36F3a6eFDd5EEBFACD591423f8549B9D5",
+            "name": "Defactor (PoS)",
+            "symbol": "FACTR",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/19201/large/jFLSu4U9_400x400.png?1696518648"
+        },
+        {
+            "chainId": 137,
             "address": "0xB476B7A027da3D9fB5A5c9CB6078A34f7289B476",
             "name": "Moo Balancer jEUR-PAR",
             "symbol": "mooBalancer jEUR-PAR",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x1dd95eb83bb1CB9539e1074f24483303971E9C58",
+            "name": "Wrapped CASH",
+            "symbol": "WCASH",
             "decimals": 18
         },
         {
@@ -12245,6 +12282,41 @@
             "name": "USDHdaoTest",
             "symbol": "USDH",
             "decimals": 18
+        },
+        {
+            "chainId": 11155111,
+            "address": "0x3de2E4c495C82A9BE050FB4615fA5223F88c1751",
+            "name": "Fake OXT",
+            "symbol": "FOXT",
+            "decimals": 18
+        },
+        {
+            "chainId": 11155111,
+            "address": "0x10e6f5debFd4A66A1C1dDa6Ba68CfAfcC879eab2",
+            "name": "HDAOToken",
+            "symbol": "HDAO",
+            "decimals": 18
+        },
+        {
+            "chainId": 11155111,
+            "address": "0x303d53087ABBbe343e2360BB288275Ddba47A6b6",
+            "name": "Fake Wrapped Ethereum",
+            "symbol": "FWETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 11155111,
+            "address": "0x23e259cFf0404d90FCDA231eDE0c350fb509bDd7",
+            "name": "USDHToken",
+            "symbol": "USDH",
+            "decimals": 6
+        },
+        {
+            "chainId": 11155111,
+            "address": "0x753e0F7Fb8556fC274B0699417dfAbB6d6eBf38b",
+            "name": "USDH Tether Token",
+            "symbol": "USDHT",
+            "decimals": 6
         }
     ]
 }
