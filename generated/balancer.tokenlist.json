@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-12-11T22:39:07.809Z",
+    "timestamp": "2023-12-13T15:51:18.359Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6437,6 +6437,43 @@
             "decimals": 18
         },
         {
+            "chainId": 1,
+            "address": "0x05ff47AFADa98a98982113758878F9A8B9FddA0a",
+            "name": "Balancer weETH/rETH StablePool",
+            "symbol": "weETH/rETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x517bD2Eb3d8a7343D7CE53ED58Eb3cA6b32dA279",
+            "name": "RektDAO",
+            "symbol": "REKT",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x63b420fb3294BA1d300CE5D3ba4BBCA0F4fe5e3b",
+            "name": "Scramble Finance",
+            "symbol": "SCRAMBLE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x9Ba021B0a9b958B5E75cE9f6dff97C7eE52cb3E6",
+            "name": "Autocompounding Pirex Ether",
+            "symbol": "apxETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9ba021b0a9b958b5e75ce9f6dff97c7ee52cb3e6.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x04C154b66CB340F3Ae24111CC767e0184Ed00Cc6",
+            "name": "Pirex Ether",
+            "symbol": "pxETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x04c154b66cb340f3ae24111cc767e0184ed00cc6.png"
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -7530,8 +7567,7 @@
             "address": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
             "name": "Frax",
             "symbol": "FRAX",
-            "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/13422/large/FRAX_icon.png?1696513182"
+            "decimals": 18
         },
         {
             "chainId": 10,
