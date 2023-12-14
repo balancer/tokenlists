@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-12-13T16:00:34.056Z",
+    "timestamp": "2023-12-14T20:11:34.834Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6420,7 +6420,8 @@
             "address": "0x146Ae546b7A2d676E5eD9E5d92647c8dDb8e2388",
             "name": "Grand Theft Degens",
             "symbol": "GTD",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/33633/large/Grand_Theft_Degens.jpg?1702535287"
         },
         {
             "chainId": 1,
@@ -6479,6 +6480,30 @@
             "symbol": "pxETH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x04c154b66cb340f3ae24111cc767e0184ed00cc6.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x534D1F5E617e0f72A6b06a04Aa599839AF776A5e",
+            "name": "Blockswap Network",
+            "symbol": "BSN",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/27023/large/BSN_brandmark_in_black_circle_preview.png?1696526075"
+        },
+        {
+            "chainId": 1,
+            "address": "0x3d1E5Cf16077F349e999d6b21A4f646e83Cd90c5",
+            "name": "dToken",
+            "symbol": "dETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x3d1e5cf16077f349e999d6b21a4f646e83cd90c5.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xE0C28A5A2da3920946E8Bf821F61F7BEA311048b",
+            "name": "kETH",
+            "symbol": "kETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe0c28a5a2da3920946e8bf821f61f7bea311048b.png"
         },
         {
             "chainId": 5,
@@ -10079,6 +10104,13 @@
             "address": "0x1dd95eb83bb1CB9539e1074f24483303971E9C58",
             "name": "Wrapped CASH",
             "symbol": "WCASH",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x9c3b3150019417819023f6A1d1530Cd2A5E20865",
+            "name": "0xEquity",
+            "symbol": "XEQ",
             "decimals": 18
         },
         {
