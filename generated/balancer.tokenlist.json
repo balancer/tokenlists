@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-12-14T20:11:34.834Z",
+    "timestamp": "2023-12-15T00:53:08.876Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6506,6 +6506,13 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe0c28a5a2da3920946e8bf821f61f7bea311048b.png"
         },
         {
+            "chainId": 1,
+            "address": "0x88794C65550DeB6b4087B7552eCf295113794410",
+            "name": "Balancer pxETH/wETH StablePool",
+            "symbol": "pxETH/wETH",
+            "decimals": 18
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -11828,6 +11835,20 @@
             "symbol": "LUMIN",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x422e604492c9bd9c43f03ad1f78c37968303ebd3.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xe3b3FE7bcA19cA77Ad877A5Bebab186bEcfAD906",
+            "name": "Staked FRAX",
+            "symbol": "sFRAX",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x2CE4457aCac29dA4736aE6f5Cd9F583a6b335c27",
+            "name": "Balancer sFRAX/4POOL StablePool",
+            "symbol": "sFRAX/4POOL",
+            "decimals": 18
         },
         {
             "chainId": 43114,
