@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-12-15T00:53:08.876Z",
+    "timestamp": "2023-12-18T19:40:14.385Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6486,8 +6486,7 @@
             "address": "0x534D1F5E617e0f72A6b06a04Aa599839AF776A5e",
             "name": "Blockswap Network",
             "symbol": "BSN",
-            "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/27023/large/BSN_brandmark_in_black_circle_preview.png?1696526075"
+            "decimals": 18
         },
         {
             "chainId": 1,
@@ -6510,6 +6509,20 @@
             "address": "0x88794C65550DeB6b4087B7552eCf295113794410",
             "name": "Balancer pxETH/wETH StablePool",
             "symbol": "pxETH/wETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x12eF10A4fc6e1Ea44B4ca9508760fF51c647BB71",
+            "name": "Restake Finance",
+            "symbol": "RSTK",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x49cbD67651fbabCE12d1df18499896ec87BEf46f",
+            "name": "Balancer sDAI/3Pool",
+            "symbol": "sDAI/3Pool",
             "decimals": 18
         },
         {
@@ -7677,6 +7690,14 @@
             "symbol": "UNI",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uni.jpg?1696512319"
+        },
+        {
+            "chainId": 10,
+            "address": "0xbD80CFA9d93A87D1bb895f810ea348E496611cD4",
+            "name": "Own a fraction",
+            "symbol": "FRACTION",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xbd80cfa9d93a87d1bb895f810ea348e496611cd4.png"
         },
         {
             "chainId": 100,
@@ -9883,7 +9904,8 @@
             "address": "0x3A29CAb2E124919d14a6F735b6033a3AaD2B260F",
             "name": "Option to buy RETRO",
             "symbol": "oRETRO",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/33668/large/Screenshot_2023-08-27_101458-removebg-preview.png?1702694247"
         },
         {
             "chainId": 137,
@@ -9927,7 +9949,8 @@
             "address": "0x3A29CAb2E124919d14a6F735b6033a3AaD2B260F",
             "name": "Option to buy RETRO",
             "symbol": "oRETRO",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/33668/large/Screenshot_2023-08-27_101458-removebg-preview.png?1702694247"
         },
         {
             "chainId": 137,
@@ -9994,7 +10017,8 @@
             "address": "0xF32E6dC7709c596c5a5f328fa01eDd8eC3F62517",
             "name": "STARV3-Materia  by StarSeeds Protocol",
             "symbol": "STARV3-M",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf32e6dc7709c596c5a5f328fa01edd8ec3f62517.png"
         },
         {
             "chainId": 137,
@@ -10015,7 +10039,8 @@
             "address": "0x17840DF7CAa07e298b16E8612157B90ED231C973",
             "name": "DAO",
             "symbol": "DAO",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x17840df7caa07e298b16e8612157b90ed231c973.png"
         },
         {
             "chainId": 137,
@@ -10119,6 +10144,22 @@
             "name": "0xEquity",
             "symbol": "XEQ",
             "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0xbD80CFA9d93A87D1bb895f810ea348E496611cD4",
+            "name": "Own a fraction",
+            "symbol": "FRACTION",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xbd80cfa9d93a87d1bb895f810ea348e496611cd4.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0xC0b2983A17573660053BEEED6FDb1053107cf387",
+            "name": "Minerva Wallet SuperToken",
+            "symbol": "MIVA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc0b2983a17573660053beeed6fdb1053107cf387.png"
         },
         {
             "chainId": 1101,
@@ -11851,6 +11892,21 @@
             "decimals": 18
         },
         {
+            "chainId": 42161,
+            "address": "0x2CE4457aCac29dA4736aE6f5Cd9F583a6b335c27",
+            "name": "Balancer sFRAX/4POOL StablePool",
+            "symbol": "sFRAX/4POOL",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x2bF2ba13735160624a0fEaE98f6aC8F70885eA61",
+            "name": "Own a fraction",
+            "symbol": "FRACTION",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2bf2ba13735160624a0feae98f6ac8f70885ea61.png"
+        },
+        {
             "chainId": 43114,
             "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
             "name": "Wrapped AVAX",
@@ -12299,6 +12355,14 @@
             "symbol": "SWEEP",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb88a5ac00917a02d82c7cd6cebd73e2852d43574.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xbD80CFA9d93A87D1bb895f810ea348E496611cD4",
+            "name": "Own a fraction",
+            "symbol": "FRACTION",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xbd80cfa9d93a87d1bb895f810ea348e496611cd4.png"
         },
         {
             "chainId": 11155111,
