@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-12-18T19:40:14.385Z",
+    "timestamp": "2023-12-19T14:38:58.472Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6524,6 +6524,14 @@
             "name": "Balancer sDAI/3Pool",
             "symbol": "sDAI/3Pool",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x5E8422345238F34275888049021821E8E08CAa1f",
+            "name": "Frax Ether",
+            "symbol": "frxETH",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/28284/large/frxETH_icon.png?1696527284"
         },
         {
             "chainId": 5,
