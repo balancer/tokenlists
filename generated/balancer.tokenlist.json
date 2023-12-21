@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-12-19T14:38:58.472Z",
+    "timestamp": "2023-12-21T15:06:49.096Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6516,7 +6516,8 @@
             "address": "0x12eF10A4fc6e1Ea44B4ca9508760fF51c647BB71",
             "name": "Restake Finance",
             "symbol": "RSTK",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/33885/large/rstk.png?1703148117"
         },
         {
             "chainId": 1,
@@ -6527,11 +6528,32 @@
         },
         {
             "chainId": 1,
+            "address": "0x7b851a07FFE471B5BA4045774A04fdE1D582F16A",
+            "name": "MevAI",
+            "symbol": "MAI",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xB06bFBD7b50F80c8d9dA57Fc4cF5CBD5B3E2f148",
+            "name": "Balancer pxETH/frxETH",
+            "symbol": "pxETH/frxETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
             "address": "0x5E8422345238F34275888049021821E8E08CAa1f",
             "name": "Frax Ether",
             "symbol": "frxETH",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/28284/large/frxETH_icon.png?1696527284"
+        },
+        {
+            "chainId": 1,
+            "address": "0x2AF4D13F212b183c05bE2F5E4A1b256304e2D182",
+            "name": "You Are Ryoshi",
+            "symbol": "R",
+            "decimals": 18
         },
         {
             "chainId": 5,
@@ -10170,6 +10192,14 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc0b2983a17573660053beeed6fdb1053107cf387.png"
         },
         {
+            "chainId": 137,
+            "address": "0x9c3b3150019417819023f6A1d1530Cd2A5E20865",
+            "name": "0xEquity",
+            "symbol": "XEQ",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9c3b3150019417819023f6a1d1530cd2a5e20865.png"
+        },
+        {
             "chainId": 1101,
             "address": "0x120eF59b80774F02211563834d8E3b72cb1649d6",
             "name": "Balancer",
@@ -12518,6 +12548,20 @@
             "name": "USDH Tether Token",
             "symbol": "USDHT",
             "decimals": 6
+        },
+        {
+            "chainId": 11155111,
+            "address": "0xB8A9D5f3A959E455093C12f58b24f772bcDb97E2",
+            "name": "Asymetrix Governance Token",
+            "symbol": "ASX",
+            "decimals": 18
+        },
+        {
+            "chainId": 11155111,
+            "address": "0xfFf9976782d46CC05630D1f6eBAb18b2324d6B14",
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "decimals": 18
         }
     ]
 }
