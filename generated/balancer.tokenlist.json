@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-12-21T15:06:49.096Z",
+    "timestamp": "2023-12-26T03:01:17.657Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6556,6 +6556,13 @@
             "decimals": 18
         },
         {
+            "chainId": 1,
+            "address": "0x294B4815741A3509be7e578B855566532Bbda03D",
+            "name": "Teh Kingdom",
+            "symbol": "Kingdom",
+            "decimals": 18
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -12401,6 +12408,13 @@
             "symbol": "FRACTION",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xbd80cfa9d93a87d1bb895f810ea348e496611cd4.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x8783E0156cd747D0Cc012087d3D3AFC897F2328C",
+            "name": "Balancer sAVAX/ggAVAX/yyAVAX",
+            "symbol": "sAVAX/ggAVAX/yyAVAX",
+            "decimals": 18
         },
         {
             "chainId": 11155111,
