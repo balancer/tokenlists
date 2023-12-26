@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-12-26T03:01:17.657Z",
+    "timestamp": "2023-12-26T17:07:01.302Z",
     "tokens": [
         {
             "chainId": 1,
@@ -11544,7 +11544,8 @@
             "address": "0x423A1323c871aBC9d89EB06855bF5347048Fc4A5",
             "name": "Balancer Stable 4pool",
             "symbol": "4POOL-BPT",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x423a1323c871abc9d89eb06855bf5347048fc4a5.png"
         },
         {
             "chainId": 42161,
@@ -11927,7 +11928,8 @@
             "address": "0xe3b3FE7bcA19cA77Ad877A5Bebab186bEcfAD906",
             "name": "Staked FRAX",
             "symbol": "sFRAX",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe3b3fe7bca19ca77ad877a5bebab186becfad906.png"
         },
         {
             "chainId": 42161,
