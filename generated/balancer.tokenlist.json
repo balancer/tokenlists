@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-12-26T17:07:01.302Z",
+    "timestamp": "2023-12-27T16:13:08.343Z",
     "tokens": [
         {
             "chainId": 1,
@@ -10205,6 +10205,13 @@
             "symbol": "XEQ",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9c3b3150019417819023f6a1d1530cd2a5e20865.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0xFEF5d947472e72Efbb2E388c730B7428406F2F95",
+            "name": "Autonolas(PoS)",
+            "symbol": "OLAS",
+            "decimals": 18
         },
         {
             "chainId": 1101,
