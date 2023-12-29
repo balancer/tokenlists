@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-12-26T17:07:01.302Z",
+    "timestamp": "2023-12-28T16:30:46.923Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7737,6 +7737,14 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xbd80cfa9d93a87d1bb895f810ea348e496611cd4.png"
         },
         {
+            "chainId": 10,
+            "address": "0x6D2E5b8841a6Aa5f0f973436357f75D3Eeb93312",
+            "name": "VMEX Token",
+            "symbol": "VMEX",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/33934/large/VMEX_3072x3072.jpg?1703500846"
+        },
+        {
             "chainId": 100,
             "address": "0x7eF541E2a22058048904fE5744f9c7E4C57AF717",
             "name": "Balancer on xDai",
@@ -10205,6 +10213,35 @@
             "symbol": "XEQ",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9c3b3150019417819023f6a1d1530cd2a5e20865.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0xFEF5d947472e72Efbb2E388c730B7428406F2F95",
+            "name": "Autonolas(PoS)",
+            "symbol": "OLAS",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x4CD8a3Df2536100EC552a37C813A9414123e1c03",
+            "name": "Balancer SWEEP-USDC StablePool",
+            "symbol": "SWEEP-USDC-BPT",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0xB88a5Ac00917a02d82c7cd6CEBd73E2852d43574",
+            "name": "SweepCoin",
+            "symbol": "SWEEP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb88a5ac00917a02d82c7cd6cebd73e2852d43574.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0xf33687811f3ad0cd6b48Dd4B39F9F977BD7165A2",
+            "name": "TruStake MATIC Vault Shares (PoS)",
+            "symbol": "TruMATIC",
+            "decimals": 18
         },
         {
             "chainId": 1101,
