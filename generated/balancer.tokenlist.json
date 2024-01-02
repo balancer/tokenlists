@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-01-02T15:27:30.641Z",
+    "timestamp": "2024-01-02T17:30:48.035Z",
     "tokens": [
         {
             "chainId": 1,
@@ -10263,6 +10263,21 @@
             "address": "0xf33687811f3ad0cd6b48Dd4B39F9F977BD7165A2",
             "name": "TruStake MATIC Vault Shares (PoS)",
             "symbol": "TruMATIC",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0xFbeCfB7b87752aa28383a5Ac1e9d9e05E0526017",
+            "name": "Emicoin (PoS)",
+            "symbol": "EMI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfbecfb7b87752aa28383a5ac1e9d9e05e0526017.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0xc842cba1bA23eC9Fde468130013166EE86b65E0C",
+            "name": "Cat Farmer",
+            "symbol": "CF",
             "decimals": 18
         },
         {
