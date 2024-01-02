@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-12-28T16:30:46.923Z",
+    "timestamp": "2023-12-29T15:50:17.312Z",
     "tokens": [
         {
             "chainId": 1,
@@ -10216,6 +10216,13 @@
         },
         {
             "chainId": 137,
+            "address": "0xC0C80b6a31e2dB30e0A9aE388a33a04a2f27dcfD",
+            "name": "Agilely USD",
+            "symbol": "USDA",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
             "address": "0xFEF5d947472e72Efbb2E388c730B7428406F2F95",
             "name": "Autonolas(PoS)",
             "symbol": "OLAS",
@@ -11989,6 +11996,14 @@
             "symbol": "FRACTION",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2bf2ba13735160624a0feae98f6ac8f70885ea61.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x724dc807b04555b71ed48a6896b6F41593b8C637",
+            "name": "Aave Arbitrum USDCn",
+            "symbol": "aArbUSDCn",
+            "decimals": 6,
+            "logoURI": "https://assets.coingecko.com/coins/images/32847/large/usdc_%281%29.png?1699619355"
         },
         {
             "chainId": 43114,
