@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-12-29T15:50:17.312Z",
+    "timestamp": "2024-01-02T15:27:30.641Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6563,6 +6563,21 @@
             "decimals": 18
         },
         {
+            "chainId": 1,
+            "address": "0xA2E9242163d54b536583368a01b5D232C95aA884",
+            "name": "Balancer ePENDLE/PENDLE",
+            "symbol": "ePENDLE/PENDLE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x22Fc5A29bd3d6CCe19a06f844019fd506fCe4455",
+            "name": "Equilibria Pendle",
+            "symbol": "ePendle",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x22fc5a29bd3d6cce19a06f844019fd506fce4455.png"
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -11949,7 +11964,8 @@
             "address": "0x32dF62dc3aEd2cD6224193052Ce665DC18165841",
             "name": "RDNT-WETH",
             "symbol": "RDNT-WETH",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "missing_large.png"
         },
         {
             "chainId": 42161,
@@ -11996,6 +12012,13 @@
             "symbol": "FRACTION",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2bf2ba13735160624a0feae98f6ac8f70885ea61.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xC0C80b6a31e2dB30e0A9aE388a33a04a2f27dcfD",
+            "name": "Agilely USD",
+            "symbol": "USDA",
+            "decimals": 18
         },
         {
             "chainId": 42161,
