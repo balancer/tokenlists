@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-01-02T17:30:48.035Z",
+    "timestamp": "2024-01-03T11:36:19.189Z",
     "tokens": [
         {
             "chainId": 1,
@@ -10234,7 +10234,8 @@
             "address": "0xC0C80b6a31e2dB30e0A9aE388a33a04a2f27dcfD",
             "name": "Agilely USD",
             "symbol": "USDA",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc0c80b6a31e2db30e0a9ae388a33a04a2f27dcfd.png"
         },
         {
             "chainId": 137,
@@ -12033,7 +12034,8 @@
             "address": "0xC0C80b6a31e2dB30e0A9aE388a33a04a2f27dcfD",
             "name": "Agilely USD",
             "symbol": "USDA",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc0c80b6a31e2db30e0a9ae388a33a04a2f27dcfd.png"
         },
         {
             "chainId": 42161,
