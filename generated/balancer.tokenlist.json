@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-01-03T11:36:19.189Z",
+    "timestamp": "2024-01-03T15:03:55.689Z",
     "tokens": [
         {
             "chainId": 1,
@@ -10242,7 +10242,8 @@
             "address": "0xFEF5d947472e72Efbb2E388c730B7428406F2F95",
             "name": "Autonolas(PoS)",
             "symbol": "OLAS",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/31099/large/OLAS-token.png?1696529930"
         },
         {
             "chainId": 137,
@@ -10264,7 +10265,8 @@
             "address": "0xf33687811f3ad0cd6b48Dd4B39F9F977BD7165A2",
             "name": "TruStake MATIC Vault Shares (PoS)",
             "symbol": "TruMATIC",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf33687811f3ad0cd6b48dd4b39f9f977bd7165a2.png"
         },
         {
             "chainId": 137,
