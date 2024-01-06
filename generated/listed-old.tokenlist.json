@@ -9,7 +9,7 @@
         "Balancer"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-11-30T03:25:00.370Z",
+    "timestamp": "2024-01-06T00:19:06.168Z",
     "tokens": [
         {
             "chainId": 1,
@@ -1581,8 +1581,7 @@
             "address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
             "name": "Wrapped XDAI",
             "symbol": "WXDAI",
-            "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/14584/large/wrapped-xdai-logo.png?1696514264"
+            "decimals": 18
         },
         {
             "chainId": 100,
@@ -1605,8 +1604,7 @@
             "address": "0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9",
             "name": "Honey",
             "symbol": "HNY",
-            "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/12895/large/hnys.png?1696512683"
+            "decimals": 18
         },
         {
             "chainId": 100,

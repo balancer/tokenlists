@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-01-03T15:03:55.689Z",
+    "timestamp": "2024-01-06T00:18:52.190Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6576,6 +6576,13 @@
             "symbol": "ePendle",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x22fc5a29bd3d6cce19a06f844019fd506fce4455.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x26C0A99c12B16154C1D6a9774651491430FE638C",
+            "name": "BRCLauncher",
+            "symbol": "BRC",
+            "decimals": 18
         },
         {
             "chainId": 5,
