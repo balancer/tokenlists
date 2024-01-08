@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-01-08T16:25:38.781Z",
+    "timestamp": "2024-01-08T21:28:25.098Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12582,6 +12582,14 @@
             "name": "EminGunSirer",
             "symbol": "EGS",
             "decimals": 18
+        },
+        {
+            "chainId": 43114,
+            "address": "0xfcDe4A87b8b6FA58326BB462882f1778158B02F1",
+            "name": "Wirex Token",
+            "symbol": "WXT",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/8835/large/Wirex.jpg?1696508988"
         },
         {
             "chainId": 11155111,
