@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-01-03T15:03:55.689Z",
+    "timestamp": "2024-01-08T16:25:38.781Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6578,6 +6578,27 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x22fc5a29bd3d6cce19a06f844019fd506fce4455.png"
         },
         {
+            "chainId": 1,
+            "address": "0x2156393EA1aF6Ed281C767A60555502CdDdFd97e",
+            "name": "Sparkbot",
+            "symbol": "SB",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x26C0A99c12B16154C1D6a9774651491430FE638C",
+            "name": "BRCLauncher",
+            "symbol": "BRC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xc46B65b6052C34749D4612A8c2d5305ADd489f18",
+            "name": "Volatility",
+            "symbol": "PND",
+            "decimals": 18
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -10284,6 +10305,20 @@
             "decimals": 18
         },
         {
+            "chainId": 137,
+            "address": "0x81A5Fbb9A131C104627B055d074c46d21576cF4a",
+            "name": "Voluntary REC Front-Half 2023",
+            "symbol": "JLT-F23",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x0B31cC088Cd2cd54e2dD161Eb5dE7B5A3e626C9E",
+            "name": "Voluntary REC Back-Half 2023",
+            "symbol": "JLT-B23",
+            "decimals": 6
+        },
+        {
             "chainId": 1101,
             "address": "0x120eF59b80774F02211563834d8E3b72cb1649d6",
             "name": "Balancer",
@@ -12048,6 +12083,27 @@
             "logoURI": "https://assets.coingecko.com/coins/images/32847/large/usdc_%281%29.png?1699619355"
         },
         {
+            "chainId": 42161,
+            "address": "0xdfa752ca3fF49d4B6dBE08E2d5a111f51773D395",
+            "name": "Balancer sFRAX/FRAX",
+            "symbol": "sFRAX/FRAX",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x45026E94fEEF4ebaeafa9bbb7F5050bBBF6150Da",
+            "name": "Keks",
+            "symbol": "KEKS",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0xddBfBd5dc3BA0FeB96Cb513B689966b2176d4c09",
+            "name": "STEAK",
+            "symbol": "STEAK",
+            "decimals": 18
+        },
+        {
             "chainId": 43114,
             "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
             "name": "Wrapped AVAX",
@@ -12510,6 +12566,21 @@
             "address": "0x8783E0156cd747D0Cc012087d3D3AFC897F2328C",
             "name": "Balancer sAVAX/ggAVAX/yyAVAX",
             "symbol": "sAVAX/ggAVAX/yyAVAX",
+            "decimals": 18
+        },
+        {
+            "chainId": 43114,
+            "address": "0xb279f8DD152B99Ec1D84A489D32c35bC0C7F5674",
+            "name": "STEAK",
+            "symbol": "STEAK",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/25688/large/logo_400.png?1696524815"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xc92f165f5e20979576A7Ba48f16eb45361c078a2",
+            "name": "EminGunSirer",
+            "symbol": "EGS",
             "decimals": 18
         },
         {
