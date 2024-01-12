@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-01-08T21:28:25.098Z",
+    "timestamp": "2024-01-12T12:49:02.728Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6599,6 +6599,13 @@
             "decimals": 18
         },
         {
+            "chainId": 1,
+            "address": "0x383e7859271B2D0589B013b6d944572a0a8bE3cB",
+            "name": "DOLA mkUSD Stable Pool",
+            "symbol": "DOLA-mkUSD BSP",
+            "decimals": 18
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -8149,6 +8156,13 @@
             "symbol": "stEUR",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/32036/large/stEUR-x4.png?1696530832"
+        },
+        {
+            "chainId": 100,
+            "address": "0x5Cb9073902F2035222B9749F8fB0c9BFe5527108",
+            "name": "Monerium GBP emoney",
+            "symbol": "GBPe",
+            "decimals": 18
         },
         {
             "chainId": 137,
