@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-01-12T12:49:02.728Z",
+    "timestamp": "2024-01-13T17:16:47.929Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6606,6 +6606,13 @@
             "decimals": 18
         },
         {
+            "chainId": 1,
+            "address": "0x21bacB6197c95194282444656790b1eEd00D9090",
+            "name": "GooseInBoots",
+            "symbol": "GNB",
+            "decimals": 18
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -10323,14 +10330,16 @@
             "address": "0x81A5Fbb9A131C104627B055d074c46d21576cF4a",
             "name": "Voluntary REC Front-Half 2023",
             "symbol": "JLT-F23",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x81a5fbb9a131c104627b055d074c46d21576cf4a.png"
         },
         {
             "chainId": 137,
             "address": "0x0B31cC088Cd2cd54e2dD161Eb5dE7B5A3e626C9E",
             "name": "Voluntary REC Back-Half 2023",
             "symbol": "JLT-B23",
-            "decimals": 6
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0b31cc088cd2cd54e2dd161eb5de7b5a3e626c9e.png"
         },
         {
             "chainId": 1101,
