@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-01-13T17:16:47.929Z",
+    "timestamp": "2024-01-13T20:12:31.585Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6610,6 +6610,13 @@
             "address": "0x21bacB6197c95194282444656790b1eEd00D9090",
             "name": "GooseInBoots",
             "symbol": "GNB",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xbf5495Efe5DB9ce00f80364C8B423567e58d2110",
+            "name": "Renzo Restaked ETH",
+            "symbol": "ezETH",
             "decimals": 18
         },
         {
