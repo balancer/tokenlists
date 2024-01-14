@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-01-13T23:45:46.710Z",
+    "timestamp": "2024-01-14T01:52:14.760Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7059,8 +7059,8 @@
         {
             "chainId": 10,
             "address": "0x97513e975a7fA9072c72C92d8000B0dB90b163c5",
-            "name": "BeethovenxToken",
-            "symbol": "BEETS",
+            "name": "multiBeets",
+            "symbol": "multiBeets",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x97513e975a7fa9072c72c92d8000b0db90b163c5.png"
         },
