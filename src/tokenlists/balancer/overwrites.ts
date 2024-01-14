@@ -317,6 +317,10 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://www.ankr.com/_next/static/images/ethereum-ankreth-logo-794cb04ee270a7cb5c8559924aa5211d.png',
     },
+    '0x97513e975a7fA9072c72C92d8000B0dB90b163c5': {
+      symbol: 'multiBeets',
+      name: 'multiBeets',
+    }
   },
   [Network.Gnosis]: {
     '0x7eF541E2a22058048904fE5744f9c7E4C57AF717': {
