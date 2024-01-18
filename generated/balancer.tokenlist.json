@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-01-14T01:52:14.760Z",
+    "timestamp": "2024-01-18T14:50:11.844Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12135,6 +12135,14 @@
             "decimals": 18
         },
         {
+            "chainId": 42161,
+            "address": "0x641441c631e2F909700d2f41FD87F0aA6A6b4EDb",
+            "name": "dForce USD",
+            "symbol": "USX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x641441c631e2f909700d2f41fd87f0aa6a6b4edb.png"
+        },
+        {
             "chainId": 43114,
             "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
             "name": "Wrapped AVAX",
@@ -12612,7 +12620,8 @@
             "address": "0xc92f165f5e20979576A7Ba48f16eb45361c078a2",
             "name": "EminGunSirer",
             "symbol": "EGS",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/34557/large/coingecko.png?1705371524"
         },
         {
             "chainId": 43114,
