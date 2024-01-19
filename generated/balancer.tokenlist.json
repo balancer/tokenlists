@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-01-18T14:50:11.844Z",
+    "timestamp": "2024-01-19T12:46:39.368Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12141,6 +12141,14 @@
             "symbol": "USX",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x641441c631e2f909700d2f41fd87f0aa6a6b4edb.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x2EADCE7EBDEDF3c7291F1f658208A2720Ff4B74d",
+            "name": "Aquarius",
+            "symbol": "ARS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2eadce7ebdedf3c7291f1f658208a2720ff4b74d.png"
         },
         {
             "chainId": 43114,
