@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-01-19T12:46:39.368Z",
+    "timestamp": "2024-01-20T03:00:45.720Z",
     "tokens": [
         {
             "chainId": 1,
@@ -10486,6 +10486,13 @@
             "symbol": "ankrETH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x12d8ce035c5de3ce39b1fdd4c1d5a745eaba3b8c.png"
+        },
+        {
+            "chainId": 1101,
+            "address": "0x8C7D118B5c47a5BCBD47cc51789558B98dAD17c5",
+            "name": "rsETH",
+            "symbol": "rsETH",
+            "decimals": 18
         },
         {
             "chainId": 8453,
