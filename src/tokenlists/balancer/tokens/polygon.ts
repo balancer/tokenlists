@@ -283,4 +283,5 @@ export default [
   '0xc842cba1bA23eC9Fde468130013166EE86b65E0C', // Cat Farmer
   '0x81A5Fbb9A131C104627B055d074c46d21576cF4a', // JLT-F23 (Jasmine Energy Front-Half 2023)
   '0x0B31cC088Cd2cd54e2dD161Eb5dE7B5A3e626C9E', // JLT-B23 (Jasmine Energy Back-Half 2023)
+  '0x172370d5cd63279efa6d502dab29171933a610af', // CRV
 ]
