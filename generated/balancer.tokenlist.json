@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-01-22T02:06:28.655Z",
+    "timestamp": "2024-01-22T02:14:30.548Z",
     "tokens": [
         {
             "chainId": 1,
@@ -1686,7 +1686,7 @@
             "name": "Curve DAO Token",
             "symbol": "CRV",
             "decimals": 18,
-            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png"
+            "logoURI": "https://assets.coingecko.com/coins/images/12124/large/Curve.png?1696511967"
         },
         {
             "chainId": 1,
@@ -8232,7 +8232,7 @@
             "name": "CRV (PoS)",
             "symbol": "CRV",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/12124/large/Curve.png?1597369484"
+            "logoURI": "https://assets.coingecko.com/coins/images/12124/large/Curve.png?1696511967"
         },
         {
             "chainId": 137,
