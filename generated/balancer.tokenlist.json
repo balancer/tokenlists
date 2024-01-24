@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-01-22T02:14:30.548Z",
+    "timestamp": "2024-01-24T13:14:50.975Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6629,6 +6629,21 @@
             "logoURI": "https://assets.coingecko.com/coins/images/12124/large/Curve.png?1696511967"
         },
         {
+            "chainId": 1,
+            "address": "0x4aFC8286398c60158A1569ab437c8066F0AFc694",
+            "name": "kai",
+            "symbol": "KAI",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xA1290d69c65A6Fe4DF752f95823fae25cB99e5A7",
+            "name": "rsETH",
+            "symbol": "rsETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa1290d69c65a6fe4df752f95823fae25cb99e5a7.png"
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -12195,6 +12210,13 @@
             "symbol": "CRV",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/12124/large/Curve.png?1696511967"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x577Fd586c9E6BA7f2E85E025D5824DBE19896656",
+            "name": "Synonym Finance",
+            "symbol": "SYNO",
+            "decimals": 18
         },
         {
             "chainId": 43114,
