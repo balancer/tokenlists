@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-01-25T20:49:07.058Z",
+    "timestamp": "2024-01-27T19:20:29.744Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6642,6 +6642,28 @@
             "symbol": "rsETH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa1290d69c65a6fe4df752f95823fae25cb99e5a7.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x3612c06b5da2C79bb931E5AD96A0e408d19A87e0",
+            "name": "Kai Aura",
+            "symbol": "kaiAURA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xaE6A904Ea90fF8bB78e5c94E1543877bA023BB9B",
+            "name": "BruceLeeIpManJetLiBoloYeungSammoHungChangpengZhaoNeoAntshares",
+            "symbol": "CAISHEN",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xfAbA6f8e4a5E8Ab82F62fe7C39859FA577269BE3",
+            "name": "Ondo",
+            "symbol": "ONDO",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/26580/large/ONDO.png?1696525656"
         },
         {
             "chainId": 5,
