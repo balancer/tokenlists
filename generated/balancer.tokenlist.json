@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-01-24T13:14:50.975Z",
+    "timestamp": "2024-01-25T20:49:07.058Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12866,6 +12866,20 @@
             "address": "0xfFf9976782d46CC05630D1f6eBAb18b2324d6B14",
             "name": "Wrapped Ether",
             "symbol": "WETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 11155111,
+            "address": "0x6417755C00d5c17DeC196Df00a6F151E448B1471",
+            "name": "80NATION-20WETH",
+            "symbol": "80NATION-20WETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 11155111,
+            "address": "0x23Ca3002706b71a440860E3cf8ff64679A00C9d7",
+            "name": "Nation3",
+            "symbol": "NATION",
             "decimals": 18
         }
     ]
