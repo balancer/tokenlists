@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-01-27T19:20:29.744Z",
+    "timestamp": "2024-01-29T03:06:20.895Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6664,6 +6664,14 @@
             "symbol": "ONDO",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/26580/large/ONDO.png?1696525656"
+        },
+        {
+            "chainId": 1,
+            "address": "0x38D64ce1Bdf1A9f24E0Ec469C9cAde61236fB4a0",
+            "name": "Vector ETH",
+            "symbol": "vETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x38d64ce1bdf1a9f24e0ec469c9cade61236fb4a0.png"
         },
         {
             "chainId": 5,
