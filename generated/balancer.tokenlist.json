@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-01-29T03:06:20.895Z",
+    "timestamp": "2024-01-30T13:22:36.547Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12246,6 +12246,13 @@
             "address": "0x577Fd586c9E6BA7f2E85E025D5824DBE19896656",
             "name": "Synonym Finance",
             "symbol": "SYNO",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x064F8B858C2A603e1b106a2039f5446D32dc81c1",
+            "name": "Autonolas",
+            "symbol": "OLAS",
             "decimals": 18
         },
         {
