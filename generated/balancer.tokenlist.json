@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-01-31T19:51:33.756Z",
+    "timestamp": "2024-01-31T20:04:12.445Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6672,6 +6672,21 @@
             "symbol": "vETH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x38d64ce1bdf1a9f24e0ec469c9cade61236fb4a0.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x0D7D5B474063F1e2e1E7ceC3c29Fd97e51F2c6DF",
+            "name": "pig wiz wig",
+            "symbol": "pwg",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x1BB9b64927e0C5e207C9DB4093b3738Eef5D8447",
+            "name": "Vector",
+            "symbol": "VEC",
+            "decimals": 9,
+            "logoURI": "https://assets.coingecko.com/coins/images/34876/large/photo_2024-01-28_23-33-10-removebg-preview.png?1706496385"
         },
         {
             "chainId": 1,
