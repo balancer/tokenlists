@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-02-01T12:03:38.071Z",
+    "timestamp": "2024-02-05T15:57:15.161Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6696,6 +6696,21 @@
             "decimals": 18
         },
         {
+            "chainId": 1,
+            "address": "0xCA530d9F01788365c88CEcdc591bca096Cc33289",
+            "name": "AppleVRMichelleObamaInuPunk",
+            "symbol": "GRETA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4",
+            "name": "Ankr Network",
+            "symbol": "ANKR",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/4324/large/U85xTl2.png?1696504928"
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -7884,6 +7899,13 @@
             "symbol": "CRV",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/12124/large/Curve.png?1696511967"
+        },
+        {
+            "chainId": 10,
+            "address": "0x1509706a6c66CA549ff0cB464de88231DDBe213B",
+            "name": "Aura",
+            "symbol": "AURA",
+            "decimals": 18
         },
         {
             "chainId": 100,
