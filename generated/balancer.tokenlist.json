@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-02-05T15:57:15.161Z",
+    "timestamp": "2024-02-05T23:02:42.878Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6709,6 +6709,14 @@
             "symbol": "ANKR",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/4324/large/U85xTl2.png?1696504928"
+        },
+        {
+            "chainId": 1,
+            "address": "0x6733F0283711F225A447e759D859a70b0c0Fd2bC",
+            "name": "Staked vETH",
+            "symbol": "svETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6733f0283711f225a447e759d859a70b0c0fd2bc.png"
         },
         {
             "chainId": 5,
