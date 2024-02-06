@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-02-05T23:02:42.878Z",
+    "timestamp": "2024-02-06T17:52:16.891Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12299,7 +12299,8 @@
             "address": "0x577Fd586c9E6BA7f2E85E025D5824DBE19896656",
             "name": "Synonym Finance",
             "symbol": "SYNO",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x577fd586c9e6ba7f2e85e025d5824dbe19896656.png"
         },
         {
             "chainId": 42161,
