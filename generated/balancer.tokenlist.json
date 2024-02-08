@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-02-06T17:52:16.891Z",
+    "timestamp": "2024-02-08T13:48:56.992Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6719,6 +6719,14 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6733f0283711f225a447e759d859a70b0c0fd2bc.png"
         },
         {
+            "chainId": 1,
+            "address": "0xFAe103DC9cf190eD75350761e95403b7b8aFa6c0",
+            "name": "rswETH",
+            "symbol": "rswETH",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/34489/large/rswETH_Icon.png?1706865484"
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -10476,6 +10484,90 @@
             "symbol": "CRV",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/12124/large/Curve.png?1696511967"
+        },
+        {
+            "chainId": 137,
+            "address": "0x63d38FCf3cC014735B28339F47EC3FA9BA97b4B9",
+            "name": "MATIC Yield Index by StarSeeds Protocol",
+            "symbol": "MATIC-S",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0xA1F700a822f8B70c62F795Fd74b57EC6131F4A85",
+            "name": "STAR-Credits by StarSeeds Protocol",
+            "symbol": "SSC",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x460b60565cb73845d56564384ab84BF84c13e47D",
+            "name": "Ethereum Bull 3X",
+            "symbol": "ETHBULL3X",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x027Da30FADaB6202801F97be344e2348a2A92842",
+            "name": "Ethereum Bear 2X",
+            "symbol": "ETHBEAR2X",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0xdB88AB5b485b38EDbEEf866314F9E49d095BCe39",
+            "name": "Bitcoin Bull 3X",
+            "symbol": "BTCBULL3X",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x3DBcE2c8303609C17AA23B69Ebe83C2f5C510ADA",
+            "name": "Bitcoin Bear 2X",
+            "symbol": "BTCBEAR2X",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x7dAb035A8a65f7d33f1628A450C6780323d3c5E1",
+            "name": "Polygon Bull 2X",
+            "symbol": "MATICBULL2X",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x8987Ca55e635d0d3BA9469EE31E9B8a7d447E9cC",
+            "name": "Polygon Bear 1X",
+            "symbol": "MATICBEAR1X",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x28F53bA70E5c8ce8D03b1FaD41E9dF11Bb646c36",
+            "name": "WMATIC yVault-A",
+            "symbol": "yvWMATIC-A",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0xA013Fbd4b711f9ded6fB09C1c0d358E2FbC2EAA0",
+            "name": "USDC yVault-A",
+            "symbol": "yvUSDC-A",
+            "decimals": 6
+        },
+        {
+            "chainId": 137,
+            "address": "0x305F25377d0a39091e99B975558b1bdfC3975654",
+            "name": "WETH yVault-A",
+            "symbol": "yvWETH-A",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x8519d8DeaE7bA984C4C7850B11c4671b4f62b330",
+            "name": "STAR-GOV by StarSeeds Protocol",
+            "symbol": "SSG",
+            "decimals": 18
         },
         {
             "chainId": 1101,
