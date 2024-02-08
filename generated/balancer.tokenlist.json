@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-02-08T13:48:56.992Z",
+    "timestamp": "2024-02-08T19:15:35.026Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6727,6 +6727,14 @@
             "logoURI": "https://assets.coingecko.com/coins/images/34489/large/rswETH_Icon.png?1706865484"
         },
         {
+            "chainId": 1,
+            "address": "0xCfFCFDAda28ab44D5440301470dCD410E75C4765",
+            "name": "Parifi",
+            "symbol": "PRF",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xcffcfdada28ab44d5440301470dcd410e75c4765.png"
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -12407,6 +12415,14 @@
             "name": "Balancer cbETH/rETH/wstETH CSP",
             "symbol": "cbETH/rETH/wstETH",
             "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x1310952Bc5594852459Ee45bfD0df70b34Ac5509",
+            "name": "Parifi",
+            "symbol": "PRF",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1310952bc5594852459ee45bfd0df70b34ac5509.png"
         },
         {
             "chainId": 43114,
