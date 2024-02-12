@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-02-12T04:07:55.700Z",
+    "timestamp": "2024-02-12T16:09:26.761Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7940,6 +7940,14 @@
             "decimals": 18
         },
         {
+            "chainId": 10,
+            "address": "0xd1cac46a9a77169C310c2C780A4267eE6CA884f5",
+            "name": "Epoch",
+            "symbol": "EPOCH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd1cac46a9a77169c310c2c780a4267ee6ca884f5.png"
+        },
+        {
             "chainId": 100,
             "address": "0x7eF541E2a22058048904fE5744f9c7E4C57AF717",
             "name": "Balancer on xDai",
@@ -10587,6 +10595,13 @@
         },
         {
             "chainId": 137,
+            "address": "0x027Da30FADaB6202801F97be344e2348a2A92842",
+            "name": "Ethereum Bear 2X",
+            "symbol": "ETHBEAR2X",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
             "address": "0x460b60565cb73845d56564384ab84BF84c13e47D",
             "name": "Ethereum Bull 3X",
             "symbol": "ETHBULL3X",
@@ -11131,6 +11146,14 @@
             "symbol": "AURA",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1509706a6c66ca549ff0cb464de88231ddbe213b.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x287f0D88e29a3D7AEb4d0c10BAE5B902dB69B17D",
+            "name": "Epoch",
+            "symbol": "EPOCH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x287f0d88e29a3d7aeb4d0c10bae5b902db69b17d.png"
         },
         {
             "chainId": 42161,
@@ -12438,6 +12461,14 @@
             "symbol": "PRF",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1310952bc5594852459ee45bfd0df70b34ac5509.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x4939ac5C1855302891c5888634b2f65Cc30B9155",
+            "name": "Epoch",
+            "symbol": "EPOCH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4939ac5c1855302891c5888634b2f65cc30b9155.png"
         },
         {
             "chainId": 43114,
