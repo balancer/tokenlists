@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-02-08T19:15:35.026Z",
+    "timestamp": "2024-02-11T23:46:46.441Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6733,6 +6733,13 @@
             "symbol": "PRF",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xcffcfdada28ab44d5440301470dcd410e75c4765.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xb45ad160634c528Cc3D2926d9807104FA3157305",
+            "name": "Staked Dola",
+            "symbol": "sDOLA",
+            "decimals": 18
         },
         {
             "chainId": 5,
