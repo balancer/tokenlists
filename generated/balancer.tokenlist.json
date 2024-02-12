@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-02-11T23:46:46.441Z",
+    "timestamp": "2024-02-12T04:07:55.700Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6739,7 +6739,8 @@
             "address": "0xb45ad160634c528Cc3D2926d9807104FA3157305",
             "name": "Staked Dola",
             "symbol": "sDOLA",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb45ad160634c528cc3d2926d9807104fa3157305.png"
         },
         {
             "chainId": 5,
@@ -10582,6 +10583,13 @@
             "address": "0x8519d8DeaE7bA984C4C7850B11c4671b4f62b330",
             "name": "STAR-GOV by StarSeeds Protocol",
             "symbol": "SSG",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x460b60565cb73845d56564384ab84BF84c13e47D",
+            "name": "Ethereum Bull 3X",
+            "symbol": "ETHBULL3X",
             "decimals": 18
         },
         {
