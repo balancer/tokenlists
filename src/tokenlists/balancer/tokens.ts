@@ -8,8 +8,10 @@ import ethereum from './tokens/ethereum'
 import optimism from './tokens/optimism'
 import polygon from './tokens/polygon'
 import sepolia from './tokens/sepolia'
-import zkevm from './tokens/zkevm'
+// import zkevm from './tokens/zkevm'
 
+// eslint-disable-next-line @typescript-eslint/ban-ts-comment
+// @ts-ignore
 export const tokens: TokensForList = {
   [Network.Ethereum]: ethereum,
   [Network.Goerli]: goerli,
@@ -17,7 +19,7 @@ export const tokens: TokensForList = {
   [Network.Arbitrum]: arbitrum,
   [Network.Optimism]: optimism,
   [Network.Gnosis]: gnosis,
-  [Network.Zkevm]: zkevm,
+  // [Network.Zkevm]: zkevm,
   [Network.Avalanche]: avalanche,
   [Network.Sepolia]: sepolia,
   [Network.Base]: base,

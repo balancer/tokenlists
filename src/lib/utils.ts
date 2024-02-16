@@ -36,6 +36,8 @@ export function isEqualTokenlists(
 
 export function getTokenlistsToBuild(): string[] {
   const tokenlistsPath = path.resolve(__dirname, '../tokenlists')
+  console.log({ tokenlistsPath })
+  process.exit(1)
   const items = fs.readdirSync(tokenlistsPath, { withFileTypes: true })
   return items.filter((item) => item.isDirectory()).map((item) => item.name)
 }
