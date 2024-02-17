@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-02-12T16:09:26.761Z",
+    "timestamp": "2024-02-17T13:11:31.787Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6743,6 +6743,22 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb45ad160634c528cc3d2926d9807104fa3157305.png"
         },
         {
+            "chainId": 1,
+            "address": "0x6D52DfeFb16BB9Cdc78bfCA09061e44574886626",
+            "name": "CPUcoin",
+            "symbol": "CPU",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/9544/large/uaz.ms.png?1696509626"
+        },
+        {
+            "chainId": 1,
+            "address": "0x5Dfe42eEA70a3e6f93EE54eD9C321aF07A85535C",
+            "name": "Union Token",
+            "symbol": "UNION",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/30556/large/Mark.png?1696529427"
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -10605,6 +10621,20 @@
             "address": "0x460b60565cb73845d56564384ab84BF84c13e47D",
             "name": "Ethereum Bull 3X",
             "symbol": "ETHBULL3X",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x3B260979D18D4BE11A39B8C9CdD22f61E47BDEbc",
+            "name": "ETH Yield Index by StarSeeds Protocol",
+            "symbol": "ETH-S",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0xa147901A0bB2B6DA6b9e10c69020285db7eCd0DF",
+            "name": "BTC Yield Index by StarSeeds Protocol",
+            "symbol": "BTC-S",
             "decimals": 18
         },
         {
