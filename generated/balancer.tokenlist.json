@@ -12501,6 +12501,27 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4939ac5c1855302891c5888634b2f65cc30b9155.png"
         },
         {
+            "chainId": 42161,
+            "address": "0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7",
+            "name": "agEUR",
+            "symbol": "agEUR",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x2297aEbD383787A160DD0d9F71508148769342E3",
+            "name": "BTC.b",
+            "symbol": "BTC.b",
+            "decimals": 8
+        },
+        {
+            "chainId": 42161,
+            "address": "0x2Dc5dD89A3662567B78FC3a78E1E2c81D9e4D419",
+            "name": "BANANIA",
+            "symbol": "BANANIA",
+            "decimals": 18
+        },
+        {
             "chainId": 43114,
             "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
             "name": "Wrapped AVAX",
