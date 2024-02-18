@@ -60,7 +60,20 @@ async function build(tokenlistName: string) {
     const tokenAddresses = tokens[network]
 
     console.time(chalk.cyan(`Fetched onchain metadata for chain ${network}`))
-    const onchainMetadata = await fetchOnchainMetadata(network, tokenAddresses)
+
+    let onchainMetadata: PartialTokenInfoMap
+    try {
+      onchainMetadata = await fetchOnchainMetadata(network, tokenAddresses)
+    } catch (e) {
+      if (network === Network.Zkevm) {
+        // Use existing ZKEVM token info when onchain ZKEVM errors
+        console.error(e)
+        const zkevmTokenInfo = readTokenInfo(tokenlistName, Number(network))
+        allTokens = allTokens.concat(zkevmTokenInfo)
+        continue
+      }
+      throw e
+    }
     console.timeEnd(chalk.cyan(`Fetched onchain metadata for chain ${network}`))
 
     console.time(chalk.cyan(`Fetched existing metadata for chain ${network}`))
@@ -200,4 +213,14 @@ function formatMetadata(metadata: Partial<TokenInfo>): TokenInfo {
       : {}
   )
   return orderedByKey as unknown as TokenInfo
+}
+
+function readTokenInfo(tokenlistName: string, chainId: number) {
+  const jsonString = fs.readFileSync(
+    `./generated/${tokenlistName}.tokenlist.json`,
+    'utf-8'
+  )
+  const data = JSON.parse(jsonString).tokens
+
+  return data.filter((item: { chainId: number }) => item.chainId === chainId)
 }
