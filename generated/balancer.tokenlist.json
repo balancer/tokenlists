@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-02-17T13:11:31.787Z",
+    "timestamp": "2024-02-18T22:49:04.335Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6736,14 +6736,6 @@
         },
         {
             "chainId": 1,
-            "address": "0xb45ad160634c528Cc3D2926d9807104FA3157305",
-            "name": "Staked Dola",
-            "symbol": "sDOLA",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb45ad160634c528cc3d2926d9807104fa3157305.png"
-        },
-        {
-            "chainId": 1,
             "address": "0x6D52DfeFb16BB9Cdc78bfCA09061e44574886626",
             "name": "CPUcoin",
             "symbol": "CPU",
@@ -6752,11 +6744,34 @@
         },
         {
             "chainId": 1,
+            "address": "0xb45ad160634c528Cc3D2926d9807104FA3157305",
+            "name": "Staked Dola",
+            "symbol": "sDOLA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb45ad160634c528cc3d2926d9807104fa3157305.png"
+        },
+        {
+            "chainId": 1,
             "address": "0x5Dfe42eEA70a3e6f93EE54eD9C321aF07A85535C",
             "name": "Union Token",
             "symbol": "UNION",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/30556/large/Mark.png?1696529427"
+        },
+        {
+            "chainId": 1,
+            "address": "0x3B5CB1617E6D4CAd9d43D60796F2264C6B52E0a9",
+            "name": "Pug on Rug",
+            "symbol": "POR",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x6c3ea9036406852006290770BEdFcAbA0e23A0e8",
+            "name": "PayPal USD",
+            "symbol": "PYUSD",
+            "decimals": 6,
+            "logoURI": "https://assets.coingecko.com/coins/images/31212/large/PYUSD_Logo_%282%29.png?1696530039"
         },
         {
             "chainId": 5,
@@ -12494,32 +12509,34 @@
         },
         {
             "chainId": 42161,
+            "address": "0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7",
+            "name": "agEUR",
+            "symbol": "agEUR",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/19479/large/agEUR.png?1696518915"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x2297aEbD383787A160DD0d9F71508148769342E3",
+            "name": "Bitcoin",
+            "symbol": "BTC.b",
+            "decimals": 8,
+            "logoURI": "https://assets.coingecko.com/coins/images/26115/large/btcb.png?1696525205"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x2Dc5dD89A3662567B78FC3a78E1E2c81D9e4D419",
+            "name": "Banania",
+            "symbol": "BANANIA",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
             "address": "0x4939ac5C1855302891c5888634b2f65Cc30B9155",
             "name": "Epoch",
             "symbol": "EPOCH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4939ac5c1855302891c5888634b2f65cc30b9155.png"
-        },
-        {
-            "chainId": 42161,
-            "address": "0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7",
-            "name": "agEUR",
-            "symbol": "agEUR",
-            "decimals": 18
-        },
-        {
-            "chainId": 42161,
-            "address": "0x2297aEbD383787A160DD0d9F71508148769342E3",
-            "name": "BTC.b",
-            "symbol": "BTC.b",
-            "decimals": 8
-        },
-        {
-            "chainId": 42161,
-            "address": "0x2Dc5dD89A3662567B78FC3a78E1E2c81D9e4D419",
-            "name": "BANANIA",
-            "symbol": "BANANIA",
-            "decimals": 18
         },
         {
             "chainId": 43114,
