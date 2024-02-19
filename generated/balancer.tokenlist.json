@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-02-18T22:49:04.335Z",
+    "timestamp": "2024-02-19T21:00:15.695Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13200,6 +13200,13 @@
             "address": "0x23Ca3002706b71a440860E3cf8ff64679A00C9d7",
             "name": "Nation3",
             "symbol": "NATION",
+            "decimals": 18
+        },
+        {
+            "chainId": 11155111,
+            "address": "0xCEbAaEff7f8675F95aeE85eA54ED166a22DC0F17",
+            "name": "Parifi",
+            "symbol": "PRF",
             "decimals": 18
         }
     ]
