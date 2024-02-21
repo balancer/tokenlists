@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-02-19T21:00:15.695Z",
+    "timestamp": "2024-02-21T13:04:56.696Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6772,6 +6772,14 @@
             "symbol": "PYUSD",
             "decimals": 6,
             "logoURI": "https://assets.coingecko.com/coins/images/31212/large/PYUSD_Logo_%282%29.png?1696530039"
+        },
+        {
+            "chainId": 1,
+            "address": "0x7FA768E035F956c41d6aeaa3Bd857e7E5141CAd5",
+            "name": "Inception Restaked stETH",
+            "symbol": "InstETH",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/34954/large/Group_14.png?1706773546"
         },
         {
             "chainId": 5,
