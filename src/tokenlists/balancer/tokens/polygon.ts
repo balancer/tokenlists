@@ -300,4 +300,5 @@ export default [
   '0x460b60565cb73845d56564384ab84BF84c13e47D', // ETHBULL3X
   '0x3B260979D18D4BE11A39B8C9CdD22f61E47BDEbc', // ETH-S (Ethereum Yield Index by StarSeeds Protocol)
   '0xa147901A0bB2B6DA6b9e10c69020285db7eCd0DF', // BTC-S (Bitcoin Yield Index by StarSeeds Protocol)
+  '0xd78b8a04498a15c54cf96d3e201cdd85D4ba524d', // TEST
 ]
