@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-02-27T04:44:45.791Z",
+    "timestamp": "2024-02-27T20:11:55.693Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12587,6 +12587,13 @@
             "name": "Test EURS",
             "symbol": "EURS",
             "decimals": 2
+        },
+        {
+            "chainId": 42161,
+            "address": "0x35751007a407ca6FEFfE80b3cB397736D2cf4dbe",
+            "name": "Wrapped eETH",
+            "symbol": "weETH",
+            "decimals": 18
         },
         {
             "chainId": 43114,
