@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-02-21T13:04:56.696Z",
+    "timestamp": "2024-02-27T04:44:45.791Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7744,7 +7744,7 @@
             "name": "Mai Stablecoin",
             "symbol": "MAI",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/15264/large/mimatic-red.png?1696514916"
+            "logoURI": "https://assets.coingecko.com/coins/images/35519/large/mimatic-red.png?1709006627"
         },
         {
             "chainId": 10,
@@ -10661,6 +10661,41 @@
             "decimals": 18
         },
         {
+            "chainId": 137,
+            "address": "0xa5931BCEba09F8e35eF27aA545B4EAAc6Ad710F8",
+            "name": "STAR-Light by StarSeeds Protocol",
+            "symbol": "STAR-L",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x7bF44C2BE2b9bAB23cea3e071A14D93dF9CdEFaf",
+            "name": "USD Yield Index by StarSeeds Protocol",
+            "symbol": "USD-S",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0xfBdB29b66277Ac78Ac6bB82FAb6D19483256781e",
+            "name": "LINK Yield Index by StarSeeds Protocol",
+            "symbol": "LINK-S",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0xD5e26D0ab6469Fcb6Be2E59c0a941C560222f5c6",
+            "name": "Balancer Yield Index by StarSeeds Protocol",
+            "symbol": "BAL-S",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0xfdcC3dd6671eaB0709A4C0f3F53De9a333d80798",
+            "name": "Stable Coin",
+            "symbol": "SBC",
+            "decimals": 18
+        },
+        {
             "chainId": 1101,
             "address": "0x120eF59b80774F02211563834d8E3b72cb1649d6",
             "name": "Balancer",
@@ -12547,6 +12582,13 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4939ac5c1855302891c5888634b2f65cc30b9155.png"
         },
         {
+            "chainId": 42161,
+            "address": "0xe42827D98C053b6e9c97E39BE8b611102E8c1805",
+            "name": "Test EURS",
+            "symbol": "EURS",
+            "decimals": 2
+        },
+        {
             "chainId": 43114,
             "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
             "name": "Wrapped AVAX",
@@ -13215,6 +13257,34 @@
             "address": "0xCEbAaEff7f8675F95aeE85eA54ED166a22DC0F17",
             "name": "Parifi",
             "symbol": "PRF",
+            "decimals": 18
+        },
+        {
+            "chainId": 11155111,
+            "address": "0x2cB367dADebf85C6eE81182e96ea2ed5270922b9",
+            "name": "GamePAWin",
+            "symbol": "GPA",
+            "decimals": 18
+        },
+        {
+            "chainId": 11155111,
+            "address": "0x99c5ec8609f6BcAe3109918f8C48Edb9f65e3c10",
+            "name": "GamePBWin",
+            "symbol": "GPB",
+            "decimals": 18
+        },
+        {
+            "chainId": 11155111,
+            "address": "0x19CCD016566521772Ba36FbB9Dd74B661594DFA7",
+            "name": "GamePDraw",
+            "symbol": "GPD",
+            "decimals": 18
+        },
+        {
+            "chainId": 11155111,
+            "address": "0xc019E03f801C2a59ABc8a6d8Eb6A7c4B4f668ea4",
+            "name": "FakeStableCoin",
+            "symbol": "FSC",
             "decimals": 18
         }
     ]
