@@ -300,7 +300,6 @@ export default [
   '0x460b60565cb73845d56564384ab84BF84c13e47D', // ETHBULL3X
   '0x3B260979D18D4BE11A39B8C9CdD22f61E47BDEbc', // ETH-S (Ethereum Yield Index by StarSeeds Protocol)
   '0xa147901A0bB2B6DA6b9e10c69020285db7eCd0DF', // BTC-S (Bitcoin Yield Index by StarSeeds Protocol)
-  '0xfdcC3dd6671eaB0709A4C0f3F53De9a333d80798', // SBC
   '0xa5931BCEba09F8e35eF27aA545B4EAAc6Ad710F8', // STAR-L (STAR-Light by StarSeeds Protocol)
   '0x7bF44C2BE2b9bAB23cea3e071A14D93dF9CdEFaf', // USD-S (USD Yield Index by StarSeeds Protocol)
   '0xfBdB29b66277Ac78Ac6bB82FAb6D19483256781e', // LINK-S (Chainlink Yield Index by StarSeeds Protocol)
