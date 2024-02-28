@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-02-28T03:19:53.610Z",
+    "timestamp": "2024-02-27T20:11:55.693Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6782,14 +6782,6 @@
             "logoURI": "https://assets.coingecko.com/coins/images/34954/large/Group_14.png?1706773546"
         },
         {
-            "chainId": 1,
-            "address": "0x8E3A59427B1D87Db234Dd4ff63B25E4BF94672f4",
-            "name": "Kelp Earned Point",
-            "symbol": "KEP",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x8e3a59427b1d87db234dd4ff63b25e4bf94672f4.png"
-        },
-        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -12601,8 +12593,7 @@
             "address": "0x35751007a407ca6FEFfE80b3cB397736D2cf4dbe",
             "name": "Wrapped eETH",
             "symbol": "weETH",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x35751007a407ca6feffe80b3cb397736d2cf4dbe.png"
+            "decimals": 18
         },
         {
             "chainId": 43114,
