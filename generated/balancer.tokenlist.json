@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-02-28T03:19:53.610Z",
+    "timestamp": "2024-02-29T13:14:20.486Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13301,6 +13301,48 @@
             "address": "0xc019E03f801C2a59ABc8a6d8Eb6A7c4B4f668ea4",
             "name": "FakeStableCoin",
             "symbol": "FSC",
+            "decimals": 18
+        },
+        {
+            "chainId": 11155111,
+            "address": "0xB77EB1A70A96fDAAeB31DB1b42F2b8b5846b2613",
+            "name": "Dai Stablecoin",
+            "symbol": "DAI",
+            "decimals": 18
+        },
+        {
+            "chainId": 11155111,
+            "address": "0x80D6d3946ed8A1Da4E226aa21CCdDc32bd127d1A",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6
+        },
+        {
+            "chainId": 11155111,
+            "address": "0x6bF294B80C7d8Dc72DEE762af5d01260B756A051",
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 6
+        },
+        {
+            "chainId": 11155111,
+            "address": "0x23BAd11F1543503CB1FB5dAd05fdAF93F42d30F3",
+            "name": "EURS",
+            "symbol": "EURS",
+            "decimals": 2
+        },
+        {
+            "chainId": 11155111,
+            "address": "0xC3745bcE4b5D0977dC874832BC99108D416dCe8f",
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "decimals": 8
+        },
+        {
+            "chainId": 11155111,
+            "address": "0x0f409E839a6A790aecB737E4436293Be11717f95",
+            "name": "BeethovenxToken",
+            "symbol": "BEETS",
             "decimals": 18
         }
     ]
