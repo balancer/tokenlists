@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-02-29T13:14:20.486Z",
+    "timestamp": "2024-03-01T03:00:32.749Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8377,6 +8377,27 @@
             "name": "Curve DAO Token on xDai",
             "symbol": "CRV",
             "decimals": 18
+        },
+        {
+            "chainId": 100,
+            "address": "0xE9bb22d9338A66caD8f52aB097Cb39f39B356B87",
+            "name": "Shafiq ur Rehman SRSSCV1 REHMAN ",
+            "symbol": "SRC18",
+            "decimals": 26
+        },
+        {
+            "chainId": 100,
+            "address": "0xE13BA0E1ba5B1BCDA8932C38cAb228fF1248CcF7",
+            "name": "Shafiq-ur-Rehman SRSSCV21 REHMAN ",
+            "symbol": "SRC21",
+            "decimals": 21
+        },
+        {
+            "chainId": 100,
+            "address": "0x9FaD75e3Fe2650221b9e4340204F438B57706085",
+            "name": "Finoxium systonix SRCiv",
+            "symbol": "SRC11",
+            "decimals": 16
         },
         {
             "chainId": 137,
