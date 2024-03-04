@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-03-01T03:00:32.749Z",
+    "timestamp": "2024-03-04T20:43:33.139Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12626,6 +12626,13 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x35751007a407ca6feffe80b3cb397736d2cf4dbe.png"
         },
         {
+            "chainId": 42161,
+            "address": "0x5C7E34292ac14008D8B15C0402CA9657501B949C",
+            "name": "Muppet Test",
+            "symbol": "MUPPET",
+            "decimals": 18
+        },
+        {
             "chainId": 43114,
             "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
             "name": "Wrapped AVAX",
@@ -13365,6 +13372,13 @@
             "name": "BeethovenxToken",
             "symbol": "BEETS",
             "decimals": 18
+        },
+        {
+            "chainId": 11155111,
+            "address": "0x1c7D4B196Cb0C7B01d743Fbc6116a902379C7238",
+            "name": "USDC",
+            "symbol": "USDC",
+            "decimals": 6
         }
     ]
 }
