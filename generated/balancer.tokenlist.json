@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-03-04T20:43:33.139Z",
+    "timestamp": "2024-03-05T00:00:25.706Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12631,6 +12631,38 @@
             "name": "Muppet Test",
             "symbol": "MUPPET",
             "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0xe6d40F7a705BD83Ae0E52f8628A8C8f2E6E8b5B3",
+            "name": "Nothing",
+            "symbol": "FORTUN",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe6d40f7a705bd83ae0e52f8628a8c8f2e6e8b5b3.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x81C958C2cB5158E2b7D3D8a7c41Ef2110c0Ef98d",
+            "name": "xFORTUN",
+            "symbol": "xFORTUN",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x81c958c2cb5158e2b7d3d8a7c41ef2110c0ef98d.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xfE65e0DC61615Fb1b3665896f3D9CF46b4Fa8923",
+            "name": "FOMO Cards",
+            "symbol": "FCARD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfe65e0dc61615fb1b3665896f3d9cf46b4fa8923.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xf1cd03D3c559aa7445FdD6bb68E1686423A9cfa6",
+            "name": "xFCARD",
+            "symbol": "xFCARD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf1cd03d3c559aa7445fdd6bb68e1686423a9cfa6.png"
         },
         {
             "chainId": 43114,
