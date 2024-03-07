@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-03-07T13:23:26.250Z",
+    "timestamp": "2024-03-07T18:00:40.659Z",
     "tokens": [
         {
             "chainId": 1,
@@ -10891,6 +10891,20 @@
             "symbol": "rsETH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x8c7d118b5c47a5bcbd47cc51789558b98dad17c5.png"
+        },
+        {
+            "chainId": 1101,
+            "address": "0x37eAA0eF3549a5Bb7D431be78a3D99BD360d19e5",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6
+        },
+        {
+            "chainId": 1101,
+            "address": "0x744C5860ba161b5316F7E80D9Ec415e2727e5bD5",
+            "name": "Dai Stablecoin",
+            "symbol": "DAI",
+            "decimals": 18
         },
         {
             "chainId": 8453,
