@@ -305,4 +305,5 @@ export default [
   '0xfBdB29b66277Ac78Ac6bB82FAb6D19483256781e', // LINK-S (Chainlink Yield Index by StarSeeds Protocol)
   '0xD5e26D0ab6469Fcb6Be2E59c0a941C560222f5c6', // BAL-S (Balancer Yield Index by StarSeeds Protocol)
   '0xfdcC3dd6671eaB0709A4C0f3F53De9a333d80798', // SBC
+  '0x53D76f967De13E7F95e90196438DCe695eCFA957', // SHN (ShineDAO)
 ]

@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-03-05T00:00:25.706Z",
+    "timestamp": "2024-03-07T00:51:08.831Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6788,6 +6788,14 @@
             "symbol": "KEP",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x8e3a59427b1d87db234dd4ff63b25e4bf94672f4.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x0447D3454b25935eeD47F65b4Bd22b9b23bE326a",
+            "name": "GEM ",
+            "symbol": "GEM",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/34925/large/opal.jpeg?1706671563"
         },
         {
             "chainId": 5,
