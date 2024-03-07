@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-03-07T00:51:08.831Z",
+    "timestamp": "2024-03-07T13:23:26.250Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6791,6 +6791,13 @@
         },
         {
             "chainId": 1,
+            "address": "0x838bB8B7De618104adCcdd4F3904B02eB8aCA489",
+            "name": "Shuffle",
+            "symbol": "SHFL",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
             "address": "0x0447D3454b25935eeD47F65b4Bd22b9b23bE326a",
             "name": "GEM ",
             "symbol": "GEM",
@@ -10730,6 +10737,13 @@
             "address": "0xfdcC3dd6671eaB0709A4C0f3F53De9a333d80798",
             "name": "Stable Coin",
             "symbol": "SBC",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x53D76f967De13E7F95e90196438DCe695eCFA957",
+            "name": "Shine (PoS)",
+            "symbol": "SHN",
             "decimals": 18
         },
         {
