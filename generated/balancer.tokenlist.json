@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-03-07T18:00:40.659Z",
+    "timestamp": "2024-03-07T22:42:08.520Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6803,6 +6803,13 @@
             "symbol": "GEM",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/34925/large/opal.jpeg?1706671563"
+        },
+        {
+            "chainId": 1,
+            "address": "0xb2D007293a421471586D6BC3FBfEB1990fdFa2e6",
+            "name": "Governance VEC",
+            "symbol": "gVEC",
+            "decimals": 18
         },
         {
             "chainId": 5,
