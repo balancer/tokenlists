@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-03-07T22:42:08.520Z",
+    "timestamp": "2024-03-08T04:45:24.019Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6809,7 +6809,8 @@
             "address": "0xb2D007293a421471586D6BC3FBfEB1990fdFa2e6",
             "name": "Governance VEC",
             "symbol": "gVEC",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb2d007293a421471586d6bc3fbfeb1990fdfa2e6.png"
         },
         {
             "chainId": 5,
