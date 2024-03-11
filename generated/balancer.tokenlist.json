@@ -18,6 +18,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
     "timestamp": "2024-03-11T22:59:10.059Z",
+    "timestamp": "2024-03-11T22:47:35.978Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6811,6 +6812,14 @@
             "symbol": "gVEC",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb2d007293a421471586d6bc3fbfeb1990fdfa2e6.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xf073bAC22DAb7FaF4a3Dd6c6189a70D54110525C",
+            "name": "GenesisLRT restaked ETH",
+            "symbol": "genETH",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/34127/large/image.png?1704174967"
         },
         {
             "chainId": 5,
