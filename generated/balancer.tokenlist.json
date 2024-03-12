@@ -17,8 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-03-11T22:59:10.059Z",
-    "timestamp": "2024-03-11T22:47:35.978Z",
+    "timestamp": "2024-03-12T15:40:26.650Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12723,7 +12722,8 @@
             "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
             "name": "Renzo Restaked ETH",
             "symbol": "ezETH",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2416092f143378750bb29b79ed961ab195cceea5.png"
         },
         {
             "chainId": 43114,
