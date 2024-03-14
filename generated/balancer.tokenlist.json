@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-03-12T15:40:26.650Z",
+    "timestamp": "2024-03-14T16:26:33.449Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7819,8 +7819,7 @@
             "address": "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
             "name": "Synthetix Network Token",
             "symbol": "SNX",
-            "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/3406/large/SNX.png?1696504103"
+            "decimals": 18
         },
         {
             "chainId": 10,
@@ -7842,8 +7841,7 @@
             "address": "0x73cb180bf0521828d8849bc8CF2B920918e23032",
             "name": "USD+",
             "symbol": "USD+",
-            "decimals": 6,
-            "logoURI": "https://assets.coingecko.com/coins/images/25757/large/USD__logo.png?1696524843"
+            "decimals": 6
         },
         {
             "chainId": 10,
@@ -8196,7 +8194,7 @@
         {
             "chainId": 100,
             "address": "0x4b1E2c2762667331Bc91648052F646d1b0d35984",
-            "name": "agEUR",
+            "name": "EURA (previously agEUR)",
             "symbol": "agEUR",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4b1e2c2762667331bc91648052f646d1b0d35984.png"
@@ -8353,7 +8351,7 @@
         {
             "chainId": 100,
             "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
-            "name": "Staked agEUR",
+            "name": "Staked EURA",
             "symbol": "stEUR",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/32036/large/stEUR-x4.png?1696530832"
@@ -8390,7 +8388,7 @@
         {
             "chainId": 100,
             "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
-            "name": "Staked agEUR",
+            "name": "Staked EURA",
             "symbol": "stEUR",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/32036/large/stEUR-x4.png?1696530832"
@@ -9224,7 +9222,7 @@
         {
             "chainId": 137,
             "address": "0xE0B52e49357Fd4DAf2c15e02058DCE6BC0057db4",
-            "name": "agEUR",
+            "name": "EURA (previously agEUR)",
             "symbol": "agEUR",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe0b52e49357fd4daf2c15e02058dce6bc0057db4.png"
@@ -12635,7 +12633,7 @@
         {
             "chainId": 42161,
             "address": "0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7",
-            "name": "agEUR",
+            "name": "EURA (previously agEUR)",
             "symbol": "agEUR",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/19479/large/agEUR.png?1696518915"
@@ -13213,6 +13211,46 @@
             "symbol": "WXT",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/8835/large/Wirex.jpg?1696508988"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x5Ac04b69bDE6f67C0bd5D6bA6fD5D816548b066a",
+            "name": "NumberGoUpTech",
+            "symbol": "TECH",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/35785/large/I2n2x-Ed_400x400.jpg?1709808486"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x184ff13B3EBCB25Be44e860163A5D8391Dd568c1",
+            "name": "Kimbo",
+            "symbol": "KIMBO",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/33793/large/kimbo.jpg?1702989206"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xAcFb898Cff266E53278cC0124fC2C7C94C8cB9a5",
+            "name": "AVAX HAS NO CHILL",
+            "symbol": "NOCHILL",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/34002/large/IMG_4040.jpeg?1703602967"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x420FcA0121DC28039145009570975747295f2329",
+            "name": "COQINU",
+            "symbol": "COQ",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/33511/large/Coin_CoqInu_1200px.png?1702041053"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xE8385CECb013561b69bEb63FF59f4d10734881f3",
+            "name": "Gecko Inu",
+            "symbol": "GEC",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/33948/large/token_icon.png?1703537806"
         },
         {
             "chainId": 11155111,
