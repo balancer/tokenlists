@@ -9,7 +9,7 @@
         "Balancer"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-11-30T03:25:00.370Z",
+    "timestamp": "2024-03-14T16:26:51.760Z",
     "tokens": [
         {
             "chainId": 1,
@@ -2498,7 +2498,7 @@
         {
             "chainId": 137,
             "address": "0xE0B52e49357Fd4DAf2c15e02058DCE6BC0057db4",
-            "name": "agEUR",
+            "name": "EURA (previously agEUR)",
             "symbol": "agEUR",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe0b52e49357fd4daf2c15e02058dce6bc0057db4.png"
