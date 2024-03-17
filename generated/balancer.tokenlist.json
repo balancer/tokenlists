@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-03-14T16:26:33.449Z",
+    "timestamp": "2024-03-17T12:06:56.570Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7819,7 +7819,8 @@
             "address": "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
             "name": "Synthetix Network Token",
             "symbol": "SNX",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/3406/large/SNX.png?1696504103"
         },
         {
             "chainId": 10,
@@ -7841,7 +7842,8 @@
             "address": "0x73cb180bf0521828d8849bc8CF2B920918e23032",
             "name": "USD+",
             "symbol": "USD+",
-            "decimals": 6
+            "decimals": 6,
+            "logoURI": "https://assets.coingecko.com/coins/images/25757/large/USD__logo.png?1696524843"
         },
         {
             "chainId": 10,
@@ -8022,6 +8024,13 @@
             "symbol": "EPOCH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd1cac46a9a77169c310c2c780a4267ee6ca884f5.png"
+        },
+        {
+            "chainId": 10,
+            "address": "0xFC2E6e6BCbd49ccf3A5f029c79984372DcBFE527",
+            "name": "Autonolas",
+            "symbol": "OLAS",
+            "decimals": 18
         },
         {
             "chainId": 100,
@@ -11322,6 +11331,13 @@
             "symbol": "EPOCH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x287f0d88e29a3d7aeb4d0c10bae5b902db69b17d.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x54330d28ca3357F294334BDC454a032e7f353416",
+            "name": "Autonolas",
+            "symbol": "OLAS",
+            "decimals": 18
         },
         {
             "chainId": 42161,
