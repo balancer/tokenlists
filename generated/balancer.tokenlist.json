@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-03-08T04:45:24.019Z",
+    "timestamp": "2024-03-18T17:00:33.580Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6813,6 +6813,44 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb2d007293a421471586d6bc3fbfeb1990fdfa2e6.png"
         },
         {
+            "chainId": 1,
+            "address": "0xf073bAC22DAb7FaF4a3Dd6c6189a70D54110525C",
+            "name": "GenesisLRT restaked ETH",
+            "symbol": "genETH",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/34127/large/image.png?1704174967"
+        },
+        {
+            "chainId": 1,
+            "address": "0xFC87753Df5Ef5C368b5FBA8D4C5043b77e8C5b39",
+            "name": "Aspida Ether",
+            "symbol": "aETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xF1617882A71467534D14EEe865922de1395c9E89",
+            "name": "saETH",
+            "symbol": "saETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x65799b9fD4206CdaA4A1DB79254FCbc2Fd2fFEe6",
+            "name": "Static Aave Ethereum USDT",
+            "symbol": "AaveUSDT",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf8fd466f12e236f4c96f7cce6c79eadb819abf58.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x02c2d189b45CE213a40097b62D311cf0dD16eC92",
+            "name": "Static Aave Ethereum USDC",
+            "symbol": "AaveUSDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe719aef17468c7e10c0c205be62c990754dff7e5.png"
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -8018,6 +8056,37 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd1cac46a9a77169c310c2c780a4267ee6ca884f5.png"
         },
         {
+            "chainId": 10,
+            "address": "0xFC2E6e6BCbd49ccf3A5f029c79984372DcBFE527",
+            "name": "Autonolas",
+            "symbol": "OLAS",
+            "decimals": 18
+        },
+        {
+            "chainId": 10,
+            "address": "0x9F281eb58fd98ad98EDe0fc4C553AD4D73e7Ca2C",
+            "name": "Static Aave Ethereum USDC.e",
+            "symbol": "AaveUSDCe",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe719aef17468c7e10c0c205be62c990754dff7e5.png"
+        },
+        {
+            "chainId": 10,
+            "address": "0x4DD03dfD36548C840B563745e3FBeC320F37BA7e",
+            "name": "Static Aave Ethereum USDCn",
+            "symbol": "AaveUSDCn",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe719aef17468c7e10c0c205be62c990754dff7e5.png"
+        },
+        {
+            "chainId": 10,
+            "address": "0x035c93db04E5aAea54E6cd0261C492a3e0638b37",
+            "name": "Static Aave Ethereum USDT",
+            "symbol": "AaveUSDT",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf8fd466f12e236f4c96f7cce6c79eadb819abf58.png"
+        },
+        {
             "chainId": 100,
             "address": "0x7eF541E2a22058048904fE5744f9c7E4C57AF717",
             "name": "Balancer on xDai",
@@ -8188,7 +8257,7 @@
         {
             "chainId": 100,
             "address": "0x4b1E2c2762667331Bc91648052F646d1b0d35984",
-            "name": "agEUR",
+            "name": "EURA (previously agEUR)",
             "symbol": "agEUR",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4b1e2c2762667331bc91648052f646d1b0d35984.png"
@@ -8345,7 +8414,7 @@
         {
             "chainId": 100,
             "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
-            "name": "Staked agEUR",
+            "name": "Staked EURA",
             "symbol": "stEUR",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/32036/large/stEUR-x4.png?1696530832"
@@ -8382,7 +8451,7 @@
         {
             "chainId": 100,
             "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
-            "name": "Staked agEUR",
+            "name": "Staked EURA",
             "symbol": "stEUR",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/32036/large/stEUR-x4.png?1696530832"
@@ -9216,7 +9285,7 @@
         {
             "chainId": 137,
             "address": "0xE0B52e49357Fd4DAf2c15e02058DCE6BC0057db4",
-            "name": "agEUR",
+            "name": "EURA (previously agEUR)",
             "symbol": "agEUR",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe0b52e49357fd4daf2c15e02058dce6bc0057db4.png"
@@ -10158,7 +10227,8 @@
             "address": "0xe292178333Fc7424211795895865adac05bAf3bE",
             "name": "JARVIS",
             "symbol": "JARVIS",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/35812/large/jarvis.png?1709873633"
         },
         {
             "chainId": 137,
@@ -10755,6 +10825,38 @@
             "decimals": 18
         },
         {
+            "chainId": 137,
+            "address": "0xc04296Aa4534F5A3BaB2d948705bc89317b2f1ed",
+            "name": "Static Aave Ethereum USDC",
+            "symbol": "AaveUSDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe719aef17468c7e10c0c205be62c990754dff7e5.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x2dCa80061632f3F87c9cA28364d1d0c30cD79a19",
+            "name": "Static Aave Ethereum USDCn",
+            "symbol": "AaveUSDCn",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe719aef17468c7e10c0c205be62c990754dff7e5.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x31F5aC91804A4c0B54C0243789DF5208993235a1",
+            "name": "Static Aave Ethereum USDT",
+            "symbol": "AaveUSDT",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf8fd466f12e236f4c96f7cce6c79eadb819abf58.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x87A1fdc4C726c459f597282be639a045062c0E46",
+            "name": "Static Aave Ethereum USDT",
+            "symbol": "AaveUSDT",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf8fd466f12e236f4c96f7cce6c79eadb819abf58.png"
+        },
+        {
             "chainId": 1101,
             "address": "0x120eF59b80774F02211563834d8E3b72cb1649d6",
             "name": "Balancer",
@@ -11315,6 +11417,13 @@
             "symbol": "EPOCH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x287f0d88e29a3d7aeb4d0c10bae5b902db69b17d.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x54330d28ca3357F294334BDC454a032e7f353416",
+            "name": "Autonolas",
+            "symbol": "OLAS",
+            "decimals": 18
         },
         {
             "chainId": 42161,
@@ -12626,7 +12735,7 @@
         {
             "chainId": 42161,
             "address": "0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7",
-            "name": "agEUR",
+            "name": "EURA (previously agEUR)",
             "symbol": "agEUR",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/19479/large/agEUR.png?1696518915"
@@ -12707,6 +12816,68 @@
             "symbol": "xFCARD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf1cd03d3c559aa7445fdd6bb68e1686423a9cfa6.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+            "name": "Renzo Restaked ETH",
+            "symbol": "ezETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2416092f143378750bb29b79ed961ab195cceea5.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xFC87753Df5Ef5C368b5FBA8D4C5043b77e8C5b39",
+            "name": "Aspida Ether",
+            "symbol": "aETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0xF1617882A71467534D14EEe865922de1395c9E89",
+            "name": "saETH",
+            "symbol": "saETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x3A301e7917689b8E8A19498b8A28fc912583490C",
+            "name": "Static Aave Ethereum USDC",
+            "symbol": "AaveUSDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe719aef17468c7e10c0c205be62c990754dff7e5.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x7CFaDFD5645B50bE87d546f42699d863648251ad",
+            "name": "Static Aave Ethereum USDCn",
+            "symbol": "AaveUSDCn",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe719aef17468c7e10c0c205be62c990754dff7e5.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xbdE67e089886EC0E615D6f054BC6f746189A3d56",
+            "name": "Static Aave Ethereum USDCn",
+            "symbol": "AaveUSDCn",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe719aef17468c7e10c0c205be62c990754dff7e5.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x8B5541B773DD781852940490b0c3dC1a8CDb6A87",
+            "name": "Static Aave Ethereum USDT",
+            "symbol": "AaveUSDT",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf8fd466f12e236f4c96f7cce6c79eadb819abf58.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xb165a74407fE1e519d6bCbDeC1Ed3202B35a4140",
+            "name": "Static Aave Ethereum USDT",
+            "symbol": "AaveUSDT",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf8fd466f12e236f4c96f7cce6c79eadb819abf58.png"
         },
         {
             "chainId": 43114,
@@ -13196,6 +13367,62 @@
             "symbol": "WXT",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/8835/large/Wirex.jpg?1696508988"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x735D8f3B6A5d2c96D0405230c50Eaf96794FbB88",
+            "name": "XPower",
+            "symbol": "XPOW",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/35936/large/logo-xpower-360-round.png?1710231766"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x7F9C841FEAdDdB4bdBB2A161cA40bEbc4F215a9A",
+            "name": "APower",
+            "symbol": "APOW",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/35937/large/logo-apower-360-round.png?1710231770"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x5Ac04b69bDE6f67C0bd5D6bA6fD5D816548b066a",
+            "name": "NumberGoUpTech",
+            "symbol": "TECH",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/35785/large/I2n2x-Ed_400x400.jpg?1709808486"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x184ff13B3EBCB25Be44e860163A5D8391Dd568c1",
+            "name": "Kimbo",
+            "symbol": "KIMBO",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/33793/large/kimbo.jpg?1702989206"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xAcFb898Cff266E53278cC0124fC2C7C94C8cB9a5",
+            "name": "AVAX HAS NO CHILL",
+            "symbol": "NOCHILL",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/34002/large/IMG_4040.jpeg?1703602967"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x420FcA0121DC28039145009570975747295f2329",
+            "name": "COQINU",
+            "symbol": "COQ",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/33511/large/Coin_CoqInu_1200px.png?1702041053"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xE8385CECb013561b69bEb63FF59f4d10734881f3",
+            "name": "Gecko Inu",
+            "symbol": "GEC",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/33948/large/token_icon.png?1703537806"
         },
         {
             "chainId": 11155111,

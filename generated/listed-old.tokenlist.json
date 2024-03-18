@@ -9,7 +9,7 @@
         "Balancer"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-11-30T03:25:00.370Z",
+    "timestamp": "2024-03-18T16:46:49.549Z",
     "tokens": [
         {
             "chainId": 1,
@@ -1582,7 +1582,7 @@
             "name": "Wrapped XDAI",
             "symbol": "WXDAI",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/14584/large/wrapped-xdai-logo.png?1696514264"
+            "logoURI": "https://assets.coingecko.com/coins/images/11062/large/Identity-Primary-DarkBG.png?1696511004"
         },
         {
             "chainId": 100,
@@ -2498,7 +2498,7 @@
         {
             "chainId": 137,
             "address": "0xE0B52e49357Fd4DAf2c15e02058DCE6BC0057db4",
-            "name": "agEUR",
+            "name": "EURA (previously agEUR)",
             "symbol": "agEUR",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe0b52e49357fd4daf2c15e02058dce6bc0057db4.png"
