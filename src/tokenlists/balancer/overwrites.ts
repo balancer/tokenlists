@@ -96,6 +96,20 @@ export const overwrites: OverwritesForList = {
       symbol: 'wBETH',
       name: 'Wrapped Beacon ETH',
     },
+    '0x02c2d189b45ce213a40097b62d311cf0dd16ec92': {
+      decimals: 6,
+      symbol: 'AaveUSDC',
+      name: 'Static Aave Ethereum USDC',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe719aef17468c7e10c0c205be62c990754dff7e5.png',
+    },
+    '0x65799b9fd4206cdaa4a1db79254fcbc2fd2ffee6': {
+      decimals: 6,
+      symbol: 'AaveUSDT',
+      name: 'Static Aave Ethereum USDT',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf8fd466f12e236f4c96f7cce6c79eadb819abf58.png',
+    },
   },
   [Network.Goerli]: {
     '0x9bA00D6856a4eDF4665BcA2C2309936572473B7E': {
@@ -215,6 +229,34 @@ export const overwrites: OverwritesForList = {
       symbol: 'DUSD',
       name: 'DUSD',
     },
+    '0xc04296aa4534f5a3bab2d948705bc89317b2f1ed': {
+      decimals: 6,
+      symbol: 'AaveUSDC',
+      name: 'Static Aave Ethereum USDC',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe719aef17468c7e10c0c205be62c990754dff7e5.png',
+    },
+    '0x2dca80061632f3f87c9ca28364d1d0c30cd79a19': {
+      decimals: 6,
+      symbol: 'AaveUSDCn',
+      name: 'Static Aave Ethereum USDCn',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe719aef17468c7e10c0c205be62c990754dff7e5.png',
+    },
+    '0x31f5ac91804a4c0b54c0243789df5208993235a1': {
+      decimals: 6,
+      symbol: 'AaveUSDT',
+      name: 'Static Aave Ethereum USDT',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf8fd466f12e236f4c96f7cce6c79eadb819abf58.png',
+    },
+    '0x87a1fdc4c726c459f597282be639a045062c0e46': {
+      decimals: 6,
+      symbol: 'AaveUSDT',
+      name: 'Static Aave Ethereum USDT',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf8fd466f12e236f4c96f7cce6c79eadb819abf58.png',
+    },
   },
   [Network.Arbitrum]: {
     '0x040d1EdC9569d4Bab2D15287Dc5A4F10F56a56B8': {
@@ -311,6 +353,41 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png',
     },
+    '0x3a301e7917689b8e8a19498b8a28fc912583490c': {
+      decimals: 6,
+      symbol: 'AaveUSDC',
+      name: 'Static Aave Ethereum USDC',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe719aef17468c7e10c0c205be62c990754dff7e5.png',
+    },
+    '0x7cfadfd5645b50be87d546f42699d863648251ad': {
+      decimals: 6,
+      symbol: 'AaveUSDCn',
+      name: 'Static Aave Ethereum USDCn',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe719aef17468c7e10c0c205be62c990754dff7e5.png',
+    },
+    '0xbde67e089886ec0e615d6f054bc6f746189a3d56': {
+      decimals: 6,
+      symbol: 'AaveUSDCn',
+      name: 'Static Aave Ethereum USDCn',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe719aef17468c7e10c0c205be62c990754dff7e5.png',
+    },
+    '0x8b5541b773dd781852940490b0c3dc1a8cdb6a87': {
+      decimals: 6,
+      symbol: 'AaveUSDT',
+      name: 'Static Aave Ethereum USDT',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf8fd466f12e236f4c96f7cce6c79eadb819abf58.png',
+    },
+    '0xb165a74407fe1e519d6bcbdec1ed3202b35a4140': {
+      decimals: 6,
+      symbol: 'AaveUSDT',
+      name: 'Static Aave Ethereum USDT',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf8fd466f12e236f4c96f7cce6c79eadb819abf58.png',
+    },
   },
   [Network.Optimism]: {
     '0xe05A08226c49b636ACf99c40Da8DC6aF83CE5bB3': {
@@ -320,6 +397,27 @@ export const overwrites: OverwritesForList = {
     '0x97513e975a7fA9072c72C92d8000B0dB90b163c5': {
       symbol: 'multiBeets',
       name: 'multiBeets',
+    },
+    '0x9f281eb58fd98ad98ede0fc4c553ad4d73e7ca2c': {
+      decimals: 6,
+      symbol: 'AaveUSDCe',
+      name: 'Static Aave Ethereum USDC.e',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe719aef17468c7e10c0c205be62c990754dff7e5.png',
+    },
+    '0x4dd03dfd36548c840b563745e3fbec320f37ba7e': {
+      decimals: 6,
+      symbol: 'AaveUSDCn',
+      name: 'Static Aave Ethereum USDCn',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe719aef17468c7e10c0c205be62c990754dff7e5.png',
+    },
+    '0x035c93db04e5aaea54e6cd0261c492a3e0638b37': {
+      decimals: 6,
+      symbol: 'AaveUSDT',
+      name: 'Static Aave Ethereum USDT',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf8fd466f12e236f4c96f7cce6c79eadb819abf58.png',
     },
   },
   [Network.Gnosis]: {

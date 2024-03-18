@@ -116,4 +116,7 @@ export default [
   '0x1509706a6c66ca549ff0cb464de88231ddbe213b', // AURA
   '0xd1cac46a9a77169C310c2C780A4267eE6CA884f5', // EPOCH
   '0xFC2E6e6BCbd49ccf3A5f029c79984372DcBFE527', // OLAS
+  '0x9f281eb58fd98ad98ede0fc4c553ad4d73e7ca2c', // stataOptUSDC.e
+  '0x4dd03dfd36548c840b563745e3fbec320f37ba7e', // stataOptUSDCn
+  '0x035c93db04e5aaea54e6cd0261c492a3e0638b37', // stataOptUSDT
 ]
