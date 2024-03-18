@@ -306,4 +306,8 @@ export default [
   '0xD5e26D0ab6469Fcb6Be2E59c0a941C560222f5c6', // BAL-S (Balancer Yield Index by StarSeeds Protocol)
   '0xfdcC3dd6671eaB0709A4C0f3F53De9a333d80798', // SBC
   '0x53D76f967De13E7F95e90196438DCe695eCFA957', // SHN (ShineDAO)
+  '0xc04296aa4534f5a3bab2d948705bc89317b2f1ed', // stataPolUSDC (PoS)
+  '0x2dca80061632f3f87c9ca28364d1d0c30cd79a19', // stataPolUSDCn
+  '0x31f5ac91804a4c0b54c0243789df5208993235a1', // stataPolUSDT
+  '0x87a1fdc4c726c459f597282be639a045062c0e46', // stataPolUSDT
 ]
