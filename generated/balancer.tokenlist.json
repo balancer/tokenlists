@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-03-18T17:00:33.580Z",
+    "timestamp": "2024-03-18T17:25:28.481Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6814,6 +6814,13 @@
         },
         {
             "chainId": 1,
+            "address": "0xc8B6950e0654a7368Ce1a8855ed90E987Dac2D8d",
+            "name": "Bazaar Receipt Shuffle",
+            "symbol": "rSHFL",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
             "address": "0xf073bAC22DAb7FaF4a3Dd6c6189a70D54110525C",
             "name": "GenesisLRT restaked ETH",
             "symbol": "genETH",
@@ -6849,6 +6856,14 @@
             "symbol": "AaveUSDC",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe719aef17468c7e10c0c205be62c990754dff7e5.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xFe0c30065B384F05761f15d0CC899D4F9F9Cc0eB",
+            "name": "ether.fi governance token",
+            "symbol": "ETHFI",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/35958/large/etherfi.jpeg?1710254562"
         },
         {
             "chainId": 5,
