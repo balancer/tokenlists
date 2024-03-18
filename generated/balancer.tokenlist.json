@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-03-18T17:25:28.481Z",
+    "timestamp": "2024-03-18T20:49:33.778Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6851,6 +6851,14 @@
         },
         {
             "chainId": 1,
+            "address": "0x862c57d48becB45583AEbA3f489696D22466Ca1b",
+            "name": "Static Aave Ethereum USDT",
+            "symbol": "AaveUSDT",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf8fd466f12e236f4c96f7cce6c79eadb819abf58.png"
+        },
+        {
+            "chainId": 1,
             "address": "0x02c2d189b45CE213a40097b62D311cf0dD16eC92",
             "name": "Static Aave Ethereum USDC",
             "symbol": "AaveUSDC",
@@ -13438,6 +13446,14 @@
             "symbol": "GEC",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/33948/large/token_icon.png?1703537806"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x735D8f3B6A5d2c96D0405230c50Eaf96794FbB88",
+            "name": "XPower",
+            "symbol": "XPOW",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/35936/large/logo-xpower-360-round.png?1710231766"
         },
         {
             "chainId": 11155111,
