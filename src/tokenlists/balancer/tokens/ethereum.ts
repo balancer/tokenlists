@@ -891,6 +891,7 @@ export default [
   '0xFC87753Df5Ef5C368b5FBA8D4C5043b77e8C5b39', // aETH
   '0xF1617882A71467534D14EEe865922de1395c9E89', // saETH
   '0x65799b9fd4206cdaa4a1db79254fcbc2fd2ffee6', // stataEthUSDT
+  '0x862c57d48becb45583aeba3f489696d22466ca1b', // stataEthUSDT
   '0x02c2d189b45ce213a40097b62d311cf0dd16ec92', // stataEthUSDC
   '0xfe0c30065b384f05761f15d0cc899d4f9f9cc0eb', // ethfi
 ]
