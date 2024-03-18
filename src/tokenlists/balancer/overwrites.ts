@@ -110,6 +110,13 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf8fd466f12e236f4c96f7cce6c79eadb819abf58.png',
     },
+    '0x862c57d48becb45583aeba3f489696d22466ca1b': {
+      decimals: 6,
+      symbol: 'AaveUSDT',
+      name: 'Static Aave Ethereum USDT',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf8fd466f12e236f4c96f7cce6c79eadb819abf58.png',
+    },
   },
   [Network.Goerli]: {
     '0x9bA00D6856a4eDF4665BcA2C2309936572473B7E': {
