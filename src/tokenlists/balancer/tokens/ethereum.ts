@@ -894,4 +894,5 @@ export default [
   '0x862c57d48becb45583aeba3f489696d22466ca1b', // stataEthUSDT
   '0x02c2d189b45ce213a40097b62d311cf0dd16ec92', // stataEthUSDC
   '0xfe0c30065b384f05761f15d0cc899d4f9f9cc0eb', // ethfi
+  '0x58AAdFB1Afac0ad7fca1148f3cdE6aEDF5236B6D', // rsETH / WETH
 ]
