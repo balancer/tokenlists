@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-03-18T20:49:33.778Z",
+    "timestamp": "2024-03-21T14:58:46.441Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6874,6 +6874,14 @@
             "logoURI": "https://assets.coingecko.com/coins/images/35958/large/etherfi.jpeg?1710254562"
         },
         {
+            "chainId": 1,
+            "address": "0xD9A442856C234a39a81a089C06451EBAa4306a72",
+            "name": "pufETH",
+            "symbol": "pufETH",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/35176/large/pufETH-200-200-resolution.png?1707753174"
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -11446,6 +11454,27 @@
             "address": "0x54330d28ca3357F294334BDC454a032e7f353416",
             "name": "Autonolas",
             "symbol": "OLAS",
+            "decimals": 18
+        },
+        {
+            "chainId": 8453,
+            "address": "0xF9E36ba92f4f5E60FC0A19CCD201c285d8CCe62D",
+            "name": "Tether",
+            "symbol": "USDT",
+            "decimals": 18
+        },
+        {
+            "chainId": 8453,
+            "address": "0xA61BeB4A3d02decb01039e378237032B351125B4",
+            "name": "EURA (previously agEUR)",
+            "symbol": "EURA",
+            "decimals": 18
+        },
+        {
+            "chainId": 8453,
+            "address": "0x2Dc5dD89A3662567B78FC3a78E1E2c81D9e4D419",
+            "name": "Banania",
+            "symbol": "BANANIA",
             "decimals": 18
         },
         {
