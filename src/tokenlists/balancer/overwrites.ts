@@ -426,6 +426,43 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf8fd466f12e236f4c96f7cce6c79eadb819abf58.png',
     },
+    '0x7F5c764cBc14f9669B88837ca1490cCa17c31607': { symbol: 'USDC.e' },
+    '0x39FdE572a18448F8139b7788099F0a0740f51205': {
+      name: 'OATH',
+      symbol: 'OATHv1',
+    },
+    '0xb4Bc46bc6cB217B59ea8F4530BaE26Bf69F677f0': { name: 'Beethoven X' },
+    '0xc96f4F893286137aC17e07Ae7F217fFca5db3AB6': {
+      logoURI:
+        'https://assets.coingecko.com/coins/images/29116/large/20230223_224134.jpg?1677224110',
+    },
+    '0x00e1724885473B63bCE08a9f0a52F35b0979e35A': {
+      name: 'OATH',
+      symbol: 'OATHv2',
+    },
+    '0x3e9cBFfd270AE67aBB09D28988e7e785498c7373': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/boosted-OP-enclosed%402x.png',
+    },
+    '0xc83c23DBA4a008d7Df46cd50Ad144ae856b6B1Be': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/boosted-sUSD-enclosed%402x.png',
+    },
+    '0x3F56e0c36d275367b8C502090EDF38289b3dEa0d': {
+      name: 'Qi Dao',
+      symbol: 'QI (old)',
+      logoURI:
+        'https://assets.coingecko.com/coins/images/15329/large/qi.png?1620540969',
+    },
+    '0x0c5b4c92c948691EEBf185C17eeB9c230DC019E9': {
+      name: 'Pickle Finance',
+      logoURI:
+        'https://assets.coingecko.com/coins/images/12435/large/0M4W6Yr6_400x400.jpg?1643006080',
+    },
+    '0x1509706a6c66CA549ff0cB464de88231DDBe213B': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/aura.png',
+    },
   },
   [Network.Gnosis]: {
     '0x7eF541E2a22058048904fE5744f9c7E4C57AF717': {
@@ -434,4 +471,196 @@ export const overwrites: OverwritesForList = {
     },
   },
   [Network.Zkevm]: {},
+  [Network.Fantom]: {
+    '0xf1648C50d2863f780c57849D812b4B7686031A3D': {
+      name: 'LayerZero Wrapped Bitcoin',
+      symbol: 'lzWBTC',
+    },
+    '0x448d59B4302aB5d2dadf9611bED9457491926c8e': {
+      name: 'Axelar Wrapped Bitcoin',
+      logoURI:
+        'https://assets.coingecko.com/coins/images/1/large/bitcoin.png?1547033579',
+    },
+    '0x321162Cd933E2Be498Cd2267a90534A804051b11': {
+      name: 'Multichain Wrapped Bitcoin',
+      symbol: 'multiWBTC',
+    },
+    '0x695921034f0387eAc4e11620EE91b1b15A6A09fE': {
+      name: 'LayerZero Wrapped Ethereum',
+      symbol: 'lzWETH',
+    },
+    '0xfe7eDa5F2c56160d406869A8aA4B2F365d544C7B': {
+      name: 'Axelar Wrapped Ethereum',
+      symbol: 'axlWETH',
+    },
+    '0x74b23882a30290451A17c44f4F05243b6b58C76d': {
+      name: 'Multichain Wrapped Ethereum',
+      symbol: 'multiWETH',
+    },
+    '0xcc1b99dDAc1a33c201a742A1851662E87BC7f22C': {
+      name: 'LayerZero USDT',
+      symbol: 'lzUSDT',
+    },
+    '0x049d68029688eAbF473097a2fC38ef61633A3C7A': {
+      name: 'Multichain Frapped USDT',
+      symbol: 'multiFUSDT',
+    },
+    '0x1B6382DBDEa11d97f24495C9A90b7c88469134a4': { name: 'Axelar USDC' },
+    '0x28a92dde19D9989F39A49905d7C9C2FAc7799bDf': {
+      name: 'LayerZero USD Coin',
+      symbol: 'lzUSDC',
+    },
+    '0x04068DA6C83AFCFA0e13ba15A6696662335D5B75': {
+      name: 'Multichain USD Coin',
+      symbol: 'multiUSDC',
+    },
+    '0x91a40C733c97a6e1BF876EaF9ed8c08102eB491f': {
+      name: 'LayerZero Dai',
+      symbol: 'lzDAI',
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/dai-128.png',
+    },
+    '0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E': {
+      name: 'Multichain Dai',
+      symbol: 'multiDAI',
+    },
+    '0xd7028092c830b5C8FcE061Af2E593413EbbC1fc1': {
+      name: 'BeethovenX sFTMX',
+      symbol: 'sFTMx',
+    },
+    '0xF24Bcf4d1e507740041C9cFd2DddB29585aDCe1e': { name: 'Beethoven X' },
+    '0xDE1E704dae0B4051e80DAbB26ab6ad6c12262DA0': {
+      logoURI:
+        'https://assets.coingecko.com/coins/images/18779/large/DEI-logo-round-white-3.png?1646300101',
+    },
+    '0xC5e2B037D30a390e62180970B3aa4E91868764cD': {
+      name: 'oldTarot',
+      symbol: 'oldTAROT',
+    },
+    '0xD3FDCb837DAfdb7C9C3eBD48FE22a53F6Dd3d7D7': {
+      name: 'Qi Dao',
+      logoURI:
+        'https://assets.coingecko.com/coins/images/15329/large/qi.png?1620540969',
+    },
+    '0x80Fe671E580CD1D95B2Dcd8EA09233DF06C81C7b': {
+      logoURI:
+        'https://www.tarot.to/assets/images/token-icons/0x80Fe671E580CD1D95B2Dcd8EA09233DF06C81C7b.png',
+    },
+    '0x84F8D24231DfbBfae7f39415cD09c8f467729fc8': {
+      name: 'Cosmic Cash',
+      logoURI: 'https://mineempire.io/assets/csc-256x256.png',
+    },
+    '0xDE12c7959E1a72bbe8a5f7A1dc8f8EeF9Ab011B3': {
+      name: 'old _DEI',
+      symbol: 'old_DEI',
+      logoURI:
+        'https://assets.coingecko.com/coins/images/18779/small/DEI-logo-round-white-3.png?1646300101',
+    },
+    '0x250CD2c6B7259a0621d1C2997C48dDdbEA54A5A6': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/Bwool_logo_round.svg',
+    },
+    '0xE5586582E1a60E302a53e73E4FaDccAF868b459a': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/xrlc.png',
+    },
+    '0xbf4906762C38F50bC7Be0A11BB452C944f6C72E1': {
+      logoURI:
+        'https://app.fbomb.finance/images/tokens/0xbf4906762C38F50bC7Be0A11BB452C944f6C72E1.png',
+    },
+    '0xc5713B6a0F26bf0fdC1c52B90cd184D950be515C': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/linspirit.png',
+    },
+    '0xF04A45b429eB5930a85884141C530147Db0f609E': {
+      logoURI:
+        'https://valhalla-dao.com/wp-content/uploads/2023/02/logo1-1.png',
+    },
+    '0x62227c75908b7d358a9d70eA4670F57f8b012Ccc': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/mFTM-Token-BlackBlue.png',
+    },
+    '0x4f76664105ba7E35dD4904eC70F2042fc17563d9': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/icon_white.png',
+    },
+    '0x454d4BaE7c2adab588d837aFF4Db16Db19d46A33': {
+      name: 'Good Morning FTM',
+      logoURI: 'https://i.ibb.co/12RsJ9g/GMFTMTOKENfuneral.png',
+    },
+    '0x08d70A47D3f28BbF755ae050a783844b40ae5761': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/kelvin.png',
+    },
+    '0x6CAa3e5FebA1f83ec1d80EA2EAca37C3421C33A8': {
+      logoURI:
+        'https://www.tarot.to/assets/images/token-icons/0x6CAa3e5FebA1f83ec1d80EA2EAca37C3421C33A8.png',
+    },
+    '0x031305e65166c26F0666353c021c563B4a7c9ca2': {
+      name: 'Truth',
+      logoURI: 'https://eyeoftruth.io/static/media/MAAT.png',
+    },
+    '0x73E30eb2e469cc542d86397bECA97Ea6547e1cA7': {
+      name: 'Sanik',
+      logoURI:
+        'https://equalizer.exchange/assets/fantom/token/0x73e30eb2e469cc542d86397beca97ea6547e1ca7.png',
+    },
+    '0x68EFc4716507709691d5e7AD9906a44FaBCdb1CA': {
+      logoURI: 'https://app.mineempire.io/assets/gem-256x256.png',
+    },
+    '0x59D07a115fe3FFe5db3D52029D43Cc0ef5e9ba08': {
+      logoURI:
+        'https://assets.coingecko.com/coins/images/22522/large/KmzajETygnMWAKm05ljiI3pc7_JTIdu_H6hhOgaRc-ICj0M9geEpF83iceGbQ6U2PByY3A3jwkHFC0zLEycnplJpUcqb_cl0QV89fPI_h3XdflDh9Sroq22uFfvwQ8lCjl7EFiIKpr-fGbW2ArkJEdPkWL6UJu5DbE6YArcksukEcc_8cpryHjchAdd-imlOugScNPswFZzMqb.jpg?1641970344',
+    },
+    '0xbF07093ccd6adFC3dEB259C557b61E94c1F66945': {
+      name: 'BIFI Maxi',
+      symbol: 'mooBIFI',
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/mooBIFI.png',
+    },
+    '0xcdE5a11a4ACB4eE4c805352Cec57E236bdBC3837': {
+      symbol: 'BPT-BEETS-FTM ',
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/fidelio-duetto.png',
+    },
+    '0x953Cd009a490176FcEB3a26b9753e6F01645ff28': {
+      symbol: 'XDEUS',
+      logoURI:
+        'https://assets.coingecko.com/coins/images/28702/large/xDEUS_logo_200x200.png?1673425416',
+    },
+    '0xF386eB6780a1e875616b5751794f909095283860': {
+      name: 'fMulti',
+      symbol: 'fMULTI',
+      logoURI: 'https://maxflowO2.com/img/image.png',
+    },
+    '0x96312c36cB278bB84BB1c180E33f17b8857fFFab': {
+      logoURI:
+        'https://raw.githubusercontent.com/firebird-finance/firebird-assets/master/blockchains/fantom/assets/0x96312c36cB278bB84BB1c180E33f17b8857fFFab/logo.png',
+    },
+    '0x0C9393d08B817a6dA19381ED86D03FF64E11F9b0': {
+      logoURI: 'https://i.imgur.com/GGzuFKw.png',
+    },
+    '0xE3e0EBA90185e7292B9Ca92c7409cDEf504F9d07': {
+      logoURI: 'https://i.imgur.com/VO0SnyG.png',
+    },
+    '0x43F9a13675e352154f745d6402E853FECC388aA5': {
+      logoURI:
+        'https://equalizer.exchange/assets/fantom/token/0x43f9a13675e352154f745d6402e853fecc388aa5.png',
+    },
+    '0x524CAbe5b2F66CBd6F6b08dEf086F18F8DdE033a': {
+      logoURI: 'https://i.ibb.co/b37Gktw/BICO-Ticker-01.png',
+    },
+    '0xfcef8a994209d6916EB2C86cDD2AFD60Aa6F54b1': {
+      name: 'Fresh BEETS',
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/fBEETS.png',
+    },
+    '0xC09A82aD5075B3067D80F54f05e1E22229699Cc1': {
+      logoURI:
+        'https://assets.coingecko.com/coins/images/24109/large/logo-blue.png?1646376874',
+    },
+    '0x2B6850bF31874d96A21eD4Dc7C6415B9640BE2A4': {
+      logoURI: 'https://www.fantomon.net/plasmagunk.png',
+    },
+  },
 }
