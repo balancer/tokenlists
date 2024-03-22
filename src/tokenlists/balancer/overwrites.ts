@@ -404,6 +404,9 @@ export const overwrites: OverwritesForList = {
     '0x97513e975a7fA9072c72C92d8000B0dB90b163c5': {
       symbol: 'multiBeets',
       name: 'multiBeets',
+      extensions: {
+        coingeckoId: null,
+      },
     },
     '0x9f281eb58fd98ad98ede0fc4c553ad4d73e7ca2c': {
       decimals: 6,
@@ -463,6 +466,11 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://beethoven-assets.s3.eu-central-1.amazonaws.com/aura.png',
     },
+    '0xb45ad160634c528cc3d2926d9807104fa3157305': {
+      extensions: {
+        coingeckoId: null,
+      },
+    },
   },
   [Network.Gnosis]: {
     '0x7eF541E2a22058048904fE5744f9c7E4C57AF717': {
@@ -484,6 +492,9 @@ export const overwrites: OverwritesForList = {
     '0x321162Cd933E2Be498Cd2267a90534A804051b11': {
       name: 'Multichain Wrapped Bitcoin',
       symbol: 'multiWBTC',
+      extensions: {
+        coingeckoId: null,
+      },
     },
     '0x695921034f0387eAc4e11620EE91b1b15A6A09fE': {
       name: 'LayerZero Wrapped Ethereum',
@@ -496,6 +507,9 @@ export const overwrites: OverwritesForList = {
     '0x74b23882a30290451A17c44f4F05243b6b58C76d': {
       name: 'Multichain Wrapped Ethereum',
       symbol: 'multiWETH',
+      extensions: {
+        coingeckoId: null,
+      },
     },
     '0xcc1b99dDAc1a33c201a742A1851662E87BC7f22C': {
       name: 'LayerZero USDT',
@@ -504,6 +518,9 @@ export const overwrites: OverwritesForList = {
     '0x049d68029688eAbF473097a2fC38ef61633A3C7A': {
       name: 'Multichain Frapped USDT',
       symbol: 'multiFUSDT',
+      extensions: {
+        coingeckoId: null,
+      },
     },
     '0x1B6382DBDEa11d97f24495C9A90b7c88469134a4': { name: 'Axelar USDC' },
     '0x28a92dde19D9989F39A49905d7C9C2FAc7799bDf': {
@@ -513,6 +530,9 @@ export const overwrites: OverwritesForList = {
     '0x04068DA6C83AFCFA0e13ba15A6696662335D5B75': {
       name: 'Multichain USD Coin',
       symbol: 'multiUSDC',
+      extensions: {
+        coingeckoId: null,
+      },
     },
     '0x91a40C733c97a6e1BF876EaF9ed8c08102eB491f': {
       name: 'LayerZero Dai',
@@ -523,6 +543,9 @@ export const overwrites: OverwritesForList = {
     '0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E': {
       name: 'Multichain Dai',
       symbol: 'multiDAI',
+      extensions: {
+        coingeckoId: null,
+      },
     },
     '0xd7028092c830b5C8FcE061Af2E593413EbbC1fc1': {
       name: 'BeethovenX sFTMX',
@@ -661,6 +684,68 @@ export const overwrites: OverwritesForList = {
     },
     '0x2B6850bF31874d96A21eD4Dc7C6415B9640BE2A4': {
       logoURI: 'https://www.fantomon.net/plasmagunk.png',
+    },
+    '0xcfc785741dc0e98ad4c9f6394bb9d43cd1ef5179': {
+      extensions: {
+        coingeckoId: null,
+      },
+    },
+    '0xddcb3ffd12750b45d32e084887fdf1aabab34239': {
+      extensions: {
+        coingeckoId: null,
+      },
+    },
+    '0x10010078a54396f62c96df8532dc2b4847d47ed3': {
+      extensions: {
+        coingeckoId: null,
+      },
+    },
+    '0x6a07a792ab2965c72a5b8088d3a069a7ac3a993b': {
+      extensions: {
+        coingeckoId: null,
+      },
+    },
+  },
+  [Network.Sepolia]: {
+    '0xb19382073c7a0addbb56ac6af1808fa49e377b75': {
+      extensions: {
+        coingeckoId: 'balancer',
+      },
+    },
+    '0xb77eb1a70a96fdaaeb31db1b42f2b8b5846b2613': {
+      extensions: {
+        coingeckoId: 'dai',
+      },
+    },
+    '0x7b79995e5f793a07bc00c21412e50ecae098e7f9': {
+      extensions: {
+        coingeckoId: 'weth',
+      },
+    },
+    '0x80d6d3946ed8a1da4e226aa21ccddc32bd127d1a': {
+      extensions: {
+        coingeckoId: 'usd-coin',
+      },
+    },
+    '0x6bf294b80c7d8dc72dee762af5d01260b756a051': {
+      extensions: {
+        coingeckoId: 'tether',
+      },
+    },
+    '0x23bad11f1543503cb1fb5dad05fdaf93f42d30f3': {
+      extensions: {
+        coingeckoId: 'stasis-eurs',
+      },
+    },
+    '0x0f409e839a6a790aecb737e4436293be11717f95': {
+      extensions: {
+        coingeckoId: 'beethoven-x',
+      },
+    },
+    '0xc3745bce4b5d0977dc874832bc99108d416dce8f': {
+      extensions: {
+        coingeckoId: 'wrapped-bitcoin',
+      },
     },
   },
 }
