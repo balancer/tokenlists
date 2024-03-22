@@ -398,6 +398,7 @@ export const overwrites: OverwritesForList = {
   },
   [Network.Optimism]: {
     '0xe05A08226c49b636ACf99c40Da8DC6aF83CE5bB3': {
+      name: 'Ankr staked ETH',
       logoURI:
         'https://www.ankr.com/_next/static/images/ethereum-ankreth-logo-794cb04ee270a7cb5c8559924aa5211d.png',
     },
@@ -425,6 +426,43 @@ export const overwrites: OverwritesForList = {
       name: 'Static Aave Ethereum USDT',
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf8fd466f12e236f4c96f7cce6c79eadb819abf58.png',
+    },
+    '0x7F5c764cBc14f9669B88837ca1490cCa17c31607': { symbol: 'USDC.e' },
+    '0x39FdE572a18448F8139b7788099F0a0740f51205': {
+      name: 'OATH',
+      symbol: 'OATHv1',
+    },
+    '0xb4Bc46bc6cB217B59ea8F4530BaE26Bf69F677f0': { name: 'Beethoven X' },
+    '0xc96f4F893286137aC17e07Ae7F217fFca5db3AB6': {
+      logoURI:
+        'https://assets.coingecko.com/coins/images/29116/large/20230223_224134.jpg?1677224110',
+    },
+    '0x00e1724885473B63bCE08a9f0a52F35b0979e35A': {
+      name: 'OATH',
+      symbol: 'OATHv2',
+    },
+    '0x3e9cBFfd270AE67aBB09D28988e7e785498c7373': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/boosted-OP-enclosed%402x.png',
+    },
+    '0xc83c23DBA4a008d7Df46cd50Ad144ae856b6B1Be': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/boosted-sUSD-enclosed%402x.png',
+    },
+    '0x3F56e0c36d275367b8C502090EDF38289b3dEa0d': {
+      name: 'Qi Dao',
+      symbol: 'QI (old)',
+      logoURI:
+        'https://assets.coingecko.com/coins/images/15329/large/qi.png?1620540969',
+    },
+    '0x0c5b4c92c948691EEBf185C17eeB9c230DC019E9': {
+      name: 'Pickle Finance',
+      logoURI:
+        'https://assets.coingecko.com/coins/images/12435/large/0M4W6Yr6_400x400.jpg?1643006080',
+    },
+    '0x1509706a6c66CA549ff0cB464de88231DDBe213B': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/aura.png',
     },
   },
   [Network.Gnosis]: {
