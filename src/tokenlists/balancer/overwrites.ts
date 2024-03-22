@@ -398,7 +398,6 @@ export const overwrites: OverwritesForList = {
   },
   [Network.Optimism]: {
     '0xe05A08226c49b636ACf99c40Da8DC6aF83CE5bB3': {
-      name: 'Ankr staked ETH',
       logoURI:
         'https://www.ankr.com/_next/static/images/ethereum-ankreth-logo-794cb04ee270a7cb5c8559924aa5211d.png',
     },
