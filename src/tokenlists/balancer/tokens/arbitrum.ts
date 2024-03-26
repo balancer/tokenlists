@@ -185,4 +185,5 @@ export default [
   '0xbde67e089886ec0e615d6f054bc6f746189a3d56', // stataArbUSDCn (different proxy address)
   '0x8b5541b773dd781852940490b0c3dc1a8cdb6a87', // stataArbUSDT
   '0xb165a74407fe1e519d6bcbdec1ed3202b35a4140', // stataArbUSDT (different proxy address)
+  '0x7CFaDFD5645B50bE87d546f42699d863648251ad', // stataArbUSDCn
 ]
