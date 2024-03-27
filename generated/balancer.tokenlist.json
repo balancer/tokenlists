@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-03-26T03:27:29.069Z",
+    "timestamp": "2024-03-27T11:45:51.253Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5810,8 +5810,7 @@
             "address": "0x5bBe36152d3CD3eB7183A82470b39b29EedF068B",
             "name": "Hord ETH Staking",
             "symbol": "hETH",
-            "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/29624/large/hETH_TOKEN.png?1698343953"
+            "decimals": 18
         },
         {
             "chainId": 1,
@@ -13206,6 +13205,16 @@
             "symbol": "PRF",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1310952bc5594852459ee45bfd0df70b34ac5509.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xfc675adFDd721064ba923D07A8A238A9e52D8aCE",
+            "name": "escrowed PRF",
+            "symbol": "esPRF",
+            "decimals": 18,
+            "extensions": {
+                "coingeckoId": "parifi"
+            }
         },
         {
             "chainId": 42161,
