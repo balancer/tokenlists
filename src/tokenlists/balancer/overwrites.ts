@@ -266,6 +266,11 @@ export const overwrites: OverwritesForList = {
     },
   },
   [Network.Arbitrum]: {
+    '0xfc675adfdd721064ba923d07a8a238a9e52d8ace': {
+      extensions: {
+        coingeckoId: 'parifi',
+      },
+    },
     '0x040d1EdC9569d4Bab2D15287Dc5A4F10F56a56B8': {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xba100000625a3754423978a60c9317c58a424e3d.png',
