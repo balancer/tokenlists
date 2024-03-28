@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-03-28T14:36:02.765Z",
+    "timestamp": "2024-03-28T16:42:17.584Z",
     "tokens": [
         {
             "chainId": 1,
@@ -10593,6 +10593,20 @@
             "symbol": "USDGLO",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/29319/large/glo_logo_coingecko.png?1696528270"
+        },
+        {
+            "chainId": 137,
+            "address": "0x33b4D2866530a25513f6c669d6b6a8c72674Ed9E",
+            "name": "Verified Pool Token",
+            "symbol": "VPT",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x109b890060ae0249c1e67BF85931C1a087A0A5A3",
+            "name": "Swiss Green Gold ETP\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+            "symbol": "AUCO2\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+            "decimals": 18
         },
         {
             "chainId": 250,
