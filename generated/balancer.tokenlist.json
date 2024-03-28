@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-03-27T11:45:51.253Z",
+    "timestamp": "2024-03-28T14:36:02.765Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6904,6 +6904,14 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x32bd822d615a3658a68b6fdd30c2fcb2c996d678.png"
         },
         {
+            "chainId": 1,
+            "address": "0xA663B02CF0a4b149d2aD41910CB81e23e1c41c32",
+            "name": "Staked FRAX",
+            "symbol": "sFRAX",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/35383/large/sfrax.png?1708445569"
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -13212,9 +13220,7 @@
             "name": "escrowed PRF",
             "symbol": "esPRF",
             "decimals": 18,
-            "extensions": {
-                "coingeckoId": "parifi"
-            }
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfc675adfdd721064ba923d07a8a238a9e52d8ace.png"
         },
         {
             "chainId": 42161,
