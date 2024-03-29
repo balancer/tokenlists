@@ -718,6 +718,13 @@ export const overwrites: OverwritesForList = {
       },
     },
   },
+  [Network.Optimism]: {
+    '0xFC2E6e6BCbd49ccf3A5f029c79984372DcBFE527': {
+      extensions: {
+        coingeckoId: 'autonolas',
+      },
+    },
+  },
   [Network.Sepolia]: {
     '0xb19382073c7a0addbb56ac6af1808fa49e377b75': {
       extensions: {
