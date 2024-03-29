@@ -264,6 +264,11 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf8fd466f12e236f4c96f7cce6c79eadb819abf58.png',
     },
+    '0x109b890060ae0249c1e67BF85931C1a087A0A5A3': {
+      name: 'Swiss Green Gold ETP',
+      symbol: 'AUCO2',
+      decimals: 18,
+    },
   },
   [Network.Arbitrum]: {
     '0xfc675adfdd721064ba923d07a8a238a9e52d8ace': {
