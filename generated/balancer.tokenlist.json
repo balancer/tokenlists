@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-03-29T14:30:49.766Z",
+    "timestamp": "2024-03-29T18:33:58.420Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6905,18 +6905,19 @@
         },
         {
             "chainId": 1,
+            "address": "0x939CED8875d1Cd75D8b9aca439e6526e9A822A48",
+            "name": "goldCOMP",
+            "symbol": "goldCOMP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x939ced8875d1cd75d8b9aca439e6526e9a822a48.png"
+        },
+        {
+            "chainId": 1,
             "address": "0xA663B02CF0a4b149d2aD41910CB81e23e1c41c32",
             "name": "Staked FRAX",
             "symbol": "sFRAX",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/35383/large/sfrax.png?1708445569"
-        },
-        {
-            "chainId": 1,
-            "address": "0x939CED8875d1Cd75D8b9aca439e6526e9A822A48",
-            "name": "goldCOMP",
-            "symbol": "goldCOMP",
-            "decimals": 18
         },
         {
             "chainId": 5,
