@@ -1,5 +1,4 @@
 export default [
-  '0x8B1BBFd76E92b488AdeaA62b18375FBf860f730E', // MER
   '0x912CE59144191C1204E64559FE8253a0e49E6548',
   '0x040d1EdC9569d4Bab2D15287Dc5A4F10F56a56B8',
   '0x11cDb42B0EB46D95f990BeDD4695A6e3fA034978',
@@ -187,4 +186,5 @@ export default [
   '0xbde67e089886ec0e615d6f054bc6f746189a3d56', // stataArbUSDCn (different proxy address)
   '0x8b5541b773dd781852940490b0c3dc1a8cdb6a87', // stataArbUSDT
   '0xb165a74407fe1e519d6bcbdec1ed3202b35a4140', // stataArbUSDT (different proxy address)
+  '0x8B1BBFd76E92b488AdeaA62b18375FBf860f730E', // MER
 ]
