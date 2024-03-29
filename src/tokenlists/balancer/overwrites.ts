@@ -266,6 +266,12 @@ export const overwrites: OverwritesForList = {
     },
   },
   [Network.Arbitrum]: {
+    '0x8B1BBFd76E92b488AdeaA62b18375FBf860f730E': {
+      name: 'Mercury RWA Token, 1:10,000 (Borderless.Fi)',
+      symbol: 'MER',
+      logoURI:
+        'https://quicknode.quicknode-ipfs.com/ipfs/QmNnGk9xy2eWXK7hJLL7Ag82QGsLe9nLM5kPdi3kJ7WxQS',
+    },
     '0xfc675adfdd721064ba923d07a8a238a9e52d8ace': {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfc675adfdd721064ba923d07a8a238a9e52d8ace.png',
