@@ -483,6 +483,11 @@ export const overwrites: OverwritesForList = {
         coingeckoId: null,
       },
     },
+    '0xFC2E6e6BCbd49ccf3A5f029c79984372DcBFE527': {
+      extensions: {
+        coingeckoId: 'autonolas',
+      },
+    },
   },
   [Network.Gnosis]: {
     '0x7eF541E2a22058048904fE5744f9c7E4C57AF717': {
@@ -717,12 +722,35 @@ export const overwrites: OverwritesForList = {
         coingeckoId: null,
       },
     },
-  },
-  [Network.Optimism]: {
-    '0xFC2E6e6BCbd49ccf3A5f029c79984372DcBFE527': {
-      extensions: {
-        coingeckoId: 'autonolas',
-      },
+    '0x5a27c97Bf717F455c9eeb838a53Fb9F044509C59': {
+      logoURI:
+        'https://dd.dexscreener.com/ds-data/tokens/fantom/0x5a27c97bf717f455c9eeb838a53fb9f044509c59.png?size=lg&key=99a609',
+    },
+    '0xA80058bDf71F4044942107e33a802752B3bfB4d0': {
+      logoURI:
+        'https://static.wixstatic.com/media/a79209_65ac74b375c94fb5a04c2e91f7b8c3d4~mv2.png/v1/crop/x_606,y_187,w_2870,h_2971/fill/w_262,h_272,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/oo2png.png',
+    },
+    '0xb5Fd949436772E07CbBF35Fb6524e79924c54CB3': {
+      logoURI:
+        'https://dd.dexscreener.com/ds-data/tokens/fantom/0xb5fd949436772e07cbbf35fb6524e79924c54cb3.png?size=lg&key=16c774',
+    },
+    '0x1f008f9af47b387BDF67a25f2B8219942207298f': {
+      logoURI:
+        'https://dd.dexscreener.com/ds-data/tokens/fantom/0x1f008f9af47b387bdf67a25f2b8219942207298f.png?size=lg&key=327682',
+    },
+    '0xd361474bB19C8b98870bb67F5759cDF277Dee7F9': {
+      logoURI:
+        'https://moonmasters.mypinata.cloud/ipfs/QmWTSjcjffhJKas33GHMcLbmjSEKq3wVvKroCZAAmyxoVd',
+    },
+    '0x0E3B1C9be555Ec9806f6eaB9bd101487F53CF0C9': {
+      logoURI: 'https://i.ibb.co/GRtqh61/Grok-Fantom-Logo.png',
+    },
+    '0x9Ab1070d74216a5F627c6937C0767eA5b990C3d8': {
+      logoURI: 'https://i.ibb.co/W5t3Ssj/IMG-3827-modified.png',
+    },
+    '0x5cF90b977C86415a53CE3B7bE13b26f6abdDfee2': {
+      logoURI:
+        'https://equalizer.exchange/assets/fantom/token/0x5cf90b977c86415a53ce3b7be13b26f6abddfee2.png',
     },
   },
   [Network.Sepolia]: {
