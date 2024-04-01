@@ -187,4 +187,5 @@ export default [
   '0x8b5541b773dd781852940490b0c3dc1a8cdb6a87', // stataArbUSDT
   '0xb165a74407fe1e519d6bcbdec1ed3202b35a4140', // stataArbUSDT (different proxy address)
   '0x8B1BBFd76E92b488AdeaA62b18375FBf860f730E', // MER
+  '0x0945cae3ae47cb384b2d47bc448dc6a9dec21f55', // Threshold Network Token (T)
 ]
