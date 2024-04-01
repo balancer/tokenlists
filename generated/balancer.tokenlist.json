@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-03-29T18:33:58.420Z",
+    "timestamp": "2024-04-01T21:55:36.947Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5810,7 +5810,8 @@
             "address": "0x5bBe36152d3CD3eB7183A82470b39b29EedF068B",
             "name": "Hord ETH Staking",
             "symbol": "hETH",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/29624/large/hETH_TOKEN.png?1698343953"
         },
         {
             "chainId": 1,
@@ -6920,6 +6921,14 @@
             "logoURI": "https://assets.coingecko.com/coins/images/35383/large/sfrax.png?1708445569"
         },
         {
+            "chainId": 1,
+            "address": "0x59D9356E565Ab3A36dD77763Fc0d87fEaf85508C",
+            "name": "Mountain Protocol USD",
+            "symbol": "USDM",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/31719/large/usdm.png?1696530540"
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -7337,10 +7346,13 @@
         {
             "chainId": 10,
             "address": "0x97513e975a7fA9072c72C92d8000B0dB90b163c5",
-            "name": "BeethovenxToken",
+            "name": "multiBeets",
             "symbol": "multiBeets",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x97513e975a7fa9072c72c92d8000b0db90b163c5.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x97513e975a7fa9072c72c92d8000b0db90b163c5.png",
+            "extensions": {
+                "coingeckoId": null
+            }
         },
         {
             "chainId": 10,
@@ -7424,7 +7436,7 @@
         {
             "chainId": 10,
             "address": "0x39FdE572a18448F8139b7788099F0a0740f51205",
-            "name": "Oath Token",
+            "name": "OATH",
             "symbol": "OATHv1",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x39fde572a18448f8139b7788099f0a0740f51205.png"
@@ -7675,7 +7687,7 @@
         {
             "chainId": 10,
             "address": "0xb4Bc46bc6cB217B59ea8F4530BaE26Bf69F677f0",
-            "name": "BeethovenxToken",
+            "name": "Beethoven X",
             "symbol": "BEETS",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png?1696518608"
@@ -7779,23 +7791,26 @@
         {
             "chainId": 10,
             "address": "0x9F281eb58fd98ad98EDe0fc4C553AD4D73e7Ca2C",
-            "name": "Static Aave Optimism USDC",
-            "symbol": "stataOptUSDC",
-            "decimals": 6
+            "name": "Static Aave Ethereum USDC.e",
+            "symbol": "AaveUSDCe",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe719aef17468c7e10c0c205be62c990754dff7e5.png"
         },
         {
             "chainId": 10,
             "address": "0x4DD03dfD36548C840B563745e3FBeC320F37BA7e",
-            "name": "Static Aave Optimism USDCn",
-            "symbol": "stataOptUSDCn",
-            "decimals": 6
+            "name": "Static Aave Ethereum USDCn",
+            "symbol": "AaveUSDCn",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe719aef17468c7e10c0c205be62c990754dff7e5.png"
         },
         {
             "chainId": 10,
             "address": "0x035c93db04E5aAea54E6cd0261C492a3e0638b37",
-            "name": "Static Aave Optimism USDT",
-            "symbol": "stataOptUSDT",
-            "decimals": 6
+            "name": "Static Aave Ethereum USDT",
+            "symbol": "AaveUSDT",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf8fd466f12e236f4c96f7cce6c79eadb819abf58.png"
         },
         {
             "chainId": 10,
@@ -11337,6 +11352,70 @@
             "decimals": 9
         },
         {
+            "chainId": 250,
+            "address": "0x5a27c97Bf717F455c9eeb838a53Fb9F044509C59",
+            "name": "Fanties",
+            "symbol": "Fantie",
+            "decimals": 18,
+            "logoURI": "https://dd.dexscreener.com/ds-data/tokens/fantom/0x5a27c97bf717f455c9eeb838a53fb9f044509c59.png?size=lg&key=99a609"
+        },
+        {
+            "chainId": 250,
+            "address": "0xA80058bDf71F4044942107e33a802752B3bfB4d0",
+            "name": "Muttski",
+            "symbol": "MUTTSKI",
+            "decimals": 9,
+            "logoURI": "https://static.wixstatic.com/media/a79209_65ac74b375c94fb5a04c2e91f7b8c3d4~mv2.png/v1/crop/x_606,y_187,w_2870,h_2971/fill/w_262,h_272,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/oo2png.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0xb5Fd949436772E07CbBF35Fb6524e79924c54CB3",
+            "name": "Blacky",
+            "symbol": "BLACKY",
+            "decimals": 18,
+            "logoURI": "https://dd.dexscreener.com/ds-data/tokens/fantom/0xb5fd949436772e07cbbf35fb6524e79924c54cb3.png?size=lg&key=16c774"
+        },
+        {
+            "chainId": 250,
+            "address": "0x1f008f9af47b387BDF67a25f2B8219942207298f",
+            "name": "Knuckles",
+            "symbol": "Fknuckles",
+            "decimals": 18,
+            "logoURI": "https://dd.dexscreener.com/ds-data/tokens/fantom/0x1f008f9af47b387bdf67a25f2b8219942207298f.png?size=lg&key=327682"
+        },
+        {
+            "chainId": 250,
+            "address": "0xd361474bB19C8b98870bb67F5759cDF277Dee7F9",
+            "name": "Moon Bay",
+            "symbol": "BAY",
+            "decimals": 18,
+            "logoURI": "https://moonmasters.mypinata.cloud/ipfs/QmWTSjcjffhJKas33GHMcLbmjSEKq3wVvKroCZAAmyxoVd"
+        },
+        {
+            "chainId": 250,
+            "address": "0x0E3B1C9be555Ec9806f6eaB9bd101487F53CF0C9",
+            "name": "Grok Fantom",
+            "symbol": "Grok",
+            "decimals": 18,
+            "logoURI": "https://i.ibb.co/GRtqh61/Grok-Fantom-Logo.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0x9Ab1070d74216a5F627c6937C0767eA5b990C3d8",
+            "name": "FantomGoatWifTinfoilHat",
+            "symbol": "GOAT",
+            "decimals": 18,
+            "logoURI": "https://i.ibb.co/W5t3Ssj/IMG-3827-modified.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0x5cF90b977C86415a53CE3B7bE13b26f6abdDfee2",
+            "name": "fTAILSFTM",
+            "symbol": "FTAILS",
+            "decimals": 18,
+            "logoURI": "https://equalizer.exchange/assets/fantom/token/0x5cf90b977c86415a53ce3b7be13b26f6abddfee2.png"
+        },
+        {
             "chainId": 1101,
             "address": "0x120eF59b80774F02211563834d8E3b72cb1649d6",
             "name": "Balancer",
@@ -13397,6 +13476,13 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x8b1bbfd76e92b488adeaa62b18375fbf860f730e.png"
         },
         {
+            "chainId": 42161,
+            "address": "0x0945Cae3ae47cb384b2d47BC448Dc6A9dEC21F55",
+            "name": "Threshold Network Token",
+            "symbol": "T",
+            "decimals": 18
+        },
+        {
             "chainId": 43114,
             "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
             "name": "Wrapped AVAX",
@@ -13948,6 +14034,14 @@
             "symbol": "XPOW",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/35936/large/logo-xpower-360-round.png?1710231766"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x20CF1b6E9d856321ed4686877CF4538F2C84B4dE",
+            "name": "Ankr Network",
+            "symbol": "ANKR",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/4324/large/U85xTl2.png?1696504928"
         },
         {
             "chainId": 11155111,
