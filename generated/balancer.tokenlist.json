@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-04-01T21:55:36.947Z",
+    "timestamp": "2024-04-02T03:38:11.732Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12004,6 +12004,17 @@
             "name": "Banania",
             "symbol": "BANANIA",
             "decimals": 18
+        },
+        {
+            "chainId": 8453,
+            "address": "0x1f55a02A049033E3419a8E2975cF3F572F4e6E9A",
+            "name": "Staked Frax Ether",
+            "symbol": "sfrxETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1f55a02a049033e3419a8e2975cf3f572f4e6e9a.png",
+            "extensions": {
+                "coingeckoId": "staked-frax-ether"
+            }
         },
         {
             "chainId": 42161,
