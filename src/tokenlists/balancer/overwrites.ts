@@ -496,7 +496,7 @@ export const overwrites: OverwritesForList = {
   [Network.Zkevm]: {},
   [Network.Base]: {
     '0x1f55a02A049033E3419a8E2975cF3F572F4e6E9A': {
-       extensions: {
+      extensions: {
         coingeckoId: 'staked-frax-ether',
       },
     },
