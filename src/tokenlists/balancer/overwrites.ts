@@ -494,6 +494,13 @@ export const overwrites: OverwritesForList = {
     },
   },
   [Network.Zkevm]: {},
+  [Network.Base]: {
+    '0x1f55a02A049033E3419a8E2975cF3F572F4e6E9A': {
+      extensions: {
+        coingeckoId: 'staked-frax-ether',
+      },
+    },
+  },
   [Network.Fantom]: {
     '0xf1648C50d2863f780c57849D812b4B7686031A3D': {
       name: 'LayerZero Wrapped Bitcoin',
