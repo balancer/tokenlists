@@ -188,4 +188,5 @@ export default [
   '0xb165a74407fe1e519d6bcbdec1ed3202b35a4140', // stataArbUSDT (different proxy address)
   '0x8B1BBFd76E92b488AdeaA62b18375FBf860f730E', // MER
   '0x0945cae3ae47cb384b2d47bc448dc6a9dec21f55', // Threshold Network Token (T)
+  '0x537D8ef9E6E0adfb099cB14aeAF04EBEFFAF444c', // USDe/USDC
 ]
