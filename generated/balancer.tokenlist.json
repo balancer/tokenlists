@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-04-02T03:38:11.732Z",
+    "timestamp": "2024-04-03T01:39:14.706Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5810,8 +5810,7 @@
             "address": "0x5bBe36152d3CD3eB7183A82470b39b29EedF068B",
             "name": "Hord ETH Staking",
             "symbol": "hETH",
-            "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/29624/large/hETH_TOKEN.png?1698343953"
+            "decimals": 18
         },
         {
             "chainId": 1,
@@ -6927,6 +6926,14 @@
             "symbol": "USDM",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/31719/large/usdm.png?1696530540"
+        },
+        {
+            "chainId": 1,
+            "address": "0xD60EeA80C83779a8A5BFCDAc1F3323548e6BB62d",
+            "name": "ShezmuUSD",
+            "symbol": "ShezUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd60eea80c83779a8a5bfcdac1f3323548e6bb62d.png"
         },
         {
             "chainId": 5,
