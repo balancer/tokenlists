@@ -189,4 +189,5 @@ export default [
   '0x8B1BBFd76E92b488AdeaA62b18375FBf860f730E', // MER
   '0x0945cae3ae47cb384b2d47bc448dc6a9dec21f55', // Threshold Network Token (T)
   '0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2', // sUSDe
+  '0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34', // USDe
 ]
