@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-04-03T13:58:08.023Z",
+    "timestamp": "2024-04-04T00:51:46.551Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12040,6 +12040,20 @@
             }
         },
         {
+            "chainId": 8453,
+            "address": "0x6b11A1Fb980D2e73A61b08c9465a4B19dA4a6f62",
+            "name": "TOKENBASET",
+            "symbol": "TBT1",
+            "decimals": 18
+        },
+        {
+            "chainId": 8453,
+            "address": "0xD3C66029f050b2C220d3B8566E50d0E8B3f83302",
+            "name": "Flower",
+            "symbol": "FLOW",
+            "decimals": 18
+        },
+        {
             "chainId": 42161,
             "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
             "name": "Arbitrum",
@@ -13514,6 +13528,20 @@
             "address": "0x0945Cae3ae47cb384b2d47BC448Dc6A9dEC21F55",
             "name": "Threshold Network Token",
             "symbol": "T",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
+            "name": "Staked USDe",
+            "symbol": "sUSDe",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+            "name": "USDe",
+            "symbol": "USDe",
             "decimals": 18
         },
         {
