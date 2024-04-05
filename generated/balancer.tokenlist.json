@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-04-04T00:51:46.551Z",
+    "timestamp": "2024-04-05T11:52:38.569Z",
     "tokens": [
         {
             "chainId": 1,
@@ -10644,6 +10644,37 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1509706a6c66ca549ff0cb464de88231ddbe213b.png"
         },
         {
+            "chainId": 137,
+            "address": "0xD6ba705DA1713F66925C46EbB9f6A9548c9E4213",
+            "name": "VNDES",
+            "symbol": "VDE",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0xA6da8C8999c094432c77E7d318951D34019AF24B",
+            "name": "tGOLD",
+            "symbol": "TXAU",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/27828/large/tGOLD_token_2D.jpg?1696526846"
+        },
+        {
+            "chainId": 137,
+            "address": "0x57fCbd6503C8BE3B1AbAD191Bc7799ef414A5b31",
+            "name": "tSILVER",
+            "symbol": "TXAG",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/27829/large/tSILVER_token_2D.jpg?1696526848"
+        },
+        {
+            "chainId": 137,
+            "address": "0x2e6978ceeA865948f4c5685e35AEC72652e3Cb88",
+            "name": "tPLATINUM",
+            "symbol": "TXPT",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/27830/large/tPLATINUM_%28TXPT%29_Token.png?1696526849"
+        },
+        {
             "chainId": 250,
             "address": "0xf1648C50d2863f780c57849D812b4B7686031A3D",
             "name": "Wrapped BTC",
@@ -13543,6 +13574,13 @@
             "name": "USDe",
             "symbol": "USDe",
             "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x6AC107c54e389db4dd02E08e5CD61B625d3E84D5",
+            "name": "Mercury RWA Token, 1:10000 (on Borderless.Fi)",
+            "symbol": "MER",
+            "decimals": 6
         },
         {
             "chainId": 43114,
