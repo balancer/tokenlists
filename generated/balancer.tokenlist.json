@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-04-05T11:52:38.569Z",
+    "timestamp": "2024-04-08T22:18:20.926Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8250,6 +8250,13 @@
         },
         {
             "chainId": 137,
+            "address": "0x28Acf29b65604Bd0f80e776256e5F5af39Fc2031",
+            "name": "SquirrelUnderCar",
+            "symbol": "Sucr",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
             "address": "0x00e5646f60AC6Fb446f621d146B6E1886f002905",
             "name": "Rai Reflex Index (PoS)",
             "symbol": "RAI",
@@ -13566,13 +13573,22 @@
             "address": "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
             "name": "Staked USDe",
             "symbol": "sUSDe",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2.png"
         },
         {
             "chainId": 42161,
             "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
             "name": "USDe",
             "symbol": "USDe",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x0945Cae3ae47cb384b2d47BC448Dc6A9dEC21F55",
+            "name": "Threshold Network Token",
+            "symbol": "T",
             "decimals": 18
         },
         {
