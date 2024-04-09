@@ -72,4 +72,5 @@ export default [
   '0x6806411765af15bddd26f8f544a34cc40cb9838b', // frxEth
   '0x2dd1b4d4548accea497050619965f91f78b3b532', // sFrax
   '0x3ee6107d9c93955acbb3f39871d32b02f82b78ab', // stERN
+  '0x2218a117083f5B482B0bB821d27056Ba9c04b1D3', // sDAI
 ]
