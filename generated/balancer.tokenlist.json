@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-04-08T22:18:20.926Z",
+    "timestamp": "2024-04-09T16:38:20.104Z",
     "tokens": [
         {
             "chainId": 1,
@@ -1870,7 +1870,7 @@
             "name": "The 4th Pillar Token",
             "symbol": "FOUR",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/3434/large/four-ticker-2021-256x256.png?1617702287"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4730fb1463a6f1f44aeb45f6c5c422427f37f4d0.png"
         },
         {
             "chainId": 1,
@@ -7844,6 +7844,13 @@
             "logoURI": "https://assets.coingecko.com/coins/images/31522/large/stERN.png?1696530332"
         },
         {
+            "chainId": 10,
+            "address": "0x2218a117083f5B482B0bB821d27056Ba9c04b1D3",
+            "name": "Savings Dai",
+            "symbol": "sDAI",
+            "decimals": 18
+        },
+        {
             "chainId": 100,
             "address": "0x7eF541E2a22058048904fE5744f9c7E4C57AF717",
             "name": "Balancer on xDai",
@@ -12092,6 +12099,13 @@
             "decimals": 18
         },
         {
+            "chainId": 8453,
+            "address": "0x99aC4484e8a1dbd6A185380B3A811913Ac884D87",
+            "name": "Savings Dai",
+            "symbol": "sDAI",
+            "decimals": 18
+        },
+        {
             "chainId": 42161,
             "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
             "name": "Arbitrum",
@@ -13597,6 +13611,20 @@
             "name": "Mercury RWA Token, 1:10000 (on Borderless.Fi)",
             "symbol": "MER",
             "decimals": 6
+        },
+        {
+            "chainId": 42161,
+            "address": "0x5E0543f61F94B40c9A5265b5B3a7B35aa8Dc6B49",
+            "name": "Amazing Token",
+            "symbol": "AT",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x81b58Ae322E933f8238505538A73FE81Ad4f2B1E",
+            "name": "Business Token",
+            "symbol": "BT",
+            "decimals": 18
         },
         {
             "chainId": 43114,
