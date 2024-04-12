@@ -3,7 +3,6 @@ import arbitrum from './arbitrum'
 import avalanche from './avalanche'
 import base from './base'
 import gnosis from './gnosis'
-import goerli from './goerli'
 import ethereum from './ethereum'
 import optimism from './optimism'
 import polygon from './polygon'
@@ -16,7 +15,6 @@ const config: Configs = {
   [Network.Avalanche]: avalanche,
   [Network.Base]: base,
   [Network.Gnosis]: gnosis,
-  [Network.Goerli]: goerli,
   [Network.Ethereum]: ethereum,
   [Network.Optimism]: optimism,
   [Network.Polygon]: polygon,
