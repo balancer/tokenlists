@@ -1,6 +1,6 @@
 export default {
   name: 'fantom',
-  rpc: 'https://rpc.fantom.gateway.fm',
+  rpc: 'https://rpc.fantom.network',
   coingecko: {
     platformId: 'fantom',
   },
