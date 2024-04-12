@@ -118,27 +118,6 @@ export const overwrites: OverwritesForList = {
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf8fd466f12e236f4c96f7cce6c79eadb819abf58.png',
     },
   },
-  [Network.Goerli]: {
-    '0x9bA00D6856a4eDF4665BcA2C2309936572473B7E': {
-      symbol: 'aUSDC',
-      logoURI:
-        'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9bA00D6856a4eDF4665BcA2C2309936572473B7E/logo.png',
-    },
-    '0x71fc860F7D3A592A4a98740e39dB31d25db65ae8': {
-      symbol: 'aUSDT',
-      logoURI:
-        'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x71fc860F7D3A592A4a98740e39dB31d25db65ae8/logo.png',
-    },
-    '0x398106564948fEeb1fEdeA0709AE7D969D62a391': {
-      symbol: 'miMATIC',
-      logoURI:
-        'https://assets.coingecko.com/coins/images/15264/large/mimatic-red.png?1620281018',
-    },
-    '0xfA8449189744799aD2AcE7e0EBAC8BB7575eff47': {
-      logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xba100000625a3754423978a60c9317c58a424e3d.png',
-    },
-  },
   [Network.Polygon]: {
     '0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3': {
       logoURI:
