@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-04-09T16:38:20.104Z",
+    "timestamp": "2024-04-12T13:15:36.893Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6936,341 +6936,6 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd60eea80c83779a8a5bfcdac1f3323548e6bb62d.png"
         },
         {
-            "chainId": 5,
-            "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
-            "name": "Wrapped Ether",
-            "symbol": "WETH",
-            "decimals": 18
-        },
-        {
-            "chainId": 5,
-            "address": "0xfA8449189744799aD2AcE7e0EBAC8BB7575eff47",
-            "name": "Balancer Governance Token",
-            "symbol": "BAL",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xba100000625a3754423978a60c9317c58a424e3d.png"
-        },
-        {
-            "chainId": 5,
-            "address": "0x8c9e6c40d3402480ACE624730524fACC5482798c",
-            "name": "Dai Stablecoin",
-            "symbol": "DAI",
-            "decimals": 18
-        },
-        {
-            "chainId": 5,
-            "address": "0x1f1f156E0317167c11Aa412E3d1435ea29Dc3cCE",
-            "name": "Tether USD",
-            "symbol": "USDT",
-            "decimals": 6
-        },
-        {
-            "chainId": 5,
-            "address": "0xe0C9275E44Ea80eF17579d33c55136b7DA269aEb",
-            "name": "USD Coin",
-            "symbol": "USDC",
-            "decimals": 6
-        },
-        {
-            "chainId": 5,
-            "address": "0x37f03a12241E9FD3658ad6777d289c3fb8512Bc9",
-            "name": "Wrapped BTC",
-            "symbol": "WBTC",
-            "decimals": 8
-        },
-        {
-            "chainId": 5,
-            "address": "0x829f35cEBBCd47d3c120793c12f7A232c903138B",
-            "name": "Fei USD",
-            "symbol": "FEI",
-            "decimals": 18
-        },
-        {
-            "chainId": 5,
-            "address": "0xFF386a3d08f80AC38c77930d173Fa56C6286Dc8B",
-            "name": "Gnosis Token",
-            "symbol": "GNO",
-            "decimals": 18
-        },
-        {
-            "chainId": 5,
-            "address": "0x4Cb1892FdDF14f772b2E39E299f44B2E5DA90d04",
-            "name": "Wrapped aUSDT",
-            "symbol": "USDT",
-            "decimals": 6
-        },
-        {
-            "chainId": 5,
-            "address": "0x811151066392fd641Fe74A9B55a712670572D161",
-            "name": "Wrapped aUSDC",
-            "symbol": "aUSDC",
-            "decimals": 6
-        },
-        {
-            "chainId": 5,
-            "address": "0x89534a24450081Aa267c79B07411e9617D984052",
-            "name": "Wrapped aDAI",
-            "symbol": "aDAI",
-            "decimals": 18
-        },
-        {
-            "chainId": 5,
-            "address": "0x98f71Bc76129fe6191afD91A36A20BDA7FF1bfE5",
-            "name": "Totem Token",
-            "symbol": "TOT",
-            "decimals": 0
-        },
-        {
-            "chainId": 5,
-            "address": "0xeFD681A82970AC5d980b9B2D40499735e7BF3F1F",
-            "name": "Balancer Aave Boosted Pool (USDT)",
-            "symbol": "bb-a-USDT",
-            "decimals": 18
-        },
-        {
-            "chainId": 5,
-            "address": "0x0595D1Df64279ddB51F1bdC405Fe2D0b4Cc86681",
-            "name": "Balancer Aave Boosted Pool (USDC)",
-            "symbol": "bb-a-USDC",
-            "decimals": 18
-        },
-        {
-            "chainId": 5,
-            "address": "0x5cEA6A84eD13590ED14903925Fa1A73c36297d99",
-            "name": "Balancer Aave Boosted Pool (DAI)",
-            "symbol": "bb-a-DAI",
-            "decimals": 18
-        },
-        {
-            "chainId": 5,
-            "address": "0x13ACD41C585d7EbB4a9460f7C8f50BE60DC080Cd",
-            "name": "Balancer Aave Boosted StablePool (USD)",
-            "symbol": "bb-a-USD",
-            "decimals": 18
-        },
-        {
-            "chainId": 5,
-            "address": "0x398106564948fEeb1fEdeA0709AE7D969D62a391",
-            "name": "miMATIC",
-            "symbol": "miMATIC",
-            "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/15264/large/mimatic-red.png?1620281018"
-        },
-        {
-            "chainId": 5,
-            "address": "0xA89436b4a7DcD19514BC71C0ddeF60f66f0c78b5",
-            "name": "SafeStake Network Token",
-            "symbol": "DVT",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa89436b4a7dcd19514bc71c0ddef60f66f0c78b5.png"
-        },
-        {
-            "chainId": 5,
-            "address": "0x7c7f7F252E0aA00960F6075bbEb278e8a06BC04c",
-            "name": "TokenTest1",
-            "symbol": "TKN1",
-            "decimals": 18
-        },
-        {
-            "chainId": 5,
-            "address": "0x9a1cB58840ee8c5533063c8d9b00d3a299B9C41e",
-            "name": "TokenTest2",
-            "symbol": "TKN2",
-            "decimals": 18
-        },
-        {
-            "chainId": 5,
-            "address": "0xE8310a081d2284EB42C84246f6Ab43bce7BbFb53",
-            "name": "BAR Test Token",
-            "symbol": "BAR",
-            "decimals": 18
-        },
-        {
-            "chainId": 5,
-            "address": "0x6320cD32aA674d2898A68ec82e869385Fc5f7E2f",
-            "name": "Wrapped liquid staked Ether 2.0",
-            "symbol": "wstETH",
-            "decimals": 18
-        },
-        {
-            "chainId": 5,
-            "address": "0x178E141a0E3b34152f73Ff610437A7bf9B83267A",
-            "name": "Rocket Pool ETH",
-            "symbol": "rETH",
-            "decimals": 18
-        },
-        {
-            "chainId": 5,
-            "address": "0xB4f4231fC4Be7A34f0a1BE046538793Dc8D99c0E",
-            "name": "Universal ETH",
-            "symbol": "uniETH",
-            "decimals": 18
-        },
-        {
-            "chainId": 5,
-            "address": "0x1e26305eF12324d810d8984c87C60eD7aa963f96",
-            "name": "ROOT",
-            "symbol": "ROOT",
-            "decimals": 18
-        },
-        {
-            "chainId": 5,
-            "address": "0xa411c9Aa00E020e4f88Bc19996d29c5B7ADB4ACf",
-            "name": "Xocolatl MXN Stablecoin",
-            "symbol": "XOC",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa411c9aa00e020e4f88bc19996d29c5b7adb4acf.png"
-        },
-        {
-            "chainId": 5,
-            "address": "0xC2713850898aa3b53e4ed4403C9c980a9F5d670C",
-            "name": "Looper ETH",
-            "symbol": "LETH",
-            "decimals": 18
-        },
-        {
-            "chainId": 5,
-            "address": "0xA33a79c5Efadac7c07693c3ce32Acf9a1Fc5A387",
-            "name": "Tapio Ether",
-            "symbol": "tapETH",
-            "decimals": 18
-        },
-        {
-            "chainId": 5,
-            "address": "0x72E77B9f7E6586B25324A9434C0d42d78bb00efb",
-            "name": "Wrapped Ether",
-            "symbol": "WETH",
-            "decimals": 18
-        },
-        {
-            "chainId": 5,
-            "address": "0x3cD99D149C2A7677D920cEDdeA865129e276D5e4",
-            "name": "Rocket Pool ETH",
-            "symbol": "rETH",
-            "decimals": 18
-        },
-        {
-            "chainId": 5,
-            "address": "0x67140fE03AA046399e52d6bD019Cc05c39b0bB3F",
-            "name": "ROOT",
-            "symbol": "ROOT",
-            "decimals": 18
-        },
-        {
-            "chainId": 5,
-            "address": "0xa675663742e3362924a3e032d306f129629d34b5",
-            "name": "Wrapped Ether",
-            "symbol": "WETH",
-            "decimals": 18
-        },
-        {
-            "chainId": 5,
-            "address": "0xA53a23a91A779fbB337e74E5e3F58b41Eed01037",
-            "name": "Rocket Pool ETH",
-            "symbol": "rETH",
-            "decimals": 18
-        },
-        {
-            "chainId": 5,
-            "address": "0x7C068817BcCfE2D2fe3b50f3655e7EEC0a96A88c",
-            "name": "Wrapped Ether",
-            "symbol": "WETH",
-            "decimals": 18
-        },
-        {
-            "chainId": 5,
-            "address": "0xF6c184eB69Fa254739daD44287F98F65aB6308fB",
-            "name": "Rocket Pool ETH",
-            "symbol": "rETH",
-            "decimals": 18
-        },
-        {
-            "chainId": 5,
-            "address": "0x97A31B8871F42edC3038ff16979B7f2646633BD0",
-            "name": "Asymetrix Governance Token",
-            "symbol": "ASX",
-            "decimals": 18
-        },
-        {
-            "chainId": 5,
-            "address": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
-            "name": "Wrapped Ether",
-            "symbol": "WETH",
-            "decimals": 18
-        },
-        {
-            "chainId": 5,
-            "address": "0xCA30c93B02514f86d5C86a6e375E3A330B435Fb5",
-            "name": "Backed IB01 $ Treasury Bond 0-1yr",
-            "symbol": "bIB01",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca30c93b02514f86d5c86a6e375e3a330b435fb5.png"
-        },
-        {
-            "chainId": 5,
-            "address": "0x2D7fA140eC620Db445CdE5A25C44Ae6FbeE96CF9",
-            "name": "OneZeroEight",
-            "symbol": "108",
-            "decimals": 18
-        },
-        {
-            "chainId": 5,
-            "address": "0x9Ba0160dB96B0eeD89c39D9a71624845E87782af",
-            "name": "ROOT",
-            "symbol": "ROOT",
-            "decimals": 18
-        },
-        {
-            "chainId": 5,
-            "address": "0xdd57C65e43Ee2E6af8916669800f06a8E4b08623",
-            "name": "Alkimi Exchange",
-            "symbol": "$ADS",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdd57c65e43ee2e6af8916669800f06a8e4b08623.png"
-        },
-        {
-            "chainId": 5,
-            "address": "0xDdb5Dc0E4B3f008227cA93F330Ad4932a1680277",
-            "name": "HDAOToken",
-            "symbol": "HDAO",
-            "decimals": 18
-        },
-        {
-            "chainId": 5,
-            "address": "0xA299d2cF306F99D5caf106F86da5c4f46dBa9fd0",
-            "name": "TestEnergyToken",
-            "symbol": "TET",
-            "decimals": 18
-        },
-        {
-            "chainId": 5,
-            "address": "0x7e09999FC7F4997Ef747365d8E1fdc5fD872b7aA",
-            "name": "USDHToken",
-            "symbol": "USDH",
-            "decimals": 6
-        },
-        {
-            "chainId": 5,
-            "address": "0x5D86C1076710D91720679E423D4Dd0bA58dC5684",
-            "name": "Fake Wrapped Ethereum",
-            "symbol": "FWETH",
-            "decimals": 18
-        },
-        {
-            "chainId": 5,
-            "address": "0x812aA52061571a7851ab37E73A4CBd268191c867",
-            "name": "Fake OXT",
-            "symbol": "FOXT",
-            "decimals": 18
-        },
-        {
-            "chainId": 5,
-            "address": "0x5499f8a9C38a85f0078F9D880e5336736111e52b",
-            "name": "USDH Tether Token",
-            "symbol": "USDHT",
-            "decimals": 6
-        },
-        {
             "chainId": 10,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -12106,6 +11771,13 @@
             "decimals": 18
         },
         {
+            "chainId": 8453,
+            "address": "0x4EA71A20e655794051D1eE8b6e4A3269B13ccaCc",
+            "name": "Static Aave Base USDC",
+            "symbol": "stataBasUSDC",
+            "decimals": 6
+        },
+        {
             "chainId": 42161,
             "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
             "name": "Arbitrum",
@@ -14194,6 +13866,14 @@
             "symbol": "AURA",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1509706a6c66ca549ff0cb464de88231ddbe213b.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x913C61ec3573E5E4ee6488552535Fb1be84FF2AC",
+            "name": "Xave Token",
+            "symbol": "XAV",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/28299/large/Xave_logo_gradient.png?1696527298"
         },
         {
             "chainId": 11155111,
