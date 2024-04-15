@@ -785,7 +785,7 @@ export const overwrites: OverwritesForList = {
       symbol: 'SQRCAT',
       name: 'SQRCAT',
       logoURI:
-        'https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xc8E7fB72B53D08C4f95b93b390ed3f132d03f2D5/logo.png'
-    }
-  }
+        'https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xc8E7fB72B53D08C4f95b93b390ed3f132d03f2D5/logo.png',
+    },
+  },
 }
