@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-04-15T17:39:18.175Z",
+    "timestamp": "2024-04-15T21:36:35.743Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6934,6 +6934,14 @@
             "symbol": "ShezUSD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd60eea80c83779a8a5bfcdac1f3323548e6bb62d.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x9D39A5DE30e57443BfF2A8307A4256c8797A3497",
+            "name": "Staked USDe",
+            "symbol": "sUSDe",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9d39a5de30e57443bff2a8307a4256c8797a3497.png"
         },
         {
             "chainId": 10,
