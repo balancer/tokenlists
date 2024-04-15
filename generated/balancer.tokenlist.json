@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-04-12T13:15:36.893Z",
+    "timestamp": "2024-04-15T17:39:18.175Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7516,6 +7516,13 @@
             "decimals": 18
         },
         {
+            "chainId": 10,
+            "address": "0x346e03F8Cce9fE01dCB3d0Da3e9D00dC2c0E08f0",
+            "name": "Wrapped eETH",
+            "symbol": "weETH",
+            "decimals": 18
+        },
+        {
             "chainId": 100,
             "address": "0x7eF541E2a22058048904fE5744f9c7E4C57AF717",
             "name": "Balancer on xDai",
@@ -13874,6 +13881,14 @@
             "symbol": "XAV",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/28299/large/Xave_logo_gradient.png?1696527298"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xc8E7fB72B53D08C4f95b93b390ed3f132d03f2D5",
+            "name": "SQRCAT",
+            "symbol": "SQRCAT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xc8E7fB72B53D08C4f95b93b390ed3f132d03f2D5/logo.png"
         },
         {
             "chainId": 11155111,
