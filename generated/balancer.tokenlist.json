@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-04-15T21:36:35.743Z",
+    "timestamp": "2024-04-19T13:12:16.056Z",
     "tokens": [
         {
             "chainId": 1,
@@ -10369,6 +10369,27 @@
             "logoURI": "https://assets.coingecko.com/coins/images/27830/large/tPLATINUM_%28TXPT%29_Token.png?1696526849"
         },
         {
+            "chainId": 137,
+            "address": "0x61fFE097137d543f019F5257E1a1Ff7A6C5F0b68",
+            "name": "STARV4 by StarSeeds Protocol",
+            "symbol": "STARV4",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x0aC6afeBBDc99E152B8d359eA5352aF798550f05",
+            "name": "Verified Pool Token",
+            "symbol": "VPT",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x5D0270967baB81d0822e500b986CB6652186eaa9",
+            "name": "Swiss Green Gold ETP\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+            "symbol": "AUCO2\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+            "decimals": 18
+        },
+        {
             "chainId": 250,
             "address": "0xf1648C50d2863f780c57849D812b4B7686031A3D",
             "name": "Wrapped BTC",
@@ -11789,8 +11810,9 @@
             "chainId": 8453,
             "address": "0x4EA71A20e655794051D1eE8b6e4A3269B13ccaCc",
             "name": "Static Aave Base USDC",
-            "symbol": "stataBasUSDC",
-            "decimals": 6
+            "symbol": "AaveUSDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe719aef17468c7e10c0c205be62c990754dff7e5.png"
         },
         {
             "chainId": 42161,
