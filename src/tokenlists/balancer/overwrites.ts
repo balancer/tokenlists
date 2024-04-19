@@ -479,6 +479,20 @@ export const overwrites: OverwritesForList = {
         coingeckoId: 'staked-frax-ether',
       },
     },
+    '0x4EA71A20e655794051D1eE8b6e4A3269B13ccaCc': {
+      decimals: 6,
+      symbol: 'AaveUSDC',
+      name: 'Static Aave Base USDC',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe719aef17468c7e10c0c205be62c990754dff7e5.png',
+    },
+    '0x99ac4484e8a1dbd6a185380b3a811913ac884d87': {
+      decimals: 18,
+      symbol: 'sDAI',
+      name: 'Savings Dai',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x86a42b7a448c1568d21b00c90eab53b8417eeadc.png',
+    },
   },
   [Network.Fantom]: {
     '0xf1648C50d2863f780c57849D812b4B7686031A3D': {
