@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-04-19T13:12:16.056Z",
+    "timestamp": "2024-04-23T11:51:47.331Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7894,6 +7894,13 @@
         },
         {
             "chainId": 100,
+            "address": "0x4d18815D14fe5c3304e87B3FA18318baa5c23820",
+            "name": "Safe Token from Mainnet",
+            "symbol": "SAFE",
+            "decimals": 18
+        },
+        {
+            "chainId": 100,
             "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
             "name": "Staked EURA",
             "symbol": "stEUR",
@@ -10387,6 +10394,13 @@
             "address": "0x5D0270967baB81d0822e500b986CB6652186eaa9",
             "name": "Swiss Green Gold ETP\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
             "symbol": "AUCO2\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x101766a77FB9956B9D8a79Ed48c8A56A17767752",
+            "name": "Verified Pool Token",
+            "symbol": "VPT",
             "decimals": 18
         },
         {
