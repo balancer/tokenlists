@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-04-23T15:25:36.870Z",
+    "timestamp": "2024-04-23T16:00:41.114Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13357,7 +13357,8 @@
             "address": "0x83e1d2310Ade410676B1733d16e89f91822FD5c3",
             "name": "Jito Staked SOL",
             "symbol": "JitoSOL",
-            "decimals": 9
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x83e1d2310ade410676b1733d16e89f91822fd5c3.png"
         },
         {
             "chainId": 42161,
