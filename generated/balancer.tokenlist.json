@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-04-23T16:00:41.114Z",
+    "timestamp": "2024-04-24T02:12:00.289Z",
     "tokens": [
         {
             "chainId": 1,
@@ -10400,6 +10400,13 @@
         },
         {
             "chainId": 137,
+            "address": "0xc48fC141c4EfBe264b71005535cbC427ff4f24a6",
+            "name": "Anglogold Ashanti ADR\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+            "symbol": "CH1318754160\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
             "address": "0x101766a77FB9956B9D8a79Ed48c8A56A17767752",
             "name": "Verified Pool Token",
             "symbol": "VPT",
@@ -11830,6 +11837,21 @@
             "symbol": "AaveUSDC",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe719aef17468c7e10c0c205be62c990754dff7e5.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0xf99216ea12149312101De03FC7c35182983E3b30",
+            "name": "Dolphin",
+            "symbol": "DLPN",
+            "decimals": 18
+        },
+        {
+            "chainId": 8453,
+            "address": "0xE3086852A4B125803C815a158249ae468A3254Ca",
+            "name": "mfercoin",
+            "symbol": "$mfer",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/36550/large/mfercoin-logo.png?1711876821"
         },
         {
             "chainId": 42161,
@@ -13365,7 +13387,8 @@
             "address": "0x2bcC6D6CdBbDC0a4071e48bb3B969b06B3330c07",
             "name": "Wrapped SOL",
             "symbol": "SOL",
-            "decimals": 9
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2bcc6d6cdbbdc0a4071e48bb3b969b06b3330c07.png"
         },
         {
             "chainId": 43114,
