@@ -465,6 +465,10 @@ export const overwrites: OverwritesForList = {
         coingeckoId: 'autonolas',
       },
     },
+    '0x2218a117083f5B482B0bB821d27056Ba9c04b1D3': {
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x83f20f44975d03b1b09e64809b757c47f942beea.png',
+    },
   },
   [Network.Gnosis]: {
     '0x7eF541E2a22058048904fE5744f9c7E4C57AF717': {
@@ -486,12 +490,9 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe719aef17468c7e10c0c205be62c990754dff7e5.png',
     },
-    '0x99ac4484e8a1dbd6a185380b3a811913ac884d87': {
-      decimals: 18,
-      symbol: 'sDAI',
-      name: 'Savings Dai',
+    '0x99aC4484e8a1dbd6A185380B3A811913Ac884D87': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x86a42b7a448c1568d21b00c90eab53b8417eeadc.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x83f20f44975d03b1b09e64809b757c47f942beea.png',
     },
   },
   [Network.Fantom]: {

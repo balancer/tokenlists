@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-04-19T13:12:16.056Z",
+    "timestamp": "2024-04-23T16:00:41.114Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7521,7 +7521,8 @@
             "address": "0x2218a117083f5B482B0bB821d27056Ba9c04b1D3",
             "name": "Savings Dai",
             "symbol": "sDAI",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x83f20f44975d03b1b09e64809b757c47f942beea.png"
         },
         {
             "chainId": 10,
@@ -7891,6 +7892,14 @@
             "name": "Balancer Stable USD 4pool",
             "symbol": "STABAL4",
             "decimals": 18
+        },
+        {
+            "chainId": 100,
+            "address": "0x4d18815D14fe5c3304e87B3FA18318baa5c23820",
+            "name": "Safe Token from Mainnet",
+            "symbol": "SAFE",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/27032/large/Artboard_1_copy_8circle-1.png?1696526084"
         },
         {
             "chainId": 100,
@@ -10390,6 +10399,13 @@
             "decimals": 18
         },
         {
+            "chainId": 137,
+            "address": "0x101766a77FB9956B9D8a79Ed48c8A56A17767752",
+            "name": "Verified Pool Token",
+            "symbol": "VPT",
+            "decimals": 18
+        },
+        {
             "chainId": 250,
             "address": "0xf1648C50d2863f780c57849D812b4B7686031A3D",
             "name": "Wrapped BTC",
@@ -11804,7 +11820,8 @@
             "address": "0x99aC4484e8a1dbd6A185380B3A811913Ac884D87",
             "name": "Savings Dai",
             "symbol": "sDAI",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x83f20f44975d03b1b09e64809b757c47f942beea.png"
         },
         {
             "chainId": 8453,
@@ -13334,6 +13351,21 @@
             "name": "Business Token",
             "symbol": "BT",
             "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x83e1d2310Ade410676B1733d16e89f91822FD5c3",
+            "name": "Jito Staked SOL",
+            "symbol": "JitoSOL",
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x83e1d2310ade410676b1733d16e89f91822fd5c3.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x2bcC6D6CdBbDC0a4071e48bb3B969b06B3330c07",
+            "name": "Wrapped SOL",
+            "symbol": "SOL",
+            "decimals": 9
         },
         {
             "chainId": 43114,
