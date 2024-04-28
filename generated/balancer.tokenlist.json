@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-04-24T02:12:00.289Z",
+    "timestamp": "2024-04-27T15:00:13.462Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6944,6 +6944,21 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9d39a5de30e57443bff2a8307a4256c8797a3497.png"
         },
         {
+            "chainId": 1,
+            "address": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
+            "name": "EURA (previously agEUR)",
+            "symbol": "EURA",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/19479/large/agEUR-4.png?1710726218"
+        },
+        {
+            "chainId": 1,
+            "address": "0x9DeB0fc809955b79c85e82918E8586d3b7d2695a",
+            "name": "GoldenBoys",
+            "symbol": "GOLD",
+            "decimals": 18
+        },
+        {
             "chainId": 10,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -10413,6 +10428,14 @@
             "decimals": 18
         },
         {
+            "chainId": 137,
+            "address": "0x2dCa80061632f3F87c9cA28364d1d0c30cD79a19",
+            "name": "Static Aave Polygon USDCn",
+            "symbol": "AaveUSDCn",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe719aef17468c7e10c0c205be62c990754dff7e5.png"
+        },
+        {
             "chainId": 250,
             "address": "0xf1648C50d2863f780c57849D812b4B7686031A3D",
             "name": "Wrapped BTC",
@@ -11852,6 +11875,14 @@
             "symbol": "$mfer",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/36550/large/mfercoin-logo.png?1711876821"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A",
+            "name": "Wrapped eETH",
+            "symbol": "weETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x04c0599ae5a44757c0af6f9ec3b93da8976c150a.png"
         },
         {
             "chainId": 42161,
@@ -13391,6 +13422,13 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2bcc6d6cdbbdc0a4071e48bb3b969b06b3330c07.png"
         },
         {
+            "chainId": 42161,
+            "address": "0x4F489Ef21E74E6736F4e5929Dc9865E4C5fe4040",
+            "name": "Puppet Test",
+            "symbol": "PUPPET-TEST",
+            "decimals": 18
+        },
+        {
             "chainId": 43114,
             "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
             "name": "Wrapped AVAX",
@@ -13974,6 +14012,14 @@
             "symbol": "SQRCAT",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xc8E7fB72B53D08C4f95b93b390ed3f132d03f2D5/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x68327a91E79f87F501bC8522fc333FB7A72393cb",
+            "name": "AUX Coin",
+            "symbol": "AUX",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/28298/large/AUX-Coin_200.png?1696527297"
         },
         {
             "chainId": 11155111,
