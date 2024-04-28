@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-04-27T15:00:13.462Z",
+    "timestamp": "2024-04-28T16:11:14.997Z",
     "tokens": [
         {
             "chainId": 1,
@@ -10425,6 +10425,28 @@
             "address": "0x101766a77FB9956B9D8a79Ed48c8A56A17767752",
             "name": "Verified Pool Token",
             "symbol": "VPT",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x955918f7EF1D2cC66FbE8CE0766E5E09a101368D",
+            "name": "EthAdVentures",
+            "symbol": "EAV",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x820802Fa8a99901F52e39acD21177b0BE6EE2974",
+            "name": "EUROe Stablecoin",
+            "symbol": "EUROe",
+            "decimals": 6,
+            "logoURI": "https://assets.coingecko.com/coins/images/28913/large/euroe-200x200-round.png?1696527889"
+        },
+        {
+            "chainId": 137,
+            "address": "0x8054d4D130C3A84852f379424Bcac75673a7486B",
+            "name": "paUSD Stablecoin",
+            "symbol": "paUSD",
             "decimals": 18
         },
         {
