@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-04-28T16:11:14.997Z",
+    "timestamp": "2024-04-29T15:32:40.549Z",
     "tokens": [
         {
             "chainId": 1,
@@ -11245,6 +11245,102 @@
             "logoURI": "https://equalizer.exchange/assets/fantom/token/0x5cf90b977c86415a53ce3b7be13b26f6abddfee2.png"
         },
         {
+            "chainId": 250,
+            "address": "0xC8065302b6877416C095aCe72278ec4CcEa664Bb",
+            "name": "ToTheMoon",
+            "symbol": "LFG",
+            "decimals": 18,
+            "logoURI": "https://images.squarespace-cdn.com/content/v1/65e6002864f3a87b0f25b49b/f7364673-e0ee-4e47-b827-fe4dbc8fde18/IMG_20240303_134442_043.jpg?format=1000w"
+        },
+        {
+            "chainId": 250,
+            "address": "0x24b06ef70Da341486eBf96A5Ea6De1AE8881D106",
+            "name": "PIXELS",
+            "symbol": "PXL",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1766713023912366080/ho41faiY.jpg"
+        },
+        {
+            "chainId": 250,
+            "address": "0x46E64b8cd1811Ddc9899d607f24deBC46B7A611C",
+            "name": "Blue Pepe (v2)",
+            "symbol": "BPEPE",
+            "decimals": 18,
+            "logoURI": "hhttps://dd.dexscreener.com/ds-data/tokens/fantom/0x46e64b8cd1811ddc9899d607f24debc46b7a611c.png?size=lg&key=076652"
+        },
+        {
+            "chainId": 250,
+            "address": "0x29cfbAB01CA34864402F4c0F20837a5f05490D69",
+            "name": "Pooh Token",
+            "symbol": "POOH",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1748096711153549312/qW2vGT-9.jpg"
+        },
+        {
+            "chainId": 250,
+            "address": "0x4CaE69117657f1f10C2aaa9C8c79dc3E5306f7EC",
+            "name": "CONK2.0",
+            "symbol": "CONK2.0",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1682780086766895105/8iTtqFVH.jpg"
+        },
+        {
+            "chainId": 250,
+            "address": "0x79A6a56645D11F6d3464AaF422aFb82d462177B7",
+            "name": "fDuck",
+            "symbol": "$FDUCK",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/5NdrSSy.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0x43F9a13675e352154f745d6402E853FECC388aA5",
+            "name": "Sonic Goat",
+            "symbol": "sGOAT",
+            "decimals": 18,
+            "logoURI": "https://cdn.jsdelivr.net/gh/unified-defi/equalizer-tokens@main/fantom/tokens/128x128/0x43f9a13675e352154f745d6402e853fecc388aa5.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0x2F733095B80A04b38b0D10cC884524a3d09b836a",
+            "name": "Bridged USDC",
+            "symbol": "USDC.e",
+            "decimals": 6,
+            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/USDCe.svg"
+        },
+        {
+            "chainId": 250,
+            "address": "0x1D631Adc479309aA073949E0D67973555BBBDcd0",
+            "name": "LatinoGang",
+            "symbol": "CABRON",
+            "decimals": 18,
+            "logoURI": "https://uce6e5fe9c177db24af91933739b.previews.dropboxusercontent.com/p/thumb/ACMOSvZfaLBi-3D39-kQ8NjskZMzh-O6sq11m8fwst5kmZ6iZP2_ygAIs2MrmkgSjVs-UXNVQE3uNC3no0ycfoZmKUJsho6LospnirH-2dAeq4iPg9ll_HPBzZVatW8Czg7kWCZyJGq-0cfVmhSsqWBEyx-xAxBt7_hraG0y9t9ZR4HcMnaWEo05eEwt2plRQaE0me50c7FADCqZXh8lL3UHewXGkjXuOHaSaq7xNcfCoDoB9FHl9hocJur6pEEqpZ6jaEevuYDuHuU4vc5eB_83yMwDZvfnGysdoaZ72vua0sq4QwiVWlSaXD_fPiMP1cUk50_01H6VY8A2dCSHV7_GKEDXRReZpMvRMul663h8V4oaSjrHxSfeZFiT1xRobC4/p.jpeg"
+        },
+        {
+            "chainId": 250,
+            "address": "0x07cC4CE4537c209f83d83f856f142E0d0674fD75",
+            "name": "EMERALDS404",
+            "symbol": "$EMRLD",
+            "decimals": 18,
+            "logoURI": "https://spiritswap.finance/images/tokens/$EMRLD.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0x5Be1789a6928f8659305BF86aD3054530501f424",
+            "name": "MemeNatis",
+            "symbol": "NATIS",
+            "decimals": 18,
+            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/memenatis.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0x0cE12ae7c899eBF2bcDa7AA570C5af98b6688C95",
+            "name": "Speedy",
+            "symbol": "SPEEDY",
+            "decimals": 9,
+            "logoURI": "https://dd.dexscreener.com/ds-data/tokens/fantom/0x0ce12ae7c899ebf2bcda7aa570c5af98b6688c95.png?size=lg&key=badff6"
+        },
+        {
             "chainId": 1101,
             "address": "0x120eF59b80774F02211563834d8E3b72cb1649d6",
             "name": "Balancer",
@@ -13446,6 +13542,13 @@
         {
             "chainId": 42161,
             "address": "0x4F489Ef21E74E6736F4e5929Dc9865E4C5fe4040",
+            "name": "Puppet Test",
+            "symbol": "PUPPET-TEST",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0xD3f7bD9dA85AD2c985A16eFCE50b97942AD05094",
             "name": "Puppet Test",
             "symbol": "PUPPET-TEST",
             "decimals": 18
