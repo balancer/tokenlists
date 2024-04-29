@@ -682,10 +682,6 @@ export const overwrites: OverwritesForList = {
     '0xE3e0EBA90185e7292B9Ca92c7409cDEf504F9d07': {
       logoURI: 'https://i.imgur.com/VO0SnyG.png',
     },
-    '0x43F9a13675e352154f745d6402E853FECC388aA5': {
-      logoURI:
-        'https://equalizer.exchange/assets/fantom/token/0x43f9a13675e352154f745d6402e853fecc388aa5.png',
-    },
     '0x524CAbe5b2F66CBd6F6b08dEf086F18F8DdE033a': {
       logoURI: 'https://i.ibb.co/b37Gktw/BICO-Ticker-01.png',
     },
@@ -750,6 +746,52 @@ export const overwrites: OverwritesForList = {
     '0x5cF90b977C86415a53CE3B7bE13b26f6abdDfee2': {
       logoURI:
         'https://equalizer.exchange/assets/fantom/token/0x5cf90b977c86415a53ce3b7be13b26f6abddfee2.png',
+    },
+    '0xC8065302b6877416C095aCe72278ec4CcEa664Bb': {
+      logoURI:
+        'https://images.squarespace-cdn.com/content/v1/65e6002864f3a87b0f25b49b/f7364673-e0ee-4e47-b827-fe4dbc8fde18/IMG_20240303_134442_043.jpg?format=1000w',
+    },
+    '0x24b06ef70Da341486eBf96A5Ea6De1AE8881D106': {
+      logoURI:
+        'https://pbs.twimg.com/profile_images/1766713023912366080/ho41faiY.jpg',
+    },
+    '0x46E64b8cd1811Ddc9899d607f24deBC46B7A611C': {
+      logoURI:
+        'hhttps://dd.dexscreener.com/ds-data/tokens/fantom/0x46e64b8cd1811ddc9899d607f24debc46b7a611c.png?size=lg&key=076652',
+    },
+    '0x29cfbAB01CA34864402F4c0F20837a5f05490D69': {
+      logoURI:
+        'https://pbs.twimg.com/profile_images/1748096711153549312/qW2vGT-9.jpg',
+    },
+    '0x4CaE69117657f1f10C2aaa9C8c79dc3E5306f7EC': {
+      logoURI:
+        'https://pbs.twimg.com/profile_images/1682780086766895105/8iTtqFVH.jpg',
+    },
+    '0x79A6a56645D11F6d3464AaF422aFb82d462177B7': {
+      logoURI: 'https://i.imgur.com/5NdrSSy.png',
+    },
+    '0x43F9a13675e352154f745d6402E853FECC388aA5': {
+      logoURI:
+        'https://cdn.jsdelivr.net/gh/unified-defi/equalizer-tokens@main/fantom/tokens/128x128/0x43f9a13675e352154f745d6402e853fecc388aa5.png',
+    },
+    '0x2f733095b80a04b38b0d10cc884524a3d09b836a': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/USDCe.svg',
+    },
+    '0x1D631Adc479309aA073949E0D67973555BBBDcd0': {
+      logoURI:
+        'https://uce6e5fe9c177db24af91933739b.previews.dropboxusercontent.com/p/thumb/ACMOSvZfaLBi-3D39-kQ8NjskZMzh-O6sq11m8fwst5kmZ6iZP2_ygAIs2MrmkgSjVs-UXNVQE3uNC3no0ycfoZmKUJsho6LospnirH-2dAeq4iPg9ll_HPBzZVatW8Czg7kWCZyJGq-0cfVmhSsqWBEyx-xAxBt7_hraG0y9t9ZR4HcMnaWEo05eEwt2plRQaE0me50c7FADCqZXh8lL3UHewXGkjXuOHaSaq7xNcfCoDoB9FHl9hocJur6pEEqpZ6jaEevuYDuHuU4vc5eB_83yMwDZvfnGysdoaZ72vua0sq4QwiVWlSaXD_fPiMP1cUk50_01H6VY8A2dCSHV7_GKEDXRReZpMvRMul663h8V4oaSjrHxSfeZFiT1xRobC4/p.jpeg',
+    },
+    '0x07cc4ce4537c209f83d83f856f142e0d0674fd75': {
+      logoURI: 'https://spiritswap.finance/images/tokens/$EMRLD.png',
+    },
+    '0x5Be1789a6928f8659305BF86aD3054530501f424': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/memenatis.png',
+    },
+    '0x0cE12ae7c899eBF2bcDa7AA570C5af98b6688C95': {
+      logoURI:
+        'https://dd.dexscreener.com/ds-data/tokens/fantom/0x0ce12ae7c899ebf2bcda7aa570c5af98b6688c95.png?size=lg&key=badff6',
     },
   },
   [Network.Sepolia]: {
