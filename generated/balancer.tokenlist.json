@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-04-29T15:32:40.549Z",
+    "timestamp": "2024-05-01T15:30:13.377Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13552,6 +13552,14 @@
             "name": "Puppet Test",
             "symbol": "PUPPET-TEST",
             "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0xD8724322f44E5c58D7A815F542036fb17DbbF839",
+            "name": "Wrapped OETH",
+            "symbol": "WOETH",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/29734/large/wOETH.png?1696528664"
         },
         {
             "chainId": 43114,
