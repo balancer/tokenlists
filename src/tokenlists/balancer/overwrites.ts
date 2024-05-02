@@ -478,9 +478,9 @@ export const overwrites: OverwritesForList = {
     '0x0aa1e96d2a46ec6beb2923de1e61addf5f5f1dce': {
       symbol: 'REG',
       name: 'Realt Ecosystem Governance',
-      logoURI: 
+      logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x_regtoken.png',
-    }
+    },
   },
   [Network.Zkevm]: {},
   [Network.Base]: {
