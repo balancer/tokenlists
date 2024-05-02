@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-05-01T15:30:13.377Z",
+    "timestamp": "2024-05-02T01:53:57.777Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7958,6 +7958,14 @@
             "name": "Finoxium systonix SRCiv",
             "symbol": "SRC11",
             "decimals": 16
+        },
+        {
+            "chainId": 100,
+            "address": "0x0AA1e96D2a46Ec6beB2923dE1E61Addf5F5f1dce",
+            "name": "Realt Ecosystem Governance",
+            "symbol": "REG",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x_regtoken.png"
         },
         {
             "chainId": 137,
