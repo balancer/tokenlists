@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-05-02T01:53:57.777Z",
+    "timestamp": "2024-05-06T02:58:13.377Z",
     "tokens": [
         {
             "chainId": 1,
@@ -10466,6 +10466,20 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe719aef17468c7e10c0c205be62c990754dff7e5.png"
         },
         {
+            "chainId": 137,
+            "address": "0x744C1F9960DaeF0a38e63323782C2C72706Eee42",
+            "name": "BIONTECH,MODERNA\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+            "symbol": "CH1318755548\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x3Ed80E36aFEA962a04F6F1E3494A320c692D5daf",
+            "name": "Verified Pool Token",
+            "symbol": "VPT",
+            "decimals": 18
+        },
+        {
             "chainId": 250,
             "address": "0xf1648C50d2863f780c57849D812b4B7686031A3D",
             "name": "Wrapped BTC",
@@ -13570,6 +13584,13 @@
             "logoURI": "https://assets.coingecko.com/coins/images/29734/large/wOETH.png?1696528664"
         },
         {
+            "chainId": 42161,
+            "address": "0x3Ccf51B88f0B3bE13e8E29C5513E023Ee39719Af",
+            "name": "Alienzone",
+            "symbol": "ZONE",
+            "decimals": 18
+        },
+        {
             "chainId": 43114,
             "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
             "name": "Wrapped AVAX",
@@ -14161,6 +14182,13 @@
             "symbol": "AUX",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/28298/large/AUX-Coin_200.png?1696527297"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x9fB1d52596c44603198fB0aee434fac3a679f702",
+            "name": "Jarvis Synthetic Euro",
+            "symbol": "jEUR",
+            "decimals": 18
         },
         {
             "chainId": 11155111,
