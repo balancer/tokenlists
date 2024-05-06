@@ -384,6 +384,10 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf8fd466f12e236f4c96f7cce6c79eadb819abf58.png',
     },
+    '0xD8724322f44E5c58D7A815F542036fb17DbbF839': {
+      logoURI:
+        'https://assets.coingecko.com/coins/images/29734/standard/woeth-200x200.png?1714796686',
+    },
   },
   [Network.Optimism]: {
     '0xe05A08226c49b636ACf99c40Da8DC6aF83CE5bB3': {
