@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-05-06T02:58:13.377Z",
+    "timestamp": "2024-05-06T13:39:15.072Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6821,7 +6821,7 @@
         {
             "chainId": 1,
             "address": "0xf073bAC22DAb7FaF4a3Dd6c6189a70D54110525C",
-            "name": "GenesisLRT restaked ETH",
+            "name": "InceptionLRT restaked ETH",
             "symbol": "genETH",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/34127/large/image.png?1704174967"
@@ -6957,6 +6957,14 @@
             "name": "GoldenBoys",
             "symbol": "GOLD",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xfa2629B9cF3998D52726994E0FcdB750224D8B9D",
+            "name": "Inception Restaked ankrETH",
+            "symbol": "InankrETH",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/34952/large/ankrETH.png?1706772250"
         },
         {
             "chainId": 10,
@@ -10654,7 +10662,7 @@
             "name": "Magic Internet Money",
             "symbol": "MIM",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/16786/large/mimlogopng.png?1696516358"
+            "logoURI": "https://assets.coingecko.com/coins/images/37606/large/mim.png?1714992629"
         },
         {
             "chainId": 250,
@@ -13581,7 +13589,7 @@
             "name": "Wrapped OETH",
             "symbol": "WOETH",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/29734/large/wOETH.png?1696528664"
+            "logoURI": "https://assets.coingecko.com/coins/images/29734/standard/woeth-200x200.png?1714796686"
         },
         {
             "chainId": 42161,
