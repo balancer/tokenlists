@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-05-08T04:06:16.992Z",
+    "timestamp": "2024-05-08T04:20:40.215Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12069,6 +12069,14 @@
             "name": "KABOSU",
             "symbol": "$KABOSUCHAN",
             "decimals": 18
+        },
+        {
+            "chainId": 8453,
+            "address": "0xAfb89a09D82FBDE58f18Ac6437B3fC81724e4dF6",
+            "name": "The Doge NFT",
+            "symbol": "DOG",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/18111/large/Doge.png?1696517615"
         },
         {
             "chainId": 42161,
