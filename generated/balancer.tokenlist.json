@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-05-08T16:31:47.172Z",
+    "timestamp": "2024-05-08T21:55:41.924Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6956,7 +6956,8 @@
             "address": "0x9DeB0fc809955b79c85e82918E8586d3b7d2695a",
             "name": "GoldenBoys",
             "symbol": "GOLD",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9deb0fc809955b79c85e82918e8586d3b7d2695a.png"
         },
         {
             "chainId": 1,
