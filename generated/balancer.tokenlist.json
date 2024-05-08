@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-05-08T01:54:20.308Z",
+    "timestamp": "2024-05-08T02:07:20.122Z",
     "tokens": [
         {
             "chainId": 1,
@@ -1686,7 +1686,7 @@
             "name": "Curve DAO Token",
             "symbol": "CRV",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/12124/large/Curve.png?1696511967"
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png"
         },
         {
             "chainId": 1,
@@ -6624,7 +6624,8 @@
             "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
             "name": "Curve DAO Token",
             "symbol": "CRV",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/12124/large/Curve.png?1696511967"
         },
         {
             "chainId": 1,
@@ -6868,7 +6869,8 @@
             "address": "0xFe0c30065B384F05761f15d0CC899D4F9F9Cc0eB",
             "name": "ether.fi governance token",
             "symbol": "ETHFI",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/35958/large/etherfi.jpeg?1710254562"
         },
         {
             "chainId": 1,
@@ -6922,7 +6924,8 @@
             "address": "0x59D9356E565Ab3A36dD77763Fc0d87fEaf85508C",
             "name": "Mountain Protocol USD",
             "symbol": "USDM",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/31719/large/usdm.png?1696530540"
         },
         {
             "chainId": 1,
@@ -14477,6 +14480,20 @@
             "name": "USDC",
             "symbol": "USDC",
             "decimals": 6
+        },
+        {
+            "chainId": 11155111,
+            "address": "0x40a718EB4fBa8118C563Af4DB7fEc484Ac91728b",
+            "name": "ZEEBU",
+            "symbol": "ZBU",
+            "decimals": 18
+        },
+        {
+            "chainId": 11155111,
+            "address": "0x99205E5182C168216778e1d970a38DD59Ee43f67",
+            "name": "ERC20Mint",
+            "symbol": "ERC20Mint",
+            "decimals": 18
         }
     ]
 }
