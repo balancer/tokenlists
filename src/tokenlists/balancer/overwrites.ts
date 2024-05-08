@@ -803,6 +803,18 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://dd.dexscreener.com/ds-data/tokens/fantom/0x0ce12ae7c899ebf2bcda7aa570c5af98b6688c95.png?size=lg&key=badff6',
     },
+    '0x1eb1b381d1473413E430D8CdB91b36208CDE200b': {
+      logoURI:
+        'https://static.wixstatic.com/media/c7bf16_e769d4fbfdd64beb95c94854ee34b2d8~mv2.png',
+    },
+    '0xB8a32897016C1B2ee0797090162eAFe58f032795': {
+      logoURI:
+        'https://dd.dexscreener.com/ds-data/tokens/fantom/0xb8a32897016c1b2ee0797090162eafe58f032795.png?key=a473b3',
+    },
+    '0x2acF406155902919009f8256afC034A8247A1911': {
+      logoURI:
+        'https://github.com/fantomindia/FantomKings/blob/main/FKINGS_final.png?raw=true',
+    },
   },
   [Network.Sepolia]: {
     '0xb19382073c7a0addbb56ac6af1808fa49e377b75': {
