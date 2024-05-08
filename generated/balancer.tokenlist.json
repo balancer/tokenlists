@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-05-06T13:39:15.072Z",
+    "timestamp": "2024-05-08T01:54:20.308Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6624,8 +6624,7 @@
             "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
             "name": "Curve DAO Token",
             "symbol": "CRV",
-            "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/12124/large/Curve.png?1696511967"
+            "decimals": 18
         },
         {
             "chainId": 1,
@@ -6869,8 +6868,7 @@
             "address": "0xFe0c30065B384F05761f15d0CC899D4F9F9Cc0eB",
             "name": "ether.fi governance token",
             "symbol": "ETHFI",
-            "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/35958/large/etherfi.jpeg?1710254562"
+            "decimals": 18
         },
         {
             "chainId": 1,
@@ -6924,8 +6922,7 @@
             "address": "0x59D9356E565Ab3A36dD77763Fc0d87fEaf85508C",
             "name": "Mountain Protocol USD",
             "symbol": "USDM",
-            "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/31719/large/usdm.png?1696530540"
+            "decimals": 18
         },
         {
             "chainId": 1,
@@ -11369,6 +11366,30 @@
             "symbol": "SPEEDY",
             "decimals": 9,
             "logoURI": "https://dd.dexscreener.com/ds-data/tokens/fantom/0x0ce12ae7c899ebf2bcda7aa570c5af98b6688c95.png?size=lg&key=badff6"
+        },
+        {
+            "chainId": 250,
+            "address": "0x1eb1b381d1473413E430D8CdB91b36208CDE200b",
+            "name": "Sonic Bunny",
+            "symbol": "sBunny",
+            "decimals": 18,
+            "logoURI": "https://static.wixstatic.com/media/c7bf16_e769d4fbfdd64beb95c94854ee34b2d8~mv2.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0x2acF406155902919009f8256afC034A8247A1911",
+            "name": "FantomKings",
+            "symbol": "$FKINGS",
+            "decimals": 18,
+            "logoURI": "https://github.com/fantomindia/FantomKings/blob/main/FKINGS_final.png?raw=true"
+        },
+        {
+            "chainId": 250,
+            "address": "0xB8a32897016C1B2ee0797090162eAFe58f032795",
+            "name": "FantomEco",
+            "symbol": "ECO",
+            "decimals": 18,
+            "logoURI": "https://dd.dexscreener.com/ds-data/tokens/fantom/0xb8a32897016c1b2ee0797090162eafe58f032795.png?key=a473b3"
         },
         {
             "chainId": 1101,
