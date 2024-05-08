@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-05-08T04:20:40.215Z",
+    "timestamp": "2024-05-08T04:45:30.557Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7555,6 +7555,13 @@
             "decimals": 18
         },
         {
+            "chainId": 10,
+            "address": "0x6630Ae120DBDA654c18f04Eb82ee89C54493378d",
+            "name": "OVERPOWERED",
+            "symbol": "$OVERPOWERED",
+            "decimals": 18
+        },
+        {
             "chainId": 100,
             "address": "0x7eF541E2a22058048904fE5744f9c7E4C57AF717",
             "name": "Balancer on xDai",
@@ -7974,6 +7981,13 @@
             "symbol": "REG",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x_regtoken.png"
+        },
+        {
+            "chainId": 100,
+            "address": "0xd78544e8270AcE4Ba28fB69Fc1c12931d6f5d69e",
+            "name": "GNOBBY",
+            "symbol": "GNOBBY",
+            "decimals": 18
         },
         {
             "chainId": 137,
@@ -10492,6 +10506,13 @@
             "address": "0x9Ff606f0BFd752Bf8f68092eD70D35CCc1643492",
             "name": "PORIGON",
             "symbol": "PORIGON",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x3A91c63ee29b23fB74DfB06B9Cc796a9487a87A7",
+            "name": "MOLANDAK",
+            "symbol": "$MOLANDAK",
             "decimals": 18
         },
         {
@@ -14242,6 +14263,13 @@
             "address": "0x9fB1d52596c44603198fB0aee434fac3a679f702",
             "name": "Jarvis Synthetic Euro",
             "symbol": "jEUR",
+            "decimals": 18
+        },
+        {
+            "chainId": 43114,
+            "address": "0x4Ff5f900ecA8F848bEDf09Fbff7d1CAa2C11a857",
+            "name": "lueygi",
+            "symbol": "$lueygi",
             "decimals": 18
         },
         {
