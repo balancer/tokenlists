@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-05-08T02:51:00.141Z",
+    "timestamp": "2024-05-08T03:03:50.061Z",
     "tokens": [
         {
             "chainId": 1,
@@ -10485,6 +10485,13 @@
             "address": "0x3Ed80E36aFEA962a04F6F1E3494A320c692D5daf",
             "name": "Verified Pool Token",
             "symbol": "VPT",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x9Ff606f0BFd752Bf8f68092eD70D35CCc1643492",
+            "name": "PORIGON",
+            "symbol": "PORIGON",
             "decimals": 18
         },
         {
