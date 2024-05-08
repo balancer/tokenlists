@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-05-08T03:03:50.061Z",
+    "timestamp": "2024-05-08T04:06:16.992Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12062,6 +12062,13 @@
             "symbol": "weETH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x04c0599ae5a44757c0af6f9ec3b93da8976c150a.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x7ab8EA5eF610f979e1C59fBd9dA9284672e5a136",
+            "name": "KABOSU",
+            "symbol": "$KABOSUCHAN",
+            "decimals": 18
         },
         {
             "chainId": 42161,
