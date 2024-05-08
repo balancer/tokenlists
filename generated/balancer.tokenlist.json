@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-05-08T04:45:30.557Z",
+    "timestamp": "2024-05-08T15:07:40.069Z",
     "tokens": [
         {
             "chainId": 1,
@@ -9207,13 +9207,6 @@
         },
         {
             "chainId": 137,
-            "address": "0x2520D50bfD793D3C757900D81229422F70171969",
-            "name": "Moo Convex USDR",
-            "symbol": "mooConvexUSDR",
-            "decimals": 18
-        },
-        {
-            "chainId": 137,
             "address": "0xA486c6BC102f409180cCB8a94ba045D39f8fc7cB",
             "name": "Nash Exchange Token (PoS)",
             "symbol": "NEX",
@@ -9244,34 +9237,6 @@
         },
         {
             "chainId": 137,
-            "address": "0x19244114931a17Db1F2AA6461F07e16501A524f4",
-            "name": "Olive MVLP Beefy",
-            "symbol": "oBIFI-MVLP",
-            "decimals": 18
-        },
-        {
-            "chainId": 137,
-            "address": "0x449533BcF3Fc5963515f87c17CDfE762b7Ab89fb",
-            "name": "Moo Pearl WBTC-USDR",
-            "symbol": "mooPearlWBTC-USDR",
-            "decimals": 18
-        },
-        {
-            "chainId": 137,
-            "address": "0x944A5C12cD4399ABC6883fF1ba40A14c23B2Fd37",
-            "name": "Moo Mai QI-MATIC",
-            "symbol": "mooMaiQI-MATIC",
-            "decimals": 18
-        },
-        {
-            "chainId": 137,
-            "address": "0x7CD5Ef300AdeAAD5fE7B8dd96ce160F1B368B8d1",
-            "name": "Moo Pearl STMATIC-USDR",
-            "symbol": "mooPearlSTMATIC-USDR",
-            "decimals": 18
-        },
-        {
-            "chainId": 137,
             "address": "0xf5F4a92AfC0fDF40b7Cb0054b3C4f7335CeF2014",
             "name": "JARVIS (FXERC20)",
             "symbol": "fxJARVIS",
@@ -9287,20 +9252,6 @@
         },
         {
             "chainId": 137,
-            "address": "0x7f6A9B65Cf1fc091b0E012c2908F0F711DFc95B5",
-            "name": "80mooMvxMVLP-20wUSDR",
-            "symbol": "80mooMvxMVLP-20wUSDR",
-            "decimals": 18
-        },
-        {
-            "chainId": 137,
-            "address": "0x08aD99fB3f9f262853B54613249B4064901BD358",
-            "name": "Axelar Wrapped WMAI",
-            "symbol": "axlWMAI",
-            "decimals": 18
-        },
-        {
-            "chainId": 137,
             "address": "0xB424dfDf817FaF38FF7acF6F2eFd2f2a843d1ACA",
             "name": "Vault Qi",
             "symbol": "vQi",
@@ -9311,13 +9262,6 @@
             "address": "0x8f1549718B9Ad2632Dc426EcC89305A83c1F03c8",
             "name": "Star Dollar",
             "symbol": "STARD",
-            "decimals": 18
-        },
-        {
-            "chainId": 137,
-            "address": "0xAeF2B47b5e30661C3cC03b3E17fD8DCdDC1f27B6",
-            "name": "Uniswap V2",
-            "symbol": "UNI-V2",
             "decimals": 18
         },
         {
