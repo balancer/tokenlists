@@ -11367,7 +11367,7 @@
             "logoURI": "https://dd.dexscreener.com/ds-data/tokens/fantom/0xb8a32897016c1b2ee0797090162eafe58f032795.png?key=a473b3"
         },
         {
-            "chainId": 1101,
+            "chainId": ,
             "address": "0x120eF59b80774F02211563834d8E3b72cb1649d6",
             "name": "Balancer",
             "symbol": "BAL",
@@ -11533,6 +11533,22 @@
             "symbol": "AURA",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1509706a6c66ca549ff0cb464de88231ddbe213b.png"
+        },
+        {
+            "chainId": 1101,
+            "address": "0x37eAA0eF3549a5Bb7D431be78a3D99BD360d19e5",
+            "name": "USD Coin",
+            "symbol": "USDC.e",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x37eaa0ef3549a5bb7d431be78a3d99bd360d19e5.png"
+        },
+        {
+            "chainId": 1101,
+            "address": "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8",
+            "name": "Gyro Dollar",
+            "symbol": "GYD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca5d8f8a8d49439357d3cf46ca2e720702f132b8.png"
         },
         {
             "chainId": 8453,
