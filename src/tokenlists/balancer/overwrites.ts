@@ -492,6 +492,10 @@ export const overwrites: OverwritesForList = {
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x37eaa0ef3549a5bb7d431be78a3d99bd360d19e5.png',
     },
     '0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8': {
+      symbol: 'GYD',
+      address: '0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8',
+      name: 'Gyroscope',
+      decimals: 18,
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca5d8f8a8d49439357d3cf46ca2e720702f132b8.png',
     },

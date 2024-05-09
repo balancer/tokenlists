@@ -61,7 +61,7 @@ async function build(tokenlistName: string) {
 
     console.time(chalk.cyan(`Fetched onchain metadata for chain ${network}`))
 
-    let onchainMetadata: PartialTokenInfoMap
+    let onchainMetadata: PartialTokenInfoMap = {}
     try {
       onchainMetadata = await fetchOnchainMetadata(network, tokenAddresses)
     } catch (e) {
@@ -70,9 +70,9 @@ async function build(tokenlistName: string) {
         console.error(e)
         const zkevmTokenInfo = readTokenInfo(tokenlistName, Number(network))
         allTokens = allTokens.concat(zkevmTokenInfo)
-        continue
+      } else {
+        throw e
       }
-      throw e
     }
     console.timeEnd(chalk.cyan(`Fetched onchain metadata for chain ${network}`))
 
