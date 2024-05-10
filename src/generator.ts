@@ -70,9 +70,9 @@ async function build(tokenlistName: string) {
         console.error(e)
         const zkevmTokenInfo = readTokenInfo(tokenlistName, Number(network))
         allTokens = allTokens.concat(zkevmTokenInfo)
-      } else {
-        throw e
+        continue
       }
+      throw e
     }
     console.timeEnd(chalk.cyan(`Fetched onchain metadata for chain ${network}`))
 
