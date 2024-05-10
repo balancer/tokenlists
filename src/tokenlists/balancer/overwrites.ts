@@ -488,6 +488,10 @@ export const overwrites: OverwritesForList = {
   },
   [Network.Zkevm]: {
     '0x37eAA0eF3549a5Bb7D431be78a3D99BD360d19e5': {
+      symbol: 'USDC.e',
+      address: '0x37eAA0eF3549a5Bb7D431be78a3D99BD360d19e5',
+      name: 'USDC',
+      decimals: 18,
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x37eaa0ef3549a5bb7d431be78a3d99bd360d19e5.png',
     },
