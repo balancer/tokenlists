@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-05-09T21:04:06.757Z",
+    "timestamp": "2024-05-10T11:46:25.073Z",
     "tokens": [
         {
             "chainId": 1,
@@ -11712,6 +11712,110 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca5d8f8a8d49439357d3cf46ca2e720702f132b8.png"
         },
         {
+            "chainId": 1101,
+            "address": "0x120eF59b80774F02211563834d8E3b72cb1649d6",
+            "name": "Balancer",
+            "symbol": "BAL",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x120ef59b80774f02211563834d8e3b72cb1649d6.png"
+        },
+        {
+            "chainId": 1101,
+            "address": "0xC5015b9d9161Dca7e18e32f6f25C4aD850731Fd4",
+            "name": "Dai",
+            "symbol": "DAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc5015b9d9161dca7e18e32f6f25c4ad850731fd4.png"
+        },
+        {
+            "chainId": 1101,
+            "address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
+            "name": "Polygon Hermez Bridged USDC (Polygon zkEVM)",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389"
+        },
+        {
+            "chainId": 1101,
+            "address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
+            "name": "Polygon Hermez Bridged USDT (Polygon zkEVM)",
+            "symbol": "USDT",
+            "decimals": 6,
+            "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether.png?1668148663"
+        },
+        {
+            "chainId": 1101,
+            "address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
+            "name": "WETH",
+            "symbol": "WETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4f9a0e7fd2bf6067db6994cf12e4495df938e6e9.png"
+        },
+        {
+            "chainId": 1101,
+            "address": "0xEA034fb02eB1808C2cc3adbC15f447B93CbE08e1",
+            "name": "Wrapped Bitcoin",
+            "symbol": "WBTC",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xea034fb02eb1808c2cc3adbc15f447b93cbe08e1.png"
+        },
+        {
+            "chainId": 1101,
+            "address": "0xa2036f0538221a77A3937F1379699f44945018d0",
+            "name": "Wrapped Matic",
+            "symbol": "MATIC",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/14073/large/matic.png?1628852392"
+        },
+        {
+            "chainId": 1101,
+            "address": "0x83b874c1e09D316059d929da402dcB1A98e92082",
+            "name": "Lido Staked Matic",
+            "symbol": "stMATIC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x83b874c1e09d316059d929da402dcb1a98e92082.png"
+        },
+        {
+            "chainId": 1101,
+            "address": "0x68286607A1d43602d880D349187c3c48c0fD05E6",
+            "name": "Quickswap",
+            "symbol": "QUICK",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x68286607a1d43602d880d349187c3c48c0fd05e6.png"
+        },
+        {
+            "chainId": 1101,
+            "address": "0x12D8CE035c5DE3Ce39B1fDD4C1d5a745EAbA3b8C",
+            "name": "Ankr Staked ETH",
+            "symbol": "ankrETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x12d8ce035c5de3ce39b1fdd4c1d5a745eaba3b8c.png"
+        },
+        {
+            "chainId": 1101,
+            "address": "0x37eAA0eF3549a5Bb7D431be78a3D99BD360d19e5",
+            "name": "USDC",
+            "symbol": "USDC.e",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x37eaa0ef3549a5bb7d431be78a3d99bd360d19e5.png"
+        },
+        {
+            "chainId": 1101,
+            "address": "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8",
+            "name": "Gyroscope",
+            "symbol": "GYD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca5d8f8a8d49439357d3cf46ca2e720702f132b8.png"
+        },
+        {
+            "chainId": 1101,
+            "address": "0x37eAA0eF3549a5Bb7D431be78a3D99BD360d19e5",
+            "name": "USDC",
+            "symbol": "USDC.e",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x37eaa0ef3549a5bb7d431be78a3d99bd360d19e5.png"
+        },
+        {
             "chainId": 8453,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -12219,6 +12323,14 @@
             "symbol": "DOG",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/18111/large/Doge.png?1696517615"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x9A86980D3625b4A6E69D8a4606D51cbc019e2002",
+            "name": "FomoBullClub",
+            "symbol": "FOMO",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/37070/large/IMG_20240415_091508_928_%281%29.jpg?1713379565"
         },
         {
             "chainId": 42161,
