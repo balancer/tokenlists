@@ -342,4 +342,5 @@ export default [
   '0xA3c322Ad15218fBFAEd26bA7f616249f7705D945', // MV (GensoKishi Metaverse)
   '0x9dbfc1cbf7a1e711503a29b4b5f9130ebeccac96', // UPO (UpOnly)
   '0xE06Bd4F5aAc8D0aA337D13eC88dB6defC6eAEefE', // IXT (PlanetIX)
+  '0xD1f9c58e33933a993A3891F8acFe05a68E1afC05', // SFL
 ]
