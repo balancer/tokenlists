@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-05-10T11:53:18.046Z",
+    "timestamp": "2024-05-11T02:36:55.571Z",
     "tokens": [
         {
             "chainId": 1,
@@ -10459,6 +10459,144 @@
             "name": "MOLANDAK",
             "symbol": "$MOLANDAK",
             "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x2059fe4b81751878A24515B404A2d6Ea12b2aC92",
+            "name": "GHST Staked DeFi LP Tokens for the AaveGotchi DAO by StarSeeds Protocol",
+            "symbol": "GHST-SS",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0xb7Acf75C942D4fB7BD9DEFb5D67ee92e774f1841",
+            "name": "BTC Staked DeFi LP Tokens by StarSeeds Protocol",
+            "symbol": "BTC-SS",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x4b0dF7EDe79be6b046a4Ed71580A3733A109e641",
+            "name": "USD Staked DeFi LP Tokens by StarSeeds Protocol",
+            "symbol": "USD-SS",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0xAba308c24952f70a533474653349a68Bb639FA2A",
+            "name": "MATIC Staked DeFi LP Tokens by StarSeeds Protocol",
+            "symbol": "MATIC-SS",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0xC8fc7E7E7B4D94FA02751B8719F5BbBb4C1413Cf",
+            "name": "ETH Staked DeFi LP Tokens by StarSeeds Protocol",
+            "symbol": "ETH-SS",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x33B6d77c607ea499ab5DB7e2201C5A516a78a5db",
+            "name": "Aimedis",
+            "symbol": "AIMX",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/29252/large/Aimedis_Logo_tg.png?1696528207"
+        },
+        {
+            "chainId": 137,
+            "address": "0x2598c30330D5771AE9F983979209486aE26dE875",
+            "name": "Any Inu",
+            "symbol": "AI",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/34126/large/anyinulogo200.png?1704174269"
+        },
+        {
+            "chainId": 137,
+            "address": "0x9f95e17b2668AFE01F8fbD157068b0a4405Cc08D",
+            "name": "Bullieverse",
+            "symbol": "BULL",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/24174/large/KR3qVAQe_400x400.jpg?1696523362"
+        },
+        {
+            "chainId": 137,
+            "address": "0xC3Ec80343D2bae2F8E680FDADDe7C17E71E114ea",
+            "name": "MANTRA DAO (PoS)",
+            "symbol": "OM",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/12151/large/OM_Token.png?1696511991"
+        },
+        {
+            "chainId": 137,
+            "address": "0xD1f9c58e33933a993A3891F8acFe05a68E1afC05",
+            "name": "Sunflower Land",
+            "symbol": "SFL",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/25514/large/download.png?1696524647"
+        },
+        {
+            "chainId": 137,
+            "address": "0x674e855e40b5b9b056050d54CBD965d24098657e",
+            "name": "RAW SuperFood Land Shares",
+            "symbol": "RAW",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x82a0E6c02b91eC9f6ff943C0A933c03dBaa19689",
+            "name": "Wicrypt Network Token",
+            "symbol": "WNT",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/21223/large/wicrypt.PNG?1696520597"
+        },
+        {
+            "chainId": 137,
+            "address": "0xe0bCEEF36F3a6eFDd5EEBFACD591423f8549B9D5",
+            "name": "Defactor (PoS)",
+            "symbol": "FACTR",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/19201/large/jFLSu4U9_400x400.png?1696518648"
+        },
+        {
+            "chainId": 137,
+            "address": "0x3d2bD0e15829AA5C362a4144FdF4A1112fa29B5c",
+            "name": "Bonsai Token",
+            "symbol": "BONSAI",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/35884/large/Bonsai_BW_Coingecko-200x200.jpg?1710071621"
+        },
+        {
+            "chainId": 137,
+            "address": "0x3B56a704C01D650147ADE2b8cEE594066b3F9421",
+            "name": "Affyn",
+            "symbol": "FYN",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/23275/large/fyn.png?1696522495"
+        },
+        {
+            "chainId": 137,
+            "address": "0xA3c322Ad15218fBFAEd26bA7f616249f7705D945",
+            "name": "Metaverse (PoS)",
+            "symbol": "MV",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/23143/large/geno.png?1696522435"
+        },
+        {
+            "chainId": 137,
+            "address": "0x9dBfc1cbf7a1E711503a29B4b5F9130ebeCcaC96",
+            "name": "UpOnly",
+            "symbol": "UPO",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/24900/large/f-WNwLNJ_400x400.jpg?1696524058"
+        },
+        {
+            "chainId": 137,
+            "address": "0xE06Bd4F5aAc8D0aA337D13eC88dB6defC6eAEefE",
+            "name": "PlanetIX",
+            "symbol": "IXT",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/20927/large/IXT_LOGO_PNG_RGB_200X.png?1696520316"
         },
         {
             "chainId": 250,
