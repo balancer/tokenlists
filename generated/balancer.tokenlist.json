@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-05-11T02:36:55.571Z",
+    "timestamp": "2024-05-13T11:49:17.714Z",
     "tokens": [
         {
             "chainId": 1,
@@ -10597,6 +10597,14 @@
             "symbol": "IXT",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/20927/large/IXT_LOGO_PNG_RGB_200X.png?1696520316"
+        },
+        {
+            "chainId": 137,
+            "address": "0xC3Ec80343D2bae2F8E680FDADDe7C17E71E114ea",
+            "name": "MANTRA DAO (PoS)",
+            "symbol": "OM",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/12151/large/OM_Token.png?1696511991"
         },
         {
             "chainId": 250,
