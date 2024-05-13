@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-05-13T11:49:17.714Z",
+    "timestamp": "2024-05-13T13:28:21.772Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6831,14 +6831,16 @@
             "address": "0xFC87753Df5Ef5C368b5FBA8D4C5043b77e8C5b39",
             "name": "Aspida Ether",
             "symbol": "aETH",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfc87753df5ef5c368b5fba8d4c5043b77e8c5b39.png"
         },
         {
             "chainId": 1,
             "address": "0xF1617882A71467534D14EEe865922de1395c9E89",
             "name": "saETH",
             "symbol": "saETH",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf1617882a71467534d14eee865922de1395c9e89.png"
         },
         {
             "chainId": 1,
@@ -10600,6 +10602,38 @@
         },
         {
             "chainId": 137,
+            "address": "0x9f95e17b2668AFE01F8fbD157068b0a4405Cc08D",
+            "name": "Bullieverse",
+            "symbol": "BULL",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/24174/large/KR3qVAQe_400x400.jpg?1696523362"
+        },
+        {
+            "chainId": 137,
+            "address": "0xD1f9c58e33933a993A3891F8acFe05a68E1afC05",
+            "name": "Sunflower Land",
+            "symbol": "SFL",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/25514/large/download.png?1696524647"
+        },
+        {
+            "chainId": 137,
+            "address": "0x33B6d77c607ea499ab5DB7e2201C5A516a78a5db",
+            "name": "Aimedis",
+            "symbol": "AIMX",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/29252/large/Aimedis_Logo_tg.png?1696528207"
+        },
+        {
+            "chainId": 137,
+            "address": "0x3d2bD0e15829AA5C362a4144FdF4A1112fa29B5c",
+            "name": "Bonsai Token",
+            "symbol": "BONSAI",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/35884/large/Bonsai_BW_Coingecko-200x200.jpg?1710071621"
+        },
+        {
+            "chainId": 137,
             "address": "0xC3Ec80343D2bae2F8E680FDADDe7C17E71E114ea",
             "name": "MANTRA DAO (PoS)",
             "symbol": "OM",
@@ -13995,14 +14029,16 @@
             "address": "0xFC87753Df5Ef5C368b5FBA8D4C5043b77e8C5b39",
             "name": "Aspida Ether",
             "symbol": "aETH",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfc87753df5ef5c368b5fba8d4c5043b77e8c5b39.png"
         },
         {
             "chainId": 42161,
             "address": "0xF1617882A71467534D14EEe865922de1395c9E89",
             "name": "saETH",
             "symbol": "saETH",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf1617882a71467534d14eee865922de1395c9e89.png"
         },
         {
             "chainId": 42161,
