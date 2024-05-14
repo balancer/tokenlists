@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-05-13T13:28:21.772Z",
+    "timestamp": "2024-05-14T01:47:37.190Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14183,6 +14183,14 @@
             "name": "Alienzone",
             "symbol": "ZONE",
             "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0xED65C5085a18Fa160Af0313E60dcc7905E944Dc7",
+            "name": "ETHx",
+            "symbol": "ETHx",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xed65c5085a18fa160af0313e60dcc7905e944dc7.png"
         },
         {
             "chainId": 43114,
