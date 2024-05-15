@@ -11703,13 +11703,6 @@
         },
         {
             "chainId": 1101,
-            "address": "0x37eAA0eF3549a5Bb7D431be78a3D99BD360d19e5",
-            "name": "USD Coin",
-            "symbol": "USDC",
-            "decimals": 6
-        },
-        {
-            "chainId": 1101,
             "address": "0x744C5860ba161b5316F7E80D9Ec415e2727e5bD5",
             "name": "Dai Stablecoin",
             "symbol": "DAI",
@@ -11981,27 +11974,11 @@
         },
         {
             "chainId": 1101,
-            "address": "0x37eAA0eF3549a5Bb7D431be78a3D99BD360d19e5",
-            "name": "USDC",
-            "symbol": "USDC.e",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x37eaa0ef3549a5bb7d431be78a3d99bd360d19e5.png"
-        },
-        {
-            "chainId": 1101,
             "address": "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8",
             "name": "Gyroscope",
             "symbol": "GYD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca5d8f8a8d49439357d3cf46ca2e720702f132b8.png"
-        },
-        {
-            "chainId": 1101,
-            "address": "0x37eAA0eF3549a5Bb7D431be78a3D99BD360d19e5",
-            "name": "USDC",
-            "symbol": "USDC.e",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x37eaa0ef3549a5bb7d431be78a3d99bd360d19e5.png"
         },
         {
             "chainId": 1101,
@@ -12085,14 +12062,6 @@
         },
         {
             "chainId": 1101,
-            "address": "0x37eAA0eF3549a5Bb7D431be78a3D99BD360d19e5",
-            "name": "USDC",
-            "symbol": "USDC.e",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x37eaa0ef3549a5bb7d431be78a3d99bd360d19e5.png"
-        },
-        {
-            "chainId": 1101,
             "address": "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8",
             "name": "Gyroscope",
             "symbol": "GYD",
@@ -12104,7 +12073,7 @@
             "address": "0x37eAA0eF3549a5Bb7D431be78a3D99BD360d19e5",
             "name": "USDC",
             "symbol": "USDC.e",
-            "decimals": 18,
+            "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x37eaa0ef3549a5bb7d431be78a3d99bd360d19e5.png"
         },
         {
