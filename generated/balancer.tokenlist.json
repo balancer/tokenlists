@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-05-14T01:47:37.190Z",
+    "timestamp": "2024-05-15T19:25:37.652Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7565,6 +7565,14 @@
             "decimals": 18
         },
         {
+            "chainId": 10,
+            "address": "0x4186BFC76E2E237523CBC30FD220FE055156b41F",
+            "name": "KelpDao Restaked ETH",
+            "symbol": "rsETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4186bfc76e2e237523cbc30fd220fe055156b41f.png"
+        },
+        {
             "chainId": 100,
             "address": "0x7eF541E2a22058048904fE5744f9c7E4C57AF717",
             "name": "Balancer on xDai",
@@ -14186,6 +14194,14 @@
         },
         {
             "chainId": 42161,
+            "address": "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8",
+            "name": "Gyro Dollar",
+            "symbol": "GYD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca5d8f8a8d49439357d3cf46ca2e720702f132b8.png"
+        },
+        {
+            "chainId": 42161,
             "address": "0xED65C5085a18Fa160Af0313E60dcc7905E944Dc7",
             "name": "ETHx",
             "symbol": "ETHx",
@@ -15060,7 +15076,7 @@
         },
         {
             "chainId": 11155111,
-            "address": "0x40a718EB4fBa8118C563Af4DB7fEc484Ac91728b",
+            "address": "0x8b80b78a377e9D40c599b0E2542E474C4440ddd2",
             "name": "ZEEBU",
             "symbol": "ZBU",
             "decimals": 18
