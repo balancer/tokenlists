@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-05-15T19:25:37.652Z",
+    "timestamp": "2024-05-16T01:23:22.190Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7240,7 +7240,7 @@
             "name": "Synth sUSD",
             "symbol": "sUSD",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/5013/large/sUSD.png?1696505546"
+            "logoURI": "https://assets.coingecko.com/coins/images/37867/large/sus.png?1715815715"
         },
         {
             "chainId": 10,
@@ -7556,6 +7556,14 @@
             "name": "Wrapped eETH",
             "symbol": "weETH",
             "decimals": 18
+        },
+        {
+            "chainId": 10,
+            "address": "0x87eEE96D50Fb761AD85B1c982d28A042169d61b1",
+            "name": "rsETHWrapper",
+            "symbol": "wrsETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x87eee96d50fb761ad85b1c982d28a042169d61b1.png"
         },
         {
             "chainId": 10,
