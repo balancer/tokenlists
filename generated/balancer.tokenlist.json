@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-05-16T01:23:22.190Z",
+    "timestamp": "2024-05-20T14:54:10.272Z",
     "tokens": [
         {
             "chainId": 1,
@@ -10440,7 +10440,8 @@
             "address": "0x8054d4D130C3A84852f379424Bcac75673a7486B",
             "name": "paUSD Stablecoin",
             "symbol": "paUSD",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/37953/large/paUSD-Square.png?1716090814"
         },
         {
             "chainId": 137,
@@ -10655,6 +10656,13 @@
             "symbol": "OM",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/12151/large/OM_Token.png?1696511991"
+        },
+        {
+            "chainId": 137,
+            "address": "0x674e855e40b5b9b056050d54CBD965d24098657e",
+            "name": "RAW SuperFood Land Shares",
+            "symbol": "RAW",
+            "decimals": 18
         },
         {
             "chainId": 250,
@@ -12600,6 +12608,13 @@
             "symbol": "FOMO",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/37070/large/IMG_20240415_091508_928_%281%29.jpg?1713379565"
+        },
+        {
+            "chainId": 8453,
+            "address": "0xd722E55C1d9D9fA0021A5215Cbb904b92B3dC5d4",
+            "name": "Radiant",
+            "symbol": "RDNT",
+            "decimals": 18
         },
         {
             "chainId": 42161,
