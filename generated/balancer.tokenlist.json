@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-05-20T14:54:10.272Z",
+    "timestamp": "2024-05-22T13:52:54.733Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14199,6 +14199,20 @@
             "symbol": "ETHx",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xed65c5085a18fa160af0313e60dcc7905e944dc7.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x7Cc35c17dB6Fc7c7894f0ac19932a2C852fa7eD2",
+            "name": "[TESTNET] DeNet File Token",
+            "symbol": "testDE",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0xE976D818b1dECefbE8Edf40020078251820C5224",
+            "name": "[TESTNET] Storage Gastoken V3",
+            "symbol": "testTBY",
+            "decimals": 18
         },
         {
             "chainId": 43114,
