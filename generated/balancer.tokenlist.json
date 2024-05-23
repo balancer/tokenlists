@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-05-22T13:52:54.733Z",
+    "timestamp": "2024-05-23T20:06:38.244Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7581,6 +7581,13 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4186bfc76e2e237523cbc30fd220fe055156b41f.png"
         },
         {
+            "chainId": 10,
+            "address": "0xfe5B10F053871e66a319a57a16CF4e709f51367F",
+            "name": "OVERPOWERED",
+            "symbol": "OVERPOWERED",
+            "decimals": 18
+        },
+        {
             "chainId": 100,
             "address": "0x7eF541E2a22058048904fE5744f9c7E4C57AF717",
             "name": "Balancer on xDai",
@@ -8004,6 +8011,13 @@
         {
             "chainId": 100,
             "address": "0xd78544e8270AcE4Ba28fB69Fc1c12931d6f5d69e",
+            "name": "GNOBBY",
+            "symbol": "GNOBBY",
+            "decimals": 18
+        },
+        {
+            "chainId": 100,
+            "address": "0x1a8805194D0eF2F73045a00c70Da399d9E74221c",
             "name": "GNOBBY",
             "symbol": "GNOBBY",
             "decimals": 18
@@ -10665,6 +10679,13 @@
             "decimals": 18
         },
         {
+            "chainId": 137,
+            "address": "0xC3323b6e71925b25943fB7369EE6769837e9C676",
+            "name": "PORIGON",
+            "symbol": "PORIGON",
+            "decimals": 18
+        },
+        {
             "chainId": 250,
             "address": "0xf1648C50d2863f780c57849D812b4B7686031A3D",
             "name": "Wrapped BTC",
@@ -11570,6 +11591,13 @@
             "symbol": "ECO",
             "decimals": 18,
             "logoURI": "https://dd.dexscreener.com/ds-data/tokens/fantom/0xb8a32897016c1b2ee0797090162eafe58f032795.png?key=a473b3"
+        },
+        {
+            "chainId": 250,
+            "address": "0xE2eca013A124FBcE7F7507a66FDf9Ad2e22d999B",
+            "name": "SANICSUPERSPEED",
+            "symbol": "SANICSUPERSPEED",
+            "decimals": 18
         },
         {
             "chainId": 1101,
@@ -12614,6 +12642,13 @@
             "address": "0xd722E55C1d9D9fA0021A5215Cbb904b92B3dC5d4",
             "name": "Radiant",
             "symbol": "RDNT",
+            "decimals": 18
+        },
+        {
+            "chainId": 8453,
+            "address": "0x9e949461F9EC22C6032cE26Ea509824Fd2f6d98f",
+            "name": "KABOSU",
+            "symbol": "KABOSUCHAN",
             "decimals": 18
         },
         {
@@ -14215,6 +14250,27 @@
             "decimals": 18
         },
         {
+            "chainId": 42161,
+            "address": "0x836975C507bfF631FCD7FBa875e9127C8A50dBa6",
+            "name": "ARBINAUTS",
+            "symbol": "ARBINAUTS",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x344C796cc2474e4b779D0e81765AFB91D7741a42",
+            "name": "GARFELDO",
+            "symbol": "LASAGNA",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x4e6b45BB1C7D11402faf72c2d59cAbC4085E36f2",
+            "name": "OogaBooga",
+            "symbol": "OogaBooga",
+            "decimals": 18
+        },
+        {
             "chainId": 43114,
             "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
             "name": "Wrapped AVAX",
@@ -14819,6 +14875,13 @@
             "address": "0x4Ff5f900ecA8F848bEDf09Fbff7d1CAa2C11a857",
             "name": "lueygi",
             "symbol": "$lueygi",
+            "decimals": 18
+        },
+        {
+            "chainId": 43114,
+            "address": "0xcCF580E697B8bBA73748BA881C1872DD4fB01cdA",
+            "name": "LUEYGI",
+            "symbol": "LUEYGI",
             "decimals": 18
         },
         {
