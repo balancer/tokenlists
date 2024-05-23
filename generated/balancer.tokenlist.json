@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-05-23T20:06:38.244Z",
+    "timestamp": "2024-05-23T22:10:53.966Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7585,7 +7585,8 @@
             "address": "0xfe5B10F053871e66a319a57a16CF4e709f51367F",
             "name": "OVERPOWERED",
             "symbol": "OVERPOWERED",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfe5b10f053871e66a319a57a16cf4e709f51367f.png"
         },
         {
             "chainId": 100,
@@ -8020,7 +8021,8 @@
             "address": "0x1a8805194D0eF2F73045a00c70Da399d9E74221c",
             "name": "GNOBBY",
             "symbol": "GNOBBY",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1a8805194d0ef2f73045a00c70da399d9e74221c.png"
         },
         {
             "chainId": 137,
@@ -10683,7 +10685,8 @@
             "address": "0xC3323b6e71925b25943fB7369EE6769837e9C676",
             "name": "PORIGON",
             "symbol": "PORIGON",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc3323b6e71925b25943fb7369ee6769837e9c676.png"
         },
         {
             "chainId": 250,
@@ -12649,7 +12652,8 @@
             "address": "0x9e949461F9EC22C6032cE26Ea509824Fd2f6d98f",
             "name": "KABOSU",
             "symbol": "KABOSUCHAN",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9e949461f9ec22c6032ce26ea509824fd2f6d98f.png"
         },
         {
             "chainId": 42161,
@@ -14254,7 +14258,8 @@
             "address": "0x836975C507bfF631FCD7FBa875e9127C8A50dBa6",
             "name": "ARBINAUTS",
             "symbol": "ARBINAUTS",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x836975c507bff631fcd7fba875e9127c8a50dba6.png"
         },
         {
             "chainId": 42161,
@@ -14882,7 +14887,8 @@
             "address": "0xcCF580E697B8bBA73748BA881C1872DD4fB01cdA",
             "name": "LUEYGI",
             "symbol": "LUEYGI",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xccf580e697b8bba73748ba881c1872dd4fb01cda.png"
         },
         {
             "chainId": 11155111,
