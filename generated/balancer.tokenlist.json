@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-05-23T22:52:08.229Z",
+    "timestamp": "2024-05-24T01:27:51.342Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12660,7 +12660,8 @@
             "address": "0x4e6b45BB1C7D11402faf72c2d59cAbC4085E36f2",
             "name": "OogaBooga",
             "symbol": "OogaBooga",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4e6b45bb1c7d11402faf72c2d59cabc4085e36f2.png"
         },
         {
             "chainId": 8453,
@@ -14288,7 +14289,8 @@
             "address": "0x4e6b45BB1C7D11402faf72c2d59cAbC4085E36f2",
             "name": "OogaBooga",
             "symbol": "OogaBooga",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4e6b45bb1c7d11402faf72c2d59cabc4085e36f2.png"
         },
         {
             "chainId": 42161,
