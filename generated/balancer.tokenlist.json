@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-05-24T23:00:15.060Z",
+    "timestamp": "2024-05-27T20:43:01.428Z",
     "tokens": [
         {
             "chainId": 1,
@@ -10682,6 +10682,14 @@
         },
         {
             "chainId": 137,
+            "address": "0x12050c705152931cFEe3DD56c52Fb09Dea816C23",
+            "name": "COP Minteo",
+            "symbol": "COPM",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x12050c705152931cfee3dd56c52fb09dea816c23.png"
+        },
+        {
+            "chainId": 137,
             "address": "0xC3323b6e71925b25943fB7369EE6769837e9C676",
             "name": "PORIGON",
             "symbol": "PORIGON",
@@ -11092,8 +11100,7 @@
             "address": "0x911d1FEaE99e112B5014cfa60038325d863352f1",
             "name": "Wolf Ventures",
             "symbol": "WV",
-            "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/28051/large/wv_trans_logo_%281%29.png?1696527064"
+            "decimals": 18
         },
         {
             "chainId": 250,
