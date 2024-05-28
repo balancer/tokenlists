@@ -479,6 +479,10 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xba100000625a3754423978a60c9317c58a424e3d.png',
     },
+    '0xF4F3c1666E750E014DE65c50d0e98B1263E678B8': {
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xF4F3c1666E750E014DE65c50d0e98B1263E678B8.png',
+    },
     '0x0aa1e96d2a46ec6beb2923de1e61addf5f5f1dce': {
       symbol: 'REG',
       name: 'Realt Ecosystem Governance',
