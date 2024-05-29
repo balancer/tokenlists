@@ -388,6 +388,11 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://assets.coingecko.com/coins/images/29734/standard/woeth-200x200.png?1714796686',
     },
+    '0xca5d8f8a8d49439357d3cf46ca2e720702f132b8': {
+      extensions: {
+        coingeckId: 'gyroscope-gyd',
+      },
+    },
   },
   [Network.Optimism]: {
     '0xe05A08226c49b636ACf99c40Da8DC6aF83CE5bB3': {
