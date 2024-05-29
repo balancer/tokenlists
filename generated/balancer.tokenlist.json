@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-05-28T13:03:07.351Z",
+    "timestamp": "2024-05-29T14:05:49.630Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6976,6 +6976,14 @@
             "symbol": "CDCETH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfe18ae03741a5b84e39c295ac9c856ed7991c38e.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x75e88B8c2d34a52a6d36deAda664D7dc9116e4EF",
+            "name": "Zaros Finance",
+            "symbol": "ZRS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x75e88b8c2d34a52a6d36deada664d7dc9116e4ef.png"
         },
         {
             "chainId": 10,
@@ -14330,6 +14338,13 @@
             "symbol": "InstETH",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/34954/large/Group_14.png?1706773546"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xB3F13B0C61d65D67D7D6215d70C89533ee567A91",
+            "name": "A51 Finance",
+            "symbol": "A51",
+            "decimals": 18
         },
         {
             "chainId": 43114,
