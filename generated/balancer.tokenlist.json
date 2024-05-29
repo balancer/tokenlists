@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-05-27T20:43:01.428Z",
+    "timestamp": "2024-05-29T14:05:49.630Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6970,6 +6970,22 @@
             "logoURI": "https://assets.coingecko.com/coins/images/34952/large/ankrETH.png?1706772250"
         },
         {
+            "chainId": 1,
+            "address": "0xfe18aE03741a5b84e39C295Ac9C856eD7991C38e",
+            "name": "Crypto.com Wrapped Staked ETH",
+            "symbol": "CDCETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfe18ae03741a5b84e39c295ac9c856ed7991c38e.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x75e88B8c2d34a52a6d36deAda664D7dc9116e4EF",
+            "name": "Zaros Finance",
+            "symbol": "ZRS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x75e88b8c2d34a52a6d36deada664d7dc9116e4ef.png"
+        },
+        {
             "chainId": 10,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -8023,6 +8039,14 @@
             "symbol": "GNOBBY",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1a8805194d0ef2f73045a00c70da399d9e74221c.png"
+        },
+        {
+            "chainId": 100,
+            "address": "0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75",
+            "name": "Giveth from Mainnet",
+            "symbol": "GIV",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4f4f9b8d5b4d0dc10506e5551b0513b61fd59e75.png"
         },
         {
             "chainId": 137,
@@ -14312,6 +14336,14 @@
             "address": "0xd08C3F25862077056cb1b710937576Af899a4959",
             "name": "Inception Restaked stETH",
             "symbol": "InstETH",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/34954/large/Group_14.png?1706773546"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xB3F13B0C61d65D67D7D6215d70C89533ee567A91",
+            "name": "A51 Finance",
+            "symbol": "A51",
             "decimals": 18
         },
         {
