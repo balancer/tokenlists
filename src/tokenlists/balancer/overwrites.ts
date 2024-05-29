@@ -351,8 +351,8 @@ export const overwrites: OverwritesForList = {
     },
     '0x3a301e7917689b8e8a19498b8a28fc912583490c': {
       decimals: 6,
-      symbol: 'AaveUSDC',
-      name: 'Static Aave Ethereum USDC',
+      symbol: 'AaveUSDC (deprecated)',
+      name: 'Static Aave Ethereum USDC (deprecated)',
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe719aef17468c7e10c0c205be62c990754dff7e5.png',
     },
@@ -365,15 +365,15 @@ export const overwrites: OverwritesForList = {
     },
     '0xbde67e089886ec0e615d6f054bc6f746189a3d56': {
       decimals: 6,
-      symbol: 'AaveUSDCn',
-      name: 'Static Aave Ethereum USDCn',
+      symbol: 'AaveUSDCn (deprecated)',
+      name: 'Static Aave Ethereum USDCn (deprecated)',
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe719aef17468c7e10c0c205be62c990754dff7e5.png',
     },
     '0x8b5541b773dd781852940490b0c3dc1a8cdb6a87': {
       decimals: 6,
-      symbol: 'AaveUSDT',
-      name: 'Static Aave Ethereum USDT',
+      symbol: 'AaveUSDT (deprecated)',
+      name: 'Static Aave Ethereum USDT (deprecated)',
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf8fd466f12e236f4c96f7cce6c79eadb819abf58.png',
     },
