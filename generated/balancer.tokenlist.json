@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-05-29T14:05:49.630Z",
+    "timestamp": "2024-05-29T18:38:29.641Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14344,7 +14344,8 @@
             "address": "0xB3F13B0C61d65D67D7D6215d70C89533ee567A91",
             "name": "A51 Finance",
             "symbol": "A51",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/36723/large/a51.png?1712141364"
         },
         {
             "chainId": 43114,
