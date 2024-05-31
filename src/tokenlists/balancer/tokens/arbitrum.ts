@@ -181,11 +181,7 @@ export default [
   '0x2416092f143378750bb29b79eD961ab195CcEea5', // ezETH
   '0xFC87753Df5Ef5C368b5FBA8D4C5043b77e8C5b39', // aETH
   '0xF1617882A71467534D14EEe865922de1395c9E89', // saETH
-  '0x3a301e7917689b8e8a19498b8a28fc912583490c', // stataArbUSDC
-  '0x7cfadfd5645b50be87d546f42699d863648251ad', // stataArbUSDCn
-  '0xbde67e089886ec0e615d6f054bc6f746189a3d56', // stataArbUSDCn (different proxy address)
-  '0x8b5541b773dd781852940490b0c3dc1a8cdb6a87', // stataArbUSDT
-  '0xb165a74407fe1e519d6bcbdec1ed3202b35a4140', // stataArbUSDT (different proxy address)
+  '0xb165a74407fe1e519d6bcbdec1ed3202b35a4140', // stataArbUSDT
   '0x8B1BBFd76E92b488AdeaA62b18375FBf860f730E', // MER
   '0x0945cae3ae47cb384b2d47bc448dc6a9dec21f55', // Threshold Network Token (T)
   '0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2', // sUSDe
