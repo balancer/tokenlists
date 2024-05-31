@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-05-29T18:38:29.641Z",
+    "timestamp": "2024-05-31T02:10:35.331Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8049,6 +8049,14 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4f4f9b8d5b4d0dc10506e5551b0513b61fd59e75.png"
         },
         {
+            "chainId": 100,
+            "address": "0xF4F3c1666E750E014DE65c50d0e98B1263E678B8",
+            "name": "Solaxy",
+            "symbol": "SLX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf4f3c1666e750e014de65c50d0e98b1263e678b8.png"
+        },
+        {
             "chainId": 137,
             "address": "0x28Acf29b65604Bd0f80e776256e5F5af39Fc2031",
             "name": "SquirrelUnderCar",
@@ -14128,38 +14136,6 @@
         },
         {
             "chainId": 42161,
-            "address": "0x3A301e7917689b8E8A19498b8A28fc912583490C",
-            "name": "Static Aave Ethereum USDC",
-            "symbol": "AaveUSDC",
-            "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe719aef17468c7e10c0c205be62c990754dff7e5.png"
-        },
-        {
-            "chainId": 42161,
-            "address": "0x7CFaDFD5645B50bE87d546f42699d863648251ad",
-            "name": "Static Aave Ethereum USDCn",
-            "symbol": "AaveUSDCn",
-            "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe719aef17468c7e10c0c205be62c990754dff7e5.png"
-        },
-        {
-            "chainId": 42161,
-            "address": "0xbdE67e089886EC0E615D6f054BC6f746189A3d56",
-            "name": "Static Aave Ethereum USDCn",
-            "symbol": "AaveUSDCn",
-            "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe719aef17468c7e10c0c205be62c990754dff7e5.png"
-        },
-        {
-            "chainId": 42161,
-            "address": "0x8B5541B773DD781852940490b0c3dC1a8CDb6A87",
-            "name": "Static Aave Ethereum USDT",
-            "symbol": "AaveUSDT",
-            "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf8fd466f12e236f4c96f7cce6c79eadb819abf58.png"
-        },
-        {
-            "chainId": 42161,
             "address": "0xb165a74407fE1e519d6bCbDeC1Ed3202B35a4140",
             "name": "Static Aave Ethereum USDT",
             "symbol": "AaveUSDT",
@@ -14313,7 +14289,8 @@
             "address": "0x344C796cc2474e4b779D0e81765AFB91D7741a42",
             "name": "GARFELDO",
             "symbol": "LASAGNA",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/38322/large/garffeldo.png?1717072102"
         },
         {
             "chainId": 42161,
@@ -14346,6 +14323,14 @@
             "symbol": "A51",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/36723/large/a51.png?1712141364"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x7CFaDFD5645B50bE87d546f42699d863648251ad",
+            "name": "Static Aave Arbitrum USDCn",
+            "symbol": "AaveUSDCn",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe719aef17468c7e10c0c205be62c990754dff7e5.png"
         },
         {
             "chainId": 43114,
