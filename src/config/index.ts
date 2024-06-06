@@ -10,6 +10,7 @@ import sepolia from './sepolia'
 import zkevm from './zkevm'
 import fantom from './fantom'
 import fraxtal from './fraxtal'
+import mode from './mode'
 
 const config: Configs = {
   [Network.Arbitrum]: arbitrum,
@@ -23,6 +24,7 @@ const config: Configs = {
   [Network.Zkevm]: zkevm,
   [Network.Fantom]: fantom,
   [Network.Fraxtal]: fraxtal,
+  [Network.Mode]: mode,
 }
 
 export default config

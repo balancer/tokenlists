@@ -12,6 +12,7 @@ export enum Network {
   Sepolia = '11155111',
   Fantom = '250',
   Fraxtal = '252',
+  Mode = '34443',
 }
 
 export interface Config {
