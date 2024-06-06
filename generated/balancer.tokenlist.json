@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-05-31T02:10:35.331Z",
+    "timestamp": "2024-06-06T15:03:50.429Z",
     "tokens": [
         {
             "chainId": 1,
@@ -10583,8 +10583,7 @@
             "address": "0x9f95e17b2668AFE01F8fbD157068b0a4405Cc08D",
             "name": "Bullieverse",
             "symbol": "BULL",
-            "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/24174/large/KR3qVAQe_400x400.jpg?1696523362"
+            "decimals": 18
         },
         {
             "chainId": 137,
@@ -11640,6 +11639,42 @@
             "name": "SANICSUPERSPEED",
             "symbol": "SANICSUPERSPEED",
             "decimals": 18
+        },
+        {
+            "chainId": 252,
+            "address": "0x4d15EA9C2573ADDAeD814e48C148b5262694646A",
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 6
+        },
+        {
+            "chainId": 252,
+            "address": "0xb3a7862d7B29B8E3D235299128C6985E2CD44c33",
+            "name": "USDe",
+            "symbol": "USDe",
+            "decimals": 18
+        },
+        {
+            "chainId": 252,
+            "address": "0xDcc0F2D8F90FDe85b10aC1c8Ab57dc0AE946A543",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6
+        },
+        {
+            "chainId": 252,
+            "address": "0xf6a011fAC307f55Cd4bA8e43b8b93f39808DdaA9",
+            "name": "Dai Stablecoin",
+            "symbol": "DAI",
+            "decimals": 18
+        },
+        {
+            "chainId": 252,
+            "address": "0xFc00000000000000000000000000000000000001",
+            "name": "Frax",
+            "symbol": "FRAX",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/35847/large/frax.png?1709894380"
         },
         {
             "chainId": 1101,
