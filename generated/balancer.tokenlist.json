@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-06-06T15:03:50.429Z",
+    "timestamp": "2024-06-06T15:44:35.878Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12744,6 +12744,30 @@
             "symbol": "MOLANDAK",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa170eaa9a74ab4b3218c736210b0421af35c3c00.png"
+        },
+        {
+            "chainId": 34443,
+            "address": "0xd988097fb8612cc24eeC14542bC03424c656005f",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://assets.coingecko.com/coins/images/35809/large/usdc_%281%29.png?1709867043"
+        },
+        {
+            "chainId": 34443,
+            "address": "0xf0F161fDA2712DB8b566946122a5af183995e2eD",
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 6,
+            "logoURI": "https://assets.coingecko.com/coins/images/35808/large/usdt_%281%29.png?1709866389"
+        },
+        {
+            "chainId": 34443,
+            "address": "0x4200000000000000000000000000000000000006",
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4200000000000000000000000000000000000006.png"
         },
         {
             "chainId": 42161,
