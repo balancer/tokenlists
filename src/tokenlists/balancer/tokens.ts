@@ -9,6 +9,7 @@ import polygon from './tokens/polygon'
 import sepolia from './tokens/sepolia'
 import zkevm from './tokens/zkevm'
 import fantom from './tokens/fantom'
+import fraxtal from './tokens/fraxtal'
 
 export const tokens: TokensForList = {
   [Network.Ethereum]: ethereum,
@@ -21,4 +22,5 @@ export const tokens: TokensForList = {
   [Network.Sepolia]: sepolia,
   [Network.Base]: base,
   [Network.Fantom]: fantom,
+  [Network.Fraxtal]: fraxtal,
 }
