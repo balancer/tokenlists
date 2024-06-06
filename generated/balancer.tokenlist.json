@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-06-06T15:44:35.878Z",
+    "timestamp": "2024-06-06T16:34:31.672Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14390,6 +14390,14 @@
             "symbol": "AaveUSDCn",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe719aef17468c7e10c0c205be62c990754dff7e5.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xf7d4e7273E5015C96728A6b02f31C505eE184603",
+            "name": "Staked ETH",
+            "symbol": "osETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf7d4e7273e5015c96728a6b02f31c505ee184603.png"
         },
         {
             "chainId": 43114,
