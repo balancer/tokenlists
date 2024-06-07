@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-06-06T16:34:31.672Z",
+    "timestamp": "2024-06-07T01:29:20.732Z",
     "tokens": [
         {
             "chainId": 1,
@@ -11677,6 +11677,35 @@
             "logoURI": "https://assets.coingecko.com/coins/images/35847/large/frax.png?1709894380"
         },
         {
+            "chainId": 252,
+            "address": "0xFC00000000000000000000000000000000000005",
+            "name": "Staked Frax Ether",
+            "symbol": "sfrxETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 252,
+            "address": "0xFc00000000000000000000000000000000000002",
+            "name": "Frax Share",
+            "symbol": "FXS",
+            "decimals": 18
+        },
+        {
+            "chainId": 252,
+            "address": "0xfc00000000000000000000000000000000000008",
+            "name": "Staked Frax",
+            "symbol": "sFRAX",
+            "decimals": 18
+        },
+        {
+            "chainId": 252,
+            "address": "0xFC00000000000000000000000000000000000006",
+            "name": "Wrapped Frax Ether",
+            "symbol": "wfrxETH",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/35848/large/wrapped-sfrxeth.png?1709894604"
+        },
+        {
             "chainId": 1101,
             "address": "0x120eF59b80774F02211563834d8E3b72cb1649d6",
             "name": "Balancer",
@@ -12747,6 +12776,14 @@
         },
         {
             "chainId": 34443,
+            "address": "0x4200000000000000000000000000000000000006",
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4200000000000000000000000000000000000006.png"
+        },
+        {
+            "chainId": 34443,
             "address": "0xd988097fb8612cc24eeC14542bC03424c656005f",
             "name": "USD Coin",
             "symbol": "USDC",
@@ -12763,11 +12800,64 @@
         },
         {
             "chainId": 34443,
-            "address": "0x4200000000000000000000000000000000000006",
-            "name": "Wrapped Ether",
-            "symbol": "WETH",
+            "address": "0xD08a2917653d4E460893203471f0000826fb4034",
+            "name": "Balancer",
+            "symbol": "BAL",
+            "decimals": 18
+        },
+        {
+            "chainId": 34443,
+            "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+            "name": "Renzo Restaked ETH",
+            "symbol": "ezETH",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4200000000000000000000000000000000000006.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2416092f143378750bb29b79ed961ab195cceea5.png"
+        },
+        {
+            "chainId": 34443,
+            "address": "0xDfc7C877a950e49D2610114102175A06C2e3167a",
+            "name": "Mode",
+            "symbol": "MODE",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/34979/large/MODE.jpg?1714561871"
+        },
+        {
+            "chainId": 34443,
+            "address": "0x4186BFC76E2E237523CBC30FD220FE055156b41F",
+            "name": "KelpDao Restaked ETH",
+            "symbol": "rsETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4186bfc76e2e237523cbc30fd220fe055156b41f.png"
+        },
+        {
+            "chainId": 34443,
+            "address": "0x028227c4dd1e5419d11Bb6fa6e661920c519D4F5",
+            "name": "Wrapped eETH",
+            "symbol": "weETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 34443,
+            "address": "0xcDd475325D6F564d27247D1DddBb0DAc6fA0a5CF",
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "decimals": 8,
+            "logoURI": "https://assets.coingecko.com/coins/images/35916/large/wrapped-bitcoin-wbtc-logo.png?1710210285"
+        },
+        {
+            "chainId": 34443,
+            "address": "0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea",
+            "name": "Dai Stablecoin",
+            "symbol": "DAI",
+            "decimals": 18
+        },
+        {
+            "chainId": 34443,
+            "address": "0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2",
+            "name": "Aave Token",
+            "symbol": "AAVE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7c6b91d9be155a6db01f749217d76ff02a7227f2.png"
         },
         {
             "chainId": 42161,
