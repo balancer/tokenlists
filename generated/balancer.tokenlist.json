@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-06-10T13:12:39.766Z",
+    "timestamp": "2024-06-10T15:48:08.679Z",
     "tokens": [
         {
             "chainId": 1,
@@ -1686,7 +1686,7 @@
             "name": "Curve DAO Token",
             "symbol": "CRV",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/12124/large/Curve.png?1696511967"
+            "logoURI": "https://coin-images.coingecko.com/coins/images/12124/large/Curve.png?1696511967"
         },
         {
             "chainId": 1,
@@ -6871,7 +6871,8 @@
             "address": "0xFe0c30065B384F05761f15d0CC899D4F9F9Cc0eB",
             "name": "ether.fi governance token",
             "symbol": "ETHFI",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/35958/large/etherfi.jpeg?1710254562"
         },
         {
             "chainId": 1,
@@ -6925,7 +6926,8 @@
             "address": "0x59D9356E565Ab3A36dD77763Fc0d87fEaf85508C",
             "name": "Mountain Protocol USD",
             "symbol": "USDM",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/31719/large/usdm.png?1696530540"
         },
         {
             "chainId": 1,
@@ -6996,7 +6998,8 @@
             "address": "0x80ac24aA929eaF5013f6436cdA2a7ba190f5Cc0b",
             "name": "Syrup USDC",
             "symbol": "syrupUSDC",
-            "decimals": 6
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x80ac24aa929eaf5013f6436cda2a7ba190f5cc0b.png"
         },
         {
             "chainId": 10,
@@ -7237,21 +7240,24 @@
             "address": "0xb4Bc46bc6cB217B59ea8F4530BaE26Bf69F677f0",
             "name": "BeethovenxToken",
             "symbol": "BEETS",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/19158/large/beets-icon-large.png?1696518608"
         },
         {
             "chainId": 10,
             "address": "0xFE8B128bA8C78aabC59d4c64cEE7fF28e9379921",
             "name": "Balancer",
             "symbol": "BAL",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/11683/large/Balancer.png?1696511572"
         },
         {
             "chainId": 10,
             "address": "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6",
             "name": "ChainLink Token",
             "symbol": "LINK",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/877/large/chainlink-new-logo.png?1696502009"
         },
         {
             "chainId": 10,
@@ -8127,7 +8133,7 @@
             "name": "CRV (PoS)",
             "symbol": "CRV",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/12124/large/Curve.png?1696511967"
+            "logoURI": "https://coin-images.coingecko.com/coins/images/12124/large/Curve.png?1696511967"
         },
         {
             "chainId": 137,
@@ -10095,7 +10101,7 @@
             "name": "Defactor (PoS)",
             "symbol": "FACTR",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/19201/large/jFLSu4U9_400x400.png?1696518648"
+            "logoURI": "https://coin-images.coingecko.com/coins/images/19201/large/jFLSu4U9_400x400.png?1696518648"
         },
         {
             "chainId": 137,
