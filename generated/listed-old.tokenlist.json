@@ -9,7 +9,7 @@
         "Balancer"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-04-12T13:15:48.140Z",
+    "timestamp": "2024-06-10T13:12:50.538Z",
     "tokens": [
         {
             "chainId": 1,
@@ -1531,7 +1531,7 @@
             "name": "Wrapped XDAI",
             "symbol": "WXDAI",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/11062/large/Identity-Primary-DarkBG.png?1696511004"
+            "logoURI": "https://coin-images.coingecko.com/coins/images/11062/large/Identity-Primary-DarkBG.png?1696511004"
         },
         {
             "chainId": 100,
@@ -1555,7 +1555,7 @@
             "name": "Honey",
             "symbol": "HNY",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/12895/large/hnys.png?1696512683"
+            "logoURI": "https://coin-images.coingecko.com/coins/images/12895/large/hnys.png?1696512683"
         },
         {
             "chainId": 100,
@@ -1803,7 +1803,7 @@
             "name": "Jarvis Reward Token (PoS)",
             "symbol": "JRT",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/10390/large/cfeii0y.png?1696510389"
+            "logoURI": "https://coin-images.coingecko.com/coins/images/10390/large/cfeii0y.png?1696510389"
         },
         {
             "chainId": 137,
@@ -2178,7 +2178,7 @@
             "name": "Luchadores.io LUCHA Token",
             "symbol": "LUCHA",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/22794/large/lucha.png?1696522097"
+            "logoURI": "https://coin-images.coingecko.com/coins/images/22794/large/lucha.png?1696522097"
         },
         {
             "chainId": 137,
@@ -2845,7 +2845,7 @@
             "name": "TrueUSD",
             "symbol": "TUSD",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/30837/large/tusd.jpeg?1696529695"
+            "logoURI": "https://coin-images.coingecko.com/coins/images/30837/large/tusd.jpeg?1696529695"
         },
         {
             "chainId": 42161,
