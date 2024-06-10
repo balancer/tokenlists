@@ -909,4 +909,5 @@ export default [
   '0xfe18aE03741a5b84e39C295Ac9C856eD7991C38e', // CDCETH
   '0x75e88B8c2d34a52a6d36deAda664D7dc9116e4EF', // Zaros Finance (ZRS)
   '0x0f17BC9a994b87b5225cFb6a2Cd4D667ADb4F20B', // jEUR
+  '0x80ac24aA929eaF5013f6436cdA2a7ba190f5Cc0b', // syrupUSDC
 ]
