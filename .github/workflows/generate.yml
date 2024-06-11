@@ -1,6 +1,7 @@
 name: Generate tokenlists
 
 on:
+  workflow_call:
   push:
     branches:
       - main
