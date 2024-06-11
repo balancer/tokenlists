@@ -6,3 +6,7 @@ on:
 jobs:
   generate:
     uses: ./.github/workflows/generate.yml
+    secrets:
+      INFURA_KEY: ${{ secrets.INFURA_KEY }}
+      ALCHEMY_KEY: ${{ secrets.ALCHEMY_KEY }}
+      COINGECKO_API_KEY: ${{ secrets.COINGECKO_API_KEY }}
