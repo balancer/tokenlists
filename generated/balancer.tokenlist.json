@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-06-12T23:07:37.000Z",
+    "timestamp": "2024-06-13T20:19:21.326Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8102,6 +8102,14 @@
             "name": "Bridged USDC (Gnosis)",
             "symbol": "USDC.e",
             "decimals": 6
+        },
+        {
+            "chainId": 100,
+            "address": "0xdBF3Ea6F5beE45c02255B2c26a16F300502F68da",
+            "name": "BZZ on xDai",
+            "symbol": "BZZ",
+            "decimals": 16,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdbf3ea6f5bee45c02255b2c26a16f300502f68da.png"
         },
         {
             "chainId": 137,
