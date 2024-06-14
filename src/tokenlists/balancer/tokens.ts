@@ -21,7 +21,7 @@ export const tokens: TokensForList = {
   [Network.Zkevm]: zkevm,
   [Network.Avalanche]: avalanche,
   [Network.Sepolia]: sepolia,
-  [Network.Base]: base,
+  [Network.Base]: base,0x7c34c84347AF3d06e0A6a6059a6A299fb16d2486
   [Network.Fantom]: fantom,
   [Network.Fraxtal]: fraxtal,
   [Network.Mode]: mode,
