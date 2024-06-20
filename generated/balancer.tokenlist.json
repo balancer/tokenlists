@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-06-18T18:53:23.768Z",
+    "timestamp": "2024-06-20T01:10:09.184Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7000,6 +7000,14 @@
             "symbol": "syrupUSDC",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x80ac24aa929eaf5013f6436cda2a7ba190f5cc0b.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x38C2a4a7330b22788374B8Ff70BBa513C8D848cA",
+            "name": "Truflation",
+            "symbol": "TRUF",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/36642/large/TRUF_Token_Logo_Blue.png?1712034385"
         },
         {
             "chainId": 10,
@@ -14566,6 +14574,14 @@
             "symbol": "WXM",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/38154/large/weatherxm-network-logo.png?1716668976"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x4186BFC76E2E237523CBC30FD220FE055156b41F",
+            "name": "KelpDao Restaked ETH",
+            "symbol": "rsETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4186bfc76e2e237523cbc30fd220fe055156b41f.png"
         },
         {
             "chainId": 43114,
