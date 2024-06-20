@@ -479,8 +479,7 @@ export const overwrites: OverwritesForList = {
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x83f20f44975d03b1b09e64809b757c47f942beea.png',
     },
     '0x5A7fACB970D094B6C7FF1df0eA68D99E6e73CBFF': {
-      logoURI:
-        'https://etherscan.io/token/images/etherfiweeth_32.png',
+      logoURI: 'https://etherscan.io/token/images/etherfiweeth_32.png',
       extensions: {
         coingeckId: 'wrapped-eeth',
       },
