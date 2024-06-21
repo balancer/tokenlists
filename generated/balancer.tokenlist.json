@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-06-20T20:48:57.626Z",
+    "timestamp": "2024-06-21T15:13:48.522Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12847,6 +12847,13 @@
             "symbol": "MOLANDAK",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa170eaa9a74ab4b3218c736210b0421af35c3c00.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x7c34c84347AF3d06e0A6a6059a6A299fb16d2486",
+            "name": "DezNutz",
+            "symbol": "NUTZ",
+            "decimals": 18
         },
         {
             "chainId": 34443,
