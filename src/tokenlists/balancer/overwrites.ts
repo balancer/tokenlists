@@ -76,6 +76,11 @@ export const overwrites: OverwritesForList = {
       symbol: 'staFi rETH',
       name: 'staFi rETH',
     },
+    '0xf073bAC22DAb7FaF4a3Dd6c6189a70D54110525C': {
+      decimals: 18,
+      symbol: 'inETH',
+      name: 'InceptionLRT restaked ETH',
+    },
     '0xEb91861f8A4e1C12333F42DCE8fB0Ecdc28dA716': {
       decimals: 18,
       symbol: 'eUSDC',
