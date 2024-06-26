@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-06-21T15:13:48.522Z",
+    "timestamp": "2024-06-26T15:12:44.781Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6822,9 +6822,9 @@
             "chainId": 1,
             "address": "0xf073bAC22DAb7FaF4a3Dd6c6189a70D54110525C",
             "name": "InceptionLRT restaked ETH",
-            "symbol": "genETH",
+            "symbol": "inETH",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/34127/large/image.png?1704174967"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf073bac22dab7faf4a3dd6c6189a70d54110525c.png"
         },
         {
             "chainId": 1,
@@ -7008,6 +7008,45 @@
             "symbol": "TRUF",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/36642/large/TRUF_Token_Logo_Blue.png?1712034385"
+        },
+        {
+            "chainId": 1,
+            "address": "0x5fD13359Ba15A84B76f7F87568309040176167cd",
+            "name": "Amphor Restaked ETH",
+            "symbol": "amphrETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5fd13359ba15a84b76f7f87568309040176167cd.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x7a4EffD87C2f3C55CA251080b1343b605f327E3a",
+            "name": "Restaking Vault ETH",
+            "symbol": "rstETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7a4effd87c2f3c55ca251080b1343b605f327e3a.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x84631c0d0081FDe56DeB72F6DE77abBbF6A9f93a",
+            "name": "Re7 Labs LRT",
+            "symbol": "Re7LRT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x84631c0d0081fde56deb72f6de77abbbf6a9f93a.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xBEEF69Ac7870777598A04B2bd4771c71212E6aBc",
+            "name": "Steakhouse Resteaking Vault",
+            "symbol": "steakLRT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xbeef69ac7870777598a04b2bd4771c71212e6abc.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x10456F0788Bfba7405C89451bE257b11b490975E",
+            "name": "WhaleArmy",
+            "symbol": "WHALE",
+            "decimals": 18
         },
         {
             "chainId": 10,
@@ -9911,8 +9950,7 @@
             "address": "0x3A29CAb2E124919d14a6F735b6033a3AaD2B260F",
             "name": "Option to buy RETRO",
             "symbol": "oRETRO",
-            "decimals": 18,
-            "logoURI": "https://coin-images.coingecko.com/coins/images/33668/large/Screenshot_2023-08-27_101458-removebg-preview.png?1702694247"
+            "decimals": 18
         },
         {
             "chainId": 137,
