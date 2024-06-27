@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-06-26T15:12:44.781Z",
+    "timestamp": "2024-06-27T03:13:38.772Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14631,6 +14631,14 @@
             "symbol": "rsETH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4186bfc76e2e237523cbc30fd220fe055156b41f.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x5A7a183B6B44Dc4EC2E3d2eF43F98C5152b1d76d",
+            "name": "InceptionLRT restaked ETH",
+            "symbol": "inETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5a7a183b6b44dc4ec2e3d2ef43f98c5152b1d76d.png"
         },
         {
             "chainId": 43114,
