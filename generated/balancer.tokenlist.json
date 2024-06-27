@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-06-27T03:13:38.772Z",
+    "timestamp": "2024-06-27T14:38:32.376Z",
     "tokens": [
         {
             "chainId": 1,
@@ -11816,6 +11816,21 @@
             "symbol": "wfrxETH",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/35848/large/wrapped-sfrxeth.png?1709894604"
+        },
+        {
+            "chainId": 252,
+            "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+            "name": "USDe",
+            "symbol": "USDe",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34.png"
+        },
+        {
+            "chainId": 252,
+            "address": "0x09eAdcBAa812A4C076c3a6cDe765DC4a22E0d775",
+            "name": "Savings Dai",
+            "symbol": "sDAI",
+            "decimals": 18
         },
         {
             "chainId": 1101,
