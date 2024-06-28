@@ -60,6 +60,13 @@
             "name": "HONEY",
             "symbol": "HONEY",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x7507c1dc16935B82698e4C63f2746A2fCf994dF8",
+            "name": "Wrapped Bera",
+            "symbol": "WBERA",
+            "decimals": 18
         }
     ]
 }
