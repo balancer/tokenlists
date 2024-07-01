@@ -10,6 +10,7 @@ import { Network, TokensForList } from '../../types'
 // import zkevm from './tokens/zkevm'
 // import fantom from './tokens/fantom'
 import artio from './tokens/artio'
+import bartio from './tokens/bartio'
 
 export const tokens: TokensForList = {
   [Network.Ethereum]: [],
@@ -23,4 +24,5 @@ export const tokens: TokensForList = {
   [Network.Base]: [],
   [Network.Fantom]: [],
   [Network.Artio]: artio,
+  [Network.Bartio]: bartio,
 }
