@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-07-02T09:59:34.649Z",
+    "timestamp": "2024-07-02T13:25:47.308Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5526,7 +5526,7 @@
             "name": "Gho Token",
             "symbol": "GHO",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/30663/large/ghoaave.jpeg?1686151372"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f.png"
         },
         {
             "chainId": 1,
@@ -11758,21 +11758,24 @@
             "address": "0x4d15EA9C2573ADDAeD814e48C148b5262694646A",
             "name": "Tether USD",
             "symbol": "USDT",
-            "decimals": 6
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4d15ea9c2573addaed814e48c148b5262694646a.png"
         },
         {
             "chainId": 252,
             "address": "0xb3a7862d7B29B8E3D235299128C6985E2CD44c33",
             "name": "USDe",
             "symbol": "USDe",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb3a7862d7b29b8e3d235299128c6985e2cd44c33.png"
         },
         {
             "chainId": 252,
             "address": "0xDcc0F2D8F90FDe85b10aC1c8Ab57dc0AE946A543",
             "name": "USD Coin",
             "symbol": "USDC",
-            "decimals": 6
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdcc0f2d8f90fde85b10ac1c8ab57dc0ae946a543.png"
         },
         {
             "chainId": 252,
@@ -11794,7 +11797,8 @@
             "address": "0xFC00000000000000000000000000000000000005",
             "name": "Staked Frax Ether",
             "symbol": "sfrxETH",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfc00000000000000000000000000000000000005.png"
         },
         {
             "chainId": 252,
@@ -11808,7 +11812,8 @@
             "address": "0xfc00000000000000000000000000000000000008",
             "name": "Staked Frax",
             "symbol": "sFRAX",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfc00000000000000000000000000000000000008.png"
         },
         {
             "chainId": 252,
@@ -11831,7 +11836,16 @@
             "address": "0x09eAdcBAa812A4C076c3a6cDe765DC4a22E0d775",
             "name": "Savings Dai",
             "symbol": "sDAI",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x09eadcbaa812a4c076c3a6cde765dc4a22e0d775.png"
+        },
+        {
+            "chainId": 252,
+            "address": "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
+            "name": "Staked USDe",
+            "symbol": "sUSDe",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2.png"
         },
         {
             "chainId": 1101,
