@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-07-02T13:25:47.308Z",
+    "timestamp": "2024-07-02T13:39:55.376Z",
     "tokens": [
         {
             "chainId": 1,
@@ -11782,7 +11782,8 @@
             "address": "0xf6a011fAC307f55Cd4bA8e43b8b93f39808DdaA9",
             "name": "Dai Stablecoin",
             "symbol": "DAI",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf6a011fac307f55cd4ba8e43b8b93f39808ddaa9.png"
         },
         {
             "chainId": 252,
