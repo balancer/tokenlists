@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-07-04T01:28:20.690Z",
+    "timestamp": "2024-07-04T17:56:18.610Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14684,7 +14684,8 @@
             "address": "0xd3443ee1e91aF28e5FB858Fbd0D72A63bA8046E0",
             "name": "Gains Network USDC",
             "symbol": "gUSDC",
-            "decimals": 6
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd3443ee1e91af28e5fb858fbd0d72a63ba8046e0.png"
         },
         {
             "chainId": 43114,
