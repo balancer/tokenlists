@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-07-04T17:56:18.610Z",
+    "timestamp": "2024-07-08T17:57:38.464Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7049,6 +7049,14 @@
             "decimals": 18
         },
         {
+            "chainId": 1,
+            "address": "0xCa93A5d889e445CECb42E5386f7d516511d2820f",
+            "name": "Masternoded Token",
+            "symbol": "NODED",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/37710/large/0obdVc3N_400x400.jpg?1715275337"
+        },
+        {
             "chainId": 10,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -8163,6 +8171,14 @@
             "symbol": "BZZ",
             "decimals": 16,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdbf3ea6f5bee45c02255b2c26a16f300502f68da.png"
+        },
+        {
+            "chainId": 100,
+            "address": "0xc791240D1F2dEf5938E2031364Ff4ed887133C3d",
+            "name": "Rocket Pool ETH from Mainnet",
+            "symbol": "rETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc791240d1f2def5938e2031364ff4ed887133c3d.png"
         },
         {
             "chainId": 137,
