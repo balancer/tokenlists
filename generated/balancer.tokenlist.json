@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-07-08T17:57:38.464Z",
+    "timestamp": "2024-07-09T18:57:05.236Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7057,6 +7057,14 @@
             "logoURI": "https://coin-images.coingecko.com/coins/images/37710/large/0obdVc3N_400x400.jpg?1715275337"
         },
         {
+            "chainId": 1,
+            "address": "0x73A15FeD60Bf67631dC6cd7Bc5B6e8da8190aCF5",
+            "name": "Usual USD",
+            "symbol": "USD0",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x73a15fed60bf67631dc6cd7bc5b6e8da8190acf5.png"
+        },
+        {
             "chainId": 10,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -10981,7 +10989,7 @@
             "name": "Aave",
             "symbol": "AAVE",
             "decimals": 18,
-            "logoURI": "https://coin-images.coingecko.com/coins/images/12645/large/AAVE.png?1696512452",
+            "logoURI": "https://coin-images.coingecko.com/coins/images/12645/large/aave-token-round.png?1720472354",
             "extensions": {
                 "coingeckoId": null
             }
