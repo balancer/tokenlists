@@ -71,4 +71,5 @@ export default [
   '0x4e6b45BB1C7D11402faf72c2d59cAbC4085E36f2', // OogaBooga
   '0xA170Eaa9a74ab4b3218C736210b0421aF35C3c00', // MOLANDAK
   '0x7c34c84347AF3d06e0A6a6059a6A299fb16d2486', // deznutz
+  '0xbfd5206962267c7b4b4a8b3d76ac2e1b2a5c4d5e', // OSAK
 ]
