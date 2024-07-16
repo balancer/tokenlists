@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-07-16T01:11:25.630Z",
+    "timestamp": "2024-07-16T01:20:49.417Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7076,7 +7076,8 @@
             "address": "0xa21Af1050F7B26e0cfF45ee51548254C41ED6b5c",
             "name": "Osaka Protocol",
             "symbol": "OSAK",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/30911/large/osak_logo.png?1696529756"
         },
         {
             "chainId": 1,
@@ -7646,21 +7647,24 @@
             "address": "0x6806411765Af15Bddd26f8f544A34cC40cb9838B",
             "name": "Frax Ether",
             "symbol": "frxETH",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/28284/large/frxETH_icon.png?1696527284"
         },
         {
             "chainId": 10,
             "address": "0x2Dd1B4D4548aCCeA497050619965f91f78b3b532",
             "name": "Staked FRAX",
             "symbol": "sFRAX",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/35383/large/sfrax.png?1708445569"
         },
         {
             "chainId": 10,
             "address": "0x3eE6107d9C93955acBb3f39871D32B02F82B78AB",
             "name": "Staked ERN Vault",
             "symbol": "stERN",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/31522/large/stERN.png?1696530332"
         },
         {
             "chainId": 10,
@@ -7725,7 +7729,8 @@
             "address": "0xbFd5206962267c7b4b4A8B3D76AC2E1b2A5c4d5e",
             "name": "Osaka Protocol",
             "symbol": "OSAK",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/30911/large/osak_logo.png?1696529756"
         },
         {
             "chainId": 100,
@@ -7772,7 +7777,8 @@
             "address": "0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9",
             "name": "Honey",
             "symbol": "HNY",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/12895/large/hnys.png?1696512683"
         },
         {
             "chainId": 100,
@@ -10901,14 +10907,16 @@
             "address": "0x11cd72f7A4B699c67f225ca8aBb20bC9F8DB90c7",
             "name": "Osaka Protocol",
             "symbol": "OSAK",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/30911/large/osak_logo.png?1696529756"
         },
         {
             "chainId": 250,
             "address": "0xf1648C50d2863f780c57849D812b4B7686031A3D",
             "name": "Wrapped BTC",
             "symbol": "WBTC",
-            "decimals": 8
+            "decimals": 8,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/31179/large/wBTC_32.png?1696530007"
         },
         {
             "chainId": 250,
@@ -10922,70 +10930,80 @@
             "address": "0x321162Cd933E2Be498Cd2267a90534A804051b11",
             "name": "Bitcoin",
             "symbol": "BTC",
-            "decimals": 8
+            "decimals": 8,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/7598/large/wrapped_bitcoin_wbtc.png?1696507857"
         },
         {
             "chainId": 250,
             "address": "0x9E73F99EE061C8807F69f9c6CCc44ea3d8c373ee",
             "name": "Frax Ether",
             "symbol": "frxETH",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/28284/large/frxETH_icon.png?1696527284"
         },
         {
             "chainId": 250,
             "address": "0x695921034f0387eAc4e11620EE91b1b15A6A09fE",
             "name": "Wrapped Ether",
             "symbol": "WETH",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/31184/large/wETH_32.png?1696530012"
         },
         {
             "chainId": 250,
             "address": "0xfe7eDa5F2c56160d406869A8aA4B2F365d544C7B",
             "name": "Axelar Wrapped ETH",
             "symbol": "axlETH",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/28171/large/weth-wei_D_3x.png?1696527174"
         },
         {
             "chainId": 250,
             "address": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
             "name": "Ethereum",
             "symbol": "ETH",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/2518/large/weth.png?1696503332"
         },
         {
             "chainId": 250,
             "address": "0xcc1b99dDAc1a33c201a742A1851662E87BC7f22C",
             "name": "Tether USD",
             "symbol": "USDT",
-            "decimals": 6
+            "decimals": 6,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/31185/large/anyusdt_32.png?1696530013"
         },
         {
             "chainId": 250,
             "address": "0x049d68029688eAbF473097a2fC38ef61633A3C7A",
             "name": "Frapped USDT",
             "symbol": "fUSDT",
-            "decimals": 6
+            "decimals": 6,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/21949/large/frapped.png?1696521298"
         },
         {
             "chainId": 250,
             "address": "0x1B6382DBDEa11d97f24495C9A90b7c88469134a4",
             "name": "Axelar Wrapped USDC",
             "symbol": "axlUSDC",
-            "decimals": 6
+            "decimals": 6,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/26476/large/uausdc_D_3x.png?1696525548"
         },
         {
             "chainId": 250,
             "address": "0x28a92dde19D9989F39A49905d7C9C2FAc7799bDf",
             "name": "USD Coin",
             "symbol": "USDC",
-            "decimals": 6
+            "decimals": 6,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/31134/large/USDC-icon.png?1696529963"
         },
         {
             "chainId": 250,
             "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
             "name": "USD Coin",
             "symbol": "USDC",
-            "decimals": 6
+            "decimals": 6,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/35222/large/USDC.jpg?1707919936"
         },
         {
             "chainId": 250,
@@ -10999,14 +11017,16 @@
             "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
             "name": "Dai Stablecoin",
             "symbol": "DAI",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/9956/large/Badge_Dai.png?1696509996"
         },
         {
             "chainId": 250,
             "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
             "name": "Wrapped Fantom",
             "symbol": "WFTM",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/16036/large/Fantom.png?1696515646"
         },
         {
             "chainId": 250,
