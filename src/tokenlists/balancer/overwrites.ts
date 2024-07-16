@@ -900,4 +900,26 @@ export const overwrites: OverwritesForList = {
         'https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xc8E7fB72B53D08C4f95b93b390ed3f132d03f2D5/logo.png',
     },
   },
+  [Network.Fraxtal]: {
+    '0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2': {
+      extensions: {
+        coingeckoId: 'ethena-staked-usde',
+      },
+    },
+    '0x09eAdcBAa812A4C076c3a6cDe765DC4a22E0d775': {
+      extensions: {
+        coingeckoId: 'savings-dai',
+      },
+    },
+    '0xFC00000000000000000000000000000000000005': {
+      extensions: {
+        coingeckoId: 'staked-frax-ether',
+      },
+    },
+    '0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34': {
+      extensions: {
+        coingeckoId: 'ethena-usde',
+      },
+    },
+  },
 }
