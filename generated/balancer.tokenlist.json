@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-07-16T01:20:49.417Z",
+    "timestamp": "2024-07-16T14:28:01.040Z",
     "tokens": [
         {
             "chainId": 1,
@@ -157,6 +157,14 @@
         },
         {
             "chainId": 1,
+            "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+            "name": "Aave Token",
+            "symbol": "AAVE",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9/logo.png"
+        },
+        {
+            "chainId": 1,
             "address": "0x0d438F3b5175Bebc262bF23753C1E53d03432bDE",
             "name": "Wrapped NXM",
             "symbol": "wNXM",
@@ -178,14 +186,6 @@
             "symbol": "UMA",
             "decimals": 18,
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828/logo.png"
-        },
-        {
-            "chainId": 1,
-            "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
-            "name": "Aave Token",
-            "symbol": "AAVE",
-            "decimals": 18,
-            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9/logo.png"
         },
         {
             "chainId": 1,
@@ -11868,7 +11868,10 @@
             "name": "Staked Frax Ether",
             "symbol": "sfrxETH",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfc00000000000000000000000000000000000005.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfc00000000000000000000000000000000000005.png",
+            "extensions": {
+                "coingeckoId": "staked-frax-ether"
+            }
         },
         {
             "chainId": 252,
@@ -11899,7 +11902,10 @@
             "name": "USDe",
             "symbol": "USDe",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34.png",
+            "extensions": {
+                "coingeckoId": "ethena-usde"
+            }
         },
         {
             "chainId": 252,
@@ -11907,7 +11913,10 @@
             "name": "Savings Dai",
             "symbol": "sDAI",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x09eadcbaa812a4c076c3a6cde765dc4a22e0d775.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x09eadcbaa812a4c076c3a6cde765dc4a22e0d775.png",
+            "extensions": {
+                "coingeckoId": "savings-dai"
+            }
         },
         {
             "chainId": 252,
@@ -11915,7 +11924,10 @@
             "name": "Staked USDe",
             "symbol": "sUSDe",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2.png",
+            "extensions": {
+                "coingeckoId": "ethena-staked-usde"
+            }
         },
         {
             "chainId": 1101,
