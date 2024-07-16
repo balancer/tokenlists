@@ -123,9 +123,8 @@ export const overwrites: OverwritesForList = {
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf8fd466f12e236f4c96f7cce6c79eadb819abf58.png',
     },
     '0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9': {
-      extensions: {
-        coingeckoId: 'aave',
-      },
+      logoURI:
+        'https://assets.coingecko.com/coins/images/12645/standard/aave-token-round.png?1720472354',
     },
   },
   [Network.Polygon]: {
