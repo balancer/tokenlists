@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-07-16T15:25:52.683Z",
+    "timestamp": "2024-07-17T20:37:56.327Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7095,6 +7095,14 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x63a0964a36c34e81959da5894ad888800e17405b.png"
         },
         {
+            "chainId": 1,
+            "address": "0x68749665FF8D2d112Fa859AA293F07A622782F38",
+            "name": "Tether Gold",
+            "symbol": "XAUt",
+            "decimals": 6,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/10481/large/Tether_Gold.png?1696510471"
+        },
+        {
             "chainId": 10,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -12567,7 +12575,8 @@
             "address": "0xE3B53AF74a4BF62Ae5511055290838050bf764Df",
             "name": "StargateToken",
             "symbol": "STG",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/24413/large/STG_LOGO.png?1696523595"
         },
         {
             "chainId": 8453,
