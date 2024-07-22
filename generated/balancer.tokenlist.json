@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-07-22T13:00:44.965Z",
+    "timestamp": "2024-07-22T18:14:32.804Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14801,6 +14801,14 @@
             "symbol": "LUSD",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/14666/large/Group_3.png?1696514341"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xD74f5255D557944cf7Dd0E45FF521520002D5748",
+            "name": "Sperax USD",
+            "symbol": "USDs",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/21973/large/USDs_logo_1000X1000.png?1696521321"
         },
         {
             "chainId": 43114,
