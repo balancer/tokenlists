@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-07-22T18:14:32.804Z",
+    "timestamp": "2024-07-22T20:43:37.689Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7101,6 +7101,13 @@
             "symbol": "XAUt",
             "decimals": 6,
             "logoURI": "https://coin-images.coingecko.com/coins/images/10481/large/Tether_Gold.png?1696510471"
+        },
+        {
+            "chainId": 1,
+            "address": "0x5F9f115C633c40091C8Daf0AEf43376C4F61DAC5",
+            "name": "Veld",
+            "symbol": "VELD",
+            "decimals": 18
         },
         {
             "chainId": 10,
