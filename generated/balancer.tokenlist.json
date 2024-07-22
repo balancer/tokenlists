@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-07-17T20:37:56.327Z",
+    "timestamp": "2024-07-22T13:00:44.965Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14793,6 +14793,14 @@
             "symbol": "OSAK",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/30911/large/osak_logo.png?1696529756"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x93b346b6BC2548dA6A1E7d98E9a421B42541425b",
+            "name": "LUSD Stablecoin",
+            "symbol": "LUSD",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/14666/large/Group_3.png?1696514341"
         },
         {
             "chainId": 43114,
