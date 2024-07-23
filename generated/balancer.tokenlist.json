@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-07-22T20:43:37.689Z",
+    "timestamp": "2024-07-23T21:41:18.598Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14816,6 +14816,14 @@
             "symbol": "USDs",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/21973/large/USDs_logo_1000X1000.png?1696521321"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x57F5E098CaD7A3D1Eed53991D4d66C45C9AF7812",
+            "name": "Wrapped Mountain Protocol USD",
+            "symbol": "wUSDM",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x57f5e098cad7a3d1eed53991d4d66c45c9af7812.png"
         },
         {
             "chainId": 43114,
