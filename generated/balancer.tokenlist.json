@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-07-23T21:41:18.598Z",
+    "timestamp": "2024-07-24T17:02:59.273Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8240,6 +8240,13 @@
             "symbol": "rETH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc791240d1f2def5938e2031364ff4ed887133c3d.png"
+        },
+        {
+            "chainId": 100,
+            "address": "0xF490c80aAE5f2616d3e3BDa2483E30C4CB21d1A0",
+            "name": "Staked GNO",
+            "symbol": "osGNO",
+            "decimals": 18
         },
         {
             "chainId": 137,
