@@ -1,19 +1,19 @@
-import 'dotenv/config'
-import { TokenList, TokenInfo } from '@uniswap/token-lists'
-import { Network, PartialTokenInfoMap, TokenListMetadata } from './types'
-import { fetchOnchainMetadata } from './lib/fetchers/onchain'
-import { fetchExistingMetadata } from './lib/fetchers/existing'
-import { merge } from 'lodash'
-import { fetchCoingeckoMetadata } from './lib/fetchers/coingecko'
-import fs from 'fs'
-import { getAddress } from 'ethers'
+import { TokenInfo, TokenList } from '@uniswap/token-lists'
 import chalk from 'chalk'
+import 'dotenv/config'
+import { getAddress } from 'ethers'
+import fs from 'fs'
+import { merge } from 'lodash'
+// import { fetchCoingeckoMetadata } from './lib/fetchers/coingecko'
+import { fetchExistingMetadata } from './lib/fetchers/existing'
+import { fetchOnchainMetadata } from './lib/fetchers/onchain'
 import {
   getTokenlistSrc,
   getTokenlistsToBuild,
   isEqualTokenlists,
   safeStringify,
 } from './lib/utils'
+import { Network, PartialTokenInfoMap, TokenListMetadata } from './types'
 
 /**
  * Primary generation function.
@@ -58,6 +58,8 @@ async function build(tokenlistName: string) {
   for (network in tokens) {
     console.log(chalk.cyan(`Starting build for ${network}`))
     const tokenAddresses = tokens[network]
+    console.log(chalk.cyan(`Found ${tokenAddresses.length} tokens`))
+    if (tokenAddresses.length === 0) continue
 
     console.time(chalk.cyan(`Fetched onchain metadata for chain ${network}`))
 
@@ -181,9 +183,9 @@ async function setTokenInfo(
     return formatMetadata(metadata)
   }
 
-  const coingeckoMetadata = await fetchCoingeckoMetadata(network, address)
-  // Again, we want the coingecko data to be used only if it's missing from existing data.
-  metadata = merge(coingeckoMetadata, metadata)
+  // const coingeckoMetadata = await fetchCoingeckoMetadata(network, address)
+  // // Again, we want the coingecko data to be used only if it's missing from existing data.
+  // metadata = merge(coingeckoMetadata, metadata)
 
   if (satisfiesTokenInfoSchema({ token: metadata, includeOptionals: false })) {
     return formatMetadata(metadata)

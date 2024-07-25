@@ -889,4 +889,10 @@ export const overwrites: OverwritesForList = {
         'https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xc8E7fB72B53D08C4f95b93b390ed3f132d03f2D5/logo.png',
     },
   },
+  [Network.Artio]: {
+    '0x9AA488bc4c3c237104CD6661e076B22e0535eCFA': {
+      symbol: 'BAL',
+      name: 'BAL',
+    },
+  },
 }

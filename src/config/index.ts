@@ -1,14 +1,16 @@
-import { Network, Configs } from '../types'
+import { Configs, Network } from '../types'
 import arbitrum from './arbitrum'
+import artio from './artio'
 import avalanche from './avalanche'
+import bartio from './bartio'
 import base from './base'
-import gnosis from './gnosis'
 import ethereum from './ethereum'
+import fantom from './fantom'
+import gnosis from './gnosis'
 import optimism from './optimism'
 import polygon from './polygon'
 import sepolia from './sepolia'
 import zkevm from './zkevm'
-import fantom from './fantom'
 
 const config: Configs = {
   [Network.Arbitrum]: arbitrum,
@@ -21,6 +23,8 @@ const config: Configs = {
   [Network.Sepolia]: sepolia,
   [Network.Zkevm]: zkevm,
   [Network.Fantom]: fantom,
+  [Network.Artio]: artio,
+  [Network.Bartio]: bartio,
 }
 
 export default config

@@ -11,6 +11,8 @@ export enum Network {
   Avalanche = '43114',
   Sepolia = '11155111',
   Fantom = '250',
+  Artio = '80085',
+  Bartio = '80084',
 }
 
 export interface Config {
