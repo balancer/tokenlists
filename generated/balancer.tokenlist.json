@@ -17,8 +17,22 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-07-01T08:26:59.287Z",
+    "timestamp": "2024-07-25T09:56:14.635Z",
     "tokens": [
+        {
+            "chainId": 80084,
+            "address": "0x0E4aaF1351de4c0264C5c7056Ef3777b41BD8e03",
+            "name": "Honey",
+            "symbol": "HONEY",
+            "decimals": 18
+        },
+        {
+            "chainId": 80084,
+            "address": "0x7507c1dc16935B82698e4C63f2746A2fCf994dF8",
+            "name": "Wrapped Bera",
+            "symbol": "WBERA",
+            "decimals": 18
+        },
         {
             "chainId": 80084,
             "address": "0xf3585984B956f2A26694ee1BAede7eAB658A5e7E",
@@ -56,23 +70,30 @@
         },
         {
             "chainId": 80084,
-            "address": "0x0E4aaF1351de4c0264C5c7056Ef3777b41BD8e03",
-            "name": "Honey",
-            "symbol": "HONEY",
+            "address": "0xB2558d92da27759868C74C937F174e636E32e783",
+            "name": "mock_NECT",
+            "symbol": "mock_NECT",
             "decimals": 18
         },
         {
             "chainId": 80084,
-            "address": "0x7507c1dc16935B82698e4C63f2746A2fCf994dF8",
-            "name": "Wrapped Bera",
-            "symbol": "WBERA",
+            "address": "0xEcDB730E5a58AC94fbAc7d0E216727D1732DD554",
+            "name": "mock_USDC",
+            "symbol": "mock_USDC",
+            "decimals": 6
+        },
+        {
+            "chainId": 80084,
+            "address": "0x7Af2754E29733518bae54136e0bCc7B0997DaBF0",
+            "name": "mock_brONEY",
+            "symbol": "mock_brONEY",
             "decimals": 18
         },
         {
-            "chainId": 80085,
-            "address": "0x5806E416dA447b267cEA759358cF22Cc41FAE80F",
-            "name": "Wrapped BERA",
-            "symbol": "WBERA",
+            "chainId": 80084,
+            "address": "0xF3e76804E4F55D6134C6889752a1Ee2d5bC0C3c3",
+            "name": "mock_rUSD",
+            "symbol": "mock_rUSD",
             "decimals": 18
         },
         {
@@ -80,62 +101,6 @@
             "address": "0x9AA488bc4c3c237104CD6661e076B22e0535eCFA",
             "name": "BAL",
             "symbol": "BAL",
-            "decimals": 18
-        },
-        {
-            "chainId": 80085,
-            "address": "0xF5C462bf81a6b6af0f87749eFACe2453c35CB519",
-            "name": "USDC_mock",
-            "symbol": "USDC_mock",
-            "decimals": 6
-        },
-        {
-            "chainId": 80085,
-            "address": "0x9e11bf9d712fe1F9117688924223eDC139181183",
-            "name": "XSGD_mock",
-            "symbol": "XSGD_mock",
-            "decimals": 6
-        },
-        {
-            "chainId": 80085,
-            "address": "0xe438137e9Cec7744c2eC052919173f22047c18D7",
-            "name": "EURS_mock",
-            "symbol": "EURS_mock",
-            "decimals": 2
-        },
-        {
-            "chainId": 80085,
-            "address": "0x7b56a6b0E01c771f75dB7Fb9F522391bAcD9db59",
-            "name": "DAI_mock",
-            "symbol": "DAI_mock",
-            "decimals": 18
-        },
-        {
-            "chainId": 80085,
-            "address": "0xA0E91e69b43021b3c6748cfe16296FF4b933bD00",
-            "name": "HONEY_mock",
-            "symbol": "HONEY_mock",
-            "decimals": 18
-        },
-        {
-            "chainId": 80085,
-            "address": "0x45cb13b18A6cBB03A0367FB91cF27bacc069d46d",
-            "name": "NECT_mock",
-            "symbol": "NECT_mock",
-            "decimals": 18
-        },
-        {
-            "chainId": 80085,
-            "address": "0xEda4F0191C5CCF6670592639BB73764C3C897B1B",
-            "name": "rUSD_mock",
-            "symbol": "rUSD_mock",
-            "decimals": 18
-        },
-        {
-            "chainId": 80085,
-            "address": "0x013399514F9089B25F6C59daBA583c5B3d3EC9D2",
-            "name": "brONEY_mock",
-            "symbol": "brONEY_mock",
             "decimals": 18
         }
     ]
