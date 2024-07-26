@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-07-26T14:59:31.830Z",
+    "timestamp": "2024-07-26T15:22:51.342Z",
     "tokens": [
         {
             "chainId": 1,
@@ -4276,6 +4276,14 @@
         },
         {
             "chainId": 1,
+            "address": "0xDEf1CA1fb7FBcDC777520aa7f396b4E015F497aB",
+            "name": "CoW Protocol Token",
+            "symbol": "COW",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/24384/large/CoW-token_logo.png?1719524382"
+        },
+        {
+            "chainId": 1,
             "address": "0x6f80310CA7F2C654691D1383149Fa1A57d8AB1f8",
             "name": "Silo Governance Token",
             "symbol": "Silo",
@@ -7835,6 +7843,14 @@
             "symbol": "bb-ag-USD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfedb19ec000d38d92af4b21436870f115db22725.png"
+        },
+        {
+            "chainId": 100,
+            "address": "0x177127622c4A00F3d409B75571e12cB3c8973d3c",
+            "name": "CoW Protocol Token from Mainnet",
+            "symbol": "COW",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/24384/large/CoW-token_logo.png?1719524382"
         },
         {
             "chainId": 100,
