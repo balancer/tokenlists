@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-07-24T17:02:59.273Z",
+    "timestamp": "2024-07-26T14:59:31.830Z",
     "tokens": [
         {
             "chainId": 1,
@@ -4276,6 +4276,14 @@
         },
         {
             "chainId": 1,
+            "address": "0xDEf1CA1fb7FBcDC777520aa7f396b4E015F497aB",
+            "name": "CoW Protocol Token",
+            "symbol": "COW",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdef1ca1fb7fbcdc777520aa7f396b4e015f497ab.png"
+        },
+        {
+            "chainId": 1,
             "address": "0x6f80310CA7F2C654691D1383149Fa1A57d8AB1f8",
             "name": "Silo Governance Token",
             "symbol": "Silo",
@@ -4328,14 +4336,6 @@
             "symbol": "STG",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6.png"
-        },
-        {
-            "chainId": 1,
-            "address": "0xDEf1CA1fb7FBcDC777520aa7f396b4E015F497aB",
-            "name": "CoW Protocol Token",
-            "symbol": "COW",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdef1ca1fb7fbcdc777520aa7f396b4e015f497ab.png"
         },
         {
             "chainId": 1,
@@ -7846,6 +7846,14 @@
         },
         {
             "chainId": 100,
+            "address": "0x177127622c4A00F3d409B75571e12cB3c8973d3c",
+            "name": "CoW Protocol Token from Mainnet",
+            "symbol": "COW",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x177127622c4a00f3d409b75571e12cb3c8973d3c.png"
+        },
+        {
+            "chainId": 100,
             "address": "0xbb9Cd48d33033F5EfFBeDec9Dd700C7D7E1dCF50",
             "name": "Balancer Agave Boosted Pool (WETH)",
             "symbol": "bb-ag-WETH",
@@ -7875,14 +7883,6 @@
             "symbol": "MIVA",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x63e62989d9eb2d37dfdb1f93a22f063635b07d51.png"
-        },
-        {
-            "chainId": 100,
-            "address": "0x177127622c4A00F3d409B75571e12cB3c8973d3c",
-            "name": "CoW Protocol Token from Mainnet",
-            "symbol": "COW",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x177127622c4a00f3d409b75571e12cb3c8973d3c.png"
         },
         {
             "chainId": 100,
@@ -8246,7 +8246,8 @@
             "address": "0xF490c80aAE5f2616d3e3BDa2483E30C4CB21d1A0",
             "name": "Staked GNO",
             "symbol": "osGNO",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf490c80aae5f2616d3e3bda2483e30c4cb21d1a0.png"
         },
         {
             "chainId": 137,
