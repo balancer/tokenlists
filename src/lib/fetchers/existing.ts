@@ -101,14 +101,16 @@ export async function fetchExistingMetadata(
 ): Promise<PartialTokenInfoMap> {
   const overwritesMetadata = overwrites[network]
 
-  const overwritesMetadataFormatted: Record<string, Partial<TokenInfo>> | undefined = {};
+  const overwritesMetadataFormatted:
+    | Record<string, Partial<TokenInfo>>
+    | undefined = {}
 
-  for(const overwriteTokenAddress in overwritesMetadata) {
-    const data = overwritesMetadata[overwriteTokenAddress];
+  for (const overwriteTokenAddress in overwritesMetadata) {
+    const data = overwritesMetadata[overwriteTokenAddress]
     overwritesMetadataFormatted[getAddress(overwriteTokenAddress)] = {
       ...data,
       address: data.address ? getAddress(data.address) : data.address,
-    };
+    }
   }
 
   const localTokenIcons = fetchLocalTokenIcons(network)
