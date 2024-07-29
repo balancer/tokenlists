@@ -57,7 +57,8 @@ async function build(tokenlistName: string) {
 
   for (network in tokens) {
     console.log(chalk.cyan(`Starting build for ${network}`))
-    const tokenAddresses = tokens[network]
+    // format to hashed value
+    const tokenAddresses = tokens[network].map((token) => getAddress(token))
 
     console.time(chalk.cyan(`Fetched onchain metadata for chain ${network}`))
 
