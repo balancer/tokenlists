@@ -854,42 +854,42 @@ export const overwrites: OverwritesForList = {
     },
   },
   [Network.Sepolia]: {
-    '0xb19382073c7a0addbb56ac6af1808fa49e377b75': {
+    '0xb19382073c7A0aDdbb56Ac6AF1808Fa49e377B75': {
       extensions: {
         coingeckoId: 'balancer',
       },
     },
-    '0xb77eb1a70a96fdaaeb31db1b42f2b8b5846b2613': {
+    '0xB77EB1A70A96fDAAeB31DB1b42F2b8b5846b2613': {
       extensions: {
         coingeckoId: 'dai',
       },
     },
-    '0x7b79995e5f793a07bc00c21412e50ecae098e7f9': {
+    '0x7b79995e5f793A07Bc00c21412e50Ecae098E7f9': {
       extensions: {
         coingeckoId: 'weth',
       },
     },
-    '0x80d6d3946ed8a1da4e226aa21ccddc32bd127d1a': {
+    '0x80D6d3946ed8A1Da4E226aa21CCdDc32bd127d1A': {
       extensions: {
         coingeckoId: 'usd-coin',
       },
     },
-    '0x6bf294b80c7d8dc72dee762af5d01260b756a051': {
+    '0x6bF294B80C7d8Dc72DEE762af5d01260B756A051': {
       extensions: {
         coingeckoId: 'tether',
       },
     },
-    '0x23bad11f1543503cb1fb5dad05fdaf93f42d30f3': {
+    '0x23BAd11F1543503CB1FB5dAd05fdAF93F42d30F3': {
       extensions: {
         coingeckoId: 'stasis-eurs',
       },
     },
-    '0x0f409e839a6a790aecb737e4436293be11717f95': {
+    '0x0f409E839a6A790aecB737E4436293Be11717f95': {
       extensions: {
         coingeckoId: 'beethoven-x',
       },
     },
-    '0xc3745bce4b5d0977dc874832bc99108d416dce8f': {
+    '0xC3745bcE4b5D0977dC874832BC99108D416dCe8f': {
       extensions: {
         coingeckoId: 'wrapped-bitcoin',
       },
