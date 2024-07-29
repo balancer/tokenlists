@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-07-27T02:41:08.113Z",
+    "timestamp": "2024-07-29T12:23:49.607Z",
     "tokens": [
         {
             "chainId": 1,
@@ -15469,14 +15469,20 @@
             "address": "0xb19382073c7A0aDdbb56Ac6AF1808Fa49e377B75",
             "name": "Balancer Governance Token",
             "symbol": "BAL",
-            "decimals": 18
+            "decimals": 18,
+            "extensions": {
+                "coingeckoId": "balancer"
+            }
         },
         {
             "chainId": 11155111,
             "address": "0x7b79995e5f793A07Bc00c21412e50Ecae098E7f9",
             "name": "Wrapped Ether",
             "symbol": "WETH",
-            "decimals": 18
+            "decimals": 18,
+            "extensions": {
+                "coingeckoId": "weth"
+            }
         },
         {
             "chainId": 11155111,
@@ -15679,42 +15685,60 @@
             "address": "0xB77EB1A70A96fDAAeB31DB1b42F2b8b5846b2613",
             "name": "Dai Stablecoin",
             "symbol": "DAI",
-            "decimals": 18
+            "decimals": 18,
+            "extensions": {
+                "coingeckoId": "dai"
+            }
         },
         {
             "chainId": 11155111,
             "address": "0x80D6d3946ed8A1Da4E226aa21CCdDc32bd127d1A",
             "name": "USD Coin",
             "symbol": "USDC",
-            "decimals": 6
+            "decimals": 6,
+            "extensions": {
+                "coingeckoId": "usd-coin"
+            }
         },
         {
             "chainId": 11155111,
             "address": "0x6bF294B80C7d8Dc72DEE762af5d01260B756A051",
             "name": "Tether USD",
             "symbol": "USDT",
-            "decimals": 6
+            "decimals": 6,
+            "extensions": {
+                "coingeckoId": "tether"
+            }
         },
         {
             "chainId": 11155111,
             "address": "0x23BAd11F1543503CB1FB5dAd05fdAF93F42d30F3",
             "name": "EURS",
             "symbol": "EURS",
-            "decimals": 2
+            "decimals": 2,
+            "extensions": {
+                "coingeckoId": "stasis-eurs"
+            }
         },
         {
             "chainId": 11155111,
             "address": "0xC3745bcE4b5D0977dC874832BC99108D416dCe8f",
             "name": "Wrapped BTC",
             "symbol": "WBTC",
-            "decimals": 8
+            "decimals": 8,
+            "extensions": {
+                "coingeckoId": "wrapped-bitcoin"
+            }
         },
         {
             "chainId": 11155111,
             "address": "0x0f409E839a6A790aecB737E4436293Be11717f95",
             "name": "BeethovenxToken",
             "symbol": "BEETS",
-            "decimals": 18
+            "decimals": 18,
+            "extensions": {
+                "coingeckoId": "beethoven-x"
+            }
         },
         {
             "chainId": 11155111,
