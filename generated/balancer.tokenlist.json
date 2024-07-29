@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-07-29T20:30:30.559Z",
+    "timestamp": "2024-07-29T20:37:02.148Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7109,6 +7109,14 @@
             "name": "Veld",
             "symbol": "VELD",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x20157DBAbb84e3BBFE68C349d0d44E48AE7B5AD2",
+            "name": "dlcBTC",
+            "symbol": "DLCBTC",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x20157dbabb84e3bbfe68c349d0d44e48ae7b5ad2.png"
         },
         {
             "chainId": 10,
@@ -14904,6 +14912,14 @@
             "symbol": "wUSDM",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x57f5e098cad7a3d1eed53991d4d66c45c9af7812.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x050C24dBf1eEc17babE5fc585F06116A259CC77A",
+            "name": "dlcBTC",
+            "symbol": "DLCBTC",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x050c24dbf1eec17babe5fc585f06116a259cc77a.png"
         },
         {
             "chainId": 43114,
