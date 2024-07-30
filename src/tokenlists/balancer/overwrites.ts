@@ -894,6 +894,27 @@ export const overwrites: OverwritesForList = {
         coingeckoId: 'wrapped-bitcoin',
       },
     },
+    '0xFF34B3d4Aee8ddCd6F9AFFFB6Fe49bD371b8a357': {
+      name: 'DAI (AAVE Faucet)',
+      symbol: 'dai-aave',
+      extensions: {
+        coingeckoId: 'dai',
+      },
+    },
+    '0x94a9D9AC8a22534E3FaCa9F4e7F2E2cf85d5E4C8': {
+      name: 'USDC (AAVE Faucet)',
+      symbol: 'usdc-aave',
+      extensions: {
+        coingeckoId: 'usd-coin',
+      },
+    },
+    '0xaA8E23Fb1079EA71e0a56F48a2aA51851D8433D0': {
+      name: 'USDT (AAVE Faucet)',
+      symbol: 'usdt-aave',
+      extensions: {
+        coingeckoId: 'tether',
+      },
+    },
   },
   [Network.Avalanche]: {
     '0xc8E7fB72B53D08C4f95b93b390ed3f132d03f2D5': {
