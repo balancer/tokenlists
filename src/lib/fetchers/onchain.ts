@@ -25,7 +25,7 @@ export async function fetchOnchainMetadata(
 
   if (network === Network.Zkevm) {
     // zkevm can only do 195 calls at a time
-    chunks = _.chunk(tokenAddresses, 10)
+    chunks = _.chunk(tokenAddresses, 1)
   } else {
     chunks = _.chunk(tokenAddresses, 200)
   }
