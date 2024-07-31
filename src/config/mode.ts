@@ -1,6 +1,6 @@
 export default {
   name: 'mode',
-  rpc: 'https://1rpc.io/mode',
+  rpc: 'https://mainnet.mode.network',
   coingecko: {
     platformId: 'mode',
   },
