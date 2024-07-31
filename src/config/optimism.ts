@@ -1,7 +1,6 @@
 export default {
   name: 'optimism',
-  rpc: 
-  `https://opt-mainnet.g.alchemy.com/v2/${process.env.ALCHEMY_KEY}`,
+  rpc: `https://opt-mainnet.g.alchemy.com/v2/${process.env.ALCHEMY_KEY}`,
   coingecko: {
     platformId: 'optimistic-ethereum',
   },

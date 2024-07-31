@@ -1,7 +1,6 @@
 export default {
   name: 'fantom',
-  rpc:
-    `https://fantom-mainnet.g.alchemy.com/v2/${process.env.ALCHEMY_KEY}`,
+  rpc: `https://fantom-mainnet.g.alchemy.com/v2/${process.env.ALCHEMY_KEY}`,
   coingecko: {
     platformId: 'fantom',
   },
