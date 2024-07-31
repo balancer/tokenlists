@@ -1,6 +1,7 @@
 export default {
   name: 'base',
-  rpc: 'https://developer-access-mainnet.base.org',
+  rpc:
+    `https://base-mainnet.g.alchemy.com/v2/${process.env.ALCHEMY_KEY}`,
   coingecko: {
     platformId: 'base',
   },

@@ -1,5 +1,7 @@
 export default {
   name: 'polygon',
+  rpc: 
+  `https://polygon-mainnet.g.alchemy.com/v2/${process.env.ALCHEMY_KEY}`,
   coingecko: {
     platformId: 'polygon-pos',
   },
