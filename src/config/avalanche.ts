@@ -1,6 +1,7 @@
 export default {
   name: 'avalanche',
-  rpc: `https://avalanche-mainnet.infura.io/v3/${process.env.INFURA_KEY}`,
+  rpc:
+    `https://avax-mainnet.g.alchemy.com/v2/${process.env.ALCHEMY_KEY}`,
   coingecko: {
     platformId: 'avalanche',
   },
