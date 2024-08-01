@@ -941,6 +941,11 @@ export const overwrites: OverwritesForList = {
         coingeckoId: 'staked-frax-ether',
       },
     },
+    '0x2FC7447F6cF71f9aa9E7FF8814B37E55b268Ec91': {
+      extensions: {
+        coingeckoId: 'balancer',
+      },
+    },
     '0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34': {
       extensions: {
         coingeckoId: 'ethena-usde',
