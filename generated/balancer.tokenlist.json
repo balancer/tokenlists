@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-08-01T02:23:40.049Z",
+    "timestamp": "2024-08-05T14:13:21.374Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7119,6 +7119,14 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x20157dbabb84e3bbfe68c349d0d44e48ae7b5ad2.png"
         },
         {
+            "chainId": 1,
+            "address": "0x58cB30368ceB2d194740b144EAB4c2da8a917Dcb",
+            "name": "ZynCoin",
+            "symbol": "ZYN",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/35749/large/zyncoin.png?1719811303"
+        },
+        {
             "chainId": 10,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -12745,7 +12753,8 @@
             "address": "0xd722E55C1d9D9fA0021A5215Cbb904b92B3dC5d4",
             "name": "Radiant",
             "symbol": "RDNT",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/26536/large/Radiant-Logo-200x200.png?1696525610"
         },
         {
             "chainId": 8453,
@@ -14602,6 +14611,14 @@
             "symbol": "DLCBTC",
             "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x050c24dbf1eec17babe5fc585f06116a259cc77a.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xbC404429558292eE2D769E57d57D6E74bbd2792d",
+            "name": "Saving USX",
+            "symbol": "sUSX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xbc404429558292ee2d769e57d57d6e74bbd2792d.png"
         },
         {
             "chainId": 43114,
