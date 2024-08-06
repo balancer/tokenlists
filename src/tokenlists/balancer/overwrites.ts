@@ -493,6 +493,18 @@ export const overwrites: OverwritesForList = {
         coingeckId: 'wrapped-eeth',
       },
     },
+    '0x5A7a183B6B44Dc4EC2E3d2eF43F98C5152b1d76d': {
+      logoURI: 'https://optimistic.etherscan.io/token/images/inceptionlrtv2_32.png',
+      extensions: {
+        coingeckId: 'genesislrt-restaked-eth',
+      },
+    },
+    '0xd08C3F25862077056cb1b710937576Af899a4959': {
+      logoURI: 'https://optimistic.etherscan.io/token/images/insteth_32.png',
+      extensions: {
+        coingeckId: 'inception-restaked-steth',
+      },
+    },
   },
   [Network.Gnosis]: {
     '0x7eF541E2a22058048904fE5744f9c7E4C57AF717': {
