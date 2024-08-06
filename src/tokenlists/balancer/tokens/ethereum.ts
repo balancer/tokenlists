@@ -927,4 +927,5 @@ export default [
   '0x20157DBAbb84e3BBFE68C349d0d44E48AE7B5AD2', // dlcBTC
   '0x58cB30368ceB2d194740b144EAB4c2da8a917Dcb', // ZYN
   '0x583019fF0f430721aDa9cfb4fac8F06cA104d0B4', // styeth
+  '0xc11158c5da9db1d553ed28f0c2ba1cbedd42cfcb', // wPAW.
 ]
