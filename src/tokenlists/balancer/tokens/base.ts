@@ -73,4 +73,5 @@ export default [
   '0x7c34c84347AF3d06e0A6a6059a6A299fb16d2486', // deznutz
   '0xbfd5206962267c7b4b4a8b3d76ac2e1b2a5c4d5e', // OSAK
   '0x0f1D1b7abAeC1Df25f2C4Db751686FC5233f6D3f', // IMO
+  '0xc11158c5da9db1d553ed28f0c2ba1cbedd42cfcb', // wPAW.
 ]
