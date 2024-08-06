@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-08-05T14:13:21.374Z",
+    "timestamp": "2024-08-06T17:39:20.892Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7125,6 +7125,14 @@
             "symbol": "ZYN",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/35749/large/zyncoin.png?1719811303"
+        },
+        {
+            "chainId": 1,
+            "address": "0x583019fF0f430721aDa9cfb4fac8F06cA104d0B4",
+            "name": "Staked Yearn Ether",
+            "symbol": "st-yETH",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/32222/large/st-yETH-128px.png?1696914941"
         },
         {
             "chainId": 10,
