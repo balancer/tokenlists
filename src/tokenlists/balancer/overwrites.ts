@@ -11,6 +11,10 @@ export const overwrites: OverwritesForList = {
       symbol: 'yCRV',
       decimals: 18,
     },
+    '0xc11158c5da9db1d553ed28f0c2ba1cbedd42cfcb': {
+      decimals: 18,
+      name: 'PAW',
+    },
     '0x89d24A6b4CcB1B6fAA2625fE562bDD9a23260359': {
       name: 'Sai Stablecoin v1.0',
       symbol: 'SAI',
@@ -136,6 +140,10 @@ export const overwrites: OverwritesForList = {
       name: 'Data Economy Index',
       logoURI:
         'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x33d63Ba1E57E54779F7dDAeaA7109349344cf5F1/logo.png',
+    },
+    '0xc11158c5da9db1d553ed28f0c2ba1cbedd42cfcb': {
+      decimals: 18,
+      name: 'PAW',
     },
     '0x282d8efCe846A88B159800bd4130ad77443Fa1A1': {
       name: 'Ocean Protocol',
@@ -281,6 +289,10 @@ export const overwrites: OverwritesForList = {
       symbol: 'MKR',
       logoURI:
         'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2/logo.png',
+    },
+    '0xc11158c5da9db1d553ed28f0c2ba1cbedd42cfcb': {
+      decimals: 18,
+      name: 'PAW',
     },
     '0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f': {
       logoURI:
@@ -536,6 +548,10 @@ export const overwrites: OverwritesForList = {
       name: 'Static Aave Base USDC',
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe719aef17468c7e10c0c205be62c990754dff7e5.png',
+    },
+    '0xc11158c5da9db1d553ed28f0c2ba1cbedd42cfcb': {
+      decimals: 18,
+      name: 'PAW',
     },
     '0x99aC4484e8a1dbd6A185380B3A811913Ac884D87': {
       logoURI:
