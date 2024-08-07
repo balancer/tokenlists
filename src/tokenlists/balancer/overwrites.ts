@@ -488,8 +488,7 @@ export const overwrites: OverwritesForList = {
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x83f20f44975d03b1b09e64809b757c47f942beea.png',
     },
     '0x5A7fACB970D094B6C7FF1df0eA68D99E6e73CBFF': {
-      logoURI:
-        'https://etherscan.io/token/images/etherfiweeth_32.png',
+      logoURI: 'https://etherscan.io/token/images/etherfiweeth_32.png',
       extensions: {
         coingeckId: 'wrapped-eeth',
       },
@@ -502,8 +501,7 @@ export const overwrites: OverwritesForList = {
       },
     },
     '0xd08C3F25862077056cb1b710937576Af899a4959': {
-      logoURI:
-        'https://optimistic.etherscan.io/token/images/insteth_32.png',
+      logoURI: 'https://optimistic.etherscan.io/token/images/insteth_32.png',
       extensions: {
         coingeckId: 'inception-restaked-steth',
       },
