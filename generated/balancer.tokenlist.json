@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-08-06T17:39:20.892Z",
+    "timestamp": "2024-08-07T13:40:18.936Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7070,7 +7070,8 @@
             "address": "0x2E3CFE45E3EE7C017277f22e35d2f29edC99d570",
             "name": "Wrapped DAG",
             "symbol": "wDAG",
-            "decimals": 8
+            "decimals": 8,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/39576/large/Constellation_Network_Logo.png?1723003801"
         },
         {
             "chainId": 1,
@@ -7085,7 +7086,8 @@
             "address": "0x2E3CFE45E3EE7C017277f22e35d2f29edC99d570",
             "name": "Wrapped DAG",
             "symbol": "wDAG",
-            "decimals": 8
+            "decimals": 8,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/39576/large/Constellation_Network_Logo.png?1723003801"
         },
         {
             "chainId": 1,
@@ -7785,6 +7787,28 @@
             "name": "uniBTC",
             "symbol": "uniBTC",
             "decimals": 8
+        },
+        {
+            "chainId": 10,
+            "address": "0x5A7a183B6B44Dc4EC2E3d2eF43F98C5152b1d76d",
+            "name": "InceptionLRT restaked ETH",
+            "symbol": "inETH",
+            "decimals": 18,
+            "logoURI": "https://optimistic.etherscan.io/token/images/inceptionlrtv2_32.png",
+            "extensions": {
+                "coingeckId": "genesislrt-restaked-eth"
+            }
+        },
+        {
+            "chainId": 10,
+            "address": "0xd08C3F25862077056cb1b710937576Af899a4959",
+            "name": "Inception Restaked stETH",
+            "symbol": "InstETH",
+            "decimals": 18,
+            "logoURI": "https://optimistic.etherscan.io/token/images/insteth_32.png",
+            "extensions": {
+                "coingeckId": "inception-restaked-steth"
+            }
         },
         {
             "chainId": 100,
