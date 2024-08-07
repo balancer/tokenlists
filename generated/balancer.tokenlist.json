@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-08-07T13:40:18.936Z",
+    "timestamp": "2024-08-07T18:34:55.460Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7137,6 +7137,14 @@
             "logoURI": "https://coin-images.coingecko.com/coins/images/32222/large/st-yETH-128px.png?1696914941"
         },
         {
+            "chainId": 1,
+            "address": "0xc11158c5dA9db1D553ED28f0C2BA1CbEDD42CFcb",
+            "name": "Wrapped PAW",
+            "symbol": "wPAW",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/28946/large/PawLogo.png?1699394612"
+        },
+        {
             "chainId": 10,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -11000,6 +11008,14 @@
             "logoURI": "https://coin-images.coingecko.com/coins/images/30911/large/osak_logo.png?1696529756"
         },
         {
+            "chainId": 137,
+            "address": "0xc11158c5dA9db1D553ED28f0C2BA1CbEDD42CFcb",
+            "name": "Wrapped PAW",
+            "symbol": "wPAW",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/28946/large/PawLogo.png?1699394612"
+        },
+        {
             "chainId": 250,
             "address": "0xf1648C50d2863f780c57849D812b4B7686031A3D",
             "name": "LayerZero Wrapped Bitcoin",
@@ -12835,6 +12851,14 @@
             "decimals": 18
         },
         {
+            "chainId": 8453,
+            "address": "0xc11158c5dA9db1D553ED28f0C2BA1CbEDD42CFcb",
+            "name": "Wrapped PAW",
+            "symbol": "wPAW",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/28946/large/PawLogo.png?1699394612"
+        },
+        {
             "chainId": 34443,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -14651,6 +14675,14 @@
             "symbol": "sUSX",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xbc404429558292ee2d769e57d57d6e74bbd2792d.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xc11158c5dA9db1D553ED28f0C2BA1CbEDD42CFcb",
+            "name": "Wrapped PAW",
+            "symbol": "wPAW",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/28946/large/PawLogo.png?1699394612"
         },
         {
             "chainId": 43114,
