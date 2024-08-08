@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-08-07T18:34:55.460Z",
+    "timestamp": "2024-08-08T14:22:58.471Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7145,6 +7145,14 @@
             "logoURI": "https://coin-images.coingecko.com/coins/images/28946/large/PawLogo.png?1699394612"
         },
         {
+            "chainId": 1,
+            "address": "0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1",
+            "name": "Arbitrum",
+            "symbol": "ARB",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/16547/large/arb.jpg?1721358242"
+        },
+        {
             "chainId": 10,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -7794,7 +7802,8 @@
             "address": "0x93919784C523f39CACaa98Ee0a9d96c3F32b593e",
             "name": "uniBTC",
             "symbol": "uniBTC",
-            "decimals": 8
+            "decimals": 8,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/39599/large/uniBTC_200px.png?1723064455"
         },
         {
             "chainId": 10,
