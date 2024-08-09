@@ -929,4 +929,5 @@ export default [
   '0x583019fF0f430721aDa9cfb4fac8F06cA104d0B4', // styeth
   '0xc11158c5dA9db1D553ED28f0C2BA1CbEDD42CFcb', // wPAW
   '0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1', // ARB (from the cow pool)
+  '0x6DF0E641FC9847c0c6Fde39bE6253045440c14d3', // Dinero
 ]
