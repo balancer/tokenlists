@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-08-08T14:22:58.471Z",
+    "timestamp": "2024-08-09T00:49:16.705Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7151,6 +7151,14 @@
             "symbol": "ARB",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/16547/large/arb.jpg?1721358242"
+        },
+        {
+            "chainId": 1,
+            "address": "0x6DF0E641FC9847c0c6Fde39bE6253045440c14d3",
+            "name": "Dinero Governance Token",
+            "symbol": "DINERO",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/39341/large/dinero.jpg?1721807902"
         },
         {
             "chainId": 10,
