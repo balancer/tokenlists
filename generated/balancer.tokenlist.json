@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-08-12T15:14:52.234Z",
+    "timestamp": "2024-08-12T18:27:19.686Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7167,6 +7167,14 @@
             "symbol": "AUSD",
             "decimals": 6,
             "logoURI": "https://coin-images.coingecko.com/coins/images/39284/large/Circle_Agora_White_on_Olive_1080px.png?1722961274"
+        },
+        {
+            "chainId": 1,
+            "address": "0x900dB999074d9277c5DA2A43F252D74366230DA0",
+            "name": "Giveth",
+            "symbol": "GIV",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x900db999074d9277c5da2a43f252d74366230da0.png"
         },
         {
             "chainId": 10,
