@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-08-09T00:49:16.705Z",
+    "timestamp": "2024-08-12T15:14:52.234Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7159,6 +7159,14 @@
             "symbol": "DINERO",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/39341/large/dinero.jpg?1721807902"
+        },
+        {
+            "chainId": 1,
+            "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+            "name": "AUSD",
+            "symbol": "AUSD",
+            "decimals": 6,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/39284/large/Circle_Agora_White_on_Olive_1080px.png?1722961274"
         },
         {
             "chainId": 10,
