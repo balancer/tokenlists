@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-08-13T16:58:07.701Z",
+    "timestamp": "2024-08-13T20:31:49.007Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7182,6 +7182,14 @@
             "name": "Kelp Gain",
             "symbol": "agETH",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xBAac2B4491727D78D2b78815144570b9f2Fe8899",
+            "name": "The Doge NFT",
+            "symbol": "DOG",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/18111/large/Doge.png?1696517615"
         },
         {
             "chainId": 10,
