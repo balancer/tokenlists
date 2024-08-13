@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-08-12T18:27:19.686Z",
+    "timestamp": "2024-08-13T12:45:32.684Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14716,6 +14716,14 @@
             "symbol": "wPAW",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/28946/large/PawLogo.png?1699394612"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x3647c54c4c2C65bC7a2D63c0Da2809B399DBBDC0",
+            "name": "Solv BTC",
+            "symbol": "SolvBTC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x3647c54c4c2c65bc7a2d63c0da2809b399dbbdc0.png"
         },
         {
             "chainId": 43114,
