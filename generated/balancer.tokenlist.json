@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-08-13T12:45:32.684Z",
+    "timestamp": "2024-08-13T16:58:07.701Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7175,6 +7175,13 @@
             "symbol": "GIV",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x900db999074d9277c5da2a43f252d74366230da0.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xe1B4d34E8754600962Cd944B535180Bd758E6c2e",
+            "name": "Kelp Gain",
+            "symbol": "agETH",
+            "decimals": 18
         },
         {
             "chainId": 10,
