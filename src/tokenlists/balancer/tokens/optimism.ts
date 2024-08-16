@@ -83,4 +83,7 @@ export default [
   '0x93919784c523f39cacaa98ee0a9d96c3f32b593e', // uniBTC
   '0x5A7a183B6B44Dc4EC2E3d2eF43F98C5152b1d76d', // inETH
   '0xd08C3F25862077056cb1b710937576Af899a4959', // instETH
+  '0x676f784d19c7F1Ac6C6BeaeaaC78B02a73427852', // OPP - Optimism Prime
+  '0xC70134c6858F3fe09d051f05dCDda215AcE5c153', // imxB - OPP Impermax Borrowable OPP-ETH Vault
+  '0x1d61313ce48Fa3C60DF3a4B567378B954fE6f9A6', // imxB - OPP Impermax Borrowable OPP-opxVELO Vault
 ]
