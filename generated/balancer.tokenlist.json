@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-08-16T06:26:04.357Z",
+    "timestamp": "2024-08-16T07:09:44.315Z",
     "tokens": [
         {
             "chainId": 80084,
@@ -38,6 +38,13 @@
             "address": "0x7507c1dc16935B82698e4C63f2746A2fCf994dF8",
             "name": "Wrapped Bera",
             "symbol": "WBERA",
+            "decimals": 18
+        },
+        {
+            "chainId": 80084,
+            "address": "0xD78d9E1110CfbCacD00De72a8f56472121a23244",
+            "name": "BURR",
+            "symbol": "BURR",
             "decimals": 18
         },
         {
