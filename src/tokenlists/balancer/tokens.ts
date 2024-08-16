@@ -9,7 +9,6 @@ import { Network, TokensForList } from '../../types'
 // import sepolia from './tokens/sepolia'
 // import zkevm from './tokens/zkevm'
 // import fantom from './tokens/fantom'
-import artio from './tokens/artio'
 import bartio from './tokens/bartio'
 
 export const tokens: TokensForList = {
@@ -23,6 +22,5 @@ export const tokens: TokensForList = {
   [Network.Sepolia]: [],
   [Network.Base]: [],
   [Network.Fantom]: [],
-  [Network.Artio]: artio,
   [Network.Bartio]: bartio,
 }

@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-07-25T09:56:14.635Z",
+    "timestamp": "2024-08-16T06:05:47.697Z",
     "tokens": [
         {
             "chainId": 80084,
@@ -97,10 +97,136 @@
             "decimals": 18
         },
         {
-            "chainId": 80085,
-            "address": "0x9AA488bc4c3c237104CD6661e076B22e0535eCFA",
-            "name": "BAL",
-            "symbol": "BAL",
+            "chainId": 80084,
+            "address": "0xE1bA4190e8a907154A4b7EFe4c5bbF0f584847a7",
+            "name": "rUSD",
+            "symbol": "rUSD",
+            "decimals": 18
+        },
+        {
+            "chainId": 80084,
+            "address": "0xE911bA4d01b64830160284E42BfC9b9933fA19BA",
+            "name": "brONEY",
+            "symbol": "brONEY",
+            "decimals": 18
+        },
+        {
+            "chainId": 80084,
+            "address": "0x6859a10034b260b80dfb4755D9AF4811045bb10f",
+            "name": "USDI",
+            "symbol": "USDI",
+            "decimals": 18
+        },
+        {
+            "chainId": 80084,
+            "address": "0xf3ee3CeE5ccaF7a50833592baBb402f488c492Fa",
+            "name": "shETH",
+            "symbol": "shETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 80084,
+            "address": "0xF80a29a0D9f856fCfe276646EE93ca728AdF49F5",
+            "name": "hETH",
+            "symbol": "hETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 80084,
+            "address": "0x9BB8883CD2A4D5Db824400027ED521D39b0ADC8A",
+            "name": "shSOL",
+            "symbol": "shSOL",
+            "decimals": 18
+        },
+        {
+            "chainId": 80084,
+            "address": "0x60A8C9a9C3615c624D0d8C3cf6c96300fbCdFc4c",
+            "name": "hSOL",
+            "symbol": "hSOL",
+            "decimals": 18
+        },
+        {
+            "chainId": 80084,
+            "address": "0x7421F1bAb6d1D82c2f854B464Ecd81e0288F3550",
+            "name": "shTIA",
+            "symbol": "shTIA",
+            "decimals": 18
+        },
+        {
+            "chainId": 80084,
+            "address": "0x2c66D4a60F9dEcDDAb32856E2E50dd50926438E2",
+            "name": "hTIA",
+            "symbol": "hTIA",
+            "decimals": 18
+        },
+        {
+            "chainId": 80084,
+            "address": "0xA34f8931F4bfB338388d57eD4b64135E86f2eDf5",
+            "name": "shATOM",
+            "symbol": "shATOM",
+            "decimals": 18
+        },
+        {
+            "chainId": 80084,
+            "address": "0x00EE7F1020BBC5423a25Ec5F5a08139a17d12344",
+            "name": "hATOM",
+            "symbol": "hATOM",
+            "decimals": 18
+        },
+        {
+            "chainId": 80084,
+            "address": "0x5be694b0fd7B42C2f58c9CaBe78B33624Dfcd4FD",
+            "name": "shDYM",
+            "symbol": "shDYM",
+            "decimals": 18
+        },
+        {
+            "chainId": 80084,
+            "address": "0x317a2Aec6ee9474945b1A8E08E0183060721198C",
+            "name": "hDYM",
+            "symbol": "hDYM",
+            "decimals": 18
+        },
+        {
+            "chainId": 80084,
+            "address": "0x8a99db626a76ac5a2eFeD3790FB791E0eD9aFB00",
+            "name": "shDYDX",
+            "symbol": "shDYDX",
+            "decimals": 18
+        },
+        {
+            "chainId": 80084,
+            "address": "0x48Ccf2bCAD907008f99a779CF79E24Bb2c6c5a09",
+            "name": "hDYDX",
+            "symbol": "hDYDX",
+            "decimals": 18
+        },
+        {
+            "chainId": 80084,
+            "address": "0xf734598152418F97a1E03aD447a490792f82489F",
+            "name": "shINJ",
+            "symbol": "shINJ",
+            "decimals": 18
+        },
+        {
+            "chainId": 80084,
+            "address": "0x4E71FaE1eEE27d442c50C12B3Ba52203564a0801",
+            "name": "hINJ",
+            "symbol": "hINJ",
+            "decimals": 18
+        },
+        {
+            "chainId": 80084,
+            "address": "0x60DD2eF7aE2380eF0aa685072D199ebd060124EB",
+            "name": "shOSMO",
+            "symbol": "shOSMO",
+            "decimals": 18
+        },
+        {
+            "chainId": 80084,
+            "address": "0x9FDc4881Ce3eE888A7D3162A8AccFB3875437B34",
+            "name": "hOSMO",
+            "symbol": "hOSMO",
             "decimals": 18
         }
     ]

@@ -1,6 +1,5 @@
 import { Configs, Network } from '../types'
 import arbitrum from './arbitrum'
-import artio from './artio'
 import avalanche from './avalanche'
 import bartio from './bartio'
 import base from './base'
@@ -23,7 +22,6 @@ const config: Configs = {
   [Network.Sepolia]: sepolia,
   [Network.Zkevm]: zkevm,
   [Network.Fantom]: fantom,
-  [Network.Artio]: artio,
   [Network.Bartio]: bartio,
 }
 
