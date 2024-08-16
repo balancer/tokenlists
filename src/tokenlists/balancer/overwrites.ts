@@ -514,12 +514,14 @@ export const overwrites: OverwritesForList = {
     '0xc70134c6858f3fe09d051f05dcdda215ace5c153': {
       name: 'OPP Impermax Borrowable OPP-ETH Vault',
       symbol: 'imxB (OPP-ETH)',
-      logoURI: 'https://gitlab.com/optimism-prime/logos/-/raw/main/imxB-OPP-OPP-ETH.png',
+      logoURI: 
+        'https://gitlab.com/optimism-prime/logos/-/raw/main/imxB-OPP-OPP-ETH.png',
     },
     '0x1d61313ce48Fa3C60DF3a4B567378B954fE6f9A6': {
       name: 'OPP Impermax Borrowable OPP-opxVELO Vault',
       symbol: 'imxB (OPP-opxVELO)',
-      logoURI: 'https://gitlab.com/optimism-prime/logos/-/raw/main/imxB-OPP-OPP-opxVELO.png',
+      logoURI: 
+        'https://gitlab.com/optimism-prime/logos/-/raw/main/imxB-OPP-OPP-opxVELO.png',
     },
   },
   [Network.Gnosis]: {
