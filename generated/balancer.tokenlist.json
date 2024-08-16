@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-08-13T20:31:49.007Z",
+    "timestamp": "2024-08-16T16:18:29.204Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7181,7 +7181,8 @@
             "address": "0xe1B4d34E8754600962Cd944B535180Bd758E6c2e",
             "name": "Kelp Gain",
             "symbol": "agETH",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/39677/large/Icon___Dark.png?1723610897"
         },
         {
             "chainId": 1,
@@ -7190,6 +7191,22 @@
             "symbol": "DOG",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/18111/large/Doge.png?1696517615"
+        },
+        {
+            "chainId": 1,
+            "address": "0x5C5b196aBE0d54485975D1Ec29617D42D9198326",
+            "name": "Staked deUSD",
+            "symbol": "sdeUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5c5b196abe0d54485975d1ec29617d42d9198326.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x15700B564Ca08D9439C58cA5053166E8317aa138",
+            "name": "deUSD",
+            "symbol": "deUSD",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/39494/large/deUSD_Logo_%281%29.png?1723689002"
         },
         {
             "chainId": 10,
@@ -7865,6 +7882,30 @@
             "extensions": {
                 "coingeckId": "inception-restaked-steth"
             }
+        },
+        {
+            "chainId": 10,
+            "address": "0x676f784d19c7F1Ac6C6BeaeaaC78B02a73427852",
+            "name": "Optimism Prime",
+            "symbol": "OPP",
+            "decimals": 18,
+            "logoURI": "https://gitlab.com/optimism-prime/logos/-/raw/main/OPP.png"
+        },
+        {
+            "chainId": 10,
+            "address": "0xC70134c6858F3fe09d051f05dCDda215AcE5c153",
+            "name": "OPP Impermax Borrowable OPP-ETH Vault",
+            "symbol": "imxB (OPP-ETH)",
+            "decimals": 18,
+            "logoURI": "https://gitlab.com/optimism-prime/logos/-/raw/main/imxB-OPP-OPP-ETH.png"
+        },
+        {
+            "chainId": 10,
+            "address": "0x1d61313ce48Fa3C60DF3a4B567378B954fE6f9A6",
+            "name": "OPP Impermax Borrowable OPP-opxVELO Vault",
+            "symbol": "imxB (OPP-opxVELO)",
+            "decimals": 18,
+            "logoURI": "https://gitlab.com/optimism-prime/logos/-/raw/main/imxB-OPP-OPP-opxVELO.png"
         },
         {
             "chainId": 100,
