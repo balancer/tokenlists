@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-08-16T06:05:47.697Z",
+    "timestamp": "2024-08-16T06:26:04.357Z",
     "tokens": [
         {
             "chainId": 80084,
@@ -28,72 +28,16 @@
         },
         {
             "chainId": 80084,
+            "address": "0xf5AFCF50006944d17226978e594D4D25f4f92B40",
+            "name": "NECTAR",
+            "symbol": "NECT",
+            "decimals": 18
+        },
+        {
+            "chainId": 80084,
             "address": "0x7507c1dc16935B82698e4C63f2746A2fCf994dF8",
             "name": "Wrapped Bera",
             "symbol": "WBERA",
-            "decimals": 18
-        },
-        {
-            "chainId": 80084,
-            "address": "0xf3585984B956f2A26694ee1BAede7eAB658A5e7E",
-            "name": "USDC_mock",
-            "symbol": "USDC_mock",
-            "decimals": 6
-        },
-        {
-            "chainId": 80084,
-            "address": "0x7A73FA0Be231B44dbcA23E98F49CAe7F11f367Ba",
-            "name": "XSGD_mock",
-            "symbol": "XSGD_mock",
-            "decimals": 6
-        },
-        {
-            "chainId": 80084,
-            "address": "0x018CEF7740535a156e0981059ACf19E74A886116",
-            "name": "EURS_mock",
-            "symbol": "EURS_mock",
-            "decimals": 2
-        },
-        {
-            "chainId": 80084,
-            "address": "0x7Ab404C804Df8f9f8A44A63e3B546bC16E98b5bf",
-            "name": "DAI_mock",
-            "symbol": "DAI_mock",
-            "decimals": 18
-        },
-        {
-            "chainId": 80084,
-            "address": "0xcECD6ACc6B6Bb0f40B952C251BC303894f62a3ED",
-            "name": "USDT_mock",
-            "symbol": "USDT_mock",
-            "decimals": 6
-        },
-        {
-            "chainId": 80084,
-            "address": "0xB2558d92da27759868C74C937F174e636E32e783",
-            "name": "mock_NECT",
-            "symbol": "mock_NECT",
-            "decimals": 18
-        },
-        {
-            "chainId": 80084,
-            "address": "0xEcDB730E5a58AC94fbAc7d0E216727D1732DD554",
-            "name": "mock_USDC",
-            "symbol": "mock_USDC",
-            "decimals": 6
-        },
-        {
-            "chainId": 80084,
-            "address": "0x7Af2754E29733518bae54136e0bCc7B0997DaBF0",
-            "name": "mock_brONEY",
-            "symbol": "mock_brONEY",
-            "decimals": 18
-        },
-        {
-            "chainId": 80084,
-            "address": "0xF3e76804E4F55D6134C6889752a1Ee2d5bC0C3c3",
-            "name": "mock_rUSD",
-            "symbol": "mock_rUSD",
             "decimals": 18
         },
         {
