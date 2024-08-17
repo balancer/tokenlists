@@ -1,6 +1,6 @@
 export default {
   name: 'gnosis',
-  rpc: 'https://rpc.gnosischain.com',
+  rpc: `https://gnosis-mainnet.g.alchemy.com/v2/${process.env.ALCHEMY_KEY}`,
   coingecko: {
     platformId: 'xdai',
   },

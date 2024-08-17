@@ -10,7 +10,9 @@ To make changes to the balancer tokenlist edit the files in
 [src/tokenlists/balancer](https://github.com/balancer/tokenlists/tree/main/src/tokenlists/balancer).
 
 1. `metadata.ts` - Edit this to change the highlevel tokenlist metadata.
-1. `tokens/<network>.ts` - Edit this to add or remove tokens from the generated tokenlist. E.g Tokens for Arbitrum go in `tokens/arbitrum.ts`, tokens for Ethereum go in `tokens/ethereum.ts`. 
+1. `tokens/<network>.ts` - Edit this to add or remove tokens from the generated
+   tokenlist. E.g Tokens for Arbitrum go in `tokens/arbitrum.ts`, tokens for
+   Ethereum go in `tokens/ethereum.ts`.
 1. `overwrites.ts` - Edit this to overwrite any token data that is incorrect
    when generated automatically.
 
@@ -46,7 +48,8 @@ will need to add these ENV variables:
 
 ```
 INFURA_KEY=xxx
-POKT_KEY=xxx
+ALCHEMY_KEY=xxx
+COINGECKO_API_KEY=xxx
 ```
 
 You'll need to sign up to each of those services to get keys:

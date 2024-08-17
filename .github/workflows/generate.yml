@@ -1,6 +1,7 @@
 name: Generate tokenlists
 
 on:
+  workflow_call:
   push:
     branches:
       - main
@@ -18,7 +19,6 @@ jobs:
         env:
           INFURA_KEY: ${{ secrets.INFURA_KEY }}
           ALCHEMY_KEY: ${{ secrets.ALCHEMY_KEY }}
-          POKT_KEY: ${{ secrets.POKT_KEY }}
           COINGECKO_API_KEY: ${{ secrets.COINGECKO_API_KEY }}
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4
@@ -26,7 +26,8 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: 'chore: Update generated tokenlists'
           committer: GitHub <noreply@github.com>
-          author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
+          author:
+            ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
           signoff: false
           branch: update-tokenlists
           delete-branch: true

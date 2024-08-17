@@ -1,0 +1,9 @@
+name: Generate tokenlists manually
+
+on:
+  workflow_dispatch:
+
+jobs:
+  generate:
+    uses: ./.github/workflows/generate.yml
+    secrets: inherit

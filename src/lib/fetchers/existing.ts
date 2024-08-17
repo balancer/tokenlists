@@ -100,6 +100,19 @@ export async function fetchExistingMetadata(
   existingTokenList: TokenList | undefined
 ): Promise<PartialTokenInfoMap> {
   const overwritesMetadata = overwrites[network]
+
+  const overwritesMetadataFormatted:
+    | Record<string, Partial<TokenInfo>>
+    | undefined = {}
+
+  for (const overwriteTokenAddress in overwritesMetadata) {
+    const data = overwritesMetadata[overwriteTokenAddress]
+    overwritesMetadataFormatted[getAddress(overwriteTokenAddress)] = {
+      ...data,
+      address: data.address ? getAddress(data.address) : data.address,
+    }
+  }
+
   const localTokenIcons = fetchLocalTokenIcons(network)
   const existingListMetadata = fetchExistingTokensListMap(
     network,
@@ -112,6 +125,6 @@ export async function fetchExistingMetadata(
     trustwalletTokenList,
     existingListMetadata,
     localTokenIcons,
-    overwritesMetadata
+    overwritesMetadataFormatted
   )
 }

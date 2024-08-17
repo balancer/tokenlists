@@ -2,7 +2,6 @@ import { TokenInfo, TokenList } from '@uniswap/token-lists'
 
 export enum Network {
   Ethereum = '1',
-  Goerli = '5',
   Optimism = '10',
   Gnosis = '100',
   Polygon = '137',
@@ -11,6 +10,9 @@ export enum Network {
   Arbitrum = '42161',
   Avalanche = '43114',
   Sepolia = '11155111',
+  Fantom = '250',
+  Fraxtal = '252',
+  Mode = '34443',
 }
 
 export interface Config {
