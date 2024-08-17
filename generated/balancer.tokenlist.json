@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-08-16T16:18:29.204Z",
+    "timestamp": "2024-08-17T13:54:53.797Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14780,6 +14780,76 @@
             "symbol": "SolvBTC",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x3647c54c4c2c65bc7a2d63c0da2809b399dbbdc0.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x446C123628194826110Fac2e18496a161d277b0F",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6
+        },
+        {
+            "chainId": 42161,
+            "address": "0xD5FAE1D23693d2f0090cD101b79892661c539366",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6
+        },
+        {
+            "chainId": 42161,
+            "address": "0xab57C3f001A749B340686E6DB3532792A76D7715",
+            "name": "Wrapped Ethereum",
+            "symbol": "WETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0xa168bE53a546163f36210f3c440fbDC41BE99EE2",
+            "name": "Wrapped Ethereum",
+            "symbol": "WETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x9E60eB63Eaad46759A170B9eE5cC27E5Dd68C7e1",
+            "name": "Metis",
+            "symbol": "METIS",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x90364aA61234B85251aD943681433904c35FA5ce",
+            "name": "Metis Token",
+            "symbol": "Metis",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0xa81CCd479d23529151e25808C591bd0d8556eD2d",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6
+        },
+        {
+            "chainId": 42161,
+            "address": "0x9F0DD7B477dE824c6b2f7EE141fC8656C6EA0582",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0xd972c72fb7e2a6f8F947f6cc000Fe409Fd746137",
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x0B8A98B0FD31Fc92B7dF5592a78B83aE455d2C44",
+            "name": "TetherToken",
+            "symbol": "USDt",
+            "decimals": 6
         },
         {
             "chainId": 43114,
