@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-08-17T13:54:53.797Z",
+    "timestamp": "2024-08-18T02:43:41.922Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7207,6 +7207,14 @@
             "symbol": "deUSD",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/39494/large/deUSD_Logo_%281%29.png?1723689002"
+        },
+        {
+            "chainId": 1,
+            "address": "0x09db87A538BD693E9d08544577d5cCfAA6373A48",
+            "name": "ynETH",
+            "symbol": "ynETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x09db87a538bd693e9d08544577d5ccfaa6373a48.png"
         },
         {
             "chainId": 10,
