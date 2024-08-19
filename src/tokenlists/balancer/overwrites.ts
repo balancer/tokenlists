@@ -128,6 +128,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x41FDbea2E52790c0a1Dc374F07b628741f2E062D': {
       name: 'Gyroscope ECLP sdeUSD/deUSD',
+      symbol: 'ECLP-sdeUSD-deUSD',
     },
   },
   [Network.Polygon]: {
