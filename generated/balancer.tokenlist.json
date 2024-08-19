@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-08-18T02:43:41.922Z",
+    "timestamp": "2024-08-19T02:43:49.714Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7182,7 +7182,7 @@
             "name": "Kelp Gain",
             "symbol": "agETH",
             "decimals": 18,
-            "logoURI": "https://coin-images.coingecko.com/coins/images/39677/large/Icon___Dark.png?1723610897"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe1b4d34e8754600962cd944b535180bd758e6c2e.png"
         },
         {
             "chainId": 1,
@@ -8258,6 +8258,13 @@
         },
         {
             "chainId": 100,
+            "address": "0x00aaee920AB7b621F36a8CE4324336bB85BB0FB2",
+            "name": "Grosh",
+            "symbol": "GROSH",
+            "decimals": 18
+        },
+        {
+            "chainId": 100,
             "address": "0x72a040c63496C9306AB3409A11Dff73176E203FD",
             "name": "Balancer sBAL3/crvUSD",
             "symbol": "sBAL3/crvUSD",
@@ -8415,6 +8422,13 @@
             "symbol": "osGNO",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf490c80aae5f2616d3e3bda2483e30c4cb21d1a0.png"
+        },
+        {
+            "chainId": 100,
+            "address": "0x0d8EAD573fDA66CA8b977200af3f16f375fc5FcE",
+            "name": "Verified Grosh",
+            "symbol": "GROSH",
+            "decimals": 18
         },
         {
             "chainId": 137,
