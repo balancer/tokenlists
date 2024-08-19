@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-08-19T18:06:00.401Z",
+    "timestamp": "2024-08-19T18:47:52.910Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8436,6 +8436,14 @@
             "name": "Verified Grosh",
             "symbol": "GROSH",
             "decimals": 18
+        },
+        {
+            "chainId": 100,
+            "address": "0x8fEd19c7e7b59e7cfe8d0A1f570C96A721198710",
+            "name": "Grosh digital token",
+            "symbol": "GROSH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x8fed19c7e7b59e7cfe8d0a1f570c96a721198710.png"
         },
         {
             "chainId": 137,
