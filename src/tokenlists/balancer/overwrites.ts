@@ -126,6 +126,9 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://assets.coingecko.com/coins/images/12645/standard/aave-token-round.png?1720472354',
     },
+    '0x41FDbea2E52790c0a1Dc374F07b628741f2E062D': {
+      name: 'Gyroscope ECLP sdeUSD/deUSD',
+    },
   },
   [Network.Polygon]: {
     '0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3': {
