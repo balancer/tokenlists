@@ -86,4 +86,5 @@ export default [
   '0x676f784d19c7F1Ac6C6BeaeaaC78B02a73427852', // OPP - Optimism Prime
   '0xC70134c6858F3fe09d051f05dCDda215AcE5c153', // imxB - OPP Impermax Borrowable OPP-ETH Vault
   '0x1d61313ce48Fa3C60DF3a4B567378B954fE6f9A6', // imxB - OPP Impermax Borrowable OPP-opxVELO Vault
+  '0x57f5e098cad7a3d1eed53991d4d66c45c9af7812', // wUSDM
 ]
