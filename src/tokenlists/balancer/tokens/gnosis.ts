@@ -66,4 +66,5 @@ export default [
   '0xF490c80aAE5f2616d3e3BDa2483E30C4CB21d1A0', // osGNO
   '0x0d8EAD573fDA66CA8b977200af3f16f375fc5FcE', // Verified GROSH
   '0x8fEd19c7e7b59e7cfe8d0A1f570C96A721198710', // Grosh digital token
+  '0xccDa41BD2ffE7D5b48212190b796C292982fcE2e', // MU
 ]
