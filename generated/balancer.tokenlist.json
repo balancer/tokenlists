@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-08-23T09:13:47.237Z",
+    "timestamp": "2024-08-23T12:10:21.865Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14903,6 +14903,13 @@
             "name": "TetherToken",
             "symbol": "USDt",
             "decimals": 6
+        },
+        {
+            "chainId": 42161,
+            "address": "0x89AEc2023f89E26Dbb7eaa7a98fe3996f9d112A8",
+            "name": "Static Aave Arbitrum FRAX",
+            "symbol": "stataArbFRAX",
+            "decimals": 18
         },
         {
             "chainId": 43114,
