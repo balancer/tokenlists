@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-08-22T13:46:37.516Z",
+    "timestamp": "2024-08-23T09:13:47.237Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8452,6 +8452,14 @@
             "symbol": "GROSH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x8fed19c7e7b59e7cfe8d0a1f570c96a721198710.png"
+        },
+        {
+            "chainId": 100,
+            "address": "0xccDa41BD2ffE7D5b48212190b796C292982fcE2e",
+            "name": "MU",
+            "symbol": "Mu",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xccda41bd2ffe7d5b48212190b796c292982fce2e.png"
         },
         {
             "chainId": 137,
