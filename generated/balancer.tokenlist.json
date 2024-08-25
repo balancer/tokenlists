@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-08-23T12:10:21.865Z",
+    "timestamp": "2024-08-25T22:19:45.849Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14912,6 +14912,13 @@
             "decimals": 18
         },
         {
+            "chainId": 42161,
+            "address": "0xD9FBA68D89178e3538e708939332c79efC540179",
+            "name": "Static Aave Arbitrum GHO",
+            "symbol": "stataArbGHO",
+            "decimals": 18
+        },
+        {
             "chainId": 43114,
             "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
             "name": "Wrapped AVAX",
@@ -15534,6 +15541,13 @@
             "symbol": "OSAK",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/30911/large/osak_logo.png?1696529756"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xaBE662fAeA2EA68f4979A3956C27353D9bC398CA",
+            "name": "USDTether",
+            "symbol": "USDt",
+            "decimals": 8
         },
         {
             "chainId": 11155111,
