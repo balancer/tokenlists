@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-08-25T22:19:45.849Z",
+    "timestamp": "2024-08-26T13:04:20.451Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7222,6 +7222,13 @@
             "name": "Gyroscope ECLP sdeUSD/deUSD",
             "symbol": "ECLP-sdeUSD-deUSD",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x4eb99DeA4879b8a36b398d0Ed06d54B777B1d43D",
+            "name": "USDollarToken",
+            "symbol": "USDT",
+            "decimals": 6
         },
         {
             "chainId": 10,
