@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-08-26T13:04:20.451Z",
+    "timestamp": "2024-08-29T15:30:35.723Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12180,7 +12180,8 @@
             "address": "0xFc00000000000000000000000000000000000002",
             "name": "Frax Share",
             "symbol": "FXS",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/39951/large/FXS.png?1724902450"
         },
         {
             "chainId": 252,
@@ -14916,14 +14917,16 @@
             "address": "0x89AEc2023f89E26Dbb7eaa7a98fe3996f9d112A8",
             "name": "Static Aave Arbitrum FRAX",
             "symbol": "stataArbFRAX",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x89aec2023f89e26dbb7eaa7a98fe3996f9d112a8.png"
         },
         {
             "chainId": 42161,
             "address": "0xD9FBA68D89178e3538e708939332c79efC540179",
             "name": "Static Aave Arbitrum GHO",
             "symbol": "stataArbGHO",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd9fba68d89178e3538e708939332c79efc540179.png"
         },
         {
             "chainId": 43114,
