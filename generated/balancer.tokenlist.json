@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-08-29T15:30:35.723Z",
+    "timestamp": "2024-08-30T16:02:13.374Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13092,6 +13092,13 @@
             "symbol": "AAVE",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7c6b91d9be155a6db01f749217d76ff02a7227f2.png"
+        },
+        {
+            "chainId": 34443,
+            "address": "0x3f51c6c5927B88CDEc4b61e2787F9BD0f5249138",
+            "name": "Mode Savings Dai",
+            "symbol": "msDAI",
+            "decimals": 18
         },
         {
             "chainId": 42161,
