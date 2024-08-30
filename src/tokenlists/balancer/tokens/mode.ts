@@ -10,4 +10,5 @@ export default [
   '0xcDd475325D6F564d27247D1DddBb0DAc6fA0a5CF', // wbtc
   '0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea', // dai
   '0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2', // aave
+  '0x3f51c6c5927b88cdec4b61e2787f9bd0f5249138', // msDAI
 ]
