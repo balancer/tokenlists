@@ -939,4 +939,5 @@ export default [
   '0x09db87A538BD693E9d08544577d5cCfAA6373A48', // yneth
   '0x41FDbea2E52790c0a1Dc374F07b628741f2E062D', // stdeUSD/deUSD
   '0x4eb99DeA4879b8a36b398d0Ed06d54B777B1d43D', // USDollarToken
+  '0xc770eefad204b5180df6a14ee197d99d808ee52d', // ShapeShift (FOX) 
 ]
