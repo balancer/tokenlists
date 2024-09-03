@@ -87,6 +87,5 @@ export default [
   '0xC70134c6858F3fe09d051f05dCDda215AcE5c153', // imxB - OPP Impermax Borrowable OPP-ETH Vault
   '0x1d61313ce48Fa3C60DF3a4B567378B954fE6f9A6', // imxB - OPP Impermax Borrowable OPP-opxVELO Vault
   '0x57f5e098cad7a3d1eed53991d4d66c45c9af7812', // wUSDM
-  '0xf1a0da3367bc7aa04f8d94ba57b862ff37ced174', // ShapeShift (FOX)
-
+  '0xF1a0DA3367BC7aa04F8D94BA57B862ff37CeD174', // ShapeShift (FOX)
 ]
