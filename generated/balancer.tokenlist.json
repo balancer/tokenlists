@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-09-03T18:20:02.729Z",
+    "timestamp": "2024-09-05T14:49:48.671Z",
     "tokens": [
         {
             "chainId": 1,
@@ -10049,7 +10049,8 @@
             "address": "0xE6A537a407488807F0bbeb0038B79004f19DDDFb",
             "name": "BRLA Token",
             "symbol": "BRLA",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/40062/large/IconGreen400.png?1725459580"
         },
         {
             "chainId": 137,
@@ -13031,6 +13032,20 @@
             "symbol": "wPAW",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/28946/large/PawLogo.png?1699394612"
+        },
+        {
+            "chainId": 8453,
+            "address": "0xa1e4240C9E9B8db3ba9e7625A9571c3B0FF71988",
+            "name": "Parag",
+            "symbol": "PJ",
+            "decimals": 18
+        },
+        {
+            "chainId": 8453,
+            "address": "0x0657Ca9040D4dcF6DF21846004def616fDAEaBd9",
+            "name": "Temp",
+            "symbol": "TEMP",
+            "decimals": 18
         },
         {
             "chainId": 34443,
