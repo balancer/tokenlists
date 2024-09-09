@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-09-09T07:59:11.794Z",
+    "timestamp": "2024-09-09T15:32:22.216Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13045,6 +13045,13 @@
             "address": "0x0657Ca9040D4dcF6DF21846004def616fDAEaBd9",
             "name": "Temp",
             "symbol": "TEMP",
+            "decimals": 18
+        },
+        {
+            "chainId": 8453,
+            "address": "0x2C8C89C442436CC6C0a77943E09c8Daf49Da3161",
+            "name": "ZEEBU",
+            "symbol": "ZBU",
             "decimals": 18
         },
         {
