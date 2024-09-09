@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-09-05T14:49:48.671Z",
+    "timestamp": "2024-09-09T07:59:11.794Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13076,7 +13076,10 @@
             "address": "0xD08a2917653d4E460893203471f0000826fb4034",
             "name": "Balancer",
             "symbol": "BAL",
-            "decimals": 18
+            "decimals": 18,
+            "extensions": {
+                "coingeckoId": "balancer"
+            }
         },
         {
             "chainId": 34443,
