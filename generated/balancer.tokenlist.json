@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-09-09T15:32:22.216Z",
+    "timestamp": "2024-09-10T11:44:20.361Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13053,6 +13053,14 @@
             "name": "ZEEBU",
             "symbol": "ZBU",
             "decimals": 18
+        },
+        {
+            "chainId": 8453,
+            "address": "0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42",
+            "name": "EURC",
+            "symbol": "EURC",
+            "decimals": 6,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/26045/large/euro.png?1696525125"
         },
         {
             "chainId": 34443,
