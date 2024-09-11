@@ -130,10 +130,6 @@ export const overwrites: OverwritesForList = {
       name: 'Gyroscope ECLP sdeUSD/deUSD',
       symbol: 'ECLP-sdeUSD-deUSD',
     },
-    '0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0': {
-      symbol: 'POL',
-      name: 'Polygon Ecosystem Token',
-    },
   },
   [Network.Polygon]: {
     '0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3': {
