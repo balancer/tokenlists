@@ -261,6 +261,10 @@ export const overwrites: OverwritesForList = {
       symbol: 'AUCO2',
       decimals: 18,
     },
+    '0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270': {
+      symbol: 'wPOL',
+      name: 'Wrapped Polygon Ecosystem Token',
+    },
   },
   [Network.Arbitrum]: {
     '0xfc675adfdd721064ba923d07a8a238a9e52d8ace': {
