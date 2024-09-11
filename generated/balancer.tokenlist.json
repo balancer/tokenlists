@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-09-10T11:44:20.361Z",
+    "timestamp": "2024-09-11T13:17:51.080Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7239,6 +7239,14 @@
             "logoURI": "https://coin-images.coingecko.com/coins/images/9988/large/FOX.png?1696510025"
         },
         {
+            "chainId": 1,
+            "address": "0x27702a26126e0B3702af63Ee09aC4d1A084EF628",
+            "name": "aleph.im v2",
+            "symbol": "ALEPH",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/11676/large/Monochram-aleph.png?1608483725"
+        },
+        {
             "chainId": 10,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -13052,7 +13060,8 @@
             "address": "0x2C8C89C442436CC6C0a77943E09c8Daf49Da3161",
             "name": "ZEEBU",
             "symbol": "ZBU",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/31145/large/200x200_Front_token.png?1696529974"
         },
         {
             "chainId": 8453,
@@ -13061,6 +13070,14 @@
             "symbol": "EURC",
             "decimals": 6,
             "logoURI": "https://coin-images.coingecko.com/coins/images/26045/large/euro.png?1696525125"
+        },
+        {
+            "chainId": 8453,
+            "address": "0xc0Fbc4967259786C743361a5885ef49380473dCF",
+            "name": "Aleph.im V2 SuperToken",
+            "symbol": "ALEPH",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/11676/large/Aleph-Logo-BW.png?1696511566"
         },
         {
             "chainId": 34443,
@@ -13155,7 +13172,8 @@
             "address": "0x3f51c6c5927B88CDEc4b61e2787F9BD0f5249138",
             "name": "Mode Savings Dai",
             "symbol": "msDAI",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x3f51c6c5927b88cdec4b61e2787f9bd0f5249138.png"
         },
         {
             "chainId": 42161,
