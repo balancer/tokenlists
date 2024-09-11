@@ -67,4 +67,5 @@ export default [
   '0x0d8EAD573fDA66CA8b977200af3f16f375fc5FcE', // Verified GROSH
   '0x8fEd19c7e7b59e7cfe8d0A1f570C96A721198710', // Grosh digital token
   '0xccDa41BD2ffE7D5b48212190b796C292982fcE2e', // MU
+  '0x270bA1f35D8b87510D24F693fcCc0da02e6E4EeB', // Static Aave Gnosis USDC
 ]
