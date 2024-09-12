@@ -235,4 +235,6 @@ export default [
   '0x89aec2023f89e26dbb7eaa7a98fe3996f9d112a8', // stataFrax
   '0xD9FBA68D89178e3538e708939332c79efC540179', // Static Aave Arbitrum GHO
   '0xf929de51D91C77E42f5090069E0AD7A09e513c73', // ShapeShift (FOX)
+  '0x02cea97794d2cfb5f560e1ff4e9c59d1bec75969', // VCHF
+  '0x4883c8f0529f37e40ebea870f3c13cdfad5d01f8', // VEUR
 ]
