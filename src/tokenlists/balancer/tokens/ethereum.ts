@@ -941,4 +941,5 @@ export default [
   '0x4eb99DeA4879b8a36b398d0Ed06d54B777B1d43D', // USDollarToken
   '0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d', // ShapeShift (FOX)
   '0x27702a26126e0b3702af63ee09ac4d1a084ef628', // ALEPH
+  '0xf3135C779Ce72c9B67AFA853C3a8699242826ed7', // USDollarToken ($USDŦ) 
 ]
