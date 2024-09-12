@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-09-11T21:40:09.053Z",
+    "timestamp": "2024-09-12T12:37:13.876Z",
     "tokens": [
         {
             "chainId": 1,
@@ -15025,6 +15025,20 @@
             "symbol": "FOX",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/9988/large/FOX.png?1696510025"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x02cea97794D2cFB5f560e1fF4e9C59D1BEC75969",
+            "name": "VNX Franc",
+            "symbol": "VCHF",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x4883C8f0529F37e40eBeA870F3C13cDfAD5d01f8",
+            "name": "VNX Euro",
+            "symbol": "VEUR",
+            "decimals": 18
         },
         {
             "chainId": 43114,
