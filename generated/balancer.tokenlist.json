@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-09-12T12:37:13.876Z",
+    "timestamp": "2024-09-12T19:11:05.717Z",
     "tokens": [
         {
             "chainId": 1,
@@ -15039,6 +15039,14 @@
             "name": "VNX Euro",
             "symbol": "VEUR",
             "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8",
+            "name": "Pendle",
+            "symbol": "PENDLE",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728"
         },
         {
             "chainId": 43114,
