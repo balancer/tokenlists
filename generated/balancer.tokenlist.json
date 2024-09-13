@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-09-13T10:53:48.198Z",
+    "timestamp": "2024-09-13T13:50:52.476Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7245,6 +7245,13 @@
             "symbol": "ALEPH",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/11676/large/Monochram-aleph.png?1608483725"
+        },
+        {
+            "chainId": 1,
+            "address": "0xf3135C779Ce72c9B67AFA853C3a8699242826ed7",
+            "name": "USDollarToken",
+            "symbol": "USDŦ",
+            "decimals": 6
         },
         {
             "chainId": 10,
@@ -15061,7 +15068,8 @@
             "address": "0x4026AFfABd9032bCC87Fa05C02F088905f3dC09B",
             "name": "StakeWise",
             "symbol": "SWISE",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4026affabd9032bcc87fa05c02f088905f3dc09b.png"
         },
         {
             "chainId": 43114,
