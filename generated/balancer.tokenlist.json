@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-09-12T20:42:39.254Z",
+    "timestamp": "2024-09-13T10:53:48.198Z",
     "tokens": [
         {
             "chainId": 1,
@@ -15055,6 +15055,13 @@
             "symbol": "PENDLE",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x4026AFfABd9032bCC87Fa05C02F088905f3dC09B",
+            "name": "StakeWise",
+            "symbol": "SWISE",
+            "decimals": 18
         },
         {
             "chainId": 43114,
