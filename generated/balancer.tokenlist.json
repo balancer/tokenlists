@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-09-13T13:50:52.476Z",
+    "timestamp": "2024-09-16T13:06:01.233Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7252,6 +7252,14 @@
             "name": "USDollarToken",
             "symbol": "USDŦ",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "address": "0x594DaaD7D77592a2b97b725A7AD59D7E188b5bFa",
+            "name": "Apu Apustaja",
+            "symbol": "APU",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/35986/large/200x200.png?1710308147"
         },
         {
             "chainId": 10,
