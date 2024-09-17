@@ -15,7 +15,7 @@ import mode from './tokens/mode'
 export const tokens: TokensForList = {
   [Network.Ethereum]: ethereum,
   [Network.Polygon]: polygon,
-  [Network.Arbitrum]: arbitrum,
+  [Network.Arbitrum]: arbitrum,0x2C650dAb03A59332e2E0C0C4A7F726913e5028C1
   [Network.Optimism]: optimism,
   [Network.Gnosis]: gnosis,
   [Network.Zkevm]: zkevm,
