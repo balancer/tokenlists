@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-09-16T13:06:01.233Z",
+    "timestamp": "2024-09-17T13:21:49.014Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7260,6 +7260,14 @@
             "symbol": "APU",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/35986/large/200x200.png?1710308147"
+        },
+        {
+            "chainId": 1,
+            "address": "0xE0f63A424a4439cBE457D80E4f4b51aD25b2c56C",
+            "name": "SPX6900",
+            "symbol": "SPX",
+            "decimals": 8,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/31401/large/sticker_%281%29.jpg?1702371083"
         },
         {
             "chainId": 10,
@@ -15078,6 +15086,14 @@
             "symbol": "SWISE",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4026affabd9032bcc87fa05c02f088905f3dc09b.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x2C650dAb03A59332e2E0C0C4A7F726913e5028C1",
+            "name": "TapToken",
+            "symbol": "TAP",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/38756/large/TAPP.png?1718729124"
         },
         {
             "chainId": 43114,
