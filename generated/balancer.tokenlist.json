@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-09-17T13:21:49.014Z",
+    "timestamp": "2024-09-18T01:27:18.931Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7268,6 +7268,22 @@
             "symbol": "SPX",
             "decimals": 8,
             "logoURI": "https://coin-images.coingecko.com/coins/images/31401/large/sticker_%281%29.jpg?1702371083"
+        },
+        {
+            "chainId": 1,
+            "address": "0x786F4782d1A5c602Ea30Bc4A95154110B9e231ea",
+            "name": "ShezmuBTC",
+            "symbol": "ShezBTC",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/40078/large/0x786f4782d1a5c602ea30bc4a95154110b9e231ea.png?1725514378"
+        },
+        {
+            "chainId": 1,
+            "address": "0xdF217EFD8f3ecb5E837aedF203C28c1f06854017",
+            "name": "Acre Staked Bitcoin",
+            "symbol": "stBTC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdf217efd8f3ecb5e837aedf203c28c1f06854017.png"
         },
         {
             "chainId": 10,
