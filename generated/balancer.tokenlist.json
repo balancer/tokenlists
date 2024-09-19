@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-09-19T12:56:58.862Z",
+    "timestamp": "2024-09-19T13:04:24.424Z",
     "tokens": [
         {
             "chainId": 1,
@@ -15134,6 +15134,14 @@
             "symbol": "COW",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/24384/large/CoW-token_logo.png?1719524382"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x25ea98ac87A38142561eA70143fd44c4772A16b6",
+            "name": "MORE",
+            "symbol": "MORE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x25ea98ac87a38142561ea70143fd44c4772a16b6.png"
         },
         {
             "chainId": 43114,
