@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-09-18T19:28:04.347Z",
+    "timestamp": "2024-09-19T12:56:58.862Z",
     "tokens": [
         {
             "chainId": 1,
@@ -15128,6 +15128,14 @@
             "logoURI": "https://coin-images.coingecko.com/coins/images/38756/large/TAPP.png?1718729124"
         },
         {
+            "chainId": 42161,
+            "address": "0xcb8b5CD20BdCaea9a010aC1F8d835824F5C87A04",
+            "name": "CoW Protocol Token",
+            "symbol": "COW",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/24384/large/CoW-token_logo.png?1719524382"
+        },
+        {
             "chainId": 43114,
             "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
             "name": "Wrapped AVAX",
@@ -15765,6 +15773,14 @@
             "symbol": "ALEPH",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/11676/large/Aleph-Logo-BW.png?1696511566"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xb2F85b7AB3c2b6f62DF06dE6aE7D09c010a5096E",
+            "name": "XSGD",
+            "symbol": "XSGD",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb2f85b7ab3c2b6f62df06de6ae7d09c010a5096e.png"
         },
         {
             "chainId": 11155111,
