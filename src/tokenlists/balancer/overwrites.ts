@@ -265,6 +265,10 @@ export const overwrites: OverwritesForList = {
       symbol: 'wPOL',
       name: 'Wrapped Polygon Ecosystem Token',
     },
+    '0x0000000000000000000000000000000000001010': {
+      symbol: 'POL',
+      name: 'Polygon Ecosystem Token',
+    },
   },
   [Network.Arbitrum]: {
     '0xfc675adfdd721064ba923d07a8a238a9e52d8ace': {
