@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-09-25T15:00:05.611Z",
+    "timestamp": "2024-09-25T16:57:58.826Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7356,6 +7356,14 @@
             "symbol": "oVCX",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xafa52e3860b4371ab9d8f08e801e9ea1027c0ca2.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x812Ba41e071C7b7fA4EBcFB62dF5F45f6fA853Ee",
+            "name": "Neiro",
+            "symbol": "Neiro",
+            "decimals": 9,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/39488/large/logo.png?1723247657"
         },
         {
             "chainId": 10,
