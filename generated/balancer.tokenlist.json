@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-09-25T16:57:58.826Z",
+    "timestamp": "2024-09-25T21:26:45.659Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7356,6 +7356,22 @@
             "symbol": "oVCX",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xafa52e3860b4371ab9d8f08e801e9ea1027c0ca2.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x848107491E029AFDe0AC543779c7790382f15929",
+            "name": "Static Aave Ethereum crvUSD",
+            "symbol": "stataEthcrvUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x848107491e029afde0ac543779c7790382f15929.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xDBf5E36569798D1E39eE9d7B1c61A7409a74F23A",
+            "name": "Static Aave Ethereum LUSD",
+            "symbol": "stataEthLUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdbf5e36569798d1e39ee9d7b1c61a7409a74f23a.png"
         },
         {
             "chainId": 1,
