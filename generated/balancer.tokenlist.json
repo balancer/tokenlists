@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-09-24T12:48:36.683Z",
+    "timestamp": "2024-09-25T16:57:58.826Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7358,6 +7358,14 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xafa52e3860b4371ab9d8f08e801e9ea1027c0ca2.png"
         },
         {
+            "chainId": 1,
+            "address": "0x812Ba41e071C7b7fA4EBcFB62dF5F45f6fA853Ee",
+            "name": "Neiro",
+            "symbol": "Neiro",
+            "decimals": 9,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/39488/large/logo.png?1723247657"
+        },
+        {
             "chainId": 10,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -8071,6 +8079,16 @@
             "symbol": "FOX",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/9988/large/FOX.png?1696510025"
+        },
+        {
+            "chainId": 10,
+            "address": "0xFC2E6e6BCbd49ccf3A5f029c79984372DcBFE527",
+            "name": "Autonolas",
+            "symbol": "OLAS",
+            "decimals": 18,
+            "extensions": {
+                "coingeckoId": "autonolas"
+            }
         },
         {
             "chainId": 100,
