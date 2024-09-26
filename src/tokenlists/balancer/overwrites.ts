@@ -490,11 +490,6 @@ export const overwrites: OverwritesForList = {
         coingeckoId: null,
       },
     },
-    '0xFC2E6e6BCbd49ccf3A5f029c79984372DcBFE527': {
-      extensions: {
-        coingeckoId: 'autonolas',
-      },
-    },
     '0x2218a117083f5B482B0bB821d27056Ba9c04b1D3': {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x83f20f44975d03b1b09e64809b757c47f942beea.png',
