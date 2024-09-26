@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-09-25T21:26:45.659Z",
+    "timestamp": "2024-09-26T16:25:50.531Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7380,6 +7380,14 @@
             "symbol": "Neiro",
             "decimals": 9,
             "logoURI": "https://coin-images.coingecko.com/coins/images/39488/large/logo.png?1723247657"
+        },
+        {
+            "chainId": 1,
+            "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
+            "name": "Frax Share",
+            "symbol": "FXS",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/13423/large/Frax_Shares_icon.png?1696513183"
         },
         {
             "chainId": 10,
