@@ -7912,16 +7912,6 @@
         },
         {
             "chainId": 10,
-            "address": "0xFC2E6e6BCbd49ccf3A5f029c79984372DcBFE527",
-            "name": "Autonolas",
-            "symbol": "OLAS",
-            "decimals": 18,
-            "extensions": {
-                "coingeckoId": "autonolas"
-            }
-        },
-        {
-            "chainId": 10,
             "address": "0x9F281eb58fd98ad98EDe0fc4C553AD4D73e7Ca2C",
             "name": "Static Aave Ethereum USDC.e",
             "symbol": "AaveUSDCe",
@@ -8103,16 +8093,6 @@
             "symbol": "FOX",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/9988/large/FOX.png?1696510025"
-        },
-        {
-            "chainId": 10,
-            "address": "0xFC2E6e6BCbd49ccf3A5f029c79984372DcBFE527",
-            "name": "Autonolas",
-            "symbol": "OLAS",
-            "decimals": 18,
-            "extensions": {
-                "coingeckoId": "autonolas"
-            }
         },
         {
             "chainId": 100,
