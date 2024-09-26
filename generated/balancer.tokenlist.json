@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-09-26T16:25:50.531Z",
+    "timestamp": "2024-09-26T17:26:08.227Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7909,6 +7909,16 @@
             "symbol": "EPOCH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd1cac46a9a77169c310c2c780a4267ee6ca884f5.png"
+        },
+        {
+            "chainId": 10,
+            "address": "0xFC2E6e6BCbd49ccf3A5f029c79984372DcBFE527",
+            "name": "Autonolas",
+            "symbol": "OLAS",
+            "decimals": 18,
+            "extensions": {
+                "coingeckoId": "autonolas"
+            }
         },
         {
             "chainId": 10,
