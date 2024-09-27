@@ -130,6 +130,12 @@ export const overwrites: OverwritesForList = {
       name: 'Gyroscope ECLP sdeUSD/deUSD',
       symbol: 'ECLP-sdeUSD-deUSD',
     },
+    '0x848107491E029AFDe0AC543779c7790382f15929': {
+      symbol: 'waCrvUSD',
+    },
+    '0xDBf5E36569798D1E39eE9d7B1c61A7409a74F23A': {
+      symbol: 'waLUSD',
+    },
   },
   [Network.Polygon]: {
     '0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3': {
@@ -268,6 +274,12 @@ export const overwrites: OverwritesForList = {
     '0x0000000000000000000000000000000000001010': {
       symbol: 'POL',
       name: 'Polygon Ecosystem Token',
+    },
+    '0x87A1fdc4C726c459f597282be639a045062c0E46': {
+      symbol: 'waUSDT',
+    },
+    '0x2dCa80061632f3F87c9cA28364d1d0c30cD79a19': {
+      symbol: 'waUSDCn',
     },
   },
   [Network.Arbitrum]: {
@@ -414,6 +426,18 @@ export const overwrites: OverwritesForList = {
         coingeckId: 'gyroscope-gyd',
       },
     },
+    '0xD9FBA68D89178e3538e708939332c79efC540179': {
+      symbol: 'waGHO',
+    },
+    '0x89AEc2023f89E26Dbb7eaa7a98fe3996f9d112A8': {
+      symbol: 'waFRAX',
+    },
+    '0x7CFaDFD5645B50bE87d546f42699d863648251ad': {
+      symbol: 'waUSDCn',
+    },
+    '0xb165a74407fE1e519d6bCbDeC1Ed3202B35a4140': {
+      symbol: 'waUSDT',
+    },
   },
   [Network.Optimism]: {
     '0xe05A08226c49b636ACf99c40Da8DC6aF83CE5bB3': {
@@ -530,6 +554,12 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://gitlab.com/optimism-prime/logos/-/raw/main/imxB-OPP-OPP-opxVELO.png',
     },
+    '0x035c93db04E5aAea54E6cd0261C492a3e0638b37': {
+      symbol: 'waUSDT',
+    },
+    '0x4DD03dfD36548C840B563745e3FBeC320F37BA7e': {
+      symbol: 'waUSDCn',
+    },
   },
   [Network.Gnosis]: {
     '0x7eF541E2a22058048904fE5744f9c7E4C57AF717': {
@@ -541,6 +571,9 @@ export const overwrites: OverwritesForList = {
       name: 'Realt Ecosystem Governance',
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x_regtoken.png',
+    },
+    '0xf0E7eC247b918311afa054E0AEdb99d74c31b809': {
+      symbol: 'waUSDCn',
     },
   },
   [Network.Zkevm]: {
