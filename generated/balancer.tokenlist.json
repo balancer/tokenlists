@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-09-27T14:17:19.474Z",
+    "timestamp": "2024-09-27T14:22:10.114Z",
     "tokens": [
         {
             "chainId": 1,
@@ -16264,7 +16264,7 @@
         },
         {
             "chainId": 11155111,
-            "address": "0x8b80b78a377e9D40c599b0E2542E474C4440ddd2",
+            "address": "0x6098Bc6CA2fDFDa186847878726AFBad1d01f13D",
             "name": "ZEEBU",
             "symbol": "ZBU",
             "decimals": 18
