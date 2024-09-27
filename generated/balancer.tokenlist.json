@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-09-26T17:56:19.640Z",
+    "timestamp": "2024-09-27T14:17:19.474Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7361,7 +7361,7 @@
             "chainId": 1,
             "address": "0x848107491E029AFDe0AC543779c7790382f15929",
             "name": "Static Aave Ethereum crvUSD",
-            "symbol": "stataEthcrvUSD",
+            "symbol": "waCrvUSD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x848107491e029afde0ac543779c7790382f15929.png"
         },
@@ -7369,7 +7369,7 @@
             "chainId": 1,
             "address": "0xDBf5E36569798D1E39eE9d7B1c61A7409a74F23A",
             "name": "Static Aave Ethereum LUSD",
-            "symbol": "stataEthLUSD",
+            "symbol": "waLUSD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdbf5e36569798d1e39ee9d7b1c61a7409a74f23a.png"
         },
@@ -7921,16 +7921,16 @@
         {
             "chainId": 10,
             "address": "0x4DD03dfD36548C840B563745e3FBeC320F37BA7e",
-            "name": "Static Aave Ethereum USDCn",
-            "symbol": "AaveUSDCn",
+            "name": "Static Aave Optimism USDCn",
+            "symbol": "waUSDCn",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe719aef17468c7e10c0c205be62c990754dff7e5.png"
         },
         {
             "chainId": 10,
             "address": "0x035c93db04E5aAea54E6cd0261C492a3e0638b37",
-            "name": "Static Aave Ethereum USDT",
-            "symbol": "AaveUSDT",
+            "name": "Static Aave Optimism USDT",
+            "symbol": "waUSDT",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf8fd466f12e236f4c96f7cce6c79eadb819abf58.png"
         },
@@ -8692,7 +8692,7 @@
             "chainId": 100,
             "address": "0xf0E7eC247b918311afa054E0AEdb99d74c31b809",
             "name": "Static Aave Gnosis USDCe",
-            "symbol": "stataGnoUSDCe",
+            "symbol": "waUSDCn",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf0e7ec247b918311afa054e0aedb99d74c31b809.png"
         },
@@ -11041,8 +11041,8 @@
         {
             "chainId": 137,
             "address": "0x2dCa80061632f3F87c9cA28364d1d0c30cD79a19",
-            "name": "Static Aave Ethereum USDCn",
-            "symbol": "AaveUSDCn",
+            "name": "Static Aave Polygon USDCn",
+            "symbol": "waUSDCn",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe719aef17468c7e10c0c205be62c990754dff7e5.png"
         },
@@ -11057,8 +11057,8 @@
         {
             "chainId": 137,
             "address": "0x87A1fdc4C726c459f597282be639a045062c0E46",
-            "name": "Static Aave Ethereum USDT",
-            "symbol": "AaveUSDT",
+            "name": "Static Aave Polygon USDT",
+            "symbol": "waUSDT",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf8fd466f12e236f4c96f7cce6c79eadb819abf58.png"
         },
@@ -11184,8 +11184,8 @@
         {
             "chainId": 137,
             "address": "0x2dCa80061632f3F87c9cA28364d1d0c30cD79a19",
-            "name": "Static Aave Ethereum USDCn",
-            "symbol": "AaveUSDCn",
+            "name": "Static Aave Polygon USDCn",
+            "symbol": "waUSDCn",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe719aef17468c7e10c0c205be62c990754dff7e5.png"
         },
@@ -14858,8 +14858,8 @@
         {
             "chainId": 42161,
             "address": "0xb165a74407fE1e519d6bCbDeC1Ed3202B35a4140",
-            "name": "Static Aave Ethereum USDT",
-            "symbol": "AaveUSDT",
+            "name": "Static Aave Arbitrum USDT",
+            "symbol": "waUSDT",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf8fd466f12e236f4c96f7cce6c79eadb819abf58.png"
         },
@@ -15051,8 +15051,8 @@
         {
             "chainId": 42161,
             "address": "0x7CFaDFD5645B50bE87d546f42699d863648251ad",
-            "name": "Static Aave Ethereum USDCn",
-            "symbol": "AaveUSDCn",
+            "name": "Static Aave Arbitrum USDCn",
+            "symbol": "waUSDCn",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe719aef17468c7e10c0c205be62c990754dff7e5.png"
         },
@@ -15250,7 +15250,7 @@
             "chainId": 42161,
             "address": "0x89AEc2023f89E26Dbb7eaa7a98fe3996f9d112A8",
             "name": "Static Aave Arbitrum FRAX",
-            "symbol": "stataArbFRAX",
+            "symbol": "waFRAX",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x89aec2023f89e26dbb7eaa7a98fe3996f9d112a8.png"
         },
@@ -15258,7 +15258,7 @@
             "chainId": 42161,
             "address": "0xD9FBA68D89178e3538e708939332c79efC540179",
             "name": "Static Aave Arbitrum GHO",
-            "symbol": "stataArbGHO",
+            "symbol": "waGHO",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd9fba68d89178e3538e708939332c79efc540179.png"
         },
