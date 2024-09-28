@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-09-27T14:22:10.114Z",
+    "timestamp": "2024-09-28T01:38:59.403Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7388,6 +7388,20 @@
             "symbol": "FXS",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/13423/large/Frax_Shares_icon.png?1696513183"
+        },
+        {
+            "chainId": 1,
+            "address": "0x63e5dC7C071C1F18d44b69bc86f4c80F24851388",
+            "name": "kai",
+            "symbol": "KAI",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xFFd9c960bC303b8d3aAED58229ce8a7310bCc5b8",
+            "name": "Kai Aura",
+            "symbol": "kaiAURA",
+            "decimals": 18
         },
         {
             "chainId": 10,
