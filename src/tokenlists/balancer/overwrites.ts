@@ -593,6 +593,10 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca5d8f8a8d49439357d3cf46ca2e720702f132b8.png',
     },
+    '0xfdA94F056346d2320d4B5E468D6Ad099b2277746': {
+      logoURI:
+        'https://assets.coingecko.com/coins/images/15044/large/stakewise200.png?1619520721',
+    },
   },
   [Network.Base]: {
     '0x1f55a02A049033E3419a8E2975cF3F572F4e6E9A': {
@@ -921,6 +925,48 @@ export const overwrites: OverwritesForList = {
     '0x2acF406155902919009f8256afC034A8247A1911': {
       logoURI:
         'https://github.com/fantomindia/FantomKings/blob/main/FKINGS_final.png?raw=true',
+    },
+    '0x677079211f6c82e34096153e6cea0d2c26b4b7dc': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/goatm.jpg',
+    },
+    '0x3ea22B3bb815348120cFFdd84c3701311F2eDb72': {
+      logoURI:
+        'https://dd.dexscreener.com/ds-data/tokens/fantom/0x3ea22b3bb815348120cffdd84c3701311f2edb72.png',
+    },
+    '0xd89cc0d2A28a769eADeF50fFf74EBC07405DB9Fc': {
+      logoURI: 'https://ftmscan.com/token/images/elyseos2_32.png',
+    },
+    '0x0DEb5dAf6662f87366Fb0E9fbe60a866Ff46d486': {
+      logoURI:
+        'https://dd.dexscreener.com/ds-data/tokens/fantom/0x0deb5daf6662f87366fb0e9fbe60a866ff46d486.png?size=lg&key=165a8c',
+    },
+    '0xfA94E37eBcf28de44A6f8088812ce33f16FADb7c': {
+      logoURI: 'https://beerftm.com/images/CARTELFTMLOGO.png',
+    },
+    '0x90cE4aBdf3eC9614ab3AB41B2D20B716fdC50d49': {
+      logoURI:
+        'https://dd.dexscreener.com/ds-data/tokens/fantom/0x90ce4abdf3ec9614ab3ab41b2d20b716fdc50d49.png?size=lg&key=684221',
+    },
+    '0xd1f9425518C5CfeE1b89013A4d0fe3094984fCe5': {
+      logoURI: 'https://beerftm.com/images/PUBGIRLS-LOGO.gif',
+    },
+    '0x431516E478d73CFAB034229c4D7a94A2CBF5787F': {
+      logoURI:
+        'https://dd.dexscreener.com/ds-data/tokens/fantom/0x431516e478d73cfab034229c4d7a94a2cbf5787f.png?size=lg&key=6238af',
+    },
+    '0x73c93919cdA13b0FAf01a9188d9eb8aA633732Ad': {
+      logoURI: 'https://beerftm.com/LOGO1+TEXT.png',
+    },
+    '0xd978E0638b640d5050812EC5F90fc9a54D27D950': {
+      logoURI: 'https://beerftm.com/OPT2.png',
+    },
+    '0xc18827872E8CC49f182D25B9a2eb530C9Df54c34': {
+      logoURI: 'https://beerftm.com/HOB%20LOGO.png',
+    },
+    '0x94Ba6241BC7E6F7F24a5B95fE6726B31C74881aB': {
+      logoURI:
+        'https://dd.dexscreener.com/ds-data/tokens/fantom/0x94ba6241bc7e6f7f24a5b95fe6726b31c74881ab.png?key=f4da13',
     },
   },
   [Network.Sepolia]: {
