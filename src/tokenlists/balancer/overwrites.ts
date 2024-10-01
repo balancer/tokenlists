@@ -575,6 +575,10 @@ export const overwrites: OverwritesForList = {
     '0xf0E7eC247b918311afa054E0AEdb99d74c31b809': {
       symbol: 'waUSDCn',
     },
+    '0xfdA94F056346d2320d4B5E468D6Ad099b2277746': {
+      logoURI:
+        'https://assets.coingecko.com/coins/images/15044/large/stakewise200.png?1619520721',
+    },
   },
   [Network.Zkevm]: {
     '0x37eAA0eF3549a5Bb7D431be78a3D99BD360d19e5': {
@@ -592,10 +596,6 @@ export const overwrites: OverwritesForList = {
       decimals: 18,
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca5d8f8a8d49439357d3cf46ca2e720702f132b8.png',
-    },
-    '0xfdA94F056346d2320d4B5E468D6Ad099b2277746': {
-      logoURI:
-        'https://assets.coingecko.com/coins/images/15044/large/stakewise200.png?1619520721',
     },
   },
   [Network.Base]: {
