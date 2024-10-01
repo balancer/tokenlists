@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-09-28T02:37:08.063Z",
+    "timestamp": "2024-10-01T10:40:57.080Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8713,6 +8713,13 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf0e7ec247b918311afa054e0aedb99d74c31b809.png"
         },
         {
+            "chainId": 100,
+            "address": "0xfdA94F056346d2320d4B5E468D6Ad099b2277746",
+            "name": "StakeWise from Mainnet",
+            "symbol": "SWISE",
+            "decimals": 18
+        },
+        {
             "chainId": 137,
             "address": "0x28Acf29b65604Bd0f80e776256e5F5af39Fc2031",
             "name": "SquirrelUnderCar",
@@ -12423,6 +12430,91 @@
             "address": "0xE2eca013A124FBcE7F7507a66FDf9Ad2e22d999B",
             "name": "SANICSUPERSPEED",
             "symbol": "SANICSUPERSPEED",
+            "decimals": 18
+        },
+        {
+            "chainId": 250,
+            "address": "0x677079211f6C82E34096153E6cEa0d2c26b4b7dc",
+            "name": "Goat Milk",
+            "symbol": "GoatM",
+            "decimals": 18
+        },
+        {
+            "chainId": 250,
+            "address": "0x3ea22B3bb815348120cFFdd84c3701311F2eDb72",
+            "name": "Fantom Angels",
+            "symbol": "Angel",
+            "decimals": 18
+        },
+        {
+            "chainId": 250,
+            "address": "0xd89cc0d2A28a769eADeF50fFf74EBC07405DB9Fc",
+            "name": "Elyseos",
+            "symbol": "ELYS",
+            "decimals": 5
+        },
+        {
+            "chainId": 250,
+            "address": "0x0DEb5dAf6662f87366Fb0E9fbe60a866Ff46d486",
+            "name": " Sonic Goat Army",
+            "symbol": "AGOAT",
+            "decimals": 18
+        },
+        {
+            "chainId": 250,
+            "address": "0xfA94E37eBcf28de44A6f8088812ce33f16FADb7c",
+            "name": "Cartel",
+            "symbol": "CARTEL",
+            "decimals": 8
+        },
+        {
+            "chainId": 250,
+            "address": "0x90cE4aBdf3eC9614ab3AB41B2D20B716fdC50d49",
+            "name": "fDOG",
+            "symbol": "fDOG",
+            "decimals": 18
+        },
+        {
+            "chainId": 250,
+            "address": "0xd1f9425518C5CfeE1b89013A4d0fe3094984fCe5",
+            "name": "Pub Girls",
+            "symbol": "PUBGIRLS",
+            "decimals": 8
+        },
+        {
+            "chainId": 250,
+            "address": "0x431516E478d73CFAB034229c4D7a94A2CBF5787F",
+            "name": "HOOPS",
+            "symbol": "HOOPS",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/38703/large/HOOPS_0x431516e478d73cfab034229c4d7a94a2cbf5787f.png?1718359621"
+        },
+        {
+            "chainId": 250,
+            "address": "0x73c93919cdA13b0FAf01a9188d9eb8aA633732Ad",
+            "name": "Snoops Dream ",
+            "symbol": "SNOOPFTM",
+            "decimals": 8
+        },
+        {
+            "chainId": 250,
+            "address": "0xd978E0638b640d5050812EC5F90fc9a54D27D950",
+            "name": "Tequila",
+            "symbol": "TEQUILA",
+            "decimals": 8
+        },
+        {
+            "chainId": 250,
+            "address": "0xc18827872E8CC49f182D25B9a2eb530C9Df54c34",
+            "name": "Honey Beer",
+            "symbol": "HOB",
+            "decimals": 8
+        },
+        {
+            "chainId": 250,
+            "address": "0x94Ba6241BC7E6F7F24a5B95fE6726B31C74881aB",
+            "name": "Beer",
+            "symbol": "BEER",
             "decimals": 18
         },
         {
