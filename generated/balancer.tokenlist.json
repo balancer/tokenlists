@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-10-01T11:43:22.877Z",
+    "timestamp": "2024-10-01T12:59:15.875Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7404,6 +7404,14 @@
             "symbol": "KAI",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x63e5dc7c071c1f18d44b69bc86f4c80f24851388.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xec53bF9167f50cDEB3Ae105f56099aaaB9061F83",
+            "name": "Eigen",
+            "symbol": "EIGEN",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/37441/large/EIGEN_LOGO.png?1727433816"
         },
         {
             "chainId": 10,
