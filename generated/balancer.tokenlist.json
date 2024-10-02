@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-10-02T14:04:04.915Z",
+    "timestamp": "2024-10-02T15:19:08.837Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7292,6 +7292,22 @@
             "symbol": "EIGEN",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/37441/large/EIGEN_LOGO.png?1727433816"
+        },
+        {
+            "chainId": 1,
+            "address": "0xcbC632833687DacDcc7DfaC96F6c5989381f4B47",
+            "name": "Affine ultraETH 2.0",
+            "symbol": "ultraETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xcbc632833687dacdcc7dfac96f6c5989381f4b47.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xF0a949B935e367A94cDFe0F2A54892C2BC7b2131",
+            "name": "Affine ultraETHs 2.0",
+            "symbol": "ultraETHs",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf0a949b935e367a94cdfe0f2a54892c2bc7b2131.png"
         },
         {
             "chainId": 10,
