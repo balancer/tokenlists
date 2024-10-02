@@ -94,5 +94,4 @@ export default [
   '0xd2ae97aad2e0be8a8c583c703d3ad777471c0464', // VELO Impermax Borrowable OP-VELO Vault
   '0xbdc2ad83ba9f27cd97b58bd05908cb6939f8d789', // USDC Impermax Borrowable USDC-VELO Vault
   '0x1f157e15cfaee06b6f8f646e3f4ad1cc7c1739bc', // VELO Impermax Borrowable USDC-VELO Vault
-  
 ]
