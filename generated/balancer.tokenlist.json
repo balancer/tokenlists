@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-10-01T12:59:15.875Z",
+    "timestamp": "2024-10-02T13:28:42.365Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5748,14 +5748,6 @@
         },
         {
             "chainId": 1,
-            "address": "0xCA30c93B02514f86d5C86a6e375E3A330B435Fb5",
-            "name": "Backed IB01 $ Treasury Bond 0-1yr",
-            "symbol": "bIB01",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca30c93b02514f86d5c86a6e375e3a330b435fb5.png"
-        },
-        {
-            "chainId": 1,
             "address": "0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202",
             "name": "Kyber Network Crystal v2",
             "symbol": "KNC",
@@ -5855,118 +5847,6 @@
             "symbol": "UNIDX",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/13178/large/unidx.png?1634888975"
-        },
-        {
-            "chainId": 1,
-            "address": "0x0f76D32CDccDcbd602A55Af23EAF58FD1eE17245",
-            "name": "Backed ERNA $ Ultrashort Bond",
-            "symbol": "bERNA",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0f76d32cdccdcbd602a55af23eaf58fd1ee17245.png"
-        },
-        {
-            "chainId": 1,
-            "address": "0x1e2C4fb7eDE391d116E6B41cD0608260e8801D59",
-            "name": "Backed CSPX Core S&P 500",
-            "symbol": "bCSPX",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1e2c4fb7ede391d116e6b41cd0608260e8801d59.png"
-        },
-        {
-            "chainId": 1,
-            "address": "0x20C64dEE8FdA5269A78f2D5BDBa861CA1d83DF7a",
-            "name": "Backed HIGH € High Yield Corp Bond",
-            "symbol": "bHIGH",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x20c64dee8fda5269a78f2d5bdba861ca1d83df7a.png"
-        },
-        {
-            "chainId": 1,
-            "address": "0x2f11EeeE0bf21E7661A22dbBbb9068F4ad191b86",
-            "name": "Backed Niu Technologies",
-            "symbol": "bNIU",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2f11eeee0bf21e7661a22dbbbb9068f4ad191b86.png"
-        },
-        {
-            "chainId": 1,
-            "address": "0x2F123cF3F37CE3328CC9B5b8415f9EC5109b45e7",
-            "name": "Backed GOVIES 0-6 months EURO investment grade",
-            "symbol": "bC3M",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2f123cf3f37ce3328cc9b5b8415f9ec5109b45e7.png"
-        },
-        {
-            "chainId": 1,
-            "address": "0x52d134c6DB5889FaD3542A09eAf7Aa90C0fdf9E4",
-            "name": "Backed IBTA $ Treasury Bond 1-3yr",
-            "symbol": "bIBTA",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x52d134c6db5889fad3542a09eaf7aa90c0fdf9e4.png"
-        },
-        {
-            "chainId": 1,
-            "address": "0xbbcb0356bB9e6B3Faa5CbF9E5F36185d53403Ac9",
-            "name": "Backed Coinbase Global",
-            "symbol": "bCOIN",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xbbcb0356bb9e6b3faa5cbf9e5f36185d53403ac9.png"
-        },
-        {
-            "chainId": 1,
-            "address": "0xCA30c93B02514f86d5C86a6e375E3A330B435Fb5",
-            "name": "Backed IB01 $ Treasury Bond 0-1yr",
-            "symbol": "bIB01",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca30c93b02514f86d5c86a6e375e3a330b435fb5.png"
-        },
-        {
-            "chainId": 1,
-            "address": "0xA34C5e0AbE843E10461E2C9586Ea03E55Dbcc495",
-            "name": "Backed NVIDIA Corp",
-            "symbol": "bNVDA",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa34c5e0abe843e10461e2c9586ea03e55dbcc495.png"
-        },
-        {
-            "chainId": 1,
-            "address": "0x14A5f2872396802C3Cc8942A39Ab3E4118EE5038",
-            "name": "Backed Tesla Inc",
-            "symbol": "bTSLA",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x14a5f2872396802c3cc8942a39ab3e4118ee5038.png"
-        },
-        {
-            "chainId": 1,
-            "address": "0xaC28C9178ACc8BA4A11A29E013a3A2627086e422",
-            "name": "Backed MicroStrategy Inc",
-            "symbol": "bMSTR",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xac28c9178acc8ba4a11a29e013a3a2627086e422.png"
-        },
-        {
-            "chainId": 1,
-            "address": "0xEbee37Aaf2905b7BdA7E3b928043862e982E8F32",
-            "name": "Backed Alphabet Inc",
-            "symbol": "bGOOGL",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xebee37aaf2905b7bda7e3b928043862e982e8f32.png"
-        },
-        {
-            "chainId": 1,
-            "address": "0x374A457967Ba24FD3Ae66294cAb08244185574b0",
-            "name": "Backed Microsoft Corp",
-            "symbol": "bMSFT",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x374a457967ba24fd3ae66294cab08244185574b0.png"
-        },
-        {
-            "chainId": 1,
-            "address": "0x7212088A11b4d8f6FC90fbB3dfE793B45dd72323",
-            "name": "Backed GameStop Corp",
-            "symbol": "bGME",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7212088a11b4d8f6fc90fbb3dfe793b45dd72323.png"
         },
         {
             "chainId": 1,
@@ -8342,131 +8222,11 @@
         },
         {
             "chainId": 100,
-            "address": "0xCA30c93B02514f86d5C86a6e375E3A330B435Fb5",
-            "name": "Backed IB01 $ Treasury Bond 0-1yr",
-            "symbol": "bIB01",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca30c93b02514f86d5c86a6e375e3a330b435fb5.png"
-        },
-        {
-            "chainId": 100,
             "address": "0x58b9cB810A68a7f3e1E4f8Cb45D1B9B3c79705E8",
             "name": "Connext",
             "symbol": "NEXT",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/31293/large/connext.png?1692331440"
-        },
-        {
-            "chainId": 100,
-            "address": "0x0f76D32CDccDcbd602A55Af23EAF58FD1eE17245",
-            "name": "Backed ERNA $ Ultrashort Bond",
-            "symbol": "bERNA",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0f76d32cdccdcbd602a55af23eaf58fd1ee17245.png"
-        },
-        {
-            "chainId": 100,
-            "address": "0x1e2C4fb7eDE391d116E6B41cD0608260e8801D59",
-            "name": "Backed CSPX Core S&P 500",
-            "symbol": "bCSPX",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1e2c4fb7ede391d116e6b41cd0608260e8801d59.png"
-        },
-        {
-            "chainId": 100,
-            "address": "0x20C64dEE8FdA5269A78f2D5BDBa861CA1d83DF7a",
-            "name": "Backed HIGH € High Yield Corp Bond",
-            "symbol": "bHIGH",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x20c64dee8fda5269a78f2d5bdba861ca1d83df7a.png"
-        },
-        {
-            "chainId": 100,
-            "address": "0x2f11EeeE0bf21E7661A22dbBbb9068F4ad191b86",
-            "name": "Backed Niu Technologies",
-            "symbol": "bNIU",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2f11eeee0bf21e7661a22dbbbb9068f4ad191b86.png"
-        },
-        {
-            "chainId": 100,
-            "address": "0x2F123cF3F37CE3328CC9B5b8415f9EC5109b45e7",
-            "name": "Backed GOVIES 0-6 months EURO investment grade",
-            "symbol": "bC3M",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2f123cf3f37ce3328cc9b5b8415f9ec5109b45e7.png"
-        },
-        {
-            "chainId": 100,
-            "address": "0x52d134c6DB5889FaD3542A09eAf7Aa90C0fdf9E4",
-            "name": "Backed IBTA $ Treasury Bond 1-3yr",
-            "symbol": "bIBTA",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x52d134c6db5889fad3542a09eaf7aa90c0fdf9e4.png"
-        },
-        {
-            "chainId": 100,
-            "address": "0xbbcb0356bB9e6B3Faa5CbF9E5F36185d53403Ac9",
-            "name": "Backed Coinbase Global",
-            "symbol": "bCOIN",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xbbcb0356bb9e6b3faa5cbf9e5f36185d53403ac9.png"
-        },
-        {
-            "chainId": 100,
-            "address": "0xCA30c93B02514f86d5C86a6e375E3A330B435Fb5",
-            "name": "Backed IB01 $ Treasury Bond 0-1yr",
-            "symbol": "bIB01",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca30c93b02514f86d5c86a6e375e3a330b435fb5.png"
-        },
-        {
-            "chainId": 100,
-            "address": "0xA34C5e0AbE843E10461E2C9586Ea03E55Dbcc495",
-            "name": "Backed NVIDIA Corp",
-            "symbol": "bNVDA",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa34c5e0abe843e10461e2c9586ea03e55dbcc495.png"
-        },
-        {
-            "chainId": 100,
-            "address": "0x14A5f2872396802C3Cc8942A39Ab3E4118EE5038",
-            "name": "Backed Tesla Inc",
-            "symbol": "bTSLA",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x14a5f2872396802c3cc8942a39ab3e4118ee5038.png"
-        },
-        {
-            "chainId": 100,
-            "address": "0xaC28C9178ACc8BA4A11A29E013a3A2627086e422",
-            "name": "Backed MicroStrategy Inc",
-            "symbol": "bMSTR",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xac28c9178acc8ba4a11a29e013a3a2627086e422.png"
-        },
-        {
-            "chainId": 100,
-            "address": "0xEbee37Aaf2905b7BdA7E3b928043862e982E8F32",
-            "name": "Backed Alphabet Inc",
-            "symbol": "bGOOGL",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xebee37aaf2905b7bda7e3b928043862e982e8f32.png"
-        },
-        {
-            "chainId": 100,
-            "address": "0x374A457967Ba24FD3Ae66294cAb08244185574b0",
-            "name": "Backed Microsoft Corp",
-            "symbol": "bMSFT",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x374a457967ba24fd3ae66294cab08244185574b0.png"
-        },
-        {
-            "chainId": 100,
-            "address": "0x7212088A11b4d8f6FC90fbB3dfE793B45dd72323",
-            "name": "Backed GameStop Corp",
-            "symbol": "bGME",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7212088a11b4d8f6fc90fbb3dfe793b45dd72323.png"
         },
         {
             "chainId": 100,
@@ -10274,11 +10034,11 @@
         },
         {
             "chainId": 137,
-            "address": "0xCA30c93B02514f86d5C86a6e375E3A330B435Fb5",
-            "name": "Backed IB01 $ Treasury Bond 0-1yr",
-            "symbol": "bIB01",
+            "address": "0x6CaBAf65ab23d337008c529e3B2040908cAc3b38",
+            "name": "Cryption Network Token ( NEW )",
+            "symbol": "CNT(NEW)",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca30c93b02514f86d5c86a6e375e3a330b435fb5.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6cabaf65ab23d337008c529e3b2040908cac3b38.png"
         },
         {
             "chainId": 137,
@@ -10295,126 +10055,6 @@
             "symbol": "BRLA",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/40062/large/IconGreen400.png?1725459580"
-        },
-        {
-            "chainId": 137,
-            "address": "0x0f76D32CDccDcbd602A55Af23EAF58FD1eE17245",
-            "name": "Backed ERNA $ Ultrashort Bond",
-            "symbol": "bERNA",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0f76d32cdccdcbd602a55af23eaf58fd1ee17245.png"
-        },
-        {
-            "chainId": 137,
-            "address": "0x1e2C4fb7eDE391d116E6B41cD0608260e8801D59",
-            "name": "Backed CSPX Core S&P 500",
-            "symbol": "bCSPX",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1e2c4fb7ede391d116e6b41cd0608260e8801d59.png"
-        },
-        {
-            "chainId": 137,
-            "address": "0x20C64dEE8FdA5269A78f2D5BDBa861CA1d83DF7a",
-            "name": "Backed HIGH € High Yield Corp Bond",
-            "symbol": "bHIGH",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x20c64dee8fda5269a78f2d5bdba861ca1d83df7a.png"
-        },
-        {
-            "chainId": 137,
-            "address": "0x2f11EeeE0bf21E7661A22dbBbb9068F4ad191b86",
-            "name": "Backed Niu Technologies",
-            "symbol": "bNIU",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2f11eeee0bf21e7661a22dbbbb9068f4ad191b86.png"
-        },
-        {
-            "chainId": 137,
-            "address": "0x2F123cF3F37CE3328CC9B5b8415f9EC5109b45e7",
-            "name": "Backed GOVIES 0-6 months EURO investment grade",
-            "symbol": "bC3M",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2f123cf3f37ce3328cc9b5b8415f9ec5109b45e7.png"
-        },
-        {
-            "chainId": 137,
-            "address": "0x52d134c6DB5889FaD3542A09eAf7Aa90C0fdf9E4",
-            "name": "Backed IBTA $ Treasury Bond 1-3yr",
-            "symbol": "bIBTA",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x52d134c6db5889fad3542a09eaf7aa90c0fdf9e4.png"
-        },
-        {
-            "chainId": 137,
-            "address": "0xbbcb0356bB9e6B3Faa5CbF9E5F36185d53403Ac9",
-            "name": "Backed Coinbase Global",
-            "symbol": "bCOIN",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xbbcb0356bb9e6b3faa5cbf9e5f36185d53403ac9.png"
-        },
-        {
-            "chainId": 137,
-            "address": "0xCA30c93B02514f86d5C86a6e375E3A330B435Fb5",
-            "name": "Backed IB01 $ Treasury Bond 0-1yr",
-            "symbol": "bIB01",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca30c93b02514f86d5c86a6e375e3a330b435fb5.png"
-        },
-        {
-            "chainId": 137,
-            "address": "0xA34C5e0AbE843E10461E2C9586Ea03E55Dbcc495",
-            "name": "Backed NVIDIA Corp",
-            "symbol": "bNVDA",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa34c5e0abe843e10461e2c9586ea03e55dbcc495.png"
-        },
-        {
-            "chainId": 137,
-            "address": "0x14A5f2872396802C3Cc8942A39Ab3E4118EE5038",
-            "name": "Backed Tesla Inc",
-            "symbol": "bTSLA",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x14a5f2872396802c3cc8942a39ab3e4118ee5038.png"
-        },
-        {
-            "chainId": 137,
-            "address": "0xaC28C9178ACc8BA4A11A29E013a3A2627086e422",
-            "name": "Backed MicroStrategy Inc",
-            "symbol": "bMSTR",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xac28c9178acc8ba4a11a29e013a3a2627086e422.png"
-        },
-        {
-            "chainId": 137,
-            "address": "0xEbee37Aaf2905b7BdA7E3b928043862e982E8F32",
-            "name": "Backed Alphabet Inc",
-            "symbol": "bGOOGL",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xebee37aaf2905b7bda7e3b928043862e982e8f32.png"
-        },
-        {
-            "chainId": 137,
-            "address": "0x374A457967Ba24FD3Ae66294cAb08244185574b0",
-            "name": "Backed Microsoft Corp",
-            "symbol": "bMSFT",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x374a457967ba24fd3ae66294cab08244185574b0.png"
-        },
-        {
-            "chainId": 137,
-            "address": "0x7212088A11b4d8f6FC90fbB3dfE793B45dd72323",
-            "name": "Backed GameStop Corp",
-            "symbol": "bGME",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7212088a11b4d8f6fc90fbb3dfe793b45dd72323.png"
-        },
-        {
-            "chainId": 137,
-            "address": "0x6CaBAf65ab23d337008c529e3B2040908cAc3b38",
-            "name": "Cryption Network Token ( NEW )",
-            "symbol": "CNT(NEW)",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6cabaf65ab23d337008c529e3b2040908cac3b38.png"
         },
         {
             "chainId": 137,
@@ -13084,70 +12724,6 @@
         },
         {
             "chainId": 8453,
-            "address": "0x0f76D32CDccDcbd602A55Af23EAF58FD1eE17245",
-            "name": "Backed ERNA $ Ultrashort Bond",
-            "symbol": "bERNA",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0f76d32cdccdcbd602a55af23eaf58fd1ee17245.png"
-        },
-        {
-            "chainId": 8453,
-            "address": "0x20C64dEE8FdA5269A78f2D5BDBa861CA1d83DF7a",
-            "name": "Backed HIGH € High Yield Corp Bond",
-            "symbol": "bHIGH",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x20c64dee8fda5269a78f2d5bdba861ca1d83df7a.png"
-        },
-        {
-            "chainId": 8453,
-            "address": "0x2f11EeeE0bf21E7661A22dbBbb9068F4ad191b86",
-            "name": "Backed Niu Technologies",
-            "symbol": "bNIU",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2f11eeee0bf21e7661a22dbbbb9068f4ad191b86.png"
-        },
-        {
-            "chainId": 8453,
-            "address": "0x2F123cF3F37CE3328CC9B5b8415f9EC5109b45e7",
-            "name": "Backed GOVIES 0-6 months EURO investment grade",
-            "symbol": "bC3M",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2f123cf3f37ce3328cc9b5b8415f9ec5109b45e7.png"
-        },
-        {
-            "chainId": 8453,
-            "address": "0x52d134c6DB5889FaD3542A09eAf7Aa90C0fdf9E4",
-            "name": "Backed IBTA $ Treasury Bond 1-3yr",
-            "symbol": "bIBTA",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x52d134c6db5889fad3542a09eaf7aa90c0fdf9e4.png"
-        },
-        {
-            "chainId": 8453,
-            "address": "0xbbcb0356bB9e6B3Faa5CbF9E5F36185d53403Ac9",
-            "name": "Backed Coinbase Global",
-            "symbol": "bCOIN",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xbbcb0356bb9e6b3faa5cbf9e5f36185d53403ac9.png"
-        },
-        {
-            "chainId": 8453,
-            "address": "0xC3cE78B037DDA1B966D31EC7979d3f3a38571A8E",
-            "name": "Backed CSPX Core S&P 500",
-            "symbol": "bCSPX",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc3ce78b037dda1b966d31ec7979d3f3a38571a8e.png"
-        },
-        {
-            "chainId": 8453,
-            "address": "0xCA30c93B02514f86d5C86a6e375E3A330B435Fb5",
-            "name": "Backed IB01 $ Treasury Bond 0-1yr",
-            "symbol": "bIB01",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca30c93b02514f86d5c86a6e375e3a330b435fb5.png"
-        },
-        {
-            "chainId": 8453,
             "address": "0xA3d1a8DEB97B111454B294E2324EfAD13a9d8396",
             "name": "OVN",
             "symbol": "OVN",
@@ -14403,14 +13979,6 @@
         },
         {
             "chainId": 42161,
-            "address": "0xCA30c93B02514f86d5C86a6e375E3A330B435Fb5",
-            "name": "Backed IB01 $ Treasury Bond 0-1yr",
-            "symbol": "bIB01",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca30c93b02514f86d5c86a6e375e3a330b435fb5.png"
-        },
-        {
-            "chainId": 42161,
             "address": "0xEE7E36B8b24a1c60C28E7336e937D43F74AAD740",
             "name": "STAR Stable Pool",
             "symbol": "STAR-USDCe-BPT",
@@ -14444,70 +14012,6 @@
             "symbol": "MOZ",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/30100/large/Main_Logo_1-200x200jpg.jpg?1693813032"
-        },
-        {
-            "chainId": 42161,
-            "address": "0x0f76D32CDccDcbd602A55Af23EAF58FD1eE17245",
-            "name": "Backed ERNA $ Ultrashort Bond",
-            "symbol": "bERNA",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0f76d32cdccdcbd602a55af23eaf58fd1ee17245.png"
-        },
-        {
-            "chainId": 42161,
-            "address": "0x1e2C4fb7eDE391d116E6B41cD0608260e8801D59",
-            "name": "Backed CSPX Core S&P 500",
-            "symbol": "bCSPX",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1e2c4fb7ede391d116e6b41cd0608260e8801d59.png"
-        },
-        {
-            "chainId": 42161,
-            "address": "0x20C64dEE8FdA5269A78f2D5BDBa861CA1d83DF7a",
-            "name": "Backed HIGH € High Yield Corp Bond",
-            "symbol": "bHIGH",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x20c64dee8fda5269a78f2d5bdba861ca1d83df7a.png"
-        },
-        {
-            "chainId": 42161,
-            "address": "0x2f11EeeE0bf21E7661A22dbBbb9068F4ad191b86",
-            "name": "Backed Niu Technologies",
-            "symbol": "bNIU",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2f11eeee0bf21e7661a22dbbbb9068f4ad191b86.png"
-        },
-        {
-            "chainId": 42161,
-            "address": "0x2F123cF3F37CE3328CC9B5b8415f9EC5109b45e7",
-            "name": "Backed GOVIES 0-6 months EURO investment grade",
-            "symbol": "bC3M",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2f123cf3f37ce3328cc9b5b8415f9ec5109b45e7.png"
-        },
-        {
-            "chainId": 42161,
-            "address": "0x52d134c6DB5889FaD3542A09eAf7Aa90C0fdf9E4",
-            "name": "Backed IBTA $ Treasury Bond 1-3yr",
-            "symbol": "bIBTA",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x52d134c6db5889fad3542a09eaf7aa90c0fdf9e4.png"
-        },
-        {
-            "chainId": 42161,
-            "address": "0xbbcb0356bB9e6B3Faa5CbF9E5F36185d53403Ac9",
-            "name": "Backed Coinbase Global",
-            "symbol": "bCOIN",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xbbcb0356bb9e6b3faa5cbf9e5f36185d53403ac9.png"
-        },
-        {
-            "chainId": 42161,
-            "address": "0xCA30c93B02514f86d5C86a6e375E3A330B435Fb5",
-            "name": "Backed IB01 $ Treasury Bond 0-1yr",
-            "symbol": "bIB01",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca30c93b02514f86d5c86a6e375e3a330b435fb5.png"
         },
         {
             "chainId": 42161,
@@ -15825,78 +15329,6 @@
         },
         {
             "chainId": 43114,
-            "address": "0xCA30c93B02514f86d5C86a6e375E3A330B435Fb5",
-            "name": "Backed IB01 $ Treasury Bond 0-1yr",
-            "symbol": "bIB01",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca30c93b02514f86d5c86a6e375e3a330b435fb5.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0x0f76D32CDccDcbd602A55Af23EAF58FD1eE17245",
-            "name": "Backed ERNA $ Ultrashort Bond",
-            "symbol": "bERNA",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0f76d32cdccdcbd602a55af23eaf58fd1ee17245.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0x1e2C4fb7eDE391d116E6B41cD0608260e8801D59",
-            "name": "Backed CSPX Core S&P 500",
-            "symbol": "bCSPX",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1e2c4fb7ede391d116e6b41cd0608260e8801d59.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0x20C64dEE8FdA5269A78f2D5BDBa861CA1d83DF7a",
-            "name": "Backed HIGH € High Yield Corp Bond",
-            "symbol": "bHIGH",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x20c64dee8fda5269a78f2d5bdba861ca1d83df7a.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0x2f11EeeE0bf21E7661A22dbBbb9068F4ad191b86",
-            "name": "Backed Niu Technologies",
-            "symbol": "bNIU",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2f11eeee0bf21e7661a22dbbbb9068f4ad191b86.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0x2F123cF3F37CE3328CC9B5b8415f9EC5109b45e7",
-            "name": "Backed GOVIES 0-6 months EURO investment grade",
-            "symbol": "bC3M",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2f123cf3f37ce3328cc9b5b8415f9ec5109b45e7.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0x52d134c6DB5889FaD3542A09eAf7Aa90C0fdf9E4",
-            "name": "Backed IBTA $ Treasury Bond 1-3yr",
-            "symbol": "bIBTA",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x52d134c6db5889fad3542a09eaf7aa90c0fdf9e4.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0xbbcb0356bB9e6B3Faa5CbF9E5F36185d53403Ac9",
-            "name": "Backed Coinbase Global",
-            "symbol": "bCOIN",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xbbcb0356bb9e6b3faa5cbf9e5f36185d53403ac9.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0xCA30c93B02514f86d5C86a6e375E3A330B435Fb5",
-            "name": "Backed IB01 $ Treasury Bond 0-1yr",
-            "symbol": "bIB01",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca30c93b02514f86d5c86a6e375e3a330b435fb5.png"
-        },
-        {
-            "chainId": 43114,
             "address": "0x121b0DfC48444C4d10caddeD9885D90E7453E878",
             "name": "Balancer SWEEP-USDC StablePool",
             "symbol": "SWEEP-USDC-BPT",
@@ -16447,6 +15879,13 @@
             "name": "Static Aave Ethereum DAI",
             "symbol": "stataEthDAI",
             "decimals": 18
+        },
+        {
+            "chainId": 11155111,
+            "address": "0x3931C703BEdB4f00f602f3F5F7838801F0b5BEb0",
+            "name": "LandX Governance Token",
+            "symbol": "LNDX",
+            "decimals": 6
         }
     ]
 }
