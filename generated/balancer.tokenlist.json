@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-10-02T13:28:42.365Z",
+    "timestamp": "2024-10-02T13:59:41.397Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8003,6 +8003,48 @@
             "address": "0xFC2E6e6BCbd49ccf3A5f029c79984372DcBFE527",
             "name": "Autonolas",
             "symbol": "OLAS",
+            "decimals": 18
+        },
+        {
+            "chainId": 10,
+            "address": "0x9e0B29619dbb2fa7914efa8F3A9302AB9f5025AF",
+            "name": "Impermax Borrowable",
+            "symbol": "imxB",
+            "decimals": 18
+        },
+        {
+            "chainId": 10,
+            "address": "0xdf413dA4bc8e01e5A2d8699E2F8B73FBc011c0BC",
+            "name": "Impermax Borrowable",
+            "symbol": "imxB",
+            "decimals": 18
+        },
+        {
+            "chainId": 10,
+            "address": "0x0fac6BBfc6d56E1B7ABEB58fD437017603Ed731f",
+            "name": "Impermax Borrowable",
+            "symbol": "imxB",
+            "decimals": 18
+        },
+        {
+            "chainId": 10,
+            "address": "0xd2ae97aad2E0Be8a8c583c703d3AD777471C0464",
+            "name": "Impermax Borrowable",
+            "symbol": "imxB",
+            "decimals": 18
+        },
+        {
+            "chainId": 10,
+            "address": "0xBDc2AD83ba9f27cD97b58Bd05908Cb6939f8d789",
+            "name": "Impermax Borrowable",
+            "symbol": "imxB",
+            "decimals": 18
+        },
+        {
+            "chainId": 10,
+            "address": "0x1f157E15cFaee06b6f8F646e3F4aD1cc7c1739BC",
+            "name": "Impermax Borrowable",
+            "symbol": "imxB",
             "decimals": 18
         },
         {
