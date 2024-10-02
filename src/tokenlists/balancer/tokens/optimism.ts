@@ -88,4 +88,11 @@ export default [
   '0x57f5e098cad7a3d1eed53991d4d66c45c9af7812', // wUSDM
   '0xF1a0DA3367BC7aa04F8D94BA57B862ff37CeD174', // ShapeShift (FOX)
   '0xFC2E6e6BCbd49ccf3A5f029c79984372DcBFE527', // OLAS
+  '0x9e0b29619dbb2fa7914efa8f3a9302ab9f5025af', // ETH Impermax Borrowable ETH-VELO Vault
+  '0xdf413da4bc8e01e5a2d8699e2f8b73fbc011c0bc', // VELO Impermax Borrowable ETH-VELO Vault
+  '0x0fac6bbfc6d56e1b7abeb58fd437017603ed731f', // OP Impermax Borrowable OP-VELO Vault
+  '0xd2ae97aad2e0be8a8c583c703d3ad777471c0464', // VELO Impermax Borrowable OP-VELO Vault
+  '0xbdc2ad83ba9f27cd97b58bd05908cb6939f8d789', // USDC Impermax Borrowable USDC-VELO Vault
+  '0x1f157e15cfaee06b6f8f646e3f4ad1cc7c1739bc', // VELO Impermax Borrowable USDC-VELO Vault
+  
 ]
