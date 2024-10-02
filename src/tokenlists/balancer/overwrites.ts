@@ -560,6 +560,42 @@ export const overwrites: OverwritesForList = {
     '0x4DD03dfD36548C840B563745e3FBeC320F37BA7e': {
       symbol: 'waUSDCn',
     },
+    '0x9e0b29619dbb2fa7914efa8f3a9302ab9f5025af': {
+      name: 'ETH Impermax Borrowable ETH-VELO Vault',
+      symbol: 'imxB (ETH on ETH-VELO)',
+      logoURI:
+        'https://gitlab.com/optimism-prime/logos/-/raw/main/imxB-ETH-VELO-ETH.png',
+    },
+    '0xdf413da4bc8e01e5a2d8699e2f8b73fbc011c0bc': {
+      name: 'VELO Impermax Borrowable ETH-VELO Vault',
+      symbol: 'imxB (VELO on ETH-VELO)',
+      logoURI:
+        'https://gitlab.com/optimism-prime/logos/-/raw/main/imxB-ETH-VELO-VELO.png',
+    },
+    '0x0fac6bbfc6d56e1b7abeb58fd437017603ed731f': {
+      name: 'OP Impermax Borrowable OP-VELO Vault',
+      symbol: 'imxB (OP on OP-VELO)',
+      logoURI:
+        'https://gitlab.com/optimism-prime/logos/-/raw/main/imxB-OP-VELO-OP.png',
+    },
+    '0xd2ae97aad2e0be8a8c583c703d3ad777471c0464': {
+      name: 'VELO Impermax Borrowable OP-VELO Vault',
+      symbol: 'imxB (VELO on OP-VELO)',
+      logoURI:
+        'https://gitlab.com/optimism-prime/logos/-/raw/main/imxB-OP-VELO-VELO.png',
+    },
+    '0xbdc2ad83ba9f27cd97b58bd05908cb6939f8d789': {
+      name: 'USDC Impermax Borrowable USDC-VELO Vault',
+      symbol: 'imxB (USDC on USDC-VELO)',
+      logoURI:
+        'https://gitlab.com/optimism-prime/logos/-/raw/main/imxB-USDC-VELO-USDC.png',
+    },
+    '0x1f157e15cfaee06b6f8f646e3f4ad1cc7c1739bc': {
+      name: 'VELO Impermax Borrowable USDC-VELO Vault',
+      symbol: 'imxB (VELO on USDC-VELO)',
+      logoURI:
+        'https://gitlab.com/optimism-prime/logos/-/raw/main/imxB-USDC-VELO-VELO.png',
+    },
   },
   [Network.Gnosis]: {
     '0x7eF541E2a22058048904fE5744f9c7E4C57AF717': {
