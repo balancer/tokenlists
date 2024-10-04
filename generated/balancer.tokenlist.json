@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-10-02T15:19:08.837Z",
+    "timestamp": "2024-10-04T14:30:05.056Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7308,6 +7308,14 @@
             "symbol": "ultraETHs",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf0a949b935e367a94cdfe0f2a54892c2bc7b2131.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x961dD84059505D59f82cE4fb87D3c09bec65301d",
+            "name": "TenX Community JAPAN",
+            "symbol": "TXJP",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x961dd84059505d59f82ce4fb87d3c09bec65301d.png"
         },
         {
             "chainId": 10,
