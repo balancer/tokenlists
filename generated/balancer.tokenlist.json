@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-10-04T14:30:05.056Z",
+    "timestamp": "2024-10-04T17:18:22.669Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7316,6 +7316,14 @@
             "symbol": "TXJP",
             "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x961dd84059505d59f82ce4fb87d3c09bec65301d.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x5E362eb2c0706Bd1d134689eC75176018385430B",
+            "name": "Decentralized Validator Token",
+            "symbol": "DVstETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5e362eb2c0706bd1d134689ec75176018385430b.png"
         },
         {
             "chainId": 10,
