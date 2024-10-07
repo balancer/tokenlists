@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-10-07T14:17:11.202Z",
+    "timestamp": "2024-10-07T20:14:13.626Z",
     "tokens": [
         {
             "chainId": 1,
@@ -15058,6 +15058,14 @@
             "symbol": "ZRO",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/28206/large/ftxG9_TJ_400x400.jpeg?1696527208"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x7751E2F4b8ae93EF6B79d86419d42FE3295A4559",
+            "name": "Wrapped USDL",
+            "symbol": "wUSDL",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7751e2f4b8ae93ef6b79d86419d42fe3295a4559.png"
         },
         {
             "chainId": 43114,
