@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-10-04T17:18:22.669Z",
+    "timestamp": "2024-10-07T14:17:11.202Z",
     "tokens": [
         {
             "chainId": 1,
@@ -11202,6 +11202,13 @@
             "logoURI": "https://coin-images.coingecko.com/coins/images/9988/large/FOX.png?1696510025"
         },
         {
+            "chainId": 137,
+            "address": "0xbeA9B2a88dF1e9B51b2De71D0df486112Dc6dc8d",
+            "name": "BitcoinWeb3",
+            "symbol": "BTCw3",
+            "decimals": 18
+        },
+        {
             "chainId": 250,
             "address": "0xf1648C50d2863f780c57849D812b4B7686031A3D",
             "name": "LayerZero Wrapped Bitcoin",
@@ -13114,6 +13121,14 @@
             "symbol": "ALEPH",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/11676/large/Aleph-Logo-BW.png?1696511566"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x25ea98ac87A38142561eA70143fd44c4772A16b6",
+            "name": "MORE",
+            "symbol": "MORE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x25ea98ac87a38142561ea70143fd44c4772a16b6.png"
         },
         {
             "chainId": 34443,
