@@ -96,15 +96,14 @@ function buildTokenList(
   tokens: TokenInfo[],
   existingTokenList: TokenList | undefined
 ): TokenList {
-
-  const newVersion ={
-   ...metadata.version,
-   patch: metadata.version.patch + 1
-   }
+  const newVersion = {
+    ...metadata.version,
+    patch: metadata.version.patch + 1,
+  }
   const newMetadata = {
     ...metadata,
-    version: newVersion
-    }
+    version: newVersion,
+  }
   const newTokenList = {
     ...newMetadata,
     timestamp: new Date().toISOString(),
