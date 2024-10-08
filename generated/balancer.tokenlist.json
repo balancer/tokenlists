@@ -5959,8 +5959,7 @@
             "address": "0x74E5E53056526b2609d82E85486005EF2A2Db001",
             "name": "Balancer TruMATIC-MATIC Stable Pool",
             "symbol": "TruMATIC-MATIC",
-            "decimals": 18,
-            "logoURI": "missing_large.png"
+            "decimals": 18
         },
         {
             "chainId": 1,
@@ -6216,7 +6215,7 @@
         {
             "chainId": 1,
             "address": "0x50359088f666a9E70DC00B565Ecd9F853a572c7c",
-            "name": "Balancer osETH<>ETH Stable Pool",
+            "name": "Balancer osETH/ETH Stable Pool",
             "symbol": "osETH-ETH BPT",
             "decimals": 18
         },
@@ -12784,8 +12783,7 @@
             "address": "0x0C659734f1eEF9C63B7Ebdf78a164CDd745586Db",
             "name": "Balancer USDC/USDbC/axlUSDC",
             "symbol": "USDC/USDbC/axlUSDC",
-            "decimals": 18,
-            "logoURI": "missing_large.png"
+            "decimals": 18
         },
         {
             "chainId": 8453,
@@ -14321,8 +14319,7 @@
             "address": "0x32dF62dc3aEd2cD6224193052Ce665DC18165841",
             "name": "RDNT-WETH",
             "symbol": "RDNT-WETH",
-            "decimals": 18,
-            "logoURI": "missing_large.png"
+            "decimals": 18
         },
         {
             "chainId": 42161,
