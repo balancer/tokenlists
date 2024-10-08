@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 0
+        "patch": 1
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-10-07T20:14:13.626Z",
+    "timestamp": "2024-10-08T17:02:00.272Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6215,7 +6215,7 @@
         {
             "chainId": 1,
             "address": "0x50359088f666a9E70DC00B565Ecd9F853a572c7c",
-            "name": "Balancer osETH/ETH Stable Pool",
+            "name": "Balancer osETH<>ETH Stable Pool",
             "symbol": "osETH-ETH BPT",
             "decimals": 18
         },
@@ -12783,7 +12783,8 @@
             "address": "0x0C659734f1eEF9C63B7Ebdf78a164CDd745586Db",
             "name": "Balancer USDC/USDbC/axlUSDC",
             "symbol": "USDC/USDbC/axlUSDC",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "missing_large.png"
         },
         {
             "chainId": 8453,
@@ -14319,7 +14320,8 @@
             "address": "0x32dF62dc3aEd2cD6224193052Ce665DC18165841",
             "name": "RDNT-WETH",
             "symbol": "RDNT-WETH",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "missing_large.png"
         },
         {
             "chainId": 42161,
@@ -14999,14 +15001,16 @@
             "address": "0x02cea97794D2cFB5f560e1fF4e9C59D1BEC75969",
             "name": "VNX Franc",
             "symbol": "VCHF",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/29547/large/VNXCHF_%282%29.png?1696528488"
         },
         {
             "chainId": 42161,
             "address": "0x4883C8f0529F37e40eBeA870F3C13cDfAD5d01f8",
             "name": "VNX Euro",
             "symbol": "VEUR",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/29351/large/VNXEUR_%281%29.png?1696528300"
         },
         {
             "chainId": 42161,
