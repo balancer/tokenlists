@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 0
+        "patch": 1
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-10-07T20:14:13.626Z",
+    "timestamp": "2024-10-08T10:44:17.303Z",
     "tokens": [
         {
             "chainId": 1,
@@ -15002,14 +15002,16 @@
             "address": "0x02cea97794D2cFB5f560e1fF4e9C59D1BEC75969",
             "name": "VNX Franc",
             "symbol": "VCHF",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/29547/large/VNXCHF_%282%29.png?1696528488"
         },
         {
             "chainId": 42161,
             "address": "0x4883C8f0529F37e40eBeA870F3C13cDfAD5d01f8",
             "name": "VNX Euro",
             "symbol": "VEUR",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/29351/large/VNXEUR_%281%29.png?1696528300"
         },
         {
             "chainId": 42161,
