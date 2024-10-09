@@ -3,13 +3,13 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 1
+        "patch": 2
     },
     "keywords": [
         "Balancer"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-10-08T10:44:21.281Z",
+    "timestamp": "2024-10-09T21:21:58.470Z",
     "tokens": [
         {
             "chainId": 1,
