@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 0
+        "patch": 1
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-10-07T20:14:13.626Z",
+    "timestamp": "2024-10-09T21:14:00.148Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5764,23 +5764,9 @@
         },
         {
             "chainId": 1,
-            "address": "0x6Ae5a7857aAd26722cB02CC168e38c52E0e4e45d",
-            "name": "Balancer TBY-feb1924 USDC Stable Pool",
-            "symbol": "TBY-feb1924-USDC-BPT",
-            "decimals": 18
-        },
-        {
-            "chainId": 1,
             "address": "0xA88cAdd23d9688a923e1f4cDAF660e285C359868",
             "name": "MonkCoin",
             "symbol": "MONK",
-            "decimals": 18
-        },
-        {
-            "chainId": 1,
-            "address": "0x70a304C1776Db52417420722cBAc4b3902ca6aEa",
-            "name": "​",
-            "symbol": "🔵​",
             "decimals": 18
         },
         {
@@ -5953,13 +5939,6 @@
             "symbol": "TruMATIC",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa43a7c62d56df036c187e1966c03e2799d8987ed.png"
-        },
-        {
-            "chainId": 1,
-            "address": "0x74E5E53056526b2609d82E85486005EF2A2Db001",
-            "name": "Balancer TruMATIC-MATIC Stable Pool",
-            "symbol": "TruMATIC-MATIC",
-            "decimals": 18
         },
         {
             "chainId": 1,
@@ -6211,13 +6190,6 @@
             "symbol": "GYD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe07f9d810a48ab5c3c914ba3ca53af14e4491e8a.png"
-        },
-        {
-            "chainId": 1,
-            "address": "0x50359088f666a9E70DC00B565Ecd9F853a572c7c",
-            "name": "Balancer osETH/ETH Stable Pool",
-            "symbol": "osETH-ETH BPT",
-            "decimals": 18
         },
         {
             "chainId": 1,
@@ -12780,13 +12752,6 @@
         },
         {
             "chainId": 8453,
-            "address": "0x0C659734f1eEF9C63B7Ebdf78a164CDd745586Db",
-            "name": "Balancer USDC/USDbC/axlUSDC",
-            "symbol": "USDC/USDbC/axlUSDC",
-            "decimals": 18
-        },
-        {
-            "chainId": 8453,
             "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
             "name": "USD Coin",
             "symbol": "USDC",
@@ -13996,13 +13961,6 @@
         },
         {
             "chainId": 42161,
-            "address": "0xA1ea76C42b2938CfA9abea12357881006c528513",
-            "name": "Balancer DUSD/bbaUSD StablePool",
-            "symbol": "DUSD/bbaUSD",
-            "decimals": 18
-        },
-        {
-            "chainId": 42161,
             "address": "0x8EC1877698ACF262Fe8Ad8a295ad94D6ea258988",
             "name": "Davos.xyz USD",
             "symbol": "DUSD",
@@ -14032,13 +13990,6 @@
             "symbol": "4POOL-BPT",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x423a1323c871abc9d89eb06855bf5347048fc4a5.png"
-        },
-        {
-            "chainId": 42161,
-            "address": "0x3CdF30e36154a66A4478e15ED41659b5BB0738f1",
-            "name": "Balancer DUSD-4POOL Stable Pool",
-            "symbol": "DUSD-4POOL-BPT",
-            "decimals": 18
         },
         {
             "chainId": 42161,
@@ -14313,13 +14264,6 @@
             "symbol": "plsRDNT",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6dbf2155b0636cb3fd5359fccefb8a2c02b6cb51.png"
-        },
-        {
-            "chainId": 42161,
-            "address": "0x32dF62dc3aEd2cD6224193052Ce665DC18165841",
-            "name": "RDNT-WETH",
-            "symbol": "RDNT-WETH",
-            "decimals": 18
         },
         {
             "chainId": 42161,
@@ -14999,14 +14943,16 @@
             "address": "0x02cea97794D2cFB5f560e1fF4e9C59D1BEC75969",
             "name": "VNX Franc",
             "symbol": "VCHF",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/29547/large/VNXCHF_%282%29.png?1696528488"
         },
         {
             "chainId": 42161,
             "address": "0x4883C8f0529F37e40eBeA870F3C13cDfAD5d01f8",
             "name": "VNX Euro",
             "symbol": "VEUR",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/29351/large/VNXEUR_%281%29.png?1696528300"
         },
         {
             "chainId": 42161,
