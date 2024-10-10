@@ -113,7 +113,7 @@ function buildTokenList(
 ): TokenList {
   const newVersion = {
     ...metadata.version,
-    patch: metadata.version.patch + 1,
+    patch: (existingTokenList?.version?.patch ?? metadata.version.patch) + 1,
   }
   const newMetadata = {
     ...metadata,
