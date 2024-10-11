@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 2
+        "patch": 3
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-10-09T21:21:54.837Z",
+    "timestamp": "2024-10-11T16:52:11.500Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14696,6 +14696,14 @@
             "symbol": "MONEY",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x69420f9e38a4e60a62224c489be4bf7a94402496.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x9e523234D36973f9e38642886197D023C88e307e",
+            "name": "Darwinia Network Native Token",
+            "symbol": "RING",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/9443/large/RING.png?1696509535"
         },
         {
             "chainId": 43114,
