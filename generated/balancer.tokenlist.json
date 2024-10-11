@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 3
+        "patch": 4
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-10-11T16:52:11.500Z",
+    "timestamp": "2024-10-11T16:56:06.611Z",
     "tokens": [
         {
             "chainId": 1,
