@@ -127,6 +127,7 @@ function buildTokenList(
 
   if (existingTokenList && isEqualTokenlists(newTokenList, existingTokenList)) {
     newTokenList.timestamp = existingTokenList.timestamp
+    newTokenList.version.patch = existingTokenList.version.patch
   }
 
   return newTokenList

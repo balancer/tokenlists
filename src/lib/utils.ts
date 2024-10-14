@@ -29,8 +29,8 @@ export function isEqualTokenlists(
   oldTokenlist: TokenList
 ): boolean {
   return isEqual(
-    omit(oldTokenlist, 'timestamp'),
-    omit(newTokenlist, 'timestamp')
+    omit(oldTokenlist, ['timestamp', 'version.patch']),
+    omit(newTokenlist, ['timestamp', 'version.patch'])
   )
 }
 
