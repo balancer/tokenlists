@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 7
+        "patch": 8
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-10-14T15:45:38.778Z",
+    "timestamp": "2024-10-14T15:53:05.854Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14719,6 +14719,14 @@
             "symbol": "RING",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/9443/large/RING.png?1696509535"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x32dF62dc3aEd2cD6224193052Ce665DC18165841",
+            "name": "RDNT-WETH",
+            "symbol": "RDNT-WETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x32df62dc3aed2cd6224193052ce665dc18165841.png"
         },
         {
             "chainId": 43114,
