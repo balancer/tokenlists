@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 5
+        "patch": 6
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-10-14T00:58:54.404Z",
+    "timestamp": "2024-10-14T12:51:30.765Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7231,6 +7231,14 @@
             "symbol": "DVstETH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5e362eb2c0706bd1d134689ec75176018385430b.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xa684EAf215ad323452e2B2bF6F817d4aa5C116ab",
+            "name": "Loop Liquidity Pool - WETH",
+            "symbol": "lpETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa684eaf215ad323452e2b2bf6f817d4aa5c116ab.png"
         },
         {
             "chainId": 10,
