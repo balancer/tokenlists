@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 6
+        "patch": 7
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-10-14T12:51:30.765Z",
+    "timestamp": "2024-10-14T15:45:38.778Z",
     "tokens": [
         {
             "chainId": 1,
@@ -15281,18 +15281,19 @@
         },
         {
             "chainId": 43114,
+            "address": "0x6A02C7a974F1F13A67980C80F774eC1d2eD8f98d",
+            "name": "Static Aave Avalanche WAVAX",
+            "symbol": "stataAvaWAVAX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6a02c7a974f1f13a67980c80f774ec1d2ed8f98d.png"
+        },
+        {
+            "chainId": 43114,
             "address": "0xb2F85b7AB3c2b6f62DF06dE6aE7D09c010a5096E",
             "name": "XSGD",
             "symbol": "XSGD",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb2f85b7ab3c2b6f62df06de6ae7d09c010a5096e.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0x6A02C7a974F1F13A67980C80F774eC1d2eD8f98d",
-            "name": "Static Aave Avalanche WAVAX",
-            "symbol": "stataAvaWAVAX",
-            "decimals": 18
         },
         {
             "chainId": 11155111,
