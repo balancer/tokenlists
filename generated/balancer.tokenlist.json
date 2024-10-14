@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 4
+        "patch": 5
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-10-12T15:45:15.418Z",
+    "timestamp": "2024-10-14T00:58:54.404Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12825,6 +12825,13 @@
             "symbol": "MORE",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x25ea98ac87a38142561ea70143fd44c4772a16b6.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x5A7a2bf9fFae199f088B25837DcD7E115CF8E1bb",
+            "name": "IMO",
+            "symbol": "IMO",
+            "decimals": 18
         },
         {
             "chainId": 34443,
