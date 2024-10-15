@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 8
+        "patch": 9
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-10-14T15:53:05.854Z",
+    "timestamp": "2024-10-15T00:02:54.829Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7239,6 +7239,21 @@
             "symbol": "lpETH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa684eaf215ad323452e2b2bf6f817d4aa5c116ab.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xD31a59c85aE9D8edEFeC411D448f90841571b89c",
+            "name": "Wrapped SOL",
+            "symbol": "SOL",
+            "decimals": 9,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/22876/large/SOL_wh_small.png?1696522175"
+        },
+        {
+            "chainId": 1,
+            "address": "0x75eB3D7976f0bf848F4Bc22a7563fA50BD73c504",
+            "name": "Balancer CoW AMM 50 wstETH 50 SOL",
+            "symbol": "BCoW-50wstETH-50SOL",
+            "decimals": 18
         },
         {
             "chainId": 10,
