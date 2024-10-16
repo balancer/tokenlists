@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 11
+        "patch": 12
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-10-16T19:24:44.473Z",
+    "timestamp": "2024-10-16T20:17:20.503Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12967,6 +12967,21 @@
             "symbol": "msDAI",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x3f51c6c5927b88cdec4b61e2787f9bd0f5249138.png"
+        },
+        {
+            "chainId": 34443,
+            "address": "0x59889b7021243dB5B1e065385F918316cD90D46c",
+            "name": "Merlin BTC",
+            "symbol": "M-BTC",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/36566/large/photo_2024-03-25_22-04-42.jpg?1711936162"
+        },
+        {
+            "chainId": 34443,
+            "address": "0x6B2a01A5f79dEb4c2f3c0eDa7b01DF456FbD726a",
+            "name": "uniBTC",
+            "symbol": "uniBTC",
+            "decimals": 8
         },
         {
             "chainId": 42161,
