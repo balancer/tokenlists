@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 10
+        "patch": 11
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-10-16T01:49:32.588Z",
+    "timestamp": "2024-10-16T19:24:44.473Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7262,6 +7262,14 @@
             "symbol": "weETHs",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x917cee801a67f933f2e6b33fc0cd1ed2d5909d88.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x270B7748CdF8243bFe68FaCE7230ef0fCE695389",
+            "name": "Hinkal ETH",
+            "symbol": "hETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x270b7748cdf8243bfe68face7230ef0fce695389.png"
         },
         {
             "chainId": 10,
