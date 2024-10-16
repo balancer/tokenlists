@@ -943,4 +943,5 @@ export default [
   '0xD31a59c85aE9D8edEFeC411D448f90841571b89c', // wrapsol
   '0x75eB3D7976f0bf848F4Bc22a7563fA50BD73c504', // wsteth-sol
   '0x917ceE801a67f933F2e6b33fC0cD1ED2d5909D88', // weETHs
+  '0x270b7748cdf8243bfe68face7230ef0fce695389', // hETH
 ]
