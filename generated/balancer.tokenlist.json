@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 13
+        "patch": 14
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-10-17T08:00:13.441Z",
+    "timestamp": "2024-10-17T09:14:14.539Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12021,7 +12021,7 @@
             "name": "GOGGLES",
             "symbol": "GOGLZ",
             "decimals": 18,
-            "logoURI": "https://coin-images.coingecko.com/coins/images/50715/large/goglz.png?1728792679"
+            "logoURI": "https://dd.dexscreener.com/ds-data/tokens/fantom/0x662b3d319e693aa578edd4bd8a5c9395bc49e9f4.png?key=d6c350"
         },
         {
             "chainId": 252,
