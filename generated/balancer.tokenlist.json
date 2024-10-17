@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 13
+        "patch": 14
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-10-17T08:00:13.441Z",
+    "timestamp": "2024-10-17T12:39:30.649Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12022,6 +12022,13 @@
             "symbol": "GOGLZ",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/50715/large/goglz.png?1728792679"
+        },
+        {
+            "chainId": 250,
+            "address": "0x59e758cC4A863734E144CF3070210366daBC2E58",
+            "name": "Shilly",
+            "symbol": "Shilly",
+            "decimals": 18
         },
         {
             "chainId": 252,
