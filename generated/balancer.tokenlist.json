@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 15
+        "patch": 16
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-10-17T12:57:27.098Z",
+    "timestamp": "2024-10-17T19:12:22.771Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14624,72 +14624,58 @@
         },
         {
             "chainId": 42161,
-            "address": "0x446C123628194826110Fac2e18496a161d277b0F",
-            "name": "USD Coin",
-            "symbol": "USDC",
-            "decimals": 6
-        },
-        {
-            "chainId": 42161,
-            "address": "0xD5FAE1D23693d2f0090cD101b79892661c539366",
-            "name": "USD Coin",
-            "symbol": "USDC",
-            "decimals": 6
-        },
-        {
-            "chainId": 42161,
-            "address": "0xab57C3f001A749B340686E6DB3532792A76D7715",
-            "name": "Wrapped Ethereum",
-            "symbol": "WETH",
-            "decimals": 18
-        },
-        {
-            "chainId": 42161,
-            "address": "0xa168bE53a546163f36210f3c440fbDC41BE99EE2",
-            "name": "Wrapped Ethereum",
-            "symbol": "WETH",
-            "decimals": 18
-        },
-        {
-            "chainId": 42161,
-            "address": "0x9E60eB63Eaad46759A170B9eE5cC27E5Dd68C7e1",
-            "name": "Metis",
-            "symbol": "METIS",
-            "decimals": 18
-        },
-        {
-            "chainId": 42161,
-            "address": "0x90364aA61234B85251aD943681433904c35FA5ce",
-            "name": "Metis Token",
-            "symbol": "Metis",
-            "decimals": 18
-        },
-        {
-            "chainId": 42161,
-            "address": "0xa81CCd479d23529151e25808C591bd0d8556eD2d",
-            "name": "USD Coin",
-            "symbol": "USDC",
-            "decimals": 6
-        },
-        {
-            "chainId": 42161,
-            "address": "0x9F0DD7B477dE824c6b2f7EE141fC8656C6EA0582",
-            "name": "USD Coin",
-            "symbol": "USDC",
-            "decimals": 18
-        },
-        {
-            "chainId": 42161,
-            "address": "0xd972c72fb7e2a6f8F947f6cc000Fe409Fd746137",
+            "address": "0xb654cB02aB0318985B10CCE2C0027Ef36a3DB55B",
             "name": "Tether USD",
             "symbol": "USDT",
             "decimals": 18
         },
         {
             "chainId": 42161,
-            "address": "0x0B8A98B0FD31Fc92B7dF5592a78B83aE455d2C44",
+            "address": "0xfD4785566143dc5108333de609ac4E8E0A52D00A",
             "name": "TetherToken",
             "symbol": "USDt",
+            "decimals": 6
+        },
+        {
+            "chainId": 42161,
+            "address": "0x8Ff53B87fEdde6A7dD8Ce4F94865eb826a616e1b",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0xf108A590BF86972B9BeaB03d6174AD7907554905",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6
+        },
+        {
+            "chainId": 42161,
+            "address": "0x3aa9Be7e0Dac63A03C99FE247e0cF8CB6fd29363",
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0xa293371eA7b1A227b7d3eEE0cD8FF8A65e30622c",
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x57D627b04e397Bd8c32C4aAA05Ec02AD20F0F033",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6
+        },
+        {
+            "chainId": 42161,
+            "address": "0xE839360768881d1bECC05Bff2CC82176F4304D77",
+            "name": "USD Coin",
+            "symbol": "USDC",
             "decimals": 6
         },
         {
