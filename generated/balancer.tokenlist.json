@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 12
+        "patch": 13
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-10-16T20:17:20.503Z",
+    "timestamp": "2024-10-17T08:00:13.441Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12014,6 +12014,14 @@
             "symbol": "BEER",
             "decimals": 18,
             "logoURI": "https://dd.dexscreener.com/ds-data/tokens/fantom/0x94ba6241bc7e6f7f24a5b95fe6726b31c74881ab.png?key=f4da13"
+        },
+        {
+            "chainId": 250,
+            "address": "0x662B3d319e693aA578EDd4BD8a5c9395BC49e9F4",
+            "name": "GOGGLES",
+            "symbol": "GOGLZ",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/50715/large/goglz.png?1728792679"
         },
         {
             "chainId": 252,
