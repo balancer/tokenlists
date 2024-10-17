@@ -1004,10 +1004,6 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://dd.dexscreener.com/ds-data/tokens/fantom/0x94ba6241bc7e6f7f24a5b95fe6726b31c74881ab.png?key=f4da13',
     },
-    '0x662B3d319e693aA578EDd4BD8a5c9395BC49e9F4': {
-      logoURI:
-        'https://dd.dexscreener.com/ds-data/tokens/fantom/0x662b3d319e693aa578edd4bd8a5c9395bc49e9f4.png?key=d6c350',
-    },
   },
   [Network.Sepolia]: {
     '0xb19382073c7A0aDdbb56Ac6AF1808Fa49e377B75': {
