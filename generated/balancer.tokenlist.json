@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 14
+        "patch": 15
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-10-17T12:39:30.649Z",
+    "timestamp": "2024-10-17T12:57:27.098Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7272,6 +7272,20 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x270b7748cdf8243bfe68face7230ef0fce695389.png"
         },
         {
+            "chainId": 1,
+            "address": "0xf25a3b5A965c59f88873Da93FC2a244B00616Be4",
+            "name": "Balancer CoW AMM 50 WBTC 50 wstETH",
+            "symbol": "BCoW-50WBTC-50wstETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x06966b4Ae338CE20f283086914388133F27D1d3e",
+            "name": "Balancer CoW AMM 50wstETH-25WBTC-25SOL",
+            "symbol": "BCoW-50wstETH-25WBT-25SOL",
+            "decimals": 18
+        },
+        {
             "chainId": 10,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -10968,6 +10982,14 @@
             "decimals": 18
         },
         {
+            "chainId": 137,
+            "address": "0x72928d5436Ff65e57F72D5566dCd3BaEDC649A88",
+            "name": "humanDAO (PoS)",
+            "symbol": "HDAO",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/21138/large/Untitled-2.jpg?1696520516"
+        },
+        {
             "chainId": 250,
             "address": "0xf1648C50d2863f780c57849D812b4B7686031A3D",
             "name": "LayerZero Wrapped Bitcoin",
@@ -12028,7 +12050,8 @@
             "address": "0x59e758cC4A863734E144CF3070210366daBC2E58",
             "name": "Shilly",
             "symbol": "Shilly",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://i.ibb.co/0s08MzL/SHILLY-LOGO-CIRCLE-BIG-2.png"
         },
         {
             "chainId": 252,
