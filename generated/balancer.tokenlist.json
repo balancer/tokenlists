@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 18
+        "patch": 19
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-10-18T17:43:39.264Z",
+    "timestamp": "2024-10-18T17:57:00.675Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7284,6 +7284,14 @@
             "name": "Balancer CoW AMM 50wstETH-25WBTC-25SOL",
             "symbol": "BCoW-50wstETH-25WBT-25SOL",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xF469fBD2abcd6B9de8E169d128226C0Fc90a012e",
+            "name": "pumpBTC",
+            "symbol": "pumpBTC",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf469fbd2abcd6b9de8e169d128226c0fc90a012e.png"
         },
         {
             "chainId": 10,
