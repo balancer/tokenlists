@@ -1007,6 +1007,10 @@ export const overwrites: OverwritesForList = {
     '0x59e758cC4A863734E144CF3070210366daBC2E58': {
       logoURI: 'https://i.ibb.co/0s08MzL/SHILLY-LOGO-CIRCLE-BIG-2.png',
     },
+    '0xe6cc4D855B4fD4A9D02F46B9adae4C5EfB1764B5': {
+      logoURI:
+        'https://bafybeiehzznjxownjllrbjij7rliuyiqn6nlfaer7izctgjk5la3ldhpq4.ipfs.dweb.link',
+    },
   },
   [Network.Sepolia]: {
     '0xb19382073c7A0aDdbb56Ac6AF1808Fa49e377B75': {
