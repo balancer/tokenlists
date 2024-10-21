@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 22
+        "patch": 23
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-10-21T14:05:05.944Z",
+    "timestamp": "2024-10-21T18:42:13.556Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12857,13 +12857,6 @@
             "symbol": "OSAK",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/30911/large/osak_logo.png?1696529756"
-        },
-        {
-            "chainId": 8453,
-            "address": "0x0f1D1b7abAeC1Df25f2C4Db751686FC5233f6D3f",
-            "name": "IMO",
-            "symbol": "IMO",
-            "decimals": 18
         },
         {
             "chainId": 8453,
