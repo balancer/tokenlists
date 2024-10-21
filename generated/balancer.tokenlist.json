@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 20
+        "patch": 21
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-10-21T13:04:33.302Z",
+    "timestamp": "2024-10-21T13:13:01.793Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12060,6 +12060,13 @@
             "symbol": "Shilly",
             "decimals": 18,
             "logoURI": "https://i.ibb.co/0s08MzL/SHILLY-LOGO-CIRCLE-BIG-2.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0xe6cc4D855B4fD4A9D02F46B9adae4C5EfB1764B5",
+            "name": "Ludwig Wif Goggles",
+            "symbol": "LUDWIG",
+            "decimals": 18
         },
         {
             "chainId": 252,
