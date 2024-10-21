@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 19
+        "patch": 20
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-10-18T17:57:00.675Z",
+    "timestamp": "2024-10-21T13:04:33.302Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14822,6 +14822,34 @@
             "symbol": "RDNT-WETH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x32df62dc3aed2cd6224193052ce665dc18165841.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xeDD2e8B0b0CEdf5Ff2b2B85eb7B62F4FBC876362",
+            "name": "Arbitrum Ulysses GODDOG",
+            "symbol": "arb-uoooOOO",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0xE3414179d61e6F88dEcf4ce3efAE41157D4Fc5b7",
+            "name": "GODDOG",
+            "symbol": "oooOOO",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x5167B19845ACDf12269f562A00f348897610c4c1",
+            "name": "GODDOG",
+            "symbol": "oooOOO",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x3Bc1CFaaa7Aa090296D29DD82B09Cf36ff29c6A5",
+            "name": "GODDOG",
+            "symbol": "oooOOO",
+            "decimals": 18
         },
         {
             "chainId": 43114,
