@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 21
+        "patch": 22
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-10-21T13:22:55.940Z",
+    "timestamp": "2024-10-21T14:05:05.944Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14857,6 +14857,20 @@
             "address": "0x3Bc1CFaaa7Aa090296D29DD82B09Cf36ff29c6A5",
             "name": "GODDOG",
             "symbol": "oooOOO",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x1Fdd1523cA1c114eBDd5d124059FD68131F1eef1",
+            "name": "Balancer CoW AMM 50 wstETH 50 SOL",
+            "symbol": "BCoW-50wstETH-50SOL",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x41F4Dcc8c4F6a2A43EB69A4d9f6c1385446cB64d",
+            "name": "Balancer CoW AMM 50 WBTC 50 wstETH",
+            "symbol": "BCoW-50WBTC-50wstETH",
             "decimals": 18
         },
         {
