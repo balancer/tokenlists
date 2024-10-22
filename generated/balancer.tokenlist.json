@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 23
+        "patch": 24
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-10-21T18:42:13.556Z",
+    "timestamp": "2024-10-22T02:01:20.621Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7292,6 +7292,14 @@
             "symbol": "pumpBTC",
             "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf469fbd2abcd6b9de8e169d128226c0fc90a012e.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xD11c452fc99cF405034ee446803b6F6c1F6d5ED8",
+            "name": "Treehouse ETH",
+            "symbol": "tETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd11c452fc99cf405034ee446803b6f6c1f6d5ed8.png"
         },
         {
             "chainId": 10,
