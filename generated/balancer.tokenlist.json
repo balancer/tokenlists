@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 24
+        "patch": 25
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-10-22T02:01:20.621Z",
+    "timestamp": "2024-10-23T14:12:11.347Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12925,7 +12925,8 @@
             "address": "0x5A7a2bf9fFae199f088B25837DcD7E115CF8E1bb",
             "name": "IMO",
             "symbol": "IMO",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/14831/large/IMO_logo_PP2024_new.png?1729603742"
         },
         {
             "chainId": 8453,
@@ -13054,6 +13055,22 @@
             "symbol": "M-BTC",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/36566/large/photo_2024-03-25_22-04-42.jpg?1711936162"
+        },
+        {
+            "chainId": 34443,
+            "address": "0xd0d1b59CA62cE194E882455Fd36632d6277b192a",
+            "name": "uBTC",
+            "symbol": "uBTC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd0d1b59ca62ce194e882455fd36632d6277b192a.png"
+        },
+        {
+            "chainId": 34443,
+            "address": "0x7A087e75807F2E5143C161a817E64dF6dC5EAFe0",
+            "name": "aBTC",
+            "symbol": "aBTC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7a087e75807f2e5143c161a817e64df6dc5eafe0.png"
         },
         {
             "chainId": 42161,
