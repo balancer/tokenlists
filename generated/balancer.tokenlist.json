@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 25
+        "patch": 26
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-10-23T14:12:11.347Z",
+    "timestamp": "2024-10-24T12:53:24.795Z",
     "tokens": [
         {
             "chainId": 1,
@@ -11006,6 +11006,20 @@
             "logoURI": "https://coin-images.coingecko.com/coins/images/21138/large/Untitled-2.jpg?1696520516"
         },
         {
+            "chainId": 137,
+            "address": "0x275d5F9ECD1759395F0F43253904b47319b57b59",
+            "name": "wstETH+ by StarSeeds Protocol",
+            "symbol": "wstETH+",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x98f0160b642b8E5f76c4278c968EF79D149E156C",
+            "name": "MaticX+ by StarSeeds Protocol",
+            "symbol": "MaticX+",
+            "decimals": 18
+        },
+        {
             "chainId": 250,
             "address": "0xf1648C50d2863f780c57849D812b4B7686031A3D",
             "name": "LayerZero Wrapped Bitcoin",
@@ -14889,6 +14903,13 @@
             "address": "0x41F4Dcc8c4F6a2A43EB69A4d9f6c1385446cB64d",
             "name": "Balancer CoW AMM 50 WBTC 50 wstETH",
             "symbol": "BCoW-50WBTC-50wstETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0xC760F9782F8ceA5B06D862574464729537159966",
+            "name": "Contango",
+            "symbol": "TANGO",
             "decimals": 18
         },
         {
