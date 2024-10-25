@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 27
+        "patch": 28
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-10-25T17:03:15.636Z",
+    "timestamp": "2024-10-25T17:50:50.904Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14909,6 +14909,14 @@
         },
         {
             "chainId": 42161,
+            "address": "0xC760F9782F8ceA5B06D862574464729537159966",
+            "name": "Contango",
+            "symbol": "TANGO",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc760f9782f8cea5b06d862574464729537159966.png"
+        },
+        {
+            "chainId": 42161,
             "address": "0x1Fdd1523cA1c114eBDd5d124059FD68131F1eef1",
             "name": "Balancer CoW AMM 50 wstETH 50 SOL",
             "symbol": "BCoW-50wstETH-50SOL",
@@ -14919,13 +14927,6 @@
             "address": "0x41F4Dcc8c4F6a2A43EB69A4d9f6c1385446cB64d",
             "name": "Balancer CoW AMM 50 WBTC 50 wstETH",
             "symbol": "BCoW-50WBTC-50wstETH",
-            "decimals": 18
-        },
-        {
-            "chainId": 42161,
-            "address": "0xC760F9782F8ceA5B06D862574464729537159966",
-            "name": "Contango",
-            "symbol": "TANGO",
             "decimals": 18
         },
         {
