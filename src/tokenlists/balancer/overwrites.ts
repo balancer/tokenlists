@@ -1011,6 +1011,10 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://bafybeiehzznjxownjllrbjij7rliuyiqn6nlfaer7izctgjk5la3ldhpq4.ipfs.dweb.link',
     },
+    '0xB2a909b8bCce9B30BbC9d4c748fD897d6AD9c285': {
+      logoURI:
+        'https://dd.dexscreener.com/ds-data/tokens/fantom/0xb2a909b8bcce9b30bbc9d4c748fd897d6ad9c285.png?size=lg&key=4b97c8',
+    },
   },
   [Network.Sepolia]: {
     '0xb19382073c7A0aDdbb56Ac6AF1808Fa49e377B75': {
