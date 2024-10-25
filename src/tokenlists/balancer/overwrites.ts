@@ -1015,6 +1015,10 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://dd.dexscreener.com/ds-data/tokens/fantom/0xb2a909b8bcce9b30bbc9d4c748fd897d6ad9c285.png?size=lg&key=4b97c8',
     },
+    '0x1aeC146acF835b30b3745fD7a02B1c5D4A9d85eF': {
+      logoURI:
+        'https://dd.dexscreener.com/ds-data/tokens/fantom/0x1aec146acf835b30b3745fd7a02b1c5d4a9d85ef.png?size=lg&key=99f24a',
+    },
   },
   [Network.Sepolia]: {
     '0xb19382073c7A0aDdbb56Ac6AF1808Fa49e377B75': {
