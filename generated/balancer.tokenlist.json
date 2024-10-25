@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 26
+        "patch": 27
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-10-24T12:53:24.795Z",
+    "timestamp": "2024-10-25T17:03:15.636Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7302,6 +7302,14 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd11c452fc99cf405034ee446803b6f6c1f6d5ed8.png"
         },
         {
+            "chainId": 1,
+            "address": "0xbdC7c08592Ee4aa51D06C27Ee23D5087D65aDbcD",
+            "name": "Lift Dollar",
+            "symbol": "USDL",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/38484/large/USDL-Token-200px.png?1725022887"
+        },
+        {
             "chainId": 10,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -12090,6 +12098,14 @@
             "symbol": "LUDWIG",
             "decimals": 18,
             "logoURI": "https://bafybeiehzznjxownjllrbjij7rliuyiqn6nlfaer7izctgjk5la3ldhpq4.ipfs.dweb.link"
+        },
+        {
+            "chainId": 250,
+            "address": "0xB2a909b8bCce9B30BbC9d4c748fD897d6AD9c285",
+            "name": "Ruggie's Pizza",
+            "symbol": "RUGGIE",
+            "decimals": 18,
+            "logoURI": "https://dd.dexscreener.com/ds-data/tokens/fantom/0xb2a909b8bcce9b30bbc9d4c748fd897d6ad9c285.png?size=lg&key=4b97c8"
         },
         {
             "chainId": 252,
