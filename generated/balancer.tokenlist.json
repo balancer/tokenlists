@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 28
+        "patch": 29
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-10-25T17:50:50.904Z",
+    "timestamp": "2024-10-26T06:35:33.924Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12106,6 +12106,14 @@
             "symbol": "RUGGIE",
             "decimals": 18,
             "logoURI": "https://dd.dexscreener.com/ds-data/tokens/fantom/0xb2a909b8bcce9b30bbc9d4c748fd897d6ad9c285.png?size=lg&key=4b97c8"
+        },
+        {
+            "chainId": 250,
+            "address": "0x1aeC146acF835b30b3745fD7a02B1c5D4A9d85eF",
+            "name": "The Genie ",
+            "symbol": "$genie",
+            "decimals": 18,
+            "logoURI": "https://dd.dexscreener.com/ds-data/tokens/fantom/0x1aec146acf835b30b3745fd7a02b1c5d4a9d85ef.png?size=lg&key=99f24a"
         },
         {
             "chainId": 252,
