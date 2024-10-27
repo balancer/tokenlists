@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 29
+        "patch": 30
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-10-26T06:35:33.924Z",
+    "timestamp": "2024-10-27T14:25:28.696Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7308,6 +7308,14 @@
             "symbol": "USDL",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/38484/large/USDL-Token-200px.png?1725022887"
+        },
+        {
+            "chainId": 1,
+            "address": "0x8C7AC134ED985367EADC6F727d79E8295E11435c",
+            "name": "The Balkan Dwarf",
+            "symbol": "Kekec",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/32563/large/download-compresskaru.com.png?1698546378"
         },
         {
             "chainId": 10,
