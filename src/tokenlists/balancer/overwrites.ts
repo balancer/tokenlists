@@ -1019,6 +1019,10 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://dd.dexscreener.com/ds-data/tokens/fantom/0x1aec146acf835b30b3745fd7a02b1c5d4a9d85ef.png?size=lg&key=99f24a',
     },
+    '0x5d9EaFC54567F34164A269Ba6C099068df6ef651': {
+      logoURI:
+        'https://cdn.jsdelivr.net/gh/unified-defi/equalizer-tokens@latest/fantom/tokens/128x128/0x5d9eafc54567f34164a269ba6c099068df6ef651.png',
+    },
   },
   [Network.Sepolia]: {
     '0xb19382073c7A0aDdbb56Ac6AF1808Fa49e377B75': {
