@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 32
+        "patch": 33
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-10-28T13:06:58.627Z",
+    "timestamp": "2024-10-28T14:44:04.648Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12764,9 +12764,7 @@
             "name": "Autonolas",
             "symbol": "OLAS",
             "decimals": 18,
-            "extensions": {
-                "coingeckId": "autonolas"
-            }
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x54330d28ca3357f294334bdc454a032e7f353416.png"
         },
         {
             "chainId": 8453,
@@ -14280,9 +14278,7 @@
             "name": "Autonolas",
             "symbol": "OLAS",
             "decimals": 18,
-            "extensions": {
-                "coingeckId": "autonolas"
-            }
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x064f8b858c2a603e1b106a2039f5446d32dc81c1.png"
         },
         {
             "chainId": 42161,
