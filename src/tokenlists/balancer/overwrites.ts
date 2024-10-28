@@ -438,6 +438,11 @@ export const overwrites: OverwritesForList = {
     '0xb165a74407fE1e519d6bCbDeC1Ed3202B35a4140': {
       symbol: 'waUSDT',
     },
+    '0x064F8B858C2A603e1b106a2039f5446D32dc81c1': {
+      extensions: {
+        coingeckId: 'autonolas',
+      },
+    },
   },
   [Network.Optimism]: {
     '0xe05A08226c49b636ACf99c40Da8DC6aF83CE5bB3': {
@@ -650,6 +655,11 @@ export const overwrites: OverwritesForList = {
     '0x99aC4484e8a1dbd6A185380B3A811913Ac884D87': {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x83f20f44975d03b1b09e64809b757c47f942beea.png',
+    },
+    '0x54330d28ca3357F294334BDC454a032e7f353416': {
+      extensions: {
+        coingeckId: 'autonolas',
+      },
     },
   },
   [Network.Fantom]: {
