@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 33
+        "patch": 34
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-10-28T14:44:04.648Z",
+    "timestamp": "2024-10-29T11:15:02.820Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12130,6 +12130,14 @@
             "symbol": "SURV",
             "decimals": 18,
             "logoURI": "https://cdn.jsdelivr.net/gh/unified-defi/equalizer-tokens@latest/fantom/tokens/128x128/0x5d9eafc54567f34164a269ba6c099068df6ef651.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0xA556f91530b4e1f59964d5891ee1c50517dC01cd",
+            "name": "GRIM",
+            "symbol": "GRIM",
+            "decimals": 18,
+            "logoURI": "https://dd.dexscreener.com/ds-data/tokens/fantom/0xa556f91530b4e1f59964d5891ee1c50517dc01cd.png?size=lg&key=0cfccd"
         },
         {
             "chainId": 252,
