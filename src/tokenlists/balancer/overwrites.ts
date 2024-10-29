@@ -1023,6 +1023,10 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://cdn.jsdelivr.net/gh/unified-defi/equalizer-tokens@latest/fantom/tokens/128x128/0x5d9eafc54567f34164a269ba6c099068df6ef651.png',
     },
+    '0xA556f91530b4e1f59964d5891ee1c50517dC01cd': {
+      logoURI:
+        'https://dd.dexscreener.com/ds-data/tokens/fantom/0xa556f91530b4e1f59964d5891ee1c50517dc01cd.png?size=lg&key=0cfccd',
+    },
   },
   [Network.Sepolia]: {
     '0xb19382073c7A0aDdbb56Ac6AF1808Fa49e377B75': {
