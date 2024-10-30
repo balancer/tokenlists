@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 35
+        "patch": 36
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-10-29T15:25:22.242Z",
+    "timestamp": "2024-10-30T01:48:17.874Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7316,6 +7316,14 @@
             "symbol": "Kekec",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/32563/large/download-compresskaru.com.png?1698546378"
+        },
+        {
+            "chainId": 1,
+            "address": "0xd9Fcd98c322942075A5C3860693e9f4f03AAE07b",
+            "name": "Euler",
+            "symbol": "EUL",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/26149/large/Coingecko_logo_%281%29.png?1706026067"
         },
         {
             "chainId": 10,
