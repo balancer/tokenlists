@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 36
+        "patch": 37
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-10-30T01:48:17.874Z",
+    "timestamp": "2024-10-30T15:08:50.146Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13142,6 +13142,14 @@
             "symbol": "aBTC",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7a087e75807f2e5143c161a817e64df6dc5eafe0.png"
+        },
+        {
+            "chainId": 34443,
+            "address": "0x80137510979822322193FC997d400D5A6C747bf7",
+            "name": "StakeStone Ether",
+            "symbol": "STONE",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/33103/large/200_200.png?1702602672"
         },
         {
             "chainId": 42161,
