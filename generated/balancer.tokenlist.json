@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 37
+        "patch": 38
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-10-30T15:08:50.146Z",
+    "timestamp": "2024-10-31T08:17:00.016Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12146,6 +12146,14 @@
             "symbol": "GRIM",
             "decimals": 18,
             "logoURI": "https://dd.dexscreener.com/ds-data/tokens/fantom/0xa556f91530b4e1f59964d5891ee1c50517dc01cd.png?size=lg&key=0cfccd"
+        },
+        {
+            "chainId": 250,
+            "address": "0x24626638Ca7b8315c755F4a7337542f10582C805",
+            "name": "Sonic Peng",
+            "symbol": "SPENG",
+            "decimals": 18,
+            "logoURI": "https://dd.dexscreener.com/ds-data/tokens/fantom/0x24626638ca7b8315c755f4a7337542f10582c805.png?size=lg&key=0c4c55"
         },
         {
             "chainId": 252,
