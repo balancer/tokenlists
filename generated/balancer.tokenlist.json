@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 39
+        "patch": 40
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-11-01T01:47:05.574Z",
+    "timestamp": "2024-11-01T12:52:35.066Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14989,10 +14989,31 @@
         },
         {
             "chainId": 42161,
-            "address": "0xE860cb06c6FdbEe87C4104b2DAA10FDb06686aAc",
-            "name": "Cerberus USD",
-            "symbol": "CUSD",
+            "address": "0x82ab9B2398217bF0200Bc8b18f2A995C1eFb975a",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6
+        },
+        {
+            "chainId": 42161,
+            "address": "0x984CcfafE1426342D24258a72E2dbEBa1660A386",
+            "name": "Wrapped Ulysses Alt L1 USDC",
+            "symbol": "WuL1s-USDC",
             "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0xc6e54f2a194D8f08DFD5a19D012D5A80A1Cc9395",
+            "name": "Wrapped Ulysses Optimism Stack USDC",
+            "symbol": "WuOPs-USDC",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0xd7654107697D484c0070F6d71C699B6a1A9A9795",
+            "name": "USDC Token",
+            "symbol": "m.USDC",
+            "decimals": 6
         },
         {
             "chainId": 43114,
