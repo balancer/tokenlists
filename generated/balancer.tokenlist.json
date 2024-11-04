@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 40
+        "patch": 41
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-11-01T12:52:35.066Z",
+    "timestamp": "2024-11-04T16:50:54.224Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7324,6 +7324,14 @@
             "symbol": "EUL",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/26149/large/Coingecko_logo_%281%29.png?1706026067"
+        },
+        {
+            "chainId": 1,
+            "address": "0x690031313d70c2545357F4487C6a3F134C434507",
+            "name": "QQQ6900",
+            "symbol": "QQQ",
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x690031313d70c2545357f4487c6a3f134c434507.png"
         },
         {
             "chainId": 10,
