@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 41
+        "patch": 42
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-11-04T16:50:54.224Z",
+    "timestamp": "2024-11-05T14:06:35.490Z",
     "tokens": [
         {
             "chainId": 1,
@@ -11050,6 +11050,14 @@
             "name": "MaticX+ by StarSeeds Protocol",
             "symbol": "MaticX+",
             "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8",
+            "name": "Gyro Dollar",
+            "symbol": "GYD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca5d8f8a8d49439357d3cf46ca2e720702f132b8.png"
         },
         {
             "chainId": 250,
