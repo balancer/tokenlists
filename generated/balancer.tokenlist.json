@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 42
+        "patch": 43
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-11-05T14:06:35.490Z",
+    "timestamp": "2024-11-06T17:34:56.963Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8559,6 +8559,13 @@
             "symbol": "SWISE",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/15044/large/stakewise200.png?1619520721"
+        },
+        {
+            "chainId": 100,
+            "address": "0x159e6881e6EC370b46F2Fe9fE75CBDFD8f7877b4",
+            "name": "Circles-vz3FXAehfZHPTVPYUBDvPEhiBkA-ERC20s",
+            "symbol": "s-CRC",
+            "decimals": 18
         },
         {
             "chainId": 137,
