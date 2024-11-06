@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 43
+        "patch": 44
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-11-06T17:34:56.963Z",
+    "timestamp": "2024-11-06T21:18:23.317Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7332,6 +7332,14 @@
             "symbol": "QQQ",
             "decimals": 9,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x690031313d70c2545357f4487c6a3f134c434507.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x76e222b07C53D28b89b0bAc18602810Fc22B49A8",
+            "name": "Joe Coin",
+            "symbol": "JOE",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/32333/large/joe.png?1697452551"
         },
         {
             "chainId": 10,
