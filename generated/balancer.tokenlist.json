@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 45
+        "patch": 46
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-11-11T13:29:13.765Z",
+    "timestamp": "2024-11-11T14:42:21.345Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13061,6 +13061,22 @@
             "symbol": "cbBTC",
             "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0xb8DE15Fb529d98C93C749De63c749D48D25A30DF",
+            "name": "BASED NUT",
+            "symbol": "NUT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb8de15fb529d98c93c749de63c749d48d25a30df.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0xAC130701aa31c284c36609E2489f150F419AD7AD",
+            "name": "BASED SUPERNUTS",
+            "symbol": "SNUT",
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xac130701aa31c284c36609e2489f150f419ad7ad.png"
         },
         {
             "chainId": 34443,
