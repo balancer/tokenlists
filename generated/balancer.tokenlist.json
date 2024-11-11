@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 44
+        "patch": 45
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-11-06T21:18:23.317Z",
+    "timestamp": "2024-11-11T13:29:13.765Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7340,6 +7340,14 @@
             "symbol": "JOE",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/32333/large/joe.png?1697452551"
+        },
+        {
+            "chainId": 1,
+            "address": "0x4dAeb4a06F70f4b1A5C329115731fE4b89C0B227",
+            "name": "Quasacoin",
+            "symbol": "QUA",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/21965/large/coin_200.png?1696521314"
         },
         {
             "chainId": 10,
