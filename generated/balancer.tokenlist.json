@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 46
+        "patch": 47
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-11-11T14:42:21.345Z",
+    "timestamp": "2024-11-12T01:40:08.389Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13213,6 +13213,13 @@
             "symbol": "STONE",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/33103/large/200_200.png?1702602672"
+        },
+        {
+            "chainId": 34443,
+            "address": "0xcfD1D50ce23C46D3Cf6407487B2F8934e96DC8f9",
+            "name": "Autonolas",
+            "symbol": "OLAS",
+            "decimals": 18
         },
         {
             "chainId": 42161,
