@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 47
+        "patch": 48
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-11-12T01:40:08.389Z",
+    "timestamp": "2024-11-13T01:57:26.906Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13208,18 +13208,19 @@
         },
         {
             "chainId": 34443,
+            "address": "0xcfD1D50ce23C46D3Cf6407487B2F8934e96DC8f9",
+            "name": "Autonolas",
+            "symbol": "OLAS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xcfd1d50ce23c46d3cf6407487b2f8934e96dc8f9.png"
+        },
+        {
+            "chainId": 34443,
             "address": "0x80137510979822322193FC997d400D5A6C747bf7",
             "name": "StakeStone Ether",
             "symbol": "STONE",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/33103/large/200_200.png?1702602672"
-        },
-        {
-            "chainId": 34443,
-            "address": "0xcfD1D50ce23C46D3Cf6407487B2F8934e96DC8f9",
-            "name": "Autonolas",
-            "symbol": "OLAS",
-            "decimals": 18
         },
         {
             "chainId": 42161,
