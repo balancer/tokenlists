@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 49
+        "patch": 50
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-11-14T14:09:50.925Z",
+    "timestamp": "2024-11-16T12:46:57.430Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7358,6 +7358,14 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf.png"
         },
         {
+            "chainId": 1,
+            "address": "0xaaeE1A9723aaDB7afA2810263653A34bA2C21C7a",
+            "name": "Mog Coin",
+            "symbol": "Mog",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/31059/large/MOG_LOGO_200x200.png?1696529893"
+        },
+        {
             "chainId": 10,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -11089,6 +11097,65 @@
             "symbol": "GYD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca5d8f8a8d49439357d3cf46ca2e720702f132b8.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x078f358208685046a11C85e8ad32895DED33A249",
+            "name": "Aave Polygon WBTC",
+            "symbol": "aPolWBTC",
+            "decimals": 8,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/32883/large/wbtc.png?1699719908"
+        },
+        {
+            "chainId": 137,
+            "address": "0xf59036CAEBeA7dC4b86638DFA2E3C97dA9FcCd40",
+            "name": "Aave Polygon wstETH",
+            "symbol": "aPolwstETH",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/32890/large/WSTETH.png?1699776336"
+        },
+        {
+            "chainId": 137,
+            "address": "0x80cA0d8C38d2e2BcbaB66aA1648Bd1C7160500FE",
+            "name": "Aave Polygon MATICX",
+            "symbol": "aPolMATICX",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/32920/large/maticx.png?1699825663"
+        },
+        {
+            "chainId": 137,
+            "address": "0x0B220b82F3eA3B7F6d9A1D8ab58930C064A2b5Bf",
+            "name": "Golem Network Token (PoS)",
+            "symbol": "GLM",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x19782D3Dc4701cEeeDcD90f0993f0A9126ed89d0",
+            "name": "REN (PoS)",
+            "symbol": "REN",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x86233fF3eD561A0E35910920acB2D91419Fd14d0",
+            "name": "Dogecoin",
+            "symbol": "DOGE",
+            "decimals": 8
+        },
+        {
+            "chainId": 137,
+            "address": "0xeCDCB5B88F8e3C15f95c720C51c71c9E2080525d",
+            "name": "Wrapped BNB",
+            "symbol": "WBNB",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0x7Bb11E7f8b10E9e571E5d8Eace04735fDFB2358a",
+            "name": "Wrapped AVAX",
+            "symbol": "WAVAX",
+            "decimals": 18
         },
         {
             "chainId": 250,
