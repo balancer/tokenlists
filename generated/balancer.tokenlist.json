@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 50
+        "patch": 51
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-11-16T12:46:57.430Z",
+    "timestamp": "2024-11-16T12:50:33.175Z",
     "tokens": [
         {
             "chainId": 1,
@@ -11148,14 +11148,16 @@
             "address": "0xeCDCB5B88F8e3C15f95c720C51c71c9E2080525d",
             "name": "Wrapped BNB",
             "symbol": "WBNB",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/22884/large/BNB_wh_small.png?1696522182"
         },
         {
             "chainId": 137,
             "address": "0x7Bb11E7f8b10E9e571E5d8Eace04735fDFB2358a",
             "name": "Wrapped AVAX",
             "symbol": "WAVAX",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/22943/large/AVAX_wh_small.png?1696522240"
         },
         {
             "chainId": 250,
