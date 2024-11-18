@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 52
+        "patch": 53
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-11-18T13:37:15.775Z",
+    "timestamp": "2024-11-18T15:08:00.972Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13162,6 +13162,14 @@
             "symbol": "SNUT",
             "decimals": 9,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xac130701aa31c284c36609e2489f150f419ad7ad.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452",
+            "name": "Wrapped liquid staked Ether 2.0",
+            "symbol": "wstETH",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/18834/large/wstETH.png?1696518295"
         },
         {
             "chainId": 34443,
