@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 53
+        "patch": 54
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-11-18T15:08:00.972Z",
+    "timestamp": "2024-11-19T21:06:06.400Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8110,6 +8110,14 @@
             "logoURI": "https://gitlab.com/optimism-prime/logos/-/raw/main/imxB-USDC-VELO-VELO.png"
         },
         {
+            "chainId": 10,
+            "address": "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8",
+            "name": "Gyro Dollar",
+            "symbol": "GYD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca5d8f8a8d49439357d3cf46ca2e720702f132b8.png"
+        },
+        {
             "chainId": 100,
             "address": "0x7eF541E2a22058048904fE5744f9c7E4C57AF717",
             "name": "Balancer on xDai",
@@ -13170,6 +13178,14 @@
             "symbol": "wstETH",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/18834/large/wstETH.png?1696518295"
+        },
+        {
+            "chainId": 8453,
+            "address": "0xC0D3700000987C99b3C9009069E4f8413fD22330",
+            "name": "Cod3x USD",
+            "symbol": "cdxUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc0d3700000987c99b3c9009069e4f8413fd22330.png"
         },
         {
             "chainId": 34443,
