@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 54
+        "patch": 55
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-11-19T21:06:06.400Z",
+    "timestamp": "2024-11-21T16:41:59.539Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7364,6 +7364,14 @@
             "symbol": "Mog",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/31059/large/MOG_LOGO_200x200.png?1696529893"
+        },
+        {
+            "chainId": 1,
+            "address": "0x4E15361FD6b4BB609Fa63C81A2be19d873717870",
+            "name": "Fantom Token",
+            "symbol": "FTM",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/16036/large/Fantom.png?1696515646"
         },
         {
             "chainId": 10,
