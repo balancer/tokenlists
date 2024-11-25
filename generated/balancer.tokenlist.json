@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 55
+        "patch": 56
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-11-21T16:41:59.539Z",
+    "timestamp": "2024-11-25T16:35:53.206Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7372,6 +7372,22 @@
             "symbol": "FTM",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/16036/large/Fantom.png?1696515646"
+        },
+        {
+            "chainId": 1,
+            "address": "0x6e6B7ADfC7Db9fEeB8896418aC3422966f65D0A5",
+            "name": "Nektar Token",
+            "symbol": "NET",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6e6b7adfc7db9feeb8896418ac3422966f65d0a5.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x657e8C867D8B37dCC18fA4Caead9C45EB088C642",
+            "name": "ether.fi BTC",
+            "symbol": "eBTC",
+            "decimals": 8,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/50411/large/eBTC.png?1727664788"
         },
         {
             "chainId": 10,
