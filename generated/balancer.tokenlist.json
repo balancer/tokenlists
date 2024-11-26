@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 56
+        "patch": 57
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-11-25T16:35:53.206Z",
+    "timestamp": "2024-11-26T14:03:08.298Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13210,6 +13210,14 @@
             "symbol": "cdxUSD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc0d3700000987c99b3c9009069e4f8413fd22330.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
+            "name": "USD+",
+            "symbol": "USD+",
+            "decimals": 6,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/39624/large/USD_.png?1723179227"
         },
         {
             "chainId": 34443,
