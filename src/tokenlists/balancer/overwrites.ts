@@ -281,6 +281,12 @@ export const overwrites: OverwritesForList = {
     '0x2dCa80061632f3F87c9cA28364d1d0c30cD79a19': {
       symbol: 'waUSDCn',
     },
+    '0x6e6b7adfc7db9feeb8896418ac3422966f65d0a5': {
+      name: 'Nektar Network',
+      extensions: {
+        coingeckoId: 'nektar-network',
+      },
+    },
   },
   [Network.Arbitrum]: {
     '0xfc675adfdd721064ba923d07a8a238a9e52d8ace': {
