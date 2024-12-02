@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 57
+        "patch": 58
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-11-26T14:03:08.298Z",
+    "timestamp": "2024-12-02T13:43:18.350Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6958,7 +6958,7 @@
         {
             "chainId": 1,
             "address": "0x20157DBAbb84e3BBFE68C349d0d44E48AE7B5AD2",
-            "name": "dlcBTC",
+            "name": "iBTC",
             "symbol": "DLCBTC",
             "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x20157dbabb84e3bbfe68c349d0d44e48ae7b5ad2.png"
@@ -7388,6 +7388,14 @@
             "symbol": "eBTC",
             "decimals": 8,
             "logoURI": "https://coin-images.coingecko.com/coins/images/50411/large/eBTC.png?1727664788"
+        },
+        {
+            "chainId": 1,
+            "address": "0x66a1E37c9b0eAddca17d3662D6c05F4DECf3e110",
+            "name": "Resolv USD",
+            "symbol": "USR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110.png"
         },
         {
             "chainId": 10,
@@ -14936,7 +14944,7 @@
         {
             "chainId": 42161,
             "address": "0x050C24dBf1eEc17babE5fc585F06116A259CC77A",
-            "name": "dlcBTC",
+            "name": "iBTC",
             "symbol": "DLCBTC",
             "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x050c24dbf1eec17babe5fc585f06116a259cc77a.png"
