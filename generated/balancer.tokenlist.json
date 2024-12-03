@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 58
+        "patch": 59
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-12-02T13:43:18.350Z",
+    "timestamp": "2024-12-03T13:48:51.203Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8646,6 +8646,14 @@
             "symbol": "GYD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca5d8f8a8d49439357d3cf46ca2e720702f132b8.png"
+        },
+        {
+            "chainId": 100,
+            "address": "0x1e2C4fb7eDE391d116E6B41cD0608260e8801D59",
+            "name": "Backed CSPX Core S&P 500",
+            "symbol": "bCSPX",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/31891/large/b-CSPX-200x200.png?1696530702"
         },
         {
             "chainId": 137,
