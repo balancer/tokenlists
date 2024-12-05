@@ -1,6 +1,8 @@
+import { dRpcUrl } from './rpc'
+
 export default {
   name: 'mode',
-  rpc: 'https://mainnet.mode.network',
+  rpc: dRpcUrl('mode'),
   coingecko: {
     platformId: 'mode',
   },
