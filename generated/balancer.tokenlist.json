@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 59
+        "patch": 60
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-12-03T13:48:51.203Z",
+    "timestamp": "2024-12-05T12:04:45.691Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7396,6 +7396,13 @@
             "symbol": "USR",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x2958f2F961446d33715fA76e23aceB6Bca3072F5",
+            "name": "GLOBAL Stability Unit",
+            "symbol": "GSU",
+            "decimals": 2
         },
         {
             "chainId": 10,
@@ -16179,6 +16186,27 @@
             "name": "Static Aave Ethereum USDT",
             "symbol": "stataEthUSDT",
             "decimals": 6
+        },
+        {
+            "chainId": 11155111,
+            "address": "0x9D6664Ad3bbEf76a2A0DF759DaDBF29D8c8D54E2",
+            "name": "Tether",
+            "symbol": "UXXX1",
+            "decimals": 6
+        },
+        {
+            "chainId": 11155111,
+            "address": "0x823567609e2e745222E96E85598d4540Ac47Aa32",
+            "name": "GLOBAL Stability Unit",
+            "symbol": "GSU",
+            "decimals": 2
+        },
+        {
+            "chainId": 11155111,
+            "address": "0x6DA08364fbEEe5A2ee8E596F3Db6170B147Cad20",
+            "name": "GGGGGG",
+            "symbol": "GXX1",
+            "decimals": 2
         }
     ]
 }
