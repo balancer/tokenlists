@@ -20,6 +20,7 @@ jobs:
           INFURA_KEY: ${{ secrets.INFURA_KEY }}
           ALCHEMY_KEY: ${{ secrets.ALCHEMY_KEY }}
           COINGECKO_API_KEY: ${{ secrets.COINGECKO_API_KEY }}
+          DRPC_KEY: ${{ secrets.DRPC_KEY }}
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4
         with:
