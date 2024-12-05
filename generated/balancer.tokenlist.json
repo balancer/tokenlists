@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 60
+        "patch": 61
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-12-05T12:04:45.691Z",
+    "timestamp": "2024-12-05T12:53:59.933Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8155,6 +8155,28 @@
             "symbol": "GYD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca5d8f8a8d49439357d3cf46ca2e720702f132b8.png"
+        },
+        {
+            "chainId": 10,
+            "address": "0x298B9B95708152ff6968aafd889c6586e9169f1D",
+            "name": "Synth sBTC",
+            "symbol": "sBTC",
+            "decimals": 18
+        },
+        {
+            "chainId": 10,
+            "address": "0xFBc4198702E81aE77c06D58f81b629BDf36f0a71",
+            "name": "Synth sEUR",
+            "symbol": "sEUR",
+            "decimals": 18
+        },
+        {
+            "chainId": 10,
+            "address": "0x6d80113e533a2C0fe82EaBD35f1875DcEA89Ea97",
+            "name": "Aave Optimism SUSD",
+            "symbol": "aOptSUSD",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/32918/large/asusd.png?1699825436"
         },
         {
             "chainId": 100,
