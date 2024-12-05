@@ -1,8 +1,6 @@
-import { dRpcUrl } from './rpc'
-
 export default {
   name: 'arbitrum',
-  rpc: dRpcUrl('arbitrum'),
+  rpc: `https://lb.drpc.org/ogrpc?network=arbitrum&dkey=${process.env.DRPC_KEY}`,
   coingecko: {
     platformId: 'arbitrum-one',
   },

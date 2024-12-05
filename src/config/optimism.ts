@@ -1,8 +1,6 @@
-import { dRpcUrl } from './rpc'
-
 export default {
   name: 'optimism',
-  rpc: dRpcUrl('optimism'),
+  rpc: `https://lb.drpc.org/ogrpc?network=optimism&dkey=${process.env.DRPC_KEY}`,
   coingecko: {
     platformId: 'optimistic-ethereum',
   },

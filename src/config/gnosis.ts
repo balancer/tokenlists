@@ -1,8 +1,6 @@
-import { dRpcUrl } from './rpc'
-
 export default {
   name: 'gnosis',
-  rpc: dRpcUrl('gnosis'),
+  rpc: `https://lb.drpc.org/ogrpc?network=gnosis&dkey=${process.env.DRPC_KEY}`,
   coingecko: {
     platformId: 'xdai',
   },
