@@ -93,4 +93,7 @@ export default [
   '0xbdc2ad83ba9f27cd97b58bd05908cb6939f8d789', // USDC Impermax Borrowable USDC-VELO Vault
   '0x1f157e15cfaee06b6f8f646e3f4ad1cc7c1739bc', // VELO Impermax Borrowable USDC-VELO Vault
   '0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8', // GYD
+  '0x298B9B95708152ff6968aafd889c6586e9169f1D', // Synth sBTC
+  '0xFBc4198702E81aE77c06D58f81b629BDf36f0a71', // Synth sEUR
+  '0x6d80113e533a2C0fe82EaBD35f1875DcEA89Ea97', // Aave Optimism sUSD
 ]
