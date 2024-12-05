@@ -1,5 +1,8 @@
+import { dRpcUrl } from './rpc'
+
 export default {
   name: 'sepolia',
+  rpc: dRpcUrl('sepolia'),
   coingecko: {
     platformId: 'sepolia',
   },

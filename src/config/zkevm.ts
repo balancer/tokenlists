@@ -1,7 +1,8 @@
+import { dRpcUrl } from './rpc'
+
 export default {
   name: 'zkevm',
-  rpc:
-    'https://polygonzkevm-mainnet.g.alchemy.com/v2/' + process.env.ALCHEMY_KEY,
+  rpc: dRpcUrl('polygon-zkevm'),
   coingecko: {
     platformId: 'polygon-zkevm',
   },

@@ -1,6 +1,8 @@
+import { dRpcUrl } from './rpc'
+
 export default {
   name: 'ethereum',
-  rpc: `https://eth-mainnet.g.alchemy.com/v2/${process.env.ALCHEMY_KEY}`,
+  rpc: dRpcUrl('ethereum'),
   coingecko: {
     platformId: 'ethereum',
   },

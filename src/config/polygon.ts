@@ -1,6 +1,8 @@
+import { dRpcUrl } from './rpc'
+
 export default {
   name: 'polygon',
-  rpc: `https://polygon-mainnet.g.alchemy.com/v2/${process.env.ALCHEMY_KEY}`,
+  rpc: dRpcUrl('polygon'),
   coingecko: {
     platformId: 'polygon-pos',
   },

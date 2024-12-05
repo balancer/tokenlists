@@ -1,6 +1,8 @@
+import { dRpcUrl } from './rpc'
+
 export default {
   name: 'fraxtal',
-  rpc: 'https://rpc.frax.com',
+  rpc: dRpcUrl('fraxtal'),
   coingecko: {
     platformId: 'frax',
   },

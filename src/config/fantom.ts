@@ -1,6 +1,8 @@
+import { dRpcUrl } from './rpc'
+
 export default {
   name: 'fantom',
-  rpc: `https://fantom-mainnet.g.alchemy.com/v2/${process.env.ALCHEMY_KEY}`,
+  rpc: dRpcUrl('fantom'),
   coingecko: {
     platformId: 'fantom',
   },

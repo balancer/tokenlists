@@ -1,6 +1,8 @@
+import { dRpcUrl } from './rpc'
+
 export default {
   name: 'avalanche',
-  rpc: `https://avax-mainnet.g.alchemy.com/v2/${process.env.ALCHEMY_KEY}`,
+  rpc: dRpcUrl('avalanche'),
   coingecko: {
     platformId: 'avalanche',
   },
