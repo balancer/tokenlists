@@ -1,8 +1,6 @@
-import { dRpcUrl } from './rpc'
-
 export default {
   name: 'mode',
-  rpc: dRpcUrl('mode'),
+  rpc: `https://lb.drpc.org/ogrpc?network=mode&dkey=${process.env.DRPC_KEY}`,
   coingecko: {
     platformId: 'mode',
   },
