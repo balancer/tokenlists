@@ -597,12 +597,10 @@ export const overwrites: OverwritesForList = {
         'https://gitlab.com/optimism-prime/logos/-/raw/main/imxB-USDC-VELO-VELO.png',
     },
     '0x298B9B95708152ff6968aafd889c6586e9169f1D': {
-      logoURI:
-        'https://optimistic.etherscan.io/token/images/Synthetix_sBTC_32.png',
+      logoURI: 'https://assets.coingecko.com/coins/images/8838/standard/sBTC.png',
     },
     '0xFBc4198702E81aE77c06D58f81b629BDf36f0a71': {
-      logoURI:
-        'https://optimistic.etherscan.io/token/images/synthetixeuro_32.png',
+      logoURI: 'https://assets.coingecko.com/coins/images/13637/standard/sEUR.png',
     },
   },
   [Network.Gnosis]: {
