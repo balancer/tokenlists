@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 61
+        "patch": 62
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-12-05T12:53:59.933Z",
+    "timestamp": "2024-12-05T14:38:58.459Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8161,14 +8161,16 @@
             "address": "0x298B9B95708152ff6968aafd889c6586e9169f1D",
             "name": "Synth sBTC",
             "symbol": "sBTC",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://optimistic.etherscan.io/token/images/Synthetix_sBTC_32.png"
         },
         {
             "chainId": 10,
             "address": "0xFBc4198702E81aE77c06D58f81b629BDf36f0a71",
             "name": "Synth sEUR",
             "symbol": "sEUR",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://optimistic.etherscan.io/token/images/synthetixeuro_32.png"
         },
         {
             "chainId": 10,
