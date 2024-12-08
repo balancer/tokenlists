@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 63
+        "patch": 64
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-12-08T03:45:30.564Z",
+    "timestamp": "2024-12-08T19:05:49.655Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7403,6 +7403,14 @@
             "name": "GLOBAL Stability Unit",
             "symbol": "GSU",
             "decimals": 2
+        },
+        {
+            "chainId": 1,
+            "address": "0xdab396cCF3d84Cf2D07C4454e10C8A6F5b008D2b",
+            "name": "Goldfinch",
+            "symbol": "GFI",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/19081/large/GOLDFINCH.png?1696518531"
         },
         {
             "chainId": 10,
