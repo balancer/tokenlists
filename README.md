@@ -47,9 +47,11 @@ To run the `generate` command locally or in the Github actions of a fork you
 will need to add these ENV variables:
 
 ```
+DRPC_KEY=xxx
 INFURA_KEY=xxx
 ALCHEMY_KEY=xxx
 COINGECKO_API_KEY=xxx
+
 ```
 
 You'll need to sign up to each of those services to get keys:
