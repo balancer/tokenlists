@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 66
+        "patch": 67
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-12-09T17:13:00.996Z",
+    "timestamp": "2024-12-09T20:26:49.841Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8716,6 +8716,14 @@
             "name": "Wrapped Aave Gnosis GNO",
             "symbol": "waGnoGNO",
             "decimals": 18
+        },
+        {
+            "chainId": 100,
+            "address": "0xFECB3F7c54E2CAAE9dC6Ac9060A822D47E053760",
+            "name": "BRLA Token",
+            "symbol": "BRLA",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/40062/large/IconGreen400.png?1725459580"
         },
         {
             "chainId": 137,
