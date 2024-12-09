@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 65
+        "patch": 66
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-12-09T14:05:26.777Z",
+    "timestamp": "2024-12-09T17:13:00.996Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7419,6 +7419,14 @@
             "symbol": "LNDX",
             "decimals": 6,
             "logoURI": "https://coin-images.coingecko.com/coins/images/33565/large/LNDX-200.png?1702445947"
+        },
+        {
+            "chainId": 1,
+            "address": "0xBa3335588D9403515223F109EdC4eB7269a9Ab5D",
+            "name": "Gearbox",
+            "symbol": "GEAR",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/21630/large/gear.png?1696520990"
         },
         {
             "chainId": 10,
