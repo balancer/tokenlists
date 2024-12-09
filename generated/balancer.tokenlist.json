@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 64
+        "patch": 65
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-12-08T19:05:49.655Z",
+    "timestamp": "2024-12-09T14:05:26.777Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7413,6 +7413,14 @@
             "logoURI": "https://coin-images.coingecko.com/coins/images/19081/large/GOLDFINCH.png?1696518531"
         },
         {
+            "chainId": 1,
+            "address": "0x08A1C30BBB26425c1031ee9E43FA0B9960742539",
+            "name": "LandX Governance Token",
+            "symbol": "LNDX",
+            "decimals": 6,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/33565/large/LNDX-200.png?1702445947"
+        },
+        {
             "chainId": 10,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -13280,6 +13288,44 @@
             "symbol": "USD+",
             "decimals": 6,
             "logoURI": "https://coin-images.coingecko.com/coins/images/39624/large/USD_.png?1723179227"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
+            "name": "USDA",
+            "symbol": "USDA",
+            "decimals": 18
+        },
+        {
+            "chainId": 8453,
+            "address": "0x04D5ddf5f3a8939889F11E97f8c4BB48317F1938",
+            "name": "USDz",
+            "symbol": "USDz",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/38039/large/usdz-image-200x200.png?1716334412"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x85483696Cc9970Ad9EdD786b2C5ef735F38D156f",
+            "name": "USDC+",
+            "symbol": "USDC+",
+            "decimals": 6,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/34763/large/USDC_.png?1705990720"
+        },
+        {
+            "chainId": 8453,
+            "address": "0xC1E02884AF4A283cA25ab63C45360d220d69DA52",
+            "name": "Synthetix USDC Yield",
+            "symbol": "sUSDCy",
+            "decimals": 18
+        },
+        {
+            "chainId": 8453,
+            "address": "0xCc7FF230365bD730eE4B352cC2492CEdAC49383e",
+            "name": "High Yield USD",
+            "symbol": "hyUSD",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/33636/large/hyusdlogo.png?1702536133"
         },
         {
             "chainId": 34443,
