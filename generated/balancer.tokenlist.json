@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 68
+        "patch": 69
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-12-10T00:53:07.261Z",
+    "timestamp": "2024-12-10T09:21:00.711Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8723,7 +8723,8 @@
             "address": "0x7c16F0185A26Db0AE7a9377f23BC18ea7ce5d644",
             "name": "Wrapped Aave Gnosis GNO",
             "symbol": "waGnoGNO",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7c16f0185a26db0ae7a9377f23bc18ea7ce5d644.png"
         },
         {
             "chainId": 100,
@@ -8732,6 +8733,30 @@
             "symbol": "BRLA",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/40062/large/IconGreen400.png?1725459580"
+        },
+        {
+            "chainId": 100,
+            "address": "0x773CDA0CADe2A3d86E6D4e30699d40bB95174ff2",
+            "name": "Wrapped Aave Gnosis wstETH",
+            "symbol": "waGnowstETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x773cda0cade2a3d86e6d4e30699d40bb95174ff2.png"
+        },
+        {
+            "chainId": 100,
+            "address": "0x57f664882F762FA37903FC864e2B633D384B411A",
+            "name": "Wrapped Aave Gnosis WETH",
+            "symbol": "waGnoWETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x57f664882f762fa37903fc864e2b633d384b411a.png"
+        },
+        {
+            "chainId": 100,
+            "address": "0x51350d88c1bd32Cc6A79368c9Fb70373Fb71F375",
+            "name": "Wrapped Aave Gnosis USDCe",
+            "symbol": "waGnoUSDCe",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x51350d88c1bd32cc6a79368c9fb70373fb71f375.png"
         },
         {
             "chainId": 137,
