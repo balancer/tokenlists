@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 67
+        "patch": 68
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-12-09T20:26:49.841Z",
+    "timestamp": "2024-12-10T00:53:07.261Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7427,6 +7427,14 @@
             "symbol": "GEAR",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/21630/large/gear.png?1696520990"
+        },
+        {
+            "chainId": 1,
+            "address": "0xA43D9F9982Ba219e8Cbc442Aec1304Ad014CAaA5",
+            "name": "rsGIF",
+            "symbol": "rsGIF",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa43d9f9982ba219e8cbc442aec1304ad014caaa5.png"
         },
         {
             "chainId": 10,
