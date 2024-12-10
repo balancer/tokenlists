@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 69
+        "patch": 70
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-12-10T09:21:00.711Z",
+    "timestamp": "2024-12-10T23:03:03.572Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7437,6 +7437,46 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa43d9f9982ba219e8cbc442aec1304ad014caaa5.png"
         },
         {
+            "chainId": 1,
+            "address": "0x0FE906e030a44eF24CA8c7dC7B7c53A6C4F00ce9",
+            "name": "Wrapped Aave Ethereum Lido WETH",
+            "symbol": "waEthLidoWETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0fe906e030a44ef24ca8c7dc7b7c53a6c4f00ce9.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x775F661b0bD1739349b9A2A3EF60be277c5d2D29",
+            "name": "Wrapped Aave Ethereum Lido wstETH",
+            "symbol": "waEthLidowstETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x775f661b0bd1739349b9a2a3ef60be277c5d2d29.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x0bfc9d54Fc184518A81162F8fB99c2eACa081202",
+            "name": "Wrapped Aave Ethereum WETH",
+            "symbol": "waEthWETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0bfc9d54fc184518a81162f8fb99c2eaca081202.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xD4fa2D31b7968E448877f69A96DE69f5de8cD23E",
+            "name": "Wrapped Aave Ethereum USDC",
+            "symbol": "waEthUSDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd4fa2d31b7968e448877f69a96de69f5de8cd23e.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x7Bc3485026Ac48b6cf9BaF0A377477Fff5703Af8",
+            "name": "Wrapped Aave Ethereum USDT",
+            "symbol": "waEthUSDT",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7bc3485026ac48b6cf9baf0a377477fff5703af8.png"
+        },
+        {
             "chainId": 10,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -13375,6 +13415,14 @@
             "symbol": "hyUSD",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/33636/large/hyusdlogo.png?1702536133"
+        },
+        {
+            "chainId": 8453,
+            "address": "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8",
+            "name": "Gyro Dollar",
+            "symbol": "GYD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca5d8f8a8d49439357d3cf46ca2e720702f132b8.png"
         },
         {
             "chainId": 34443,
