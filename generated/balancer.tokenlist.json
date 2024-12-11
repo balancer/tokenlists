@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 73
+        "patch": 74
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-12-11T14:04:45.719Z",
+    "timestamp": "2024-12-11T23:34:25.502Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7499,6 +7499,14 @@
             "symbol": "wUSDL",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7751e2f4b8ae93ef6b79d86419d42fe3295a4559.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xc824A08dB624942c5E5F330d56530cD1598859fD",
+            "name": "High Growth ETH",
+            "symbol": "hgETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc824a08db624942c5e5f330d56530cd1598859fd.png"
         },
         {
             "chainId": 10,
