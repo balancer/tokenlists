@@ -972,4 +972,5 @@ export default [
   '0x7Bc3485026Ac48b6cf9BaF0A377477Fff5703Af8', // aUSDT
   '0xbeefc01767ed5086f35decb6c00e6c12bc7476c1', //csUSDL
   '0xbeef01735c132ada46aa9aa4c54623caa92a64cb', //steakUSDC
+  '0x7751e2f4b8ae93ef6b79d86419d42fe3295a4559', //wUSDL
 ]
