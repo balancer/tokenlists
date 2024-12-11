@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 71
+        "patch": 72
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-12-11T12:39:04.339Z",
+    "timestamp": "2024-12-11T13:23:20.779Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7483,6 +7483,14 @@
             "symbol": "csUSDL",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xbeefc01767ed5086f35decb6c00e6c12bc7476c1.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xBEEF01735c132Ada46AA9aA4c54623cAA92A64CB",
+            "name": "Steakhouse USDC",
+            "symbol": "steakUSDC",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/51473/large/steakUSDC.png?1731396462"
         },
         {
             "chainId": 10,
