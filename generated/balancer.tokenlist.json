@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 70
+        "patch": 71
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-12-10T23:03:03.572Z",
+    "timestamp": "2024-12-11T12:39:04.339Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7475,6 +7475,14 @@
             "symbol": "waEthUSDT",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7bc3485026ac48b6cf9baf0a377477fff5703af8.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xbEEFC01767ed5086f35deCb6C00e6C12bc7476C1",
+            "name": "Coinshift USDL",
+            "symbol": "csUSDL",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xbeefc01767ed5086f35decb6c00e6c12bc7476c1.png"
         },
         {
             "chainId": 10,
