@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 72
+        "patch": 73
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-12-11T13:23:20.779Z",
+    "timestamp": "2024-12-11T14:04:45.719Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5333,7 +5333,7 @@
             "name": "ETHx",
             "symbol": "ETHx",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/30870/large/ETHx-small.png?1688373266"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa35b1b31ce002fbf2058d22f30f95d405200a15b.png"
         },
         {
             "chainId": 1,
@@ -7491,6 +7491,14 @@
             "symbol": "steakUSDC",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/51473/large/steakUSDC.png?1731396462"
+        },
+        {
+            "chainId": 1,
+            "address": "0x7751E2F4b8ae93EF6B79d86419d42FE3295A4559",
+            "name": "Wrapped USDL",
+            "symbol": "wUSDL",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7751e2f4b8ae93ef6b79d86419d42fe3295a4559.png"
         },
         {
             "chainId": 10,
