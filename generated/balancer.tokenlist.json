@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 77
+        "patch": 78
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-12-12T16:51:39.509Z",
+    "timestamp": "2024-12-12T18:15:17.879Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6926,14 +6926,6 @@
         },
         {
             "chainId": 1,
-            "address": "0x63a0964A36c34E81959da5894ad888800e17405b",
-            "name": "ShezmuETH",
-            "symbol": "ShezETH",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x63a0964a36c34e81959da5894ad888800e17405b.png"
-        },
-        {
-            "chainId": 1,
             "address": "0x68749665FF8D2d112Fa859AA293F07A622782F38",
             "name": "Tether Gold",
             "symbol": "XAUt",
@@ -7507,6 +7499,14 @@
             "symbol": "ShezUSD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7f4b66ff703336cfc35b901144614496ae0b0d27.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xa4F6B2CDCB67BF8f48Baa459a333d2667aa4b100",
+            "name": "ShezmuETH",
+            "symbol": "ShezETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa4f6b2cdcb67bf8f48baa459a333d2667aa4b100.png"
         },
         {
             "chainId": 10,
