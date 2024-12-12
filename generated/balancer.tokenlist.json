@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 74
+        "patch": 75
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-12-11T23:34:25.502Z",
+    "timestamp": "2024-12-12T14:05:12.495Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7507,6 +7507,13 @@
             "symbol": "hgETH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc824a08db624942c5e5f330d56530cd1598859fd.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x7F4B66FF703336CfC35b901144614496Ae0b0D27",
+            "name": "ShezmuUSD",
+            "symbol": "ShezUSD",
+            "decimals": 18
         },
         {
             "chainId": 10,
