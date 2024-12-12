@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 76
+        "patch": 77
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-12-12T14:34:01.350Z",
+    "timestamp": "2024-12-12T16:51:39.509Z",
     "tokens": [
         {
             "chainId": 1,
@@ -11389,6 +11389,14 @@
             "symbol": "WAVAX",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/22943/large/AVAX_wh_small.png?1696522240"
+        },
+        {
+            "chainId": 137,
+            "address": "0xb419Fc8E817A76Fe972707EABcF5dCA4c49Aa8e4",
+            "name": "CG Capital (CGC)",
+            "symbol": "CGC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb419fc8e817a76fe972707eabcf5dca4c49aa8e4.png"
         },
         {
             "chainId": 250,
