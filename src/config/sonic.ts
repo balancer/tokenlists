@@ -1,11 +1,11 @@
 export default {
   name: 'sonic',
-  rpc: `https://lb.drpc.org/ogrpc?network=sonic&dkey=${process.env.DRPC_KEY}`,
+  rpc: `https://rpc.soniclabs.com`,
   coingecko: {
-    platformId: 'TBD',
+    platformId: 'sonic',
   },
-  trustWalletNetwork: 'TBD',
+  trustWalletNetwork: 'sonic',
   addresses: {
-    multicaller: 'TBD',
+    multicaller: '0xcA11bde05977b3631167028862bE2a173976CA11',
   },
 }
