@@ -1146,4 +1146,10 @@ export const overwrites: OverwritesForList = {
       },
     },
   },
+  [Network.Sonic]: {
+    '0xe6cc4D855B4fD4A9D02F46B9adae4C5EfB1764B5': {
+      logoURI:
+        'https://bafybeiehzznjxownjllrbjij7rliuyiqn6nlfaer7izctgjk5la3ldhpq4.ipfs.dweb.link',
+    },
+  },
 }
