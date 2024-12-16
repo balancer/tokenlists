@@ -11,6 +11,7 @@ import zkevm from './zkevm'
 import fantom from './fantom'
 import fraxtal from './fraxtal'
 import mode from './mode'
+import sonic from './sonic'
 
 const config: Configs = {
   [Network.Arbitrum]: arbitrum,
@@ -25,6 +26,7 @@ const config: Configs = {
   [Network.Fantom]: fantom,
   [Network.Fraxtal]: fraxtal,
   [Network.Mode]: mode,
+  [Network.Sonic]: sonic,
 }
 
 export default config
