@@ -11,6 +11,7 @@ import zkevm from './tokens/zkevm'
 import fantom from './tokens/fantom'
 import fraxtal from './tokens/fraxtal'
 import mode from './tokens/mode'
+import sonic from './tokens/sonic'
 
 export const tokens: TokensForList = {
   [Network.Ethereum]: ethereum,
@@ -25,4 +26,5 @@ export const tokens: TokensForList = {
   [Network.Fantom]: fantom,
   [Network.Fraxtal]: fraxtal,
   [Network.Mode]: mode,
+  [Network.Sonic]: sonic,
 }
