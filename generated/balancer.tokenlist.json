@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 82
+        "patch": 83
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-12-17T09:40:29.450Z",
+    "timestamp": "2024-12-17T18:04:04.427Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13512,6 +13512,61 @@
             "symbol": "GYD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca5d8f8a8d49439357d3cf46ca2e720702f132b8.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x0b3e328455c4059EEb9e3f84b5543F74E24e7E1b",
+            "name": "Virtual Protocol",
+            "symbol": "VIRTUAL",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/34057/large/LOGOMARK.png?1708356054"
+        },
+        {
+            "chainId": 8453,
+            "address": "0xfA980cEd6895AC314E7dE34Ef1bFAE90a5AdD21b",
+            "name": "Prime",
+            "symbol": "PRIME",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/29053/large/prime-logo-small-border_%282%29.png?1696528020"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
+            "name": "Aerodrome",
+            "symbol": "AERO",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/31745/large/token.png?1696530564"
+        },
+        {
+            "chainId": 8453,
+            "address": "0xBAa5CC21fd487B8Fcc2F632f3F4E8D37262a0842",
+            "name": "Morpho Token",
+            "symbol": "MORPHO",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/29837/large/Morpho-token-icon.png?1726771230"
+        },
+        {
+            "chainId": 8453,
+            "address": "0xA99F6e6785Da0F5d6fB42495Fe424BCE029Eeb3E",
+            "name": "Pendle",
+            "symbol": "PENDLE",
+            "decimals": 18
+        },
+        {
+            "chainId": 8453,
+            "address": "0x532f27101965dd16442E59d40670FaF5eBB142E4",
+            "name": "Brett",
+            "symbol": "BRETT",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/35529/large/1000050750.png?1709031995"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
+            "name": "Degen",
+            "symbol": "DEGEN",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/34515/large/android-chrome-512x512.png?1706198225"
         },
         {
             "chainId": 34443,
