@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 83
+        "patch": 84
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-12-17T18:04:04.427Z",
+    "timestamp": "2024-12-17T18:31:42.379Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13567,6 +13567,13 @@
             "symbol": "DEGEN",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/34515/large/android-chrome-512x512.png?1706198225"
+        },
+        {
+            "chainId": 8453,
+            "address": "0xB4fDe59a779991bfB6a52253B51947828b982be3",
+            "name": "Pepe",
+            "symbol": "PEPE",
+            "decimals": 18
         },
         {
             "chainId": 34443,
