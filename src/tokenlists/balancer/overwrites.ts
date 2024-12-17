@@ -1151,5 +1151,26 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://bafybeiehzznjxownjllrbjij7rliuyiqn6nlfaer7izctgjk5la3ldhpq4.ipfs.dweb.link',
     },
+    '0xe5da20f15420ad15de0fa650600afc998bbe3955': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/token-beets-staked-sonic.png',
+      extensions: {
+        coingeckoId: 'fantom',
+      },
+    },
+    '0x2D0E0814E62D80056181F5cd932274405966e4f0': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/token-BEETS-sonic.png',
+      extensions: {
+        coingeckoId: 'beethoven-x',
+      },
+    },
+    '0x039e2fb66102314ce7b64ce5ce3e5183bc94ad38': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/Token_White_Sonic_32.png',
+      extensions: {
+        coingeckoId: 'fantom',
+      },
+    },
   },
 }
