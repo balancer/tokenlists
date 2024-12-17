@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 80
+        "patch": 81
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-12-17T04:03:11.311Z",
+    "timestamp": "2024-12-17T07:49:41.130Z",
     "tokens": [
         {
             "chainId": 1,
@@ -11426,6 +11426,13 @@
             "address": "0x2D0E0814E62D80056181F5cd932274405966e4f0",
             "name": "Beets",
             "symbol": "BEETS",
+            "decimals": 18
+        },
+        {
+            "chainId": 146,
+            "address": "0x039e2fB66102314Ce7b64Ce5Ce3E5183bc94aD38",
+            "name": "Wrapped Sonic",
+            "symbol": "wS",
             "decimals": 18
         },
         {
