@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 86
+        "patch": 87
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-12-18T14:35:22.865Z",
+    "timestamp": "2024-12-18T16:27:40.088Z",
     "tokens": [
         {
             "chainId": 1,
@@ -11590,6 +11590,14 @@
             "symbol": "FS",
             "decimals": 18,
             "logoURI": "https://i.ibb.co/D7wShRv/Square-Fantom-Starter-Logo.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0x63A522f6E7D5B96F7aeBB74d2648545E9e14078D",
+            "name": "ShibaPoconk",
+            "symbol": "CONK",
+            "decimals": 18,
+            "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreiaynps4xalkiktny4fpwhk2ziq3xbw7hiq676cijddb3zzflcwdcq"
         },
         {
             "chainId": 250,
