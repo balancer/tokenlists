@@ -1229,7 +1229,7 @@ export const overwrites: OverwritesForList = {
         'https://beethoven-assets.s3.eu-central-1.amazonaws.com/BURGER.png',
     },
     '0x3854fD4712eb3A5Aa51c949C29cACE84F7ED2eFC': {
-      logoURI: 'https://ibb.co/LNTbtsy',
+      logoURI: 'https://i.ibb.co/0s08MzL/SHILLY-LOGO-CIRCLE-BIG-2.png',
     },
     '0x17Af1Df44444AB9091622e4Aa66dB5BB34E51aD5': {
       logoURI: 'https://beethoven-assets.s3.eu-central-1.amazonaws.com/THC.jpg',
@@ -1248,7 +1248,7 @@ export const overwrites: OverwritesForList = {
         'https://gateway.pinata.cloud/ipfs/bafkreiaynps4xalkiktny4fpwhk2ziq3xbw7hiq676cijddb3zzflcwdcq',
     },
     '0xBe422DD2F451348d5D0979D8ab25B4c6eAAd1eB2': {
-      logoURI: 'https://ibb.co/XVbM4Pf',
+      logoURI: 'https://i.ibb.co/x3DdsbK/Familio.png',
     },
   },
 }
