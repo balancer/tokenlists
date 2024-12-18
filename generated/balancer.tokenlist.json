@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 88
+        "patch": 89
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-12-18T19:46:26.658Z",
+    "timestamp": "2024-12-18T20:17:18.314Z",
     "tokens": [
         {
             "chainId": 1,
@@ -11565,7 +11565,7 @@
             "name": "Shilly",
             "symbol": "Shilly",
             "decimals": 18,
-            "logoURI": "https://ibb.co/LNTbtsy"
+            "logoURI": "https://i.ibb.co/0s08MzL/SHILLY-LOGO-CIRCLE-BIG-2.png"
         },
         {
             "chainId": 146,
@@ -11605,7 +11605,7 @@
             "name": "Familio",
             "symbol": "F",
             "decimals": 18,
-            "logoURI": "https://ibb.co/XVbM4Pf"
+            "logoURI": "https://i.ibb.co/x3DdsbK/Familio.png"
         },
         {
             "chainId": 250,
