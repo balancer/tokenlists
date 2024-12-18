@@ -1196,7 +1196,7 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://beethoven-assets.s3.eu-central-1.amazonaws.com/SONICBEER.PNG',
     },
-    0xB5A10bd15aF95381D830f71E85328F2d1d823de7': {
+    '0xB5A10bd15aF95381D830f71E85328F2d1d823de7': {
       logoURI:
         'https://beethoven-assets.s3.eu-central-1.amazonaws.com/SONIC+PUB.PNG',
     },
@@ -1229,12 +1229,10 @@ export const overwrites: OverwritesForList = {
         'https://beethoven-assets.s3.eu-central-1.amazonaws.com/BURGER.png',
     },
     '0x3854fD4712eb3A5Aa51c949C29cACE84F7ED2eFC': {
-      logoURI:
-        'https://ibb.co/LNTbtsy',
+      logoURI: 'https://ibb.co/LNTbtsy',
     },
     '0x17Af1Df44444AB9091622e4Aa66dB5BB34E51aD5': {
-      logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/THC.jpg',
+      logoURI: 'https://beethoven-assets.s3.eu-central-1.amazonaws.com/THC.jpg',
     },
     '0x1E5fe95fB90ac0530F581C617272cd0864626795': {
       logoURI:
