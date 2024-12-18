@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 85
+        "patch": 86
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-12-18T14:16:42.490Z",
+    "timestamp": "2024-12-18T14:35:22.865Z",
     "tokens": [
         {
             "chainId": 1,
@@ -11578,10 +11578,18 @@
         {
             "chainId": 146,
             "address": "0x1E5fe95fB90ac0530F581C617272cd0864626795",
-            "name": "BeethovenxToken",
-            "symbol": "BEETS",
+            "name": "Fantom Opera BEETS",
+            "symbol": "operaBEETS",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/19158/standard/beets-icon-large.png?1696518608"
+        },
+        {
+            "chainId": 146,
+            "address": "0xBC0d0650412EF353D672c0Bbd12eFFF90591B251",
+            "name": "FutureStarter",
+            "symbol": "FS",
+            "decimals": 18,
+            "logoURI": "https://i.ibb.co/D7wShRv/Square-Fantom-Starter-Logo.png"
         },
         {
             "chainId": 250,
