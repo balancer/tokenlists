@@ -1243,5 +1243,9 @@ export const overwrites: OverwritesForList = {
     '0xBC0d0650412EF353D672c0Bbd12eFFF90591B251': {
       logoURI: 'https://i.ibb.co/D7wShRv/Square-Fantom-Starter-Logo.png',
     },
+    '0x63A522f6E7D5B96F7aeBB74d2648545E9e14078D': {
+      logoURI:
+        'https://gateway.pinata.cloud/ipfs/bafkreiaynps4xalkiktny4fpwhk2ziq3xbw7hiq676cijddb3zzflcwdcq',
+    },
   },
 }
