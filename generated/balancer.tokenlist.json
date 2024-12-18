@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 84
+        "patch": 85
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-12-17T18:31:42.379Z",
+    "timestamp": "2024-12-18T14:16:42.490Z",
     "tokens": [
         {
             "chainId": 1,
@@ -11446,6 +11446,142 @@
             "extensions": {
                 "coingeckoId": "fantom"
             }
+        },
+        {
+            "chainId": 146,
+            "address": "0x309C92261178fA0CF748A855e90Ae73FDb79EBc7",
+            "name": "Wrapped Ether on Sonic",
+            "symbol": "WETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4200000000000000000000000000000000000006.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0x29219dd400f2Bf60E5a23d13Be72B486D4038894",
+            "name": "Bridged USDC (Sonic Labs)",
+            "symbol": "USDC.e",
+            "decimals": 6,
+            "logoURI": "https://assets.coingecko.com/coins/images/6319/large/usdc.png?1696506694"
+        },
+        {
+            "chainId": 146,
+            "address": "0x541FD749419CA806a8bc7da8ac23D346f2dF8B77",
+            "name": "Solv BTC",
+            "symbol": "SolvBTC",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/36800/standard/solvBTC.png?1719810684"
+        },
+        {
+            "chainId": 146,
+            "address": "0xCC0966D8418d412c599A6421b760a847eB169A8c",
+            "name": "SolvBTC Babylon",
+            "symbol": "SolvBTC.BBN",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/39384/standard/unnamed.png?1721961640"
+        },
+        {
+            "chainId": 146,
+            "address": "0x342781fd3d3F73bdB54b2DEDd925f2ad81b48590",
+            "name": "SonicPooh",
+            "symbol": "SPOOH",
+            "decimals": 18,
+            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/SonicPooh.PNG"
+        },
+        {
+            "chainId": 146,
+            "address": "0x93cd403693Da40d27188714a872943F717E3c543",
+            "name": "SONICBEER",
+            "symbol": "SBEER",
+            "decimals": 18,
+            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/SONICBEER.PNG"
+        },
+        {
+            "chainId": 146,
+            "address": "0xB5A10bd15aF95381D830f71E85328F2d1d823de7",
+            "name": "SONIC PUB",
+            "symbol": "SPUB",
+            "decimals": 18,
+            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/SONIC+PUB.PNG"
+        },
+        {
+            "chainId": 146,
+            "address": "0x71D634647a1aa323C1A0E6d9548dDaA6Eb750E6e",
+            "name": "Sonic Honey Beer",
+            "symbol": "SHOB",
+            "decimals": 18,
+            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/Sonic+Honey+Beer.PNG"
+        },
+        {
+            "chainId": 146,
+            "address": "0x74ebDC16D36D1820BA014c2F273Bd03796Ad30C3",
+            "name": "Sonic Smoke",
+            "symbol": "Smoke",
+            "decimals": 18,
+            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/Sonic+Smoke.JPG"
+        },
+        {
+            "chainId": 146,
+            "address": "0x2d10a2e2D680564a942e98EE43e35553db990807",
+            "name": "Sonic Tequila",
+            "symbol": "STeqila",
+            "decimals": 18,
+            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/Sonic+Tequila.PNG"
+        },
+        {
+            "chainId": 146,
+            "address": "0xaA2549E4B687a338C111d5d1feA4754d51E55471",
+            "name": "Sonic Pub Girls",
+            "symbol": "SGirls",
+            "decimals": 18,
+            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/Sonic+Pub+Girls.PNG"
+        },
+        {
+            "chainId": 146,
+            "address": "0xE17Be928A08D66156eC242A68c4929B07cF14CCC",
+            "name": "Sonic Cartel",
+            "symbol": "SCARTEL",
+            "decimals": 18,
+            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/Sonic+Cartel.PNG"
+        },
+        {
+            "chainId": 146,
+            "address": "0x99AaC0966ec3F667c85e9FD2dFc6b8f3E2C896B5",
+            "name": "Sonic Goat Milk",
+            "symbol": "SMILK",
+            "decimals": 18,
+            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/Sonic+Goat+Milk.PNG"
+        },
+        {
+            "chainId": 146,
+            "address": "0x77672EdD7F5ED8bDD4e6De9F56B9A312A1a41031",
+            "name": "Sonic Burger",
+            "symbol": "BURGER",
+            "decimals": 18,
+            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/BURGER.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0x3854fD4712eb3A5Aa51c949C29cACE84F7ED2eFC",
+            "name": "Shilly",
+            "symbol": "Shilly",
+            "decimals": 18,
+            "logoURI": "https://ibb.co/LNTbtsy"
+        },
+        {
+            "chainId": 146,
+            "address": "0x17Af1Df44444AB9091622e4Aa66dB5BB34E51aD5",
+            "name": "Tin Hat Cat",
+            "symbol": "THC",
+            "decimals": 18,
+            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/THC.jpg"
+        },
+        {
+            "chainId": 146,
+            "address": "0x1E5fe95fB90ac0530F581C617272cd0864626795",
+            "name": "BeethovenxToken",
+            "symbol": "BEETS",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/19158/standard/beets-icon-large.png?1696518608"
         },
         {
             "chainId": 250,
