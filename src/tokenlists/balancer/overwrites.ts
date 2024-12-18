@@ -1235,8 +1235,13 @@ export const overwrites: OverwritesForList = {
       logoURI: 'https://beethoven-assets.s3.eu-central-1.amazonaws.com/THC.jpg',
     },
     '0x1E5fe95fB90ac0530F581C617272cd0864626795': {
+      name: 'Fantom Opera BEETS',
+      symbol: 'operaBEETS',
       logoURI:
         'https://assets.coingecko.com/coins/images/19158/standard/beets-icon-large.png?1696518608',
+    },
+    '0xBC0d0650412EF353D672c0Bbd12eFFF90591B251': {
+      logoURI: 'https://i.ibb.co/D7wShRv/Square-Fantom-Starter-Logo.png',
     },
   },
 }
