@@ -1247,5 +1247,8 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://gateway.pinata.cloud/ipfs/bafkreiaynps4xalkiktny4fpwhk2ziq3xbw7hiq676cijddb3zzflcwdcq',
     },
+    '0xBe422DD2F451348d5D0979D8ab25B4c6eAAd1eB2': {
+      logoURI: 'https://ibb.co/XVbM4Pf',
+    },
   },
 }
