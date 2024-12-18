@@ -1172,5 +1172,71 @@ export const overwrites: OverwritesForList = {
         coingeckoId: 'fantom',
       },
     },
+    '0x309C92261178fA0CF748A855e90Ae73FDb79EBc7': {
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4200000000000000000000000000000000000006.png',
+    },
+    '0x29219dd400f2Bf60E5a23d13Be72B486D4038894': {
+      logoURI:
+        'https://assets.coingecko.com/coins/images/6319/large/usdc.png?1696506694',
+    },
+    '0x541FD749419CA806a8bc7da8ac23D346f2dF8B77': {
+      logoURI:
+        'https://assets.coingecko.com/coins/images/36800/standard/solvBTC.png?1719810684',
+    },
+    '0xCC0966D8418d412c599A6421b760a847eB169A8c': {
+      logoURI:
+        'https://assets.coingecko.com/coins/images/39384/standard/unnamed.png?1721961640',
+    },
+    '0x342781fd3d3F73bdB54b2DEDd925f2ad81b48590': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/SonicPooh.PNG',
+    },
+    '0x93cd403693Da40d27188714a872943F717E3c543': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/SONICBEER.PNG',
+    },
+    '0xB5A10bd15aF95381D830f71E85328F2d1d823de7': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/SONIC+PUB.PNG',
+    },
+    '0x71D634647a1aa323C1A0E6d9548dDaA6Eb750E6e': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/Sonic+Honey+Beer.PNG',
+    },
+    '0x74ebDC16D36D1820BA014c2F273Bd03796Ad30C3': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/Sonic+Smoke.JPG',
+    },
+    '0x2d10a2e2D680564a942e98EE43e35553db990807': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/Sonic+Tequila.PNG',
+    },
+    '0xaA2549E4B687a338C111d5d1feA4754d51E55471': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/Sonic+Pub+Girls.PNG',
+    },
+    '0xE17Be928A08D66156eC242A68c4929B07cF14CCC': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/Sonic+Cartel.PNG',
+    },
+    '0x99AaC0966ec3F667c85e9FD2dFc6b8f3E2C896B5': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/Sonic+Goat+Milk.PNG',
+    },
+    '0x77672EdD7F5ED8bDD4e6De9F56B9A312A1a41031': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/BURGER.png',
+    },
+    '0x3854fD4712eb3A5Aa51c949C29cACE84F7ED2eFC': {
+      logoURI: 'https://ibb.co/LNTbtsy',
+    },
+    '0x17Af1Df44444AB9091622e4Aa66dB5BB34E51aD5': {
+      logoURI: 'https://beethoven-assets.s3.eu-central-1.amazonaws.com/THC.jpg',
+    },
+    '0x1E5fe95fB90ac0530F581C617272cd0864626795': {
+      logoURI:
+        'https://assets.coingecko.com/coins/images/19158/standard/beets-icon-large.png?1696518608',
+    },
   },
 }
