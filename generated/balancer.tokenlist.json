@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 87
+        "patch": 88
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-12-18T16:27:40.088Z",
+    "timestamp": "2024-12-18T19:46:26.658Z",
     "tokens": [
         {
             "chainId": 1,
@@ -11598,6 +11598,14 @@
             "symbol": "CONK",
             "decimals": 18,
             "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreiaynps4xalkiktny4fpwhk2ziq3xbw7hiq676cijddb3zzflcwdcq"
+        },
+        {
+            "chainId": 146,
+            "address": "0xBe422DD2F451348d5D0979D8ab25B4c6eAAd1eB2",
+            "name": "Familio",
+            "symbol": "F",
+            "decimals": 18,
+            "logoURI": "https://ibb.co/XVbM4Pf"
         },
         {
             "chainId": 250,
