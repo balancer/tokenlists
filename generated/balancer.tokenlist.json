@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 89
+        "patch": 90
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-12-18T20:17:18.314Z",
+    "timestamp": "2024-12-19T09:02:47.686Z",
     "tokens": [
         {
             "chainId": 1,
@@ -11606,6 +11606,46 @@
             "symbol": "F",
             "decimals": 18,
             "logoURI": "https://i.ibb.co/x3DdsbK/Familio.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0x9fDbC3f8Abc05Fa8f3Ad3C17D2F806c1230c4564",
+            "name": "GOGGLES",
+            "symbol": "GOGLZ",
+            "decimals": 18,
+            "logoURI": "https://i.ibb.co/Ksp9CcT/Goggles.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0x50Bc6e1DfF8039A4b967c1BF507ba5eA13fa18B6",
+            "name": "sDOG",
+            "symbol": "sDOG",
+            "decimals": 18,
+            "logoURI": "https://i.ibb.co/TmPRQZp/sDOG.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0x7A08Bf5304094CA4C7b4132Ef62b5EDc4a3478B7",
+            "name": "SonicEco",
+            "symbol": "ECO",
+            "decimals": 18,
+            "logoURI": "https://dd.dexscreener.com/ds-data/tokens/fantom/0xb8a32897016c1b2ee0797090162eafe58f032795.png?key=a473b3"
+        },
+        {
+            "chainId": 146,
+            "address": "0xd3DCe716f3eF535C5Ff8d041c1A41C3bd89b97aE",
+            "name": "Sonic USD",
+            "symbol": "scUSD",
+            "decimals": 6,
+            "logoURI": "https://i.ibb.co/PFw2zkx/scUSD64.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0x3bcE5CB273F0F148010BbEa2470e7b5df84C7812",
+            "name": "Sonic ETH",
+            "symbol": "scETH",
+            "decimals": 18,
+            "logoURI": "https://i.ibb.co/fMTYnj2/scETH64.png"
         },
         {
             "chainId": 250,
