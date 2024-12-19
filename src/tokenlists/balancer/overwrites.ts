@@ -1266,5 +1266,8 @@ export const overwrites: OverwritesForList = {
     '0x3bcE5CB273F0F148010BbEa2470e7b5df84C7812': {
       logoURI: 'https://i.ibb.co/fMTYnj2/scETH64.png',
     },
+    '0xf2968631D02330Dc5E420373f083b7B4F8B24E17': {
+      logoURI: 'https://i.ibb.co/qs9X9Xt/Relic.png',
+    },
   },
 }
