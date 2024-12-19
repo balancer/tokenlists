@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 90
+        "patch": 91
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-12-19T09:02:47.686Z",
+    "timestamp": "2024-12-19T16:06:02.238Z",
     "tokens": [
         {
             "chainId": 1,
@@ -11646,6 +11646,14 @@
             "symbol": "scETH",
             "decimals": 18,
             "logoURI": "https://i.ibb.co/fMTYnj2/scETH64.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0xf2968631D02330Dc5E420373f083b7B4F8B24E17",
+            "name": "Relic",
+            "symbol": "RELIC",
+            "decimals": 18,
+            "logoURI": "https://i.ibb.co/qs9X9Xt/Relic.png"
         },
         {
             "chainId": 250,
