@@ -1250,5 +1250,21 @@ export const overwrites: OverwritesForList = {
     '0xBe422DD2F451348d5D0979D8ab25B4c6eAAd1eB2': {
       logoURI: 'https://i.ibb.co/x3DdsbK/Familio.png',
     },
+    '0x9fDbC3f8Abc05Fa8f3Ad3C17D2F806c1230c4564': {
+      logoURI: 'https://i.ibb.co/Ksp9CcT/Goggles.png',
+    },
+    '0x50Bc6e1DfF8039A4b967c1BF507ba5eA13fa18B6': {
+      logoURI: 'https://i.ibb.co/TmPRQZp/sDOG.png',
+    },
+    '0x7A08Bf5304094CA4C7b4132Ef62b5EDc4a3478B7': {
+      logoURI:
+        'https://dd.dexscreener.com/ds-data/tokens/fantom/0xb8a32897016c1b2ee0797090162eafe58f032795.png?key=a473b3',
+    },
+    '0xd3DCe716f3eF535C5Ff8d041c1A41C3bd89b97aE': {
+      logoURI: 'https://i.ibb.co/PFw2zkx/scUSD64.png',
+    },
+    '0x3bcE5CB273F0F148010BbEa2470e7b5df84C7812': {
+      logoURI: 'https://i.ibb.co/fMTYnj2/scETH64.png',
+    },
   },
 }
