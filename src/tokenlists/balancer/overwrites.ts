@@ -1256,9 +1256,6 @@ export const overwrites: OverwritesForList = {
     '0x50Bc6e1DfF8039A4b967c1BF507ba5eA13fa18B6': {
       logoURI: 'https://i.ibb.co/TmPRQZp/sDOG.png',
     },
-    '0xf2968631D02330Dc5E420373f083b7B4F8B24E17': {
-      logoURI: 'https://i.ibb.co/qs9X9Xt/Relic.png',
-    },
     '0x7A08Bf5304094CA4C7b4132Ef62b5EDc4a3478B7': {
       logoURI:
         'https://dd.dexscreener.com/ds-data/tokens/fantom/0xb8a32897016c1b2ee0797090162eafe58f032795.png?key=a473b3',
@@ -1268,12 +1265,6 @@ export const overwrites: OverwritesForList = {
     },
     '0x3bcE5CB273F0F148010BbEa2470e7b5df84C7812': {
       logoURI: 'https://i.ibb.co/fMTYnj2/scETH64.png',
-    },
-    '0xC046dCb16592FBb3F9fA0C629b8D93090dD4cB76': {
-      logoURI: 'https://i.ibb.co/rs3jYrw/jointlogo.jpg',
-    },
-    '0x9b567e03d891F537b2B7874aA4A3308Cfe2F4FBb': {
-      logoURI: 'https://i.ibb.co/swqq2pT/stonerlogo.jpg',
     },
   },
 }
