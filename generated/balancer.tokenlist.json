@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 92
+        "patch": 93
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-12-20T10:31:16.851Z",
+    "timestamp": "2024-12-20T12:24:57.701Z",
     "tokens": [
         {
             "chainId": 1,
@@ -11670,6 +11670,14 @@
             "symbol": "RUGGIE",
             "decimals": 18,
             "logoURI": "https://i.ibb.co/DMPP0tZ/pizzaratlogo-text-600dpi.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0x9aF092fD69e341a651725f89CC5510a22E40E614",
+            "name": "Blaze",
+            "symbol": "Blaze",
+            "decimals": 18,
+            "logoURI": "https://i.ibb.co/FzGjYCR/Blaze.png"
         },
         {
             "chainId": 250,
