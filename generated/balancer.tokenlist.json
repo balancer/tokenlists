@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 91
+        "patch": 92
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-12-19T16:06:02.238Z",
+    "timestamp": "2024-12-20T10:31:16.851Z",
     "tokens": [
         {
             "chainId": 1,
@@ -11654,6 +11654,22 @@
             "symbol": "RELIC",
             "decimals": 18,
             "logoURI": "https://i.ibb.co/qs9X9Xt/Relic.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0xd43b5d6899635e514A00b475eEa04C364979e076",
+            "name": "Free Money Market",
+            "symbol": "fBUX",
+            "decimals": 18,
+            "logoURI": "https://dd.dexscreener.com/ds-data/tokens/fantom/0x1e2ea3f3209d66647f959cf00627107e079b870d.png?size=lg&key=5a19d7"
+        },
+        {
+            "chainId": 146,
+            "address": "0xB2a909b8bCce9B30BbC9d4c748fD897d6AD9c285",
+            "name": "Ruggie's Pizza",
+            "symbol": "RUGGIE",
+            "decimals": 18,
+            "logoURI": "https://i.ibb.co/DMPP0tZ/pizzaratlogo-text-600dpi.png"
         },
         {
             "chainId": 250,
