@@ -1276,5 +1276,8 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://dd.dexscreener.com/ds-data/tokens/fantom/0x1e2ea3f3209d66647f959cf00627107e079b870d.png?size=lg&key=5a19d7',
     },
+    '0x9aF092fD69e341a651725f89CC5510a22E40E614': {
+      logoURI: 'https://i.ibb.co/FzGjYCR/Blaze.png',
+    },
   },
 }
