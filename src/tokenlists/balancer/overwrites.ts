@@ -1269,5 +1269,12 @@ export const overwrites: OverwritesForList = {
     '0xf2968631D02330Dc5E420373f083b7B4F8B24E17': {
       logoURI: 'https://i.ibb.co/qs9X9Xt/Relic.png',
     },
+    '0xB2a909b8bCce9B30BbC9d4c748fD897d6AD9c285': {
+      logoURI: 'https://i.ibb.co/DMPP0tZ/pizzaratlogo-text-600dpi.png',
+    },
+    '0xd43b5d6899635e514A00b475eEa04C364979e076': {
+      logoURI:
+        'https://dd.dexscreener.com/ds-data/tokens/fantom/0x1e2ea3f3209d66647f959cf00627107e079b870d.png?size=lg&key=5a19d7',
+    },
   },
 }
