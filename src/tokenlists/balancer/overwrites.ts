@@ -1279,5 +1279,12 @@ export const overwrites: OverwritesForList = {
     '0x9aF092fD69e341a651725f89CC5510a22E40E614': {
       logoURI: 'https://i.ibb.co/FzGjYCR/Blaze.png',
     },
+    '0xE51EE9868C1f0d6cd968A8B8C8376Dc2991BFE44': {
+      logoURI:
+        'https://coin-images.coingecko.com/coins/images/18579/large/ps-cmc-200x200.png?1707862125',
+      extensions: {
+        coingeckoId: 'paint-swap',
+      },
+    },
   },
 }
