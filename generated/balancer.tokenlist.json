@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 93
+        "patch": 94
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-12-20T12:24:57.701Z",
+    "timestamp": "2024-12-21T12:38:42.302Z",
     "tokens": [
         {
             "chainId": 1,
@@ -11678,6 +11678,17 @@
             "symbol": "Blaze",
             "decimals": 18,
             "logoURI": "https://i.ibb.co/FzGjYCR/Blaze.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0xE51EE9868C1f0d6cd968A8B8C8376Dc2991BFE44",
+            "name": "PaintSwap",
+            "symbol": "BRUSH",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/18579/large/ps-cmc-200x200.png?1707862125",
+            "extensions": {
+                "coingeckoId": "paint-swap"
+            }
         },
         {
             "chainId": 250,
