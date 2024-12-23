@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 95
+        "patch": 96
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-12-23T12:33:35.052Z",
+    "timestamp": "2024-12-23T19:48:35.977Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7517,6 +7517,14 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2371e134e3455e0593363cbf89d3b6cf53740618.png"
         },
         {
+            "chainId": 1,
+            "address": "0x5F9D59db355b4A60501544637b00e94082cA575b",
+            "name": "Wrapped Aave Ethereum USDe",
+            "symbol": "waEthUSDe",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5f9d59db355b4a60501544637b00e94082ca575b.png"
+        },
+        {
             "chainId": 10,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -13801,7 +13809,8 @@
             "address": "0xA99F6e6785Da0F5d6fB42495Fe424BCE029Eeb3E",
             "name": "Pendle",
             "symbol": "PENDLE",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728"
         },
         {
             "chainId": 8453,
