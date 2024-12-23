@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 94
+        "patch": 95
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-12-21T12:38:42.302Z",
+    "timestamp": "2024-12-23T12:33:35.052Z",
     "tokens": [
         {
             "chainId": 1,
@@ -11578,8 +11578,8 @@
         {
             "chainId": 146,
             "address": "0x1E5fe95fB90ac0530F581C617272cd0864626795",
-            "name": "Fantom Opera BEETS",
-            "symbol": "operaBEETS",
+            "name": "Fantom lzBEETS",
+            "symbol": "lzBEETS",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/19158/standard/beets-icon-large.png?1696518608"
         },
@@ -11689,6 +11689,14 @@
             "extensions": {
                 "coingeckoId": "paint-swap"
             }
+        },
+        {
+            "chainId": 146,
+            "address": "0x10ac2F9DaE6539E77e372aDB14B1BF8fBD16b3e8",
+            "name": "Fresh Beets",
+            "symbol": "bpt-fbeets-sts",
+            "decimals": 18,
+            "logoURI": "https://sonicscan.org/token/images/mabeets_32.png"
         },
         {
             "chainId": 250,
