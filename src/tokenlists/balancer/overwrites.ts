@@ -1235,8 +1235,8 @@ export const overwrites: OverwritesForList = {
       logoURI: 'https://beethoven-assets.s3.eu-central-1.amazonaws.com/THC.jpg',
     },
     '0x1E5fe95fB90ac0530F581C617272cd0864626795': {
-      name: 'Fantom Opera BEETS',
-      symbol: 'operaBEETS',
+      name: 'Fantom lzBEETS',
+      symbol: 'lzBEETS',
       logoURI:
         'https://assets.coingecko.com/coins/images/19158/standard/beets-icon-large.png?1696518608',
     },
@@ -1285,6 +1285,9 @@ export const overwrites: OverwritesForList = {
       extensions: {
         coingeckoId: 'paint-swap',
       },
+    },
+    '0x10ac2F9DaE6539E77e372aDB14B1BF8fBD16b3e8': {
+      logoURI: 'https://sonicscan.org/token/images/mabeets_32.png',
     },
   },
 }
