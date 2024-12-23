@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 96
+        "patch": 97
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-12-23T19:48:35.977Z",
+    "timestamp": "2024-12-23T21:14:07.788Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7523,6 +7523,14 @@
             "symbol": "waEthUSDe",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5f9d59db355b4a60501544637b00e94082ca575b.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3",
+            "name": "USDe",
+            "symbol": "USDe",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4c9edd5852cd905f086c759e8383e09bff1e68b3.png"
         },
         {
             "chainId": 10,
