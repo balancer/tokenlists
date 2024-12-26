@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 97
+        "patch": 98
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-12-23T21:14:07.788Z",
+    "timestamp": "2024-12-26T09:10:09.938Z",
     "tokens": [
         {
             "chainId": 1,
@@ -11458,7 +11458,7 @@
             "name": "Wrapped Sonic",
             "symbol": "wS",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/Token_White_Sonic_32.png",
+            "logoURI": "https://beets.fi/images/icons/sonic-logo.png",
             "extensions": {
                 "coingeckoId": "fantom"
             }
