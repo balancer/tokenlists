@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 99
+        "patch": 100
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-12-27T07:48:23.511Z",
+    "timestamp": "2024-12-27T15:09:56.772Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7494,14 +7494,6 @@
         },
         {
             "chainId": 1,
-            "address": "0x7F4B66FF703336CfC35b901144614496Ae0b0D27",
-            "name": "ShezmuUSD",
-            "symbol": "ShezUSD",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7f4b66ff703336cfc35b901144614496ae0b0d27.png"
-        },
-        {
-            "chainId": 1,
             "address": "0xa4F6B2CDCB67BF8f48Baa459a333d2667aa4b100",
             "name": "ShezmuETH",
             "symbol": "ShezETH",
@@ -7531,6 +7523,14 @@
             "symbol": "USDe",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4c9edd5852cd905f086c759e8383e09bff1e68b3.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x634Ed807647e07a7C038EF1956a58ADbc6695F88",
+            "name": "ShezmuUSD",
+            "symbol": "ShezUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x634ed807647e07a7c038ef1956a58adbc6695f88.png"
         },
         {
             "chainId": 10,
@@ -11745,6 +11745,14 @@
             "symbol": "fSONIC",
             "decimals": 18,
             "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x05e31a691405d06708a355c029599c12d5da8b28.png?size=lg&key=f7ac24"
+        },
+        {
+            "chainId": 146,
+            "address": "0xf1c9b8171Bf3902554e791010CCBCD6bacBA6eFd",
+            "name": "BEARZWIFGUNZ180042069",
+            "symbol": "180042069",
+            "decimals": 18,
+            "logoURI": "https://i.ibb.co/4N62vMk/BEARZWIFGUNZ180042069.png"
         },
         {
             "chainId": 250,
