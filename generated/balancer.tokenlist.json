@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 98
+        "patch": 99
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-12-26T09:10:09.938Z",
+    "timestamp": "2024-12-27T07:48:23.511Z",
     "tokens": [
         {
             "chainId": 1,
@@ -11713,6 +11713,38 @@
             "symbol": "bpt-fbeets-sts",
             "decimals": 18,
             "logoURI": "https://sonicscan.org/token/images/mabeets_32.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0xe715cbA7B5cCb33790ceBFF1436809d36cb17E57",
+            "name": "Bridged EURC (Sonic Labs)",
+            "symbol": "EURC.e",
+            "decimals": 6,
+            "logoURI": "https://assets.coingecko.com/coins/images/26045/standard/euro.png?1696525125"
+        },
+        {
+            "chainId": 146,
+            "address": "0x6fB9897896Fe5D05025Eb43306675727887D0B7c",
+            "name": "HEDGY the hedgehog",
+            "symbol": "HEDGY",
+            "decimals": 18,
+            "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x6fb9897896fe5d05025eb43306675727887d0b7c.png?size=lg&key=69e35d"
+        },
+        {
+            "chainId": 146,
+            "address": "0xC046dCb16592FBb3F9fA0C629b8D93090dD4cB76",
+            "name": "PASSTHEJOINT",
+            "symbol": "JOINT",
+            "decimals": 18,
+            "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0xc046dcb16592fbb3f9fa0c629b8d93090dd4cb76.png?size=lg&key=872bae"
+        },
+        {
+            "chainId": 146,
+            "address": "0x05e31a691405d06708A355C029599c12d5da8b28",
+            "name": "FantomSonicInu",
+            "symbol": "fSONIC",
+            "decimals": 18,
+            "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x05e31a691405d06708a355c029599c12d5da8b28.png?size=lg&key=f7ac24"
         },
         {
             "chainId": 250,
