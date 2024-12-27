@@ -1304,5 +1304,8 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://dd.dexscreener.com/ds-data/tokens/sonic/0x05e31a691405d06708a355c029599c12d5da8b28.png?size=lg&key=f7ac24',
     },
+    '0xf1c9b8171bf3902554e791010ccbcd6bacba6efd': {
+      logoURI: 'https://i.ibb.co/4N62vMk/BEARZWIFGUNZ180042069.png',
+    },
   },
 }
