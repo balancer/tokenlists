@@ -1288,5 +1288,21 @@ export const overwrites: OverwritesForList = {
     '0x10ac2F9DaE6539E77e372aDB14B1BF8fBD16b3e8': {
       logoURI: 'https://sonicscan.org/token/images/mabeets_32.png',
     },
+    '0xe715cba7b5ccb33790cebff1436809d36cb17e57': {
+      logoURI:
+        'https://assets.coingecko.com/coins/images/26045/standard/euro.png?1696525125',
+    },
+    '0x6fB9897896Fe5D05025Eb43306675727887D0B7c': {
+      logoURI:
+        'https://dd.dexscreener.com/ds-data/tokens/sonic/0x6fb9897896fe5d05025eb43306675727887d0b7c.png?size=lg&key=69e35d',
+    },
+    '0xC046dCb16592FBb3F9fA0C629b8D93090dD4cB76': {
+      logoURI:
+        'https://dd.dexscreener.com/ds-data/tokens/sonic/0xc046dcb16592fbb3f9fa0c629b8d93090dd4cb76.png?size=lg&key=872bae',
+    },
+    '0x05e31a691405d06708A355C029599c12d5da8b28': {
+      logoURI:
+        'https://dd.dexscreener.com/ds-data/tokens/sonic/0x05e31a691405d06708a355c029599c12d5da8b28.png?size=lg&key=f7ac24',
+    },
   },
 }
