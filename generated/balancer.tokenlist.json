@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 100
+        "patch": 101
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-12-27T15:09:56.772Z",
+    "timestamp": "2024-12-30T13:23:50.673Z",
     "tokens": [
         {
             "chainId": 1,
@@ -11753,6 +11753,22 @@
             "symbol": "180042069",
             "decimals": 18,
             "logoURI": "https://i.ibb.co/4N62vMk/BEARZWIFGUNZ180042069.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0xb161Fe49dEB1BDa8e3A4a484D5CcD927a35A7DDe",
+            "name": "SurvToken",
+            "symbol": "SURV",
+            "decimals": 18,
+            "logoURI": "https://i.ibb.co/64mycQm/SURV.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0x690d956D97d3EEe18AB68ED1A28a89d531734F3d",
+            "name": "DiddyScrotumFree",
+            "symbol": "Moist",
+            "decimals": 18,
+            "logoURI": "https://i.ibb.co/BTm5hX9/Moist.jpg"
         },
         {
             "chainId": 250,
