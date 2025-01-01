@@ -1171,7 +1171,7 @@ export const overwrites: OverwritesForList = {
         coingeckoId: 'fantom',
       },
     },
-    '0x309C92261178fA0CF748A855e90Ae73FDb79EBc7': {
+    '0x50c42deacd8fc9773493ed674b675be577f2634b': {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4200000000000000000000000000000000000006.png',
     },
