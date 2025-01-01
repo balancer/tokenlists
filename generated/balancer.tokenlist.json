@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 101
+        "patch": 102
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-12-30T13:23:50.673Z",
+    "timestamp": "2025-01-01T20:31:05.566Z",
     "tokens": [
         {
             "chainId": 1,
@@ -11465,7 +11465,7 @@
         },
         {
             "chainId": 146,
-            "address": "0x309C92261178fA0CF748A855e90Ae73FDb79EBc7",
+            "address": "0x50c42dEAcD8Fc9773493ED674b675bE577f2634b",
             "name": "Wrapped Ether on Sonic",
             "symbol": "WETH",
             "decimals": 18,
