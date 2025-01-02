@@ -1,7 +1,7 @@
 # Balancer tokenlists
 
 This is a general purpose tokenlist generation app that Balancer uses to
-generate it's
+generate its
 [tokenlist](https://github.com/balancer/tokenlists/blob/main/generated/balancer.tokenlist.json).
 
 ## Make changes to the Balancer tokenlist
@@ -9,7 +9,7 @@ generate it's
 To make changes to the balancer tokenlist edit the files in
 [src/tokenlists/balancer](https://github.com/balancer/tokenlists/tree/main/src/tokenlists/balancer).
 
-1. `metadata.ts` - Edit this to change the highlevel tokenlist metadata.
+1. `metadata.ts` - Edit this to change the high-level tokenlist metadata.
 1. `tokens/<network>.ts` - Edit this to add or remove tokens from the generated
    tokenlist. E.g Tokens for Arbitrum go in `tokens/arbitrum.ts`, tokens for
    Ethereum go in `tokens/ethereum.ts`.
