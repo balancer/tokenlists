@@ -1314,7 +1314,19 @@ export const overwrites: OverwritesForList = {
       logoURI: 'https://i.ibb.co/BTm5hX9/Moist.jpg',
     },
     '0x7F144F8691CbA3d2EfD8e5bcf042f9303EE31a46': {
-      logoURI: 'https://beethoven-assets.s3.eu-central-1.amazonaws.com/aurum.png',
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/aurum.png',
+    },
+    '0x0a54364631Ea37813a63edb3bBa1C46f8d8304B2': {
+      logoURI:
+        'https://dd.dexscreener.com/ds-data/tokens/sonic/0x0a54364631ea37813a63edb3bba1c46f8d8304b2.png?size=lg&key=761e2c',
+    },
+    '0x486B6Fa0419b33a0c7A6e4698c231D7E2f2D5299': {
+      logoURI: 'https://sonicscan.org/token/images/moonbaysonic_32.png',
+    },
+    '0xDE55B113A27Cc0c5893CAa6Ee1C020b6B46650C0': {
+      logoURI:
+        'https://assets.coingecko.com/coins/images/18778/standard/Black_Background_200x200.png?1696518242',
     },
   },
 }
