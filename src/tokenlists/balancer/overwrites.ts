@@ -1313,5 +1313,8 @@ export const overwrites: OverwritesForList = {
     '0x690d956D97d3EEe18AB68ED1A28a89d531734F3d': {
       logoURI: 'https://i.ibb.co/BTm5hX9/Moist.jpg',
     },
+    '0x7F144F8691CbA3d2EfD8e5bcf042f9303EE31a46': {
+      logoURI: 'https://beethoven-assets.s3.eu-central-1.amazonaws.com/aurum.png',
+    },
   },
 }
