@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 104
+        "patch": 105
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-01-03T14:17:51.579Z",
+    "timestamp": "2025-01-03T18:20:32.344Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14074,6 +14074,14 @@
             "symbol": "STONE",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/33103/large/200_200.png?1702602672"
+        },
+        {
+            "chainId": 34443,
+            "address": "0xe3C0FF176eF92FC225096C6d1788cCB818808b35",
+            "name": "Obelisk BTC",
+            "symbol": "oBTC",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe3c0ff176ef92fc225096c6d1788ccb818808b35.png"
         },
         {
             "chainId": 42161,
