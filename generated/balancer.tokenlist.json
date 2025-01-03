@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 103
+        "patch": 104
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-01-03T09:50:39.929Z",
+    "timestamp": "2025-01-03T14:17:51.579Z",
     "tokens": [
         {
             "chainId": 1,
@@ -11777,6 +11777,30 @@
             "symbol": "AUR",
             "decimals": 18,
             "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/aurum.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0x0a54364631Ea37813a63edb3bBa1C46f8d8304B2",
+            "name": "Sonic Donks",
+            "symbol": "DONKS",
+            "decimals": 18,
+            "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x0a54364631ea37813a63edb3bba1c46f8d8304b2.png?size=lg&key=761e2c"
+        },
+        {
+            "chainId": 146,
+            "address": "0x486B6Fa0419b33a0c7A6e4698c231D7E2f2D5299",
+            "name": "Moon Bay",
+            "symbol": "MOON",
+            "decimals": 18,
+            "logoURI": "https://sonicscan.org/token/images/moonbaysonic_32.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0xDE55B113A27Cc0c5893CAa6Ee1C020b6B46650C0",
+            "name": "DEUS",
+            "symbol": "DEUS",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/18778/standard/Black_Background_200x200.png?1696518242"
         },
         {
             "chainId": 250,
