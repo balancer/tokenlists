@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 105
+        "patch": 106
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-01-03T18:20:32.344Z",
+    "timestamp": "2025-01-08T18:02:29.287Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7531,6 +7531,22 @@
             "symbol": "ShezUSD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x634ed807647e07a7c038ef1956a58adbc6695f88.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x7204B7Dbf9412567835633B6F00C3Edc3a8D6330",
+            "name": "Coinshift USDC",
+            "symbol": "csUSDC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7204b7dbf9412567835633b6f00c3edc3a8d6330.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xbEeFc011e94f43b8B7b455eBaB290C7Ab4E216f1",
+            "name": "Coinshift USDL",
+            "symbol": "csUSDL",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xbeefc011e94f43b8b7b455ebab290c7ab4e216f1.png"
         },
         {
             "chainId": 10,
