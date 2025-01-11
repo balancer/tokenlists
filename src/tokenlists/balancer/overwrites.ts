@@ -1145,6 +1145,16 @@ export const overwrites: OverwritesForList = {
         coingeckoId: 'balancer',
       },
     },
+    '0xd0d1b59ca62ce194e882455fd36632d6277b192a': {
+      extensions: {
+        coingeckoId: 'wrapped-bitcoin',
+      },
+    },
+    '0xe3c0ff176ef92fc225096c6d1788ccb818808b35': {
+      extensions: {
+        coingeckoId: 'wrapped-bitcoin',
+      },
+    },
   },
   [Network.Sonic]: {
     '0xe6cc4D855B4fD4A9D02F46B9adae4C5EfB1764B5': {
