@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 106
+        "patch": 107
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-01-08T18:02:29.287Z",
+    "timestamp": "2025-01-13T03:05:55.239Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7549,6 +7549,13 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xbeefc011e94f43b8b7b455ebab290c7ab4e216f1.png"
         },
         {
+            "chainId": 1,
+            "address": "0xC71Ea051a5F82c67ADcF634c36FFE6334793D24C",
+            "name": "Wrapped Aave Ethereum Lido GHO",
+            "symbol": "waEthLidoGHO",
+            "decimals": 18
+        },
+        {
             "chainId": 10,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -14065,7 +14072,10 @@
             "name": "uBTC",
             "symbol": "uBTC",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd0d1b59ca62ce194e882455fd36632d6277b192a.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd0d1b59ca62ce194e882455fd36632d6277b192a.png",
+            "extensions": {
+                "coingeckoId": "wrapped-bitcoin"
+            }
         },
         {
             "chainId": 34443,
@@ -14097,7 +14107,10 @@
             "name": "Obelisk BTC",
             "symbol": "oBTC",
             "decimals": 8,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe3c0ff176ef92fc225096c6d1788ccb818808b35.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe3c0ff176ef92fc225096c6d1788ccb818808b35.png",
+            "extensions": {
+                "coingeckoId": "wrapped-bitcoin"
+            }
         },
         {
             "chainId": 42161,
