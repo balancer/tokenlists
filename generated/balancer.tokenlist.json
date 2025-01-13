@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 108
+        "patch": 109
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-01-13T03:12:27.119Z",
+    "timestamp": "2025-01-13T13:05:01.388Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7555,6 +7555,14 @@
             "symbol": "waEthLidoGHO",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc71ea051a5f82c67adcf634c36ffe6334793d24c.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x6243d8CEA23066d098a15582d81a598b4e8391F4",
+            "name": "Flex Ungovernance Token",
+            "symbol": "FLX",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x6243d8CEA23066d098a15582d81a598b4e8391F4/logo.png"
         },
         {
             "chainId": 10,
