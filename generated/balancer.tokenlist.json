@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 107
+        "patch": 108
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-01-13T03:05:55.239Z",
+    "timestamp": "2025-01-13T03:12:27.119Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7553,7 +7553,8 @@
             "address": "0xC71Ea051a5F82c67ADcF634c36FFE6334793D24C",
             "name": "Wrapped Aave Ethereum Lido GHO",
             "symbol": "waEthLidoGHO",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc71ea051a5f82c67adcf634c36ffe6334793d24c.png"
         },
         {
             "chainId": 10,
