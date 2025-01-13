@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 109
+        "patch": 110
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-01-13T13:05:01.388Z",
+    "timestamp": "2025-01-13T16:59:12.167Z",
     "tokens": [
         {
             "chainId": 1,
@@ -11835,6 +11835,14 @@
             "logoURI": "https://assets.coingecko.com/coins/images/18778/standard/Black_Background_200x200.png?1696518242"
         },
         {
+            "chainId": 146,
+            "address": "0x9C507f61f6108606A001C8D738E15b30c3f4C119",
+            "name": "Fanties",
+            "symbol": "Fantie",
+            "decimals": 18,
+            "logoURI": "https://dd.dexscreener.com/ds-data/tokens/fantom/0x5a27c97bf717f455c9eeb838a53fb9f044509c59.png?size=lg&key=99a609"
+        },
+        {
             "chainId": 250,
             "address": "0xf1648C50d2863f780c57849D812b4B7686031A3D",
             "name": "LayerZero Wrapped Bitcoin",
@@ -15992,6 +16000,29 @@
             "symbol": "USDX",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf3527ef8de265eaa3716fb312c12847bfba66cef.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x61328aaB4926D9ef1030DfC298340125b7EeFaB5",
+            "name": "onchainaustria.at",
+            "symbol": "BOCK",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0xf7d4e7273E5015C96728A6b02f31C505eE184603",
+            "name": "Staked ETH",
+            "symbol": "osETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf7d4e7273e5015c96728a6b02f31c505ee184603.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xd09ACb80C1E8f2291862c4978A008791c9167003",
+            "name": "Treehouse ETH",
+            "symbol": "tETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd09acb80c1e8f2291862c4978a008791c9167003.png"
         },
         {
             "chainId": 43114,
