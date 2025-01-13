@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 110
+        "patch": 111
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-01-13T16:59:12.167Z",
+    "timestamp": "2025-01-13T20:57:35.882Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7563,6 +7563,21 @@
             "symbol": "FLX",
             "decimals": 18,
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x6243d8CEA23066d098a15582d81a598b4e8391F4/logo.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x965d79F1A1016B574a62986e13Ca8Ab04DfdD15C",
+            "name": "M2",
+            "symbol": "M2",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/18239/large/m2_%281%29.png?1696517735"
+        },
+        {
+            "chainId": 1,
+            "address": "0x4b13006980aCB09645131b91D259eaA111eaF5Ba",
+            "name": "Mycelium",
+            "symbol": "MYC",
+            "decimals": 18
         },
         {
             "chainId": 10,
