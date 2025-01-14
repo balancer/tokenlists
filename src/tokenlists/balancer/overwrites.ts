@@ -1301,6 +1301,9 @@ export const overwrites: OverwritesForList = {
     '0xe715cba7b5ccb33790cebff1436809d36cb17e57': {
       logoURI:
         'https://assets.coingecko.com/coins/images/26045/standard/euro.png?1696525125',
+        extensions: {
+          coingeckoId: 'eurc',
+        },
     },
     '0x6fB9897896Fe5D05025Eb43306675727887D0B7c': {
       logoURI:
