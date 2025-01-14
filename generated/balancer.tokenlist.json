@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 112
+        "patch": 113
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-01-14T09:57:55.348Z",
+    "timestamp": "2025-01-14T13:06:27.580Z",
     "tokens": [
         {
             "chainId": 1,
@@ -11769,7 +11769,7 @@
             "decimals": 6,
             "logoURI": "https://assets.coingecko.com/coins/images/26045/standard/euro.png?1696525125",
             "extensions": {
-                "coingeckoId": "eurc"
+                "coingeckoId": null
             }
         },
         {
