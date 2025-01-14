@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 111
+        "patch": 112
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-01-13T20:57:35.882Z",
+    "timestamp": "2025-01-14T09:57:55.348Z",
     "tokens": [
         {
             "chainId": 1,
@@ -11767,7 +11767,10 @@
             "name": "Bridged EURC (Sonic Labs)",
             "symbol": "EURC.e",
             "decimals": 6,
-            "logoURI": "https://assets.coingecko.com/coins/images/26045/standard/euro.png?1696525125"
+            "logoURI": "https://assets.coingecko.com/coins/images/26045/standard/euro.png?1696525125",
+            "extensions": {
+                "coingeckoId": "eurc"
+            }
         },
         {
             "chainId": 146,
