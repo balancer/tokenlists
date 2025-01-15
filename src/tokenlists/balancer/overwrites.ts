@@ -1165,20 +1165,20 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://beethoven-assets.s3.eu-central-1.amazonaws.com/token-beets-staked-sonic.png',
       extensions: {
-        coingeckoId: 'fantom',
+        coingeckoId: 'beets-staked-sonic',
       },
     },
     '0x2D0E0814E62D80056181F5cd932274405966e4f0': {
       logoURI:
         'https://beethoven-assets.s3.eu-central-1.amazonaws.com/token-BEETS-sonic.png',
       extensions: {
-        coingeckoId: 'beethoven-x',
+        coingeckoId: 'beets',
       },
     },
     '0x039e2fb66102314ce7b64ce5ce3e5183bc94ad38': {
       logoURI: 'https://beets.fi/images/icons/sonic-logo.png',
       extensions: {
-        coingeckoId: 'fantom',
+        coingeckoId: 'sonic',
       },
     },
     '0x50c42deacd8fc9773493ed674b675be577f2634b': {
@@ -1188,6 +1188,9 @@ export const overwrites: OverwritesForList = {
     '0x29219dd400f2Bf60E5a23d13Be72B486D4038894': {
       logoURI:
         'https://assets.coingecko.com/coins/images/6319/large/usdc.png?1696506694',
+      extensions: {
+        coingeckoId: 'usd-coin',
+      },
     },
     '0x541FD749419CA806a8bc7da8ac23D346f2dF8B77': {
       logoURI:
