@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 114
+        "patch": 115
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-01-15T11:29:13.641Z",
+    "timestamp": "2025-01-16T15:11:05.370Z",
     "tokens": [
         {
             "chainId": 1,
@@ -11862,6 +11862,14 @@
             "symbol": "Fantie",
             "decimals": 18,
             "logoURI": "https://dd.dexscreener.com/ds-data/tokens/fantom/0x5a27c97bf717f455c9eeb838a53fb9f044509c59.png?size=lg&key=99a609"
+        },
+        {
+            "chainId": 146,
+            "address": "0x0E65f5a7cB56641e31bc5C9d53388dB7aC7eaCAE",
+            "name": "Atoll Sonic",
+            "symbol": "atS",
+            "decimals": 18,
+            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/ats.svg"
         },
         {
             "chainId": 250,
