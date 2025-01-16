@@ -1344,9 +1344,9 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://assets.coingecko.com/coins/images/18778/standard/Black_Background_200x200.png?1696518242',
     },
-    '0x9c507f61f6108606a001c8d738e15b30c3f4c119': {
+    '0x0e65f5a7cb56641e31bc5c9d53388db7ac7eacae': {
       logoURI:
-        'https://dd.dexscreener.com/ds-data/tokens/fantom/0x5a27c97bf717f455c9eeb838a53fb9f044509c59.png?size=lg&key=99a609',
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/ats.svg',
     },
   },
 }
