@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 116
+        "patch": 117
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-01-16T15:21:02.704Z",
+    "timestamp": "2025-01-16T15:24:33.144Z",
     "tokens": [
         {
             "chainId": 1,
@@ -11870,6 +11870,13 @@
             "symbol": "atS",
             "decimals": 18,
             "logoURI": "https://atoll.money/ats.svg"
+        },
+        {
+            "chainId": 146,
+            "address": "0x19008165514Ec7622b34924c755Dc7d116F84840",
+            "name": "Shilly AI by Yoko",
+            "symbol": "SHILL",
+            "decimals": 18
         },
         {
             "chainId": 250,
