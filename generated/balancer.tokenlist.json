@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 120
+        "patch": 121
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-01-16T19:28:50.156Z",
+    "timestamp": "2025-01-16T20:32:24.868Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7581,6 +7581,14 @@
             "name": "Mycelium",
             "symbol": "MYC",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x1e6ffa4e9F63d10B8820A3ab52566Af881Dab53c",
+            "name": "Gauntlet WETH Ecosystem",
+            "symbol": "gtWETHe",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1e6ffa4e9f63d10b8820a3ab52566af881dab53c.png"
         },
         {
             "chainId": 10,
