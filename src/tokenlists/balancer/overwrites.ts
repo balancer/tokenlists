@@ -1304,9 +1304,9 @@ export const overwrites: OverwritesForList = {
     '0xe715cba7b5ccb33790cebff1436809d36cb17e57': {
       logoURI:
         'https://assets.coingecko.com/coins/images/26045/standard/euro.png?1696525125',
-        extensions: {
-          coingeckoId: null,
-        },
+      extensions: {
+        coingeckoId: null,
+      },
     },
     '0x6fB9897896Fe5D05025Eb43306675727887D0B7c': {
       logoURI:
@@ -1345,8 +1345,10 @@ export const overwrites: OverwritesForList = {
         'https://assets.coingecko.com/coins/images/18778/standard/Black_Background_200x200.png?1696518242',
     },
     '0x0e65f5a7cb56641e31bc5c9d53388db7ac7eacae': {
-      logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/ats.png',
+      logoURI: 'https://beethoven-assets.s3.eu-central-1.amazonaws.com/ats.png',
+    },
+    '0x19008165514Ec7622b34924c755Dc7d116F84840': {
+      logoURI: 'https://i.ibb.co/S60DvQm/Shill.jpg',
     },
   },
 }
