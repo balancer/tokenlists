@@ -1346,7 +1346,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x0e65f5a7cb56641e31bc5c9d53388db7ac7eacae': {
       logoURI:
-        'https://atoll.money/ats.svg',
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/ats.png',
     },
   },
 }
