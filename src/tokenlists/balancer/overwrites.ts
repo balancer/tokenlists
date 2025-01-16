@@ -136,6 +136,11 @@ export const overwrites: OverwritesForList = {
     '0xDBf5E36569798D1E39eE9d7B1c61A7409a74F23A': {
       symbol: 'waLUSD',
     },
+    '0x5C5b196aBE0d54485975D1Ec29617D42D9198326': {
+      extensions: {
+        coingeckoId: null,
+      },
+    },
   },
   [Network.Polygon]: {
     '0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3': {
