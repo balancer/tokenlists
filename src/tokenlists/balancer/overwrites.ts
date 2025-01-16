@@ -1348,5 +1348,8 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://beethoven-assets.s3.eu-central-1.amazonaws.com/ats.svg',
     },
+    '0x19008165514Ec7622b34924c755Dc7d116F84840': {
+      logoURI: 'https://i.ibb.co/S60DvQm/Shill.jpg',
+    },
   },
 }
