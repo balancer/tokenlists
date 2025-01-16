@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 119
+        "patch": 120
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-01-16T15:49:00.712Z",
+    "timestamp": "2025-01-16T19:28:50.156Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7025,7 +7025,10 @@
             "name": "Staked deUSD",
             "symbol": "sdeUSD",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5c5b196abe0d54485975d1ec29617d42d9198326.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5c5b196abe0d54485975d1ec29617d42d9198326.png",
+            "extensions": {
+                "coingeckoId": null
+            }
         },
         {
             "chainId": 1,
