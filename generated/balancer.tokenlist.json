@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 123
+        "patch": 124
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-01-18T20:01:57.495Z",
+    "timestamp": "2025-01-19T12:44:58.726Z",
     "tokens": [
         {
             "chainId": 1,
@@ -11897,6 +11897,14 @@
             "symbol": "SHILL",
             "decimals": 18,
             "logoURI": "https://i.ibb.co/S60DvQm/Shill.jpg"
+        },
+        {
+            "chainId": 146,
+            "address": "0x35be05dF4e074606c77d78968ec5FBC9cCd4348B",
+            "name": "CONK2.0",
+            "symbol": "CONK2.0",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1734720923448537088/6WMuxreE_400x400.jpg"
         },
         {
             "chainId": 250,
