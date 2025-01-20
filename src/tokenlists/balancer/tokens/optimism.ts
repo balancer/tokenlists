@@ -96,4 +96,6 @@ export default [
   '0x298B9B95708152ff6968aafd889c6586e9169f1D', // Synth sBTC
   '0xFBc4198702E81aE77c06D58f81b629BDf36f0a71', // Synth sEUR
   '0x6d80113e533a2C0fe82EaBD35f1875DcEA89Ea97', // Aave Optimism sUSD
+  '0x326Aec8d7d99d1D6022c57C5f6194D2a7867227d', // paraswap test
+  '0xE0B197133ec7E2Db9Cb574B1e3da21b93F6e3CbF', // paraswap test
 ]
