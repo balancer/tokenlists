@@ -52,4 +52,5 @@ export default [
   '0x35be05dF4e074606c77d78968ec5FBC9cCd4348B', // CONK2.0
   '0xd31e89ffb929b38ba60d1c7dbeb68c7712eaab0a', // avalon wrapped solvBTC
   '0xa28d4dbcc90c849e3249d642f356d85296a12954', // avalon wrapped solvBTC.bbn
+  '0xCf3FE6eDFeE9c7fdf7d53DC58f4EFe66Fe110981', // BUNNY
 ]

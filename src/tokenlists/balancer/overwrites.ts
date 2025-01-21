@@ -1359,5 +1359,9 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://pbs.twimg.com/profile_images/1734720923448537088/6WMuxreE_400x400.jpg',
     },
+    '0xCf3FE6eDFeE9c7fdf7d53DC58f4EFe66Fe110981': {
+      logoURI:
+        'https://static.wixstatic.com/media/c7bf16_e769d4fbfdd64beb95c94854ee34b2d8~mv2.png',
+    },
   },
 }
