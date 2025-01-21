@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 127
+        "patch": 128
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-01-21T11:55:48.478Z",
+    "timestamp": "2025-01-21T12:02:22.775Z",
     "tokens": [
         {
             "chainId": 1,
@@ -11923,15 +11923,15 @@
         {
             "chainId": 146,
             "address": "0xD31E89Ffb929b38bA60D1c7dBeB68c7712EAAb0a",
-            "name": "Wrapped Avalon Avalon SOLVBTC",
-            "symbol": "waSonicSOLVBTC",
+            "name": "Static Avalon solvBTC",
+            "symbol": "AvalonSolvBTC",
             "decimals": 18
         },
         {
             "chainId": 146,
             "address": "0xA28d4dbcC90C849e3249D642f356D85296a12954",
-            "name": "Wrapped Avalon Avalon SOLVBTCBBN",
-            "symbol": "waSonicSOLVBTCBBN",
+            "name": "Static Avalon solvBTC.bbn",
+            "symbol": "AvalonSolvBTC.bbn",
             "decimals": 18
         },
         {
@@ -11945,15 +11945,15 @@
         {
             "chainId": 146,
             "address": "0x9eD5a9c8F09AA245f105B23B1EE27723c4AD8D69",
-            "name": "Silo Finance Borrowable SolvBTC Deposit, SiloId: 12",
-            "symbol": "bSolvBTC-12",
+            "name": "Silo wrapped solvBTC",
+            "symbol": "SiloSolvBTC",
             "decimals": 21
         },
         {
             "chainId": 146,
             "address": "0x34bb955F10f01E05d2639a12a9FbF770853eAC4b",
-            "name": "Silo Finance Borrowable SolvBTC.BBN Deposit, SiloId: 12",
-            "symbol": "bSolvBTC.BBN-12",
+            "name": "Silo wrapped solvBTC.bbn",
+            "symbol": "SiloSolvBTC.bbn",
             "decimals": 21
         },
         {
