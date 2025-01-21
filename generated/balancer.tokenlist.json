@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 124
+        "patch": 128
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-01-19T12:44:58.726Z",
+    "timestamp": "2025-01-21T12:02:22.775Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8351,6 +8351,20 @@
             "logoURI": "https://coin-images.coingecko.com/coins/images/32918/large/asusd.png?1699825436"
         },
         {
+            "chainId": 10,
+            "address": "0x326Aec8d7d99d1D6022c57C5f6194D2a7867227d",
+            "name": "TST",
+            "symbol": "TST",
+            "decimals": 18
+        },
+        {
+            "chainId": 10,
+            "address": "0xE0B197133ec7E2Db9Cb574B1e3da21b93F6e3CbF",
+            "name": "XYZ",
+            "symbol": "XYZ",
+            "decimals": 18
+        },
+        {
             "chainId": 100,
             "address": "0x7eF541E2a22058048904fE5744f9c7E4C57AF717",
             "name": "Balancer on xDai",
@@ -11905,6 +11919,42 @@
             "symbol": "CONK2.0",
             "decimals": 18,
             "logoURI": "https://pbs.twimg.com/profile_images/1734720923448537088/6WMuxreE_400x400.jpg"
+        },
+        {
+            "chainId": 146,
+            "address": "0xD31E89Ffb929b38bA60D1c7dBeB68c7712EAAb0a",
+            "name": "Static Avalon solvBTC",
+            "symbol": "AvalonSolvBTC",
+            "decimals": 18
+        },
+        {
+            "chainId": 146,
+            "address": "0xA28d4dbcC90C849e3249D642f356D85296a12954",
+            "name": "Static Avalon solvBTC.bbn",
+            "symbol": "AvalonSolvBTC.bbn",
+            "decimals": 18
+        },
+        {
+            "chainId": 146,
+            "address": "0xCf3FE6eDFeE9c7fdf7d53DC58f4EFe66Fe110981",
+            "name": "Sonic Bunny",
+            "symbol": "BUNNY",
+            "decimals": 18,
+            "logoURI": "https://static.wixstatic.com/media/c7bf16_e769d4fbfdd64beb95c94854ee34b2d8~mv2.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0x9eD5a9c8F09AA245f105B23B1EE27723c4AD8D69",
+            "name": "Silo wrapped solvBTC",
+            "symbol": "SiloSolvBTC",
+            "decimals": 21
+        },
+        {
+            "chainId": 146,
+            "address": "0x34bb955F10f01E05d2639a12a9FbF770853eAC4b",
+            "name": "Silo wrapped solvBTC.bbn",
+            "symbol": "SiloSolvBTC.bbn",
+            "decimals": 21
         },
         {
             "chainId": 250,
