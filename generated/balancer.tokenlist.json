@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 126
+        "patch": 127
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-01-21T10:54:59.611Z",
+    "timestamp": "2025-01-21T11:55:48.478Z",
     "tokens": [
         {
             "chainId": 1,
@@ -11941,6 +11941,20 @@
             "symbol": "BUNNY",
             "decimals": 18,
             "logoURI": "https://static.wixstatic.com/media/c7bf16_e769d4fbfdd64beb95c94854ee34b2d8~mv2.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0x9eD5a9c8F09AA245f105B23B1EE27723c4AD8D69",
+            "name": "Silo Finance Borrowable SolvBTC Deposit, SiloId: 12",
+            "symbol": "bSolvBTC-12",
+            "decimals": 21
+        },
+        {
+            "chainId": 146,
+            "address": "0x34bb955F10f01E05d2639a12a9FbF770853eAC4b",
+            "name": "Silo Finance Borrowable SolvBTC.BBN Deposit, SiloId: 12",
+            "symbol": "bSolvBTC.BBN-12",
+            "decimals": 21
         },
         {
             "chainId": 250,
