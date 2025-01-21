@@ -53,4 +53,6 @@ export default [
   '0xd31e89ffb929b38ba60d1c7dbeb68c7712eaab0a', // avalon wrapped solvBTC
   '0xa28d4dbcc90c849e3249d642f356d85296a12954', // avalon wrapped solvBTC.bbn
   '0xCf3FE6eDFeE9c7fdf7d53DC58f4EFe66Fe110981', // BUNNY
+  '0x9ed5a9c8f09aa245f105b23b1ee27723c4ad8d69', // silo wrapped solvBTC
+  '0x34bb955f10f01e05d2639a12a9fbf770853eac4b', // silo wrapped solvBTC.bbn
 ]
