@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 128
+        "patch": 129
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-01-21T12:02:22.775Z",
+    "timestamp": "2025-01-21T20:30:44.223Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7575,6 +7575,30 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1e6ffa4e9f63d10b8820a3ab52566af881dab53c.png"
         },
         {
+            "chainId": 1,
+            "address": "0x249cA82617eC3DfB2589c4c17ab7EC9765350a18",
+            "name": "Verse",
+            "symbol": "VERSE",
+            "decimals": 18,
+            "logoURI": "https://verse.bitcoin.com/static/verse2x-e89b2de142986a0e4380c920af417220.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xBB22d59B73D7a6F3A8a83A214BECc67Eb3b511fE",
+            "name": "Constellation ETH",
+            "symbol": "xrETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xbb22d59b73d7a6f3a8a83a214becc67eb3b511fe.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x1DB1Afd9552eeB28e2e36597082440598B7F1320",
+            "name": "Constellation RPL",
+            "symbol": "xRPL",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1db1afd9552eeb28e2e36597082440598b7f1320.png"
+        },
+        {
             "chainId": 10,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -11501,6 +11525,14 @@
             "symbol": "CGC",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb419fc8e817a76fe972707eabcf5dca4c49aa8e4.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0xc708D6F2153933DAA50B2D0758955Be0A93A8FEc",
+            "name": "Verse (FXERC20)",
+            "symbol": "VERSE",
+            "decimals": 18,
+            "logoURI": "https://verse.bitcoin.com/static/verse2x-e89b2de142986a0e4380c920af417220.png"
         },
         {
             "chainId": 146,
@@ -17103,22 +17135,6 @@
             "name": "GGGGGG",
             "symbol": "GXX1",
             "decimals": 2
-        },
-        {
-            "chainId": 1,
-            "address": "0x249cA82617eC3DfB2589c4c17ab7EC9765350a18",
-            "name": "Verse",
-            "symbol": "VERSE",
-            "decimals": 18,
-            "logoURI": "https://verse.bitcoin.com/static/verse2x-e89b2de142986a0e4380c920af417220.png"
-        },
-        {
-            "chainId": 137,
-            "address": "0xc708D6F2153933DAA50B2D0758955Be0A93A8FEc",
-            "name": "fxVerse",
-            "symbol": "VERSE",
-            "decimals": 18,
-            "logoURI": "https://verse.bitcoin.com/static/verse2x-e89b2de142986a0e4380c920af417220.png"
         }
     ]
 }
