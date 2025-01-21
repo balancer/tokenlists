@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 125
+        "patch": 126
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-01-20T16:38:52.376Z",
+    "timestamp": "2025-01-21T10:54:59.611Z",
     "tokens": [
         {
             "chainId": 1,
@@ -11933,6 +11933,14 @@
             "name": "Wrapped Avalon Avalon SOLVBTCBBN",
             "symbol": "waSonicSOLVBTCBBN",
             "decimals": 18
+        },
+        {
+            "chainId": 146,
+            "address": "0xCf3FE6eDFeE9c7fdf7d53DC58f4EFe66Fe110981",
+            "name": "Sonic Bunny",
+            "symbol": "BUNNY",
+            "decimals": 18,
+            "logoURI": "https://static.wixstatic.com/media/c7bf16_e769d4fbfdd64beb95c94854ee34b2d8~mv2.png"
         },
         {
             "chainId": 250,
