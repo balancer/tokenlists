@@ -1367,13 +1367,13 @@ export const overwrites: OverwritesForList = {
       symbol: 'AvalonSolvBTC',
       name: 'Static Avalon solvBTC',
       logoURI:
-        'https://assets.coingecko.com/coins/images/36800/standard/solvBTC.png?1719810684',
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/solv-btc-avalon.png',
     },
     '0xa28d4dbcc90c849e3249d642f356d85296a12954': {
       symbol: 'AvalonSolvBTC.bbn',
       name: 'Static Avalon solvBTC.bbn',
       logoURI:
-        'https://assets.coingecko.com/coins/images/39384/standard/unnamed.png?1721961640',
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/solv-btc-bbn-avalon.png',
     },
     '0x9ed5a9c8f09aa245f105b23b1ee27723c4ad8d69': {
       symbol: 'SiloSolvBTC',
