@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 130
+        "patch": 131
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-01-22T07:25:23.295Z",
+    "timestamp": "2025-01-22T13:54:51.970Z",
     "tokens": [
         {
             "chainId": 1,
@@ -11957,14 +11957,16 @@
             "address": "0xD31E89Ffb929b38bA60D1c7dBeB68c7712EAAb0a",
             "name": "Static Avalon solvBTC",
             "symbol": "AvalonSolvBTC",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/36800/standard/solvBTC.png?1719810684"
         },
         {
             "chainId": 146,
             "address": "0xA28d4dbcC90C849e3249D642f356D85296a12954",
             "name": "Static Avalon solvBTC.bbn",
             "symbol": "AvalonSolvBTC.bbn",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/39384/standard/unnamed.png?1721961640"
         },
         {
             "chainId": 146,
