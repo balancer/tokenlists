@@ -141,6 +141,11 @@ export const overwrites: OverwritesForList = {
         coingeckoId: null,
       },
     },
+    '0x8236a87084f8B84306f72007F36F2618A5634494': {
+      extensions: {
+        coingeckoId: 'lombard-staked-btc',
+      },
+    },
   },
   [Network.Polygon]: {
     '0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3': {
@@ -664,6 +669,11 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x83f20f44975d03b1b09e64809b757c47f942beea.png',
     },
+    '0xecAc9C5F704e954931349Da37F60E39f515c11c1': {
+      extensions: {
+        coingeckoId: 'lombard-staked-btc',
+      },
+    },
   },
   [Network.Fantom]: {
     '0xf1648C50d2863f780c57849D812b4B7686031A3D': {
@@ -1158,6 +1168,11 @@ export const overwrites: OverwritesForList = {
     '0xe3c0ff176ef92fc225096c6d1788ccb818808b35': {
       extensions: {
         coingeckoId: 'wrapped-bitcoin',
+      },
+    },
+    '0x964dd444e3192F636322229080A576077B06FbA3': {
+      extensions: {
+        coingeckoId: 'lombard-staked-btc',
       },
     },
   },
