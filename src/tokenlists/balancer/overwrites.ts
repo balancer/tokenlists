@@ -1181,7 +1181,8 @@ export const overwrites: OverwritesForList = {
       },
     },
     '0x039e2fb66102314ce7b64ce5ce3e5183bc94ad38': {
-      logoURI: 'https://beethoven-assets.s3.eu-central-1.amazonaws.com/wS_WrappedS_DarkMode.png',
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/wS_WrappedS_DarkMode.png',
       extensions: {
         coingeckoId: 'sonic',
       },
@@ -1200,10 +1201,16 @@ export const overwrites: OverwritesForList = {
     '0x541FD749419CA806a8bc7da8ac23D346f2dF8B77': {
       logoURI:
         'https://assets.coingecko.com/coins/images/36800/standard/solvBTC.png?1719810684',
+      extensions: {
+        coingeckoId: 'solv-protocol-solvbtc',
+      },
     },
     '0xCC0966D8418d412c599A6421b760a847eB169A8c': {
       logoURI:
         'https://assets.coingecko.com/coins/images/39384/standard/unnamed.png?1721961640',
+      extensions: {
+        coingeckoId: 'solv-protocol-solvbtc-bbn',
+      },
     },
     '0x342781fd3d3F73bdB54b2DEDd925f2ad81b48590': {
       logoURI:
@@ -1368,20 +1375,32 @@ export const overwrites: OverwritesForList = {
       name: 'Static Avalon solvBTC',
       logoURI:
         'https://beethoven-assets.s3.eu-central-1.amazonaws.com/solv-btc-avalon.png',
+      extensions: {
+        coingeckoId: 'solv-protocol-solvbtc',
+      },
     },
     '0xa28d4dbcc90c849e3249d642f356d85296a12954': {
       symbol: 'AvalonSolvBTC.bbn',
       name: 'Static Avalon solvBTC.bbn',
       logoURI:
         'https://beethoven-assets.s3.eu-central-1.amazonaws.com/solv-btc-bbn-avalon.png',
+      extensions: {
+        coingeckoId: 'solv-protocol-solvbtc-bbn',
+      },
     },
     '0x9ed5a9c8f09aa245f105b23b1ee27723c4ad8d69': {
       symbol: 'SiloSolvBTC',
       name: 'Silo wrapped solvBTC',
+      extensions: {
+        coingeckoId: 'solv-protocol-solvbtc',
+      },
     },
     '0x34bb955f10f01e05d2639a12a9fbf770853eac4b': {
       symbol: 'SiloSolvBTC.bbn',
       name: 'Silo wrapped solvBTC.bbn',
+      extensions: {
+        coingeckoId: 'solv-protocol-solvbtc-bbn',
+      },
     },
   },
 }
