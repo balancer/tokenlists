@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 134
+        "patch": 135
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-01-23T08:01:25.807Z",
+    "timestamp": "2025-01-23T16:23:38.740Z",
     "tokens": [
         {
             "chainId": 1,
@@ -11966,7 +11966,7 @@
             "decimals": 18,
             "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/solvBTC-Avalon.png",
             "extensions": {
-                "coingeckoId": "solv-protocol-solvbtc"
+                "coingeckoId": "solv-btc"
             }
         },
         {
@@ -11994,10 +11994,7 @@
             "name": "Silo wrapped solvBTC",
             "symbol": "SiloSolvBTC",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/solvBTC-Silo.png",
-            "extensions": {
-                "coingeckoId": "solv-protocol-solvbtc"
-            }
+            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/solvBTC-Silo.png"
         },
         {
             "chainId": 146,
@@ -12005,10 +12002,7 @@
             "name": "Silo wrapped solvBTC.bbn",
             "symbol": "SiloSolvBTC.bbn",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/solvBTC-BBN-Silo.png",
-            "extensions": {
-                "coingeckoId": "solv-protocol-solvbtc-bbn"
-            }
+            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/solvBTC-BBN-Silo.png"
         },
         {
             "chainId": 250,
