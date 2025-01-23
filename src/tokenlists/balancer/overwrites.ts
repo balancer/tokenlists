@@ -1376,7 +1376,7 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://beethoven-assets.s3.eu-central-1.amazonaws.com/solvBTC-Avalon.png',
       extensions: {
-        coingeckoId: 'solv-protocol-solvbtc',
+        coingeckoId: 'solv-btc',
       },
     },
     '0xa28d4dbcc90c849e3249d642f356d85296a12954': {
@@ -1391,18 +1391,12 @@ export const overwrites: OverwritesForList = {
     '0x87178fe8698c7eda8aa207083c3d66aea569ab98': {
       symbol: 'SiloSolvBTC',
       name: 'Silo wrapped solvBTC',
-      extensions: {
-        coingeckoId: 'solv-protocol-solvbtc',
-      },
       logoURI:
         'https://beethoven-assets.s3.eu-central-1.amazonaws.com/solvBTC-Silo.png',
     },
     '0x52fc9e0a68b6a4c9b57b9d1d99fb71449a99dcd8': {
       symbol: 'SiloSolvBTC.bbn',
       name: 'Silo wrapped solvBTC.bbn',
-      extensions: {
-        coingeckoId: 'solv-protocol-solvbtc-bbn',
-      },
       logoURI:
         'https://beethoven-assets.s3.eu-central-1.amazonaws.com/solvBTC-BBN-Silo.png',
     },
