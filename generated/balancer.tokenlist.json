@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 132
+        "patch": 133
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-01-22T15:42:40.289Z",
+    "timestamp": "2025-01-23T07:32:05.088Z",
     "tokens": [
         {
             "chainId": 1,
@@ -11600,7 +11600,10 @@
             "name": "Solv BTC",
             "symbol": "SolvBTC",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/36800/standard/solvBTC.png?1719810684"
+            "logoURI": "https://assets.coingecko.com/coins/images/36800/standard/solvBTC.png?1719810684",
+            "extensions": {
+                "coingeckoId": "solv-protocol-solvbtc"
+            }
         },
         {
             "chainId": 146,
@@ -11608,7 +11611,10 @@
             "name": "SolvBTC Babylon",
             "symbol": "SolvBTC.BBN",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/39384/standard/unnamed.png?1721961640"
+            "logoURI": "https://assets.coingecko.com/coins/images/39384/standard/unnamed.png?1721961640",
+            "extensions": {
+                "coingeckoId": "solv-protocol-solvbtc-bbn"
+            }
         },
         {
             "chainId": 146,
@@ -11958,7 +11964,10 @@
             "name": "Static Avalon solvBTC",
             "symbol": "AvalonSolvBTC",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/solv-btc-avalon.png"
+            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/solv-btc-avalon.png",
+            "extensions": {
+                "coingeckoId": "solv-protocol-solvbtc"
+            }
         },
         {
             "chainId": 146,
@@ -11966,7 +11975,10 @@
             "name": "Static Avalon solvBTC.bbn",
             "symbol": "AvalonSolvBTC.bbn",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/solv-btc-bbn-avalon.png"
+            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/solv-btc-bbn-avalon.png",
+            "extensions": {
+                "coingeckoId": "solv-protocol-solvbtc-bbn"
+            }
         },
         {
             "chainId": 146,
@@ -11981,14 +11993,20 @@
             "address": "0x9eD5a9c8F09AA245f105B23B1EE27723c4AD8D69",
             "name": "Silo wrapped solvBTC",
             "symbol": "SiloSolvBTC",
-            "decimals": 21
+            "decimals": 21,
+            "extensions": {
+                "coingeckoId": "solv-protocol-solvbtc"
+            }
         },
         {
             "chainId": 146,
             "address": "0x34bb955F10f01E05d2639a12a9FbF770853eAC4b",
             "name": "Silo wrapped solvBTC.bbn",
             "symbol": "SiloSolvBTC.bbn",
-            "decimals": 21
+            "decimals": 21,
+            "extensions": {
+                "coingeckoId": "solv-protocol-solvbtc-bbn"
+            }
         },
         {
             "chainId": 250,
