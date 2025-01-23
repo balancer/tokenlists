@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 135
+        "patch": 136
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-01-23T16:23:38.740Z",
+    "timestamp": "2025-01-23T20:27:53.576Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7599,6 +7599,25 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1db1afd9552eeb28e2e36597082440598b7f1320.png"
         },
         {
+            "chainId": 1,
+            "address": "0xf3527ef8dE265eAa3716FB312c12847bFBA66Cef",
+            "name": "USDX",
+            "symbol": "USDX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf3527ef8de265eaa3716fb312c12847bfba66cef.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x8236a87084f8B84306f72007F36F2618A5634494",
+            "name": "Lombard Staked Bitcoin",
+            "symbol": "LBTC",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x8236a87084f8b84306f72007f36f2618a5634494.png",
+            "extensions": {
+                "coingeckoId": "lombard-staked-btc"
+            }
+        },
+        {
             "chainId": 10,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -14134,6 +14153,17 @@
             "decimals": 18
         },
         {
+            "chainId": 8453,
+            "address": "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
+            "name": "Lombard Staked Bitcoin",
+            "symbol": "LBTC",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xecac9c5f704e954931349da37f60e39f515c11c1.png",
+            "extensions": {
+                "coingeckoId": "lombard-staked-btc"
+            }
+        },
+        {
             "chainId": 34443,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -14289,6 +14319,17 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe3c0ff176ef92fc225096c6d1788ccb818808b35.png",
             "extensions": {
                 "coingeckoId": "wrapped-bitcoin"
+            }
+        },
+        {
+            "chainId": 34443,
+            "address": "0x964dd444e3192F636322229080A576077B06FbA3",
+            "name": "Lombard Staked Bitcoin",
+            "symbol": "LBTC",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x964dd444e3192f636322229080a576077b06fba3.png",
+            "extensions": {
+                "coingeckoId": "lombard-staked-btc"
             }
         },
         {
