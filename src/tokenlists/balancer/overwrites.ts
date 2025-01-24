@@ -1415,5 +1415,11 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://beethoven-assets.s3.eu-central-1.amazonaws.com/solvBTC-BBN-Silo.png',
     },
+    '0x7870ddfd5aca4e977b2287e9a212bcbe8fc4135a': {
+      symbol: 'BeefyUsdc.e',
+      name: 'Beefy wrapped USDC.e',
+      logoURI:
+        'https://assets.coingecko.com/coins/images/6319/large/usdc.png?1696506694',
+    },
   },
 }
