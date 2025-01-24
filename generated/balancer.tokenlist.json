@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 137
+        "patch": 138
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-01-24T10:01:37.723Z",
+    "timestamp": "2025-01-24T12:54:34.863Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12026,8 +12026,8 @@
         {
             "chainId": 146,
             "address": "0x7870ddFd5ACA4E977B2287e9A212bcbe8FC4135a",
-            "name": "Beefy wrapped USDC.e",
-            "symbol": "BeefyUsdc.e",
+            "name": "Beefy Wrapped SiloV2 USDC.e",
+            "symbol": "BeefySiloV2Usdc.e",
             "decimals": 6,
             "logoURI": "https://assets.coingecko.com/coins/images/6319/large/usdc.png?1696506694"
         },
