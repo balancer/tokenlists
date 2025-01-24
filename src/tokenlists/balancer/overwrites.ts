@@ -1419,7 +1419,7 @@ export const overwrites: OverwritesForList = {
       symbol: 'BeefySiloV2USDC.e',
       name: 'Beefy Wrapped SiloV2 USDC.e',
       logoURI:
-        'https://assets.coingecko.com/coins/images/6319/large/usdc.png?1696506694',
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/beefy-usdc.png',
     },
   },
 }
