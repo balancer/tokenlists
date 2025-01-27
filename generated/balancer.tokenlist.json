@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 142
+        "patch": 143
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-01-27T14:19:13.736Z",
+    "timestamp": "2025-01-27T15:26:13.733Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13148,7 +13148,10 @@
             "address": "0x10b620b2dbAC4Faa7D7FFD71Da486f5D44cd86f9",
             "name": "Liquid Driver",
             "symbol": "LQDR",
-            "decimals": 18
+            "decimals": 18,
+            "extensions": {
+                "coingeckoId": "liquiddriver"
+            }
         },
         {
             "chainId": 252,
