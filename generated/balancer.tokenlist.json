@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 141
+        "patch": 142
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-01-27T08:05:27.293Z",
+    "timestamp": "2025-01-27T14:19:13.736Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13787,13 +13787,6 @@
         },
         {
             "chainId": 8453,
-            "address": "0xF9E36ba92f4f5E60FC0A19CCD201c285d8CCe62D",
-            "name": "Tether",
-            "symbol": "USDT",
-            "decimals": 18
-        },
-        {
-            "chainId": 8453,
             "address": "0xA61BeB4A3d02decb01039e378237032B351125B4",
             "name": "EURA (previously agEUR)",
             "symbol": "EURA",
@@ -14177,6 +14170,14 @@
             "extensions": {
                 "coingeckoId": "lombard-staked-btc"
             }
+        },
+        {
+            "chainId": 8453,
+            "address": "0xfde4C96c8593536E31F229EA8f37b2ADa2699bb2",
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 6,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/39963/large/usdt.png?1724952731"
         },
         {
             "chainId": 34443,
