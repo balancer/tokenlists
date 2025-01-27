@@ -1054,6 +1054,11 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://dd.dexscreener.com/ds-data/tokens/fantom/0x24626638ca7b8315c755f4a7337542f10582c805.png?size=lg&key=0c4c55',
     },
+    '0x10b620b2dbAC4Faa7D7FFD71Da486f5D44cd86f9': {
+      extensions: {
+        coingeckoId: 'liquiddriver',
+      },
+    },
   },
   [Network.Sepolia]: {
     '0xb19382073c7A0aDdbb56Ac6AF1808Fa49e377B75': {
