@@ -1427,6 +1427,9 @@ export const overwrites: OverwritesForList = {
     '0x284d81e48fbc782aa9186a03a226690aea5cbe0e': {
       logoURI:
         'https://assets.coingecko.com/coins/images/53797/standard/IMG_7045.jpeg?1737477230',
+        extensions: {
+          coingeckoId: 'atoll-eth',
+        },
     },
   },
 }
