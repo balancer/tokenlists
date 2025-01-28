@@ -1222,7 +1222,7 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://assets.coingecko.com/coins/images/36800/standard/solvBTC.png?1719810684',
       extensions: {
-        coingeckoId: 'solv-protocol-solvbtc',
+        coingeckoId: 'solv-btc',
       },
     },
     '0xCC0966D8418d412c599A6421b760a847eB169A8c': {
