@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 144
+        "patch": 145
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-01-28T02:38:05.605Z",
+    "timestamp": "2025-01-28T07:20:37.238Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12030,6 +12030,14 @@
             "symbol": "BeefySiloV2USDC.e",
             "decimals": 6,
             "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/beefy-usdc.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0x53f753E4B17F4075D6fa2c6909033d224b81e698",
+            "name": "Silo Governance Token",
+            "symbol": "Silo",
+            "decimals": 18,
+            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/silo-token.png"
         },
         {
             "chainId": 250,
