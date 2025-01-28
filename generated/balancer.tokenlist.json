@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 146
+        "patch": 147
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-01-28T11:12:44.299Z",
+    "timestamp": "2025-01-28T13:50:12.199Z",
     "tokens": [
         {
             "chainId": 1,
@@ -11983,10 +11983,7 @@
             "name": "Static Avalon solvBTC",
             "symbol": "AvalonSolvBTC",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/solvBTC-Avalon.png",
-            "extensions": {
-                "coingeckoId": "solv-btc"
-            }
+            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/solvBTC-Avalon.png"
         },
         {
             "chainId": 146,
@@ -11994,10 +11991,7 @@
             "name": "Static Avalon solvBTC.bbn",
             "symbol": "AvalonSolvBTC.bbn",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/solvBTC-BBN-Avalon.png",
-            "extensions": {
-                "coingeckoId": "solv-protocol-solvbtc-bbn"
-            }
+            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/solvBTC-BBN-Avalon.png"
         },
         {
             "chainId": 146,
@@ -12038,6 +12032,14 @@
             "symbol": "Silo",
             "decimals": 18,
             "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/silo-token.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0x284D81e48fBc782Aa9186a03a226690aEA5cBe0E",
+            "name": "Atoll ETH",
+            "symbol": "atETH",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/53797/standard/IMG_7045.jpeg?1737477230"
         },
         {
             "chainId": 250,
