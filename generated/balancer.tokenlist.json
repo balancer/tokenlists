@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 143
+        "patch": 144
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-01-27T15:26:13.733Z",
+    "timestamp": "2025-01-28T02:38:05.605Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14181,6 +14181,14 @@
             "symbol": "USDT",
             "decimals": 6,
             "logoURI": "https://coin-images.coingecko.com/coins/images/39963/large/usdt.png?1724952731"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C",
+            "name": "HeyAnon",
+            "symbol": "Anon",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/52961/large/ICON.png?1734862960"
         },
         {
             "chainId": 34443,
