@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 145
+        "patch": 146
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-01-28T07:20:37.238Z",
+    "timestamp": "2025-01-28T11:12:44.299Z",
     "tokens": [
         {
             "chainId": 1,
@@ -11621,7 +11621,7 @@
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/36800/standard/solvBTC.png?1719810684",
             "extensions": {
-                "coingeckoId": "solv-protocol-solvbtc"
+                "coingeckoId": "solv-btc"
             }
         },
         {
