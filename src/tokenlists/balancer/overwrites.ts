@@ -1426,5 +1426,9 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://beethoven-assets.s3.eu-central-1.amazonaws.com/beefy-usdc.png',
     },
+    '0x53f753E4B17F4075D6fa2c6909033d224b81e698': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/silo-token.png',
+    },
   },
 }
