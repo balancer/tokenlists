@@ -1424,5 +1424,9 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://beethoven-assets.s3.eu-central-1.amazonaws.com/silo-token.png',
     },
+    '0x284d81e48fbc782aa9186a03a226690aea5cbe0e': {
+      logoURI:
+        'https://assets.coingecko.com/coins/images/53797/standard/IMG_7045.jpeg?1737477230',
+    },
   },
 }
