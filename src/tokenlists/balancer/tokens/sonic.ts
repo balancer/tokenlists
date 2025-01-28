@@ -56,4 +56,5 @@ export default [
   '0x87178fe8698c7eda8aa207083c3d66aea569ab98', // silo wrapped solvBTC
   '0x52fc9e0a68b6a4c9b57b9d1d99fb71449a99dcd8', // silo wrapped solvBTC.bbn
   '0x7870ddfd5aca4e977b2287e9a212bcbe8fc4135a', // beefy wrapped Silo USDC
+  '0x53f753E4B17F4075D6fa2c6909033d224b81e698', // Silo
 ]
