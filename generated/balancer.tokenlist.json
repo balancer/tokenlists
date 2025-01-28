@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 147
+        "patch": 148
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-01-28T13:50:12.199Z",
+    "timestamp": "2025-01-28T14:59:57.642Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12039,7 +12039,10 @@
             "name": "Atoll ETH",
             "symbol": "atETH",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/53797/standard/IMG_7045.jpeg?1737477230"
+            "logoURI": "https://assets.coingecko.com/coins/images/53797/standard/IMG_7045.jpeg?1737477230",
+            "extensions": {
+                "coingeckoId": "atoll-eth"
+            }
         },
         {
             "chainId": 250,
@@ -16263,6 +16266,14 @@
             "symbol": "tETH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd09acb80c1e8f2291862c4978a008791c9167003.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xe10D4a4255D2D35c9e23E2C4790E073046FbaF5c",
+            "name": "LandX Governance Token",
+            "symbol": "LNDX",
+            "decimals": 6,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/33565/large/LNDX-200.png?1702445947"
         },
         {
             "chainId": 43114,
