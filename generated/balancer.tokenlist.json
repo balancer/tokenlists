@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 148
+        "patch": 149
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-01-28T14:59:57.642Z",
+    "timestamp": "2025-01-28T20:11:46.265Z",
     "tokens": [
         {
             "chainId": 1,
@@ -11554,6 +11554,14 @@
             "logoURI": "https://verse.bitcoin.com/static/verse2x-e89b2de142986a0e4380c920af417220.png"
         },
         {
+            "chainId": 137,
+            "address": "0x2cb7285733A30BB08303B917A7a519C88146C6Eb",
+            "name": "FR KUMA Interest Bearing Token",
+            "symbol": "FRK",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/33447/large/FRK.png?1701888548"
+        },
+        {
             "chainId": 146,
             "address": "0xe6cc4D855B4fD4A9D02F46B9adae4C5EfB1764B5",
             "name": "LUDWIG",
@@ -14371,6 +14379,13 @@
             "extensions": {
                 "coingeckoId": "lombard-staked-btc"
             }
+        },
+        {
+            "chainId": 34443,
+            "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
+            "name": "USDA",
+            "symbol": "USDA",
+            "decimals": 18
         },
         {
             "chainId": 42161,
