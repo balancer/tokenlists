@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 149
+        "patch": 150
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-01-28T20:11:46.265Z",
+    "timestamp": "2025-01-29T08:27:52.682Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12029,7 +12029,7 @@
             "chainId": 146,
             "address": "0x7870ddFd5ACA4E977B2287e9A212bcbe8FC4135a",
             "name": "Beefy Wrapped SiloV2 USDC.e",
-            "symbol": "BeefySiloV2USDC.e",
+            "symbol": "BeefyUSDC.e",
             "decimals": 6,
             "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/beefy-usdc.png"
         },
