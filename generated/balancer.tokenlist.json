@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 150
+        "patch": 151
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-01-29T08:27:52.682Z",
+    "timestamp": "2025-01-29T12:01:58.738Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12039,7 +12039,10 @@
             "name": "Silo Governance Token",
             "symbol": "Silo",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/silo-token.png"
+            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/silo-token.png",
+            "extensions": {
+                "coingeckoId": "silo-finance"
+            }
         },
         {
             "chainId": 146,
