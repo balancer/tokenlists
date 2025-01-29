@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 152
+        "patch": 153
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-01-29T14:12:31.859Z",
+    "timestamp": "2025-01-29T15:38:57.469Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7618,6 +7618,20 @@
             }
         },
         {
+            "chainId": 1,
+            "address": "0x01bF66BEcDcFD6D59A5Ca18869f494feA086cdfD",
+            "name": "US KUMA Interest Bearing Token",
+            "symbol": "USK",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x1B6238E95bBCABEE58997c99BaDD4154ad68BA92",
+            "name": "InternalAccountingUnit_Wrapped liquid staked Ether 2.0",
+            "symbol": "IAU_wstETH",
+            "decimals": 18
+        },
+        {
             "chainId": 10,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -14622,7 +14636,7 @@
         {
             "chainId": 42161,
             "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
-            "name": "Tether USD",
+            "name": "USD₮0",
             "symbol": "USDT",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9.png"
@@ -16319,6 +16333,41 @@
             "address": "0xe98fc055c99DECD8Da0c111B090885d5d15C774E",
             "name": "Wrapped Aave Arbitrum wstETH",
             "symbol": "waArbwstETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x9eCf98B64986277d53E8c8dBfA1B48b1d4A3df75",
+            "name": "Ulysses Optimism Stack ETH",
+            "symbol": "uOPs-ETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0xf178e6E408567D3421153DC7fD24c0c221F35A28",
+            "name": "Virtual dLP",
+            "symbol": "v-dLP",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x194887502D1f9B1BBc520c95876C7493DE276525",
+            "name": "Ulysses Alt L1 ETH",
+            "symbol": "uL1s-ETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0xAcDd57300F214E2530Db0F5283036686BB85d67c",
+            "name": "Ulysses Optimism Stack USDC",
+            "symbol": "uOPs-USDC",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x72dF281E860117dBf60400D7C5EA770D2379072C",
+            "name": "Ulysses Alt L1 USDC",
+            "symbol": "uL1s-USDC",
             "decimals": 18
         },
         {
