@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 151
+        "patch": 152
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-01-29T12:01:58.738Z",
+    "timestamp": "2025-01-29T14:12:31.859Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14215,6 +14215,20 @@
             "logoURI": "https://coin-images.coingecko.com/coins/images/52961/large/ICON.png?1734862960"
         },
         {
+            "chainId": 8453,
+            "address": "0x0830820D1A9aa1554364752d6D8F55C836871B74",
+            "name": "Wrapped Aave Base wstETH",
+            "symbol": "waBaswstETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 8453,
+            "address": "0xe298b938631f750DD409fB18227C4a23dCdaab9b",
+            "name": "Wrapped Aave Base WETH",
+            "symbol": "waBasWETH",
+            "decimals": 18
+        },
+        {
             "chainId": 34443,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -16292,6 +16306,20 @@
             "symbol": "LNDX",
             "decimals": 6,
             "logoURI": "https://coin-images.coingecko.com/coins/images/33565/large/LNDX-200.png?1702445947"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x4cE13a79f45C1Be00BdABD38B764aC28C082704E",
+            "name": "Wrapped Aave Arbitrum WETH",
+            "symbol": "waArbWETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0xe98fc055c99DECD8Da0c111B090885d5d15C774E",
+            "name": "Wrapped Aave Arbitrum wstETH",
+            "symbol": "waArbwstETH",
+            "decimals": 18
         },
         {
             "chainId": 43114,
