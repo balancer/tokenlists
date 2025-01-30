@@ -146,6 +146,16 @@ export const overwrites: OverwritesForList = {
         coingeckoId: 'lombard-staked-btc',
       },
     },
+    '0xb51EDdDD8c47856D81C8681EA71404Cec93E92c6': {
+      decimals: 18,
+      symbol: 'Aave Core pyUSD',
+      name: 'Aave Core pyUSD',
+    },
+    '0xC71Ea051a5F82c67ADcF634c36FFE6334793D24C': {
+      decimals: 18,
+      symbol: 'Aave Prime GHO',
+      name: 'Aave Prime GHO',
+    },
   },
   [Network.Polygon]: {
     '0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3': {
