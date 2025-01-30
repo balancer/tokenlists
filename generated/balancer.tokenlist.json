@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 154
+        "patch": 155
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-01-30T02:50:14.658Z",
+    "timestamp": "2025-01-30T12:50:28.888Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12068,6 +12068,38 @@
             "extensions": {
                 "coingeckoId": "atoll-eth"
             }
+        },
+        {
+            "chainId": 146,
+            "address": "0x39838b880BA948C49aaB7253f61Ce1e00C30c014",
+            "name": "FUCKMULTI",
+            "symbol": "fMULTI",
+            "decimals": 18,
+            "logoURI": "https://maxflowo2.com/img/image.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0x44E23B1F3f4511b3a7e81077Fd9F2858dF1B7579",
+            "name": "Millennium Club",
+            "symbol": "MCLB",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/29314/standard/mclb.png?1696528265"
+        },
+        {
+            "chainId": 146,
+            "address": "0x38628cb4cc74cbDFB6dDD877B17c1F60fCAE7C2C",
+            "name": "BLACKHOLE",
+            "symbol": "BOL",
+            "decimals": 18,
+            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/blackhole_logo_gradient.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0xF97d438BC03aD0F75B83ce5714c9619880B305bc",
+            "name": "FIERY",
+            "symbol": "FIERY",
+            "decimals": 18,
+            "logoURI": "https://cdn.jsdelivr.net/gh/unified-defi/equalizer-tokens@latest/sonic/tokens/128x128/0xf97d438bc03ad0f75b83ce5714c9619880b305bc.png"
         },
         {
             "chainId": 250,
