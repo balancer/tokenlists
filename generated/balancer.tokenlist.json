@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 153
+        "patch": 154
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-01-29T15:38:57.469Z",
+    "timestamp": "2025-01-30T02:50:14.658Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14240,6 +14240,13 @@
             "address": "0xe298b938631f750DD409fB18227C4a23dCdaab9b",
             "name": "Wrapped Aave Base WETH",
             "symbol": "waBasWETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 8453,
+            "address": "0xF8F10f39116716e89498c1c5E94137ADa11b2BC7",
+            "name": "Wrapped Aave Base ezETH",
+            "symbol": "waBasezETH",
             "decimals": 18
         },
         {
