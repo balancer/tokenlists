@@ -1434,5 +1434,20 @@ export const overwrites: OverwritesForList = {
         coingeckoId: 'atoll-eth',
       },
     },
+    '0x39838b880BA948C49aaB7253f61Ce1e00C30c014': {
+      logoURI: 'https://maxflowo2.com/img/image.png',
+    },
+    '0x44E23B1F3f4511b3a7e81077Fd9F2858dF1B7579': {
+      logoURI:
+        'https://assets.coingecko.com/coins/images/29314/standard/mclb.png?1696528265',
+    },
+    '0x38628cb4cc74cbDFB6dDD877B17c1F60fCAE7C2C': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/blackhole_logo_gradient.png',
+    },
+    '0xF97d438BC03aD0F75B83ce5714c9619880B305bc': {
+      logoURI:
+        'https://cdn.jsdelivr.net/gh/unified-defi/equalizer-tokens@latest/sonic/tokens/128x128/0xf97d438bc03ad0f75b83ce5714c9619880b305bc.png',
+    },
   },
 }
