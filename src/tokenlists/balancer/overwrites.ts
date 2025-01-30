@@ -147,7 +147,7 @@ export const overwrites: OverwritesForList = {
       },
     },
     '0xb51EDdDD8c47856D81C8681EA71404Cec93E92c6': {
-      decimals: 18,
+      decimals: 6,
       symbol: 'Aave Core pyUSD',
       name: 'Aave Core pyUSD',
     },
