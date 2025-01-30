@@ -7636,7 +7636,7 @@
             "address": "0xb51EDdDD8c47856D81C8681EA71404Cec93E92c6",
             "name": "Aave Core pyUSD",
             "symbol": "Aave Core pyUSD",
-            "decimals": 18,
+            "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb51edddd8c47856d81c8681ea71404cec93e92c6.png"
         },
         {
