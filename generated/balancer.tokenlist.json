@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 159
+        "patch": 160
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-01-31T16:56:54.572Z",
+    "timestamp": "2025-01-31T18:44:19.248Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14288,6 +14288,21 @@
             "name": "Wrapped Aave Base ezETH",
             "symbol": "waBasezETH",
             "decimals": 18
+        },
+        {
+            "chainId": 8453,
+            "address": "0x616a4E1db48e22028f6bbf20444Cd3b8e3273738",
+            "name": "Seamless USDC Vault",
+            "symbol": "smUSDC",
+            "decimals": 18
+        },
+        {
+            "chainId": 8453,
+            "address": "0x5875eEE11Cf8398102FdAd704C9E96607675467a",
+            "name": "Savings USDS",
+            "symbol": "sUSDS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5875eee11cf8398102fdad704c9e96607675467a.png"
         },
         {
             "chainId": 34443,
