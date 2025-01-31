@@ -54,7 +54,7 @@ COINGECKO_API_KEY=xxx
 
 ```
 
-You'll need to sign up to each of those services to get keys:
+You'll need to sign up for each of those services to get keys:
 
 - https://www.infura.io/
 - https://www.pokt.network/
