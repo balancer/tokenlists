@@ -250,4 +250,5 @@ export default [
   '0x194887502d1f9b1bbc520c95876c7493de276525', // Ulysses Alt L1 ETH (uL1s-ETH)
   '0xacdd57300f214e2530db0f5283036686bb85d67c', // Ulysses Optimism Stack USDC
   '0x72df281e860117dbf60400d7c5ea770d2379072c', // Ulysses Alt L1 USDC
+  '0xD9E3Ef2c12de90E3b03F7b7E3964956a71920d40', // waArbweETH
 ]
