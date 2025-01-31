@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 157
+        "patch": 158
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-01-30T21:20:13.944Z",
+    "timestamp": "2025-01-31T16:27:03.086Z",
     "tokens": [
         {
             "chainId": 1,
@@ -16415,6 +16415,13 @@
             "address": "0x72dF281E860117dBf60400D7C5EA770D2379072C",
             "name": "Ulysses Alt L1 USDC",
             "symbol": "uL1s-USDC",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0xD9E3Ef2c12de90E3b03F7b7E3964956a71920d40",
+            "name": "Wrapped Aave Arbitrum weETH",
+            "symbol": "waArbweETH",
             "decimals": 18
         },
         {
