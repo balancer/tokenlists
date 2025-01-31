@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 158
+        "patch": 159
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-01-31T16:27:03.086Z",
+    "timestamp": "2025-01-31T16:56:54.572Z",
     "tokens": [
         {
             "chainId": 1,
@@ -16423,6 +16423,21 @@
             "name": "Wrapped Aave Arbitrum weETH",
             "symbol": "waArbweETH",
             "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0x7F6501d3B98eE91f9b9535E4b0ac710Fb0f9e0bc",
+            "name": "Wrapped Aave Arbitrum USDCn",
+            "symbol": "waArbUSDCn",
+            "decimals": 6
+        },
+        {
+            "chainId": 42161,
+            "address": "0x895e15020C3f52ddD4D8e9514eB83C39F53B1579",
+            "name": "YieldFi yToken",
+            "symbol": "yUSD",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/53607/large/IMG_2188.jpeg?1736873763"
         },
         {
             "chainId": 43114,
