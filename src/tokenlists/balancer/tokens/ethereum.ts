@@ -990,4 +990,5 @@ export default [
   '0x01bf66becdcfd6d59a5ca18869f494fea086cdfd', // USK
   '0x1b6238e95bbcabee58997c99badd4154ad68ba92', // IAU_wstETH
   '0xb51EDdDD8c47856D81C8681EA71404Cec93E92c6', // waEthPYUSD
+  '0x3976d71e7DdFBaB9bD120Ec281B7d35fa0F28528', // slpETH
 ]
