@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 162
+        "patch": 163
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-02-01T03:02:59.467Z",
+    "timestamp": "2025-02-02T02:00:12.538Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7646,6 +7646,29 @@
             "symbol": "slpETH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x3976d71e7ddfbab9bd120ec281b7d35fa0f28528.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xA1b60d96e5C50dA627095B9381dc5a46AF1a9a42",
+            "name": "Steakhouse USDQ",
+            "symbol": "steakUSDQ",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa1b60d96e5c50da627095b9381dc5a46af1a9a42.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x30881Baa943777f92DC934d53D3bFdF33382cab3",
+            "name": "Steakhouse USDR",
+            "symbol": "steakUSDR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x30881baa943777f92dc934d53d3bfdf33382cab3.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x097FFEDb80d4b2Ca6105a07a4D90eB739C45A666",
+            "name": "Steakhouse USDT Lite",
+            "symbol": "steakUSDTlite",
+            "decimals": 18
         },
         {
             "chainId": 10,
