@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 164
+        "patch": 165
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-02-02T02:16:23.268Z",
+    "timestamp": "2025-02-03T14:00:42.319Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7670,6 +7670,14 @@
             "symbol": "steakUSDTlite",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x097ffedb80d4b2ca6105a07a4d90eb739c45a666.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xb01dd87B29d187F3E3a4Bf6cdAebfb97F3D9aB98",
+            "name": "Bold Stablecoin",
+            "symbol": "Bold",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/53755/large/BOLD_logo.png?1737183873"
         },
         {
             "chainId": 10,
