@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 165
+        "patch": 166
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-02-03T14:00:42.319Z",
+    "timestamp": "2025-02-03T14:16:55.350Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7678,6 +7678,22 @@
             "symbol": "Bold",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/53755/large/BOLD_logo.png?1737183873"
+        },
+        {
+            "chainId": 1,
+            "address": "0x7B43E3875440B44613DC3bC08E7763e6Da63C8f8",
+            "name": "StablR USD",
+            "symbol": "USDR",
+            "decimals": 6,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/53721/large/stablrusd-logo.png?1737126629"
+        },
+        {
+            "chainId": 1,
+            "address": "0xc83e27f270cce0A3A3A29521173a83F402c1768b",
+            "name": "Quantoz USDQ",
+            "symbol": "USDQ",
+            "decimals": 6,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/51852/large/USDQ_1000px_Color.png?1732071232"
         },
         {
             "chainId": 10,
