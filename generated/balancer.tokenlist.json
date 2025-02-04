@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 166
+        "patch": 167
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-02-03T14:16:55.350Z",
+    "timestamp": "2025-02-04T16:01:36.218Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14559,17 +14559,6 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe3c0ff176ef92fc225096c6d1788ccb818808b35.png",
             "extensions": {
                 "coingeckoId": "wrapped-bitcoin"
-            }
-        },
-        {
-            "chainId": 34443,
-            "address": "0x964dd444e3192F636322229080A576077B06FbA3",
-            "name": "Lombard Staked Bitcoin",
-            "symbol": "LBTC",
-            "decimals": 8,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x964dd444e3192f636322229080a576077b06fba3.png",
-            "extensions": {
-                "coingeckoId": "lombard-staked-btc"
             }
         },
         {
