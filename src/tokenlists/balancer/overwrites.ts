@@ -1471,5 +1471,9 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://beethoven-assets.s3.eu-central-1.amazonaws.com/wans.png',
     },
+    '0x9F0dF7799f6FDAd409300080cfF680f5A23df4b1': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/wos-256x256.png',
+    },
   },
 }
