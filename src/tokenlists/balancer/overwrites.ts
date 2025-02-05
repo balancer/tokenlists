@@ -1467,7 +1467,7 @@ export const overwrites: OverwritesForList = {
       symbol: 'SiloWS',
       name: 'Silo Wrapped Sonic',
       logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/wS_WrappedS_DarkMode.png',
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/silo-ws.png',
     },
     '0xfA85Fe5A8F5560e9039C04f2b0a90dE1415aBD70': {
       logoURI:
