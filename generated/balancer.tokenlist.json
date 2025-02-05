@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 168
+        "patch": 169
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-02-05T10:12:35.594Z",
+    "timestamp": "2025-02-05T12:08:38.294Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12172,6 +12172,30 @@
             "symbol": "wOS",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/53774/large/wos-256x256.png?1737271865"
+        },
+        {
+            "chainId": 146,
+            "address": "0x016C306e103FbF48EC24810D078C65aD13c5f11B",
+            "name": "Silo Finance Borrowable wS Deposit, SiloId: 25",
+            "symbol": "bwS-25",
+            "decimals": 18,
+            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/ans.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0x0C4E186Eae8aCAA7F7de1315D5AD174BE39Ec987",
+            "name": "Angles Staked Sonic",
+            "symbol": "anS",
+            "decimals": 18,
+            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/ans.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0xfA85Fe5A8F5560e9039C04f2b0a90dE1415aBD70",
+            "name": "Wrapped anS",
+            "symbol": "wanS",
+            "decimals": 18,
+            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/wans.png"
         },
         {
             "chainId": 250,
