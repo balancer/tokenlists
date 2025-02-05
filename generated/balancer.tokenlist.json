@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 171
+        "patch": 172
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-02-05T15:40:11.535Z",
+    "timestamp": "2025-02-05T16:25:02.903Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12187,7 +12187,10 @@
             "name": "Angles Staked Sonic",
             "symbol": "anS",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/ans.png"
+            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/ans.png",
+            "extensions": {
+                "coingeckoId": "sonic"
+            }
         },
         {
             "chainId": 146,
