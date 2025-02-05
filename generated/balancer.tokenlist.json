@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 170
+        "patch": 171
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-02-05T14:42:40.570Z",
+    "timestamp": "2025-02-05T15:40:11.535Z",
     "tokens": [
         {
             "chainId": 1,
@@ -11675,7 +11675,7 @@
             "name": "Wrapped Sonic",
             "symbol": "wS",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/wS_WrappedS_DarkMode.png",
+            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/Logomark_Sonic_Black.png",
             "extensions": {
                 "coingeckoId": "sonic"
             }
@@ -12179,7 +12179,7 @@
             "name": "Silo Wrapped Sonic",
             "symbol": "SiloWS",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/wS_WrappedS_DarkMode.png"
+            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/silo-ws.png"
         },
         {
             "chainId": 146,
