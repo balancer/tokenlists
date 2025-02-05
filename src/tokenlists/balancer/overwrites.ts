@@ -1212,7 +1212,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x039e2fb66102314ce7b64ce5ce3e5183bc94ad38': {
       logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/wS_WrappedS_DarkMode.png',
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/Logomark_Sonic_Black.png',
       extensions: {
         coingeckoId: 'sonic',
       },
