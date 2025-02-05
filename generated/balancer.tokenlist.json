@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 167
+        "patch": 168
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-02-04T16:01:36.218Z",
+    "timestamp": "2025-02-05T10:12:35.594Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12164,6 +12164,14 @@
             "symbol": "FIERY",
             "decimals": 18,
             "logoURI": "https://cdn.jsdelivr.net/gh/unified-defi/equalizer-tokens@latest/sonic/tokens/128x128/0xf97d438bc03ad0f75b83ce5714c9619880b305bc.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0x9F0dF7799f6FDAd409300080cfF680f5A23df4b1",
+            "name": "Wrapped OS",
+            "symbol": "wOS",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/53774/large/wos-256x256.png?1737271865"
         },
         {
             "chainId": 250,
