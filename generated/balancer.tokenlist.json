@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 173
+        "patch": 174
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-02-06T08:36:05.255Z",
+    "timestamp": "2025-02-06T19:09:06.014Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14437,6 +14437,14 @@
             "symbol": "waBascbETH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5e8b674127b321dc344c078e58bbacc3f3008962.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+            "name": "Renzo Restaked ETH",
+            "symbol": "ezETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2416092f143378750bb29b79ed961ab195cceea5.png"
         },
         {
             "chainId": 34443,
