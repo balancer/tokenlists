@@ -1214,7 +1214,7 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://beethoven-assets.s3.eu-central-1.amazonaws.com/Logomark_Sonic_Black.png',
       extensions: {
-        coingeckoId: 'sonic',
+        coingeckoId: 'sonic-3',
       },
     },
     '0x50c42deacd8fc9773493ed674b675be577f2634b': {
@@ -1463,7 +1463,7 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://beethoven-assets.s3.eu-central-1.amazonaws.com/ans.png',
       extensions: {
-        coingeckoId: 'sonic',
+        coingeckoId: 'sonic-3',
       },
     },
     '0x016C306e103FbF48EC24810D078C65aD13c5f11B': {
