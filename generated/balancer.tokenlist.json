@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 174
+        "patch": 175
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-02-06T19:09:06.014Z",
+    "timestamp": "2025-02-06T20:45:57.680Z",
     "tokens": [
         {
             "chainId": 1,
@@ -16652,6 +16652,13 @@
             "symbol": "waArbGHO",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd089b4cb88dacf4e27be869a00e9f7e2e3c18193.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x4ff50C17df0D1b788d021ACd85039810a1aA68A1",
+            "name": "Wrapped Aave Arbitrum ezETH",
+            "symbol": "waArbezETH",
+            "decimals": 18
         },
         {
             "chainId": 43114,
