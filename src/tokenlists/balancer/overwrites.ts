@@ -1460,8 +1460,7 @@ export const overwrites: OverwritesForList = {
         'https://cdn.jsdelivr.net/gh/unified-defi/equalizer-tokens@latest/sonic/tokens/128x128/0xf97d438bc03ad0f75b83ce5714c9619880b305bc.png',
     },
     '0x0C4E186Eae8aCAA7F7de1315D5AD174BE39Ec987': {
-      logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/ans.png',
+      logoURI: 'https://beethoven-assets.s3.eu-central-1.amazonaws.com/ans.png',
       extensions: {
         coingeckoId: 'sonic-3',
       },
