@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 180
+        "patch": 181
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-02-07T21:23:02.317Z",
+    "timestamp": "2025-02-07T21:31:08.889Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13401,10 +13401,10 @@
         {
             "chainId": 252,
             "address": "0xFc00000000000000000000000000000000000001",
-            "name": "Frax",
-            "symbol": "FRAX",
+            "name": "Frax USD",
+            "symbol": "frxUSD",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/35847/large/frax.png?1709894380",
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfc00000000000000000000000000000000000001.png",
             "extensions": {
                 "coingeckoId": "frax-usd"
             }
@@ -13431,8 +13431,8 @@
         {
             "chainId": 252,
             "address": "0xfc00000000000000000000000000000000000008",
-            "name": "Staked Frax",
-            "symbol": "sFRAX",
+            "name": "Staked Frax USD",
+            "symbol": "sfrxUSD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfc00000000000000000000000000000000000008.png",
             "extensions": {
