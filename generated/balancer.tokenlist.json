@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 179
+        "patch": 180
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-02-07T21:07:32.045Z",
+    "timestamp": "2025-02-07T21:23:02.317Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7704,6 +7704,22 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x99999999999999cc837c997b882957dafdcb1af9.png"
         },
         {
+            "chainId": 1,
+            "address": "0xCAcd6fd266aF91b8AeD52aCCc382b4e165586E29",
+            "name": "Frax USD",
+            "symbol": "frxUSD",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/53963/large/frxUSD.png?1737792154"
+        },
+        {
+            "chainId": 1,
+            "address": "0xcf62F905562626CfcDD2261162a51fd02Fc9c5b6",
+            "name": "Staked Frax USD",
+            "symbol": "sfrxUSD",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/53964/large/sfrxUSD.png?1737792232"
+        },
+        {
             "chainId": 10,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -13388,7 +13404,10 @@
             "name": "Frax",
             "symbol": "FRAX",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/35847/large/frax.png?1709894380"
+            "logoURI": "https://assets.coingecko.com/coins/images/35847/large/frax.png?1709894380",
+            "extensions": {
+                "coingeckoId": "frax-usd"
+            }
         },
         {
             "chainId": 252,
@@ -13415,7 +13434,10 @@
             "name": "Staked Frax",
             "symbol": "sFRAX",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfc00000000000000000000000000000000000008.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfc00000000000000000000000000000000000008.png",
+            "extensions": {
+                "coingeckoId": "staked-frax-usd"
+            }
         },
         {
             "chainId": 252,
