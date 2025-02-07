@@ -66,4 +66,5 @@ export default [
   '0x016C306e103FbF48EC24810D078C65aD13c5f11B', // silo wrapped wS (market id 25)
   '0x0C4E186Eae8aCAA7F7de1315D5AD174BE39Ec987', // anS
   '0xfA85Fe5A8F5560e9039C04f2b0a90dE1415aBD70', // wanS
+  '0x219656F33c58488D09d518BaDF50AA8CdCAcA2Aa', // silo wrapped wETH (market id 26)
 ]
