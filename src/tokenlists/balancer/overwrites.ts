@@ -1479,5 +1479,11 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://beethoven-assets.s3.eu-central-1.amazonaws.com/wos-256x256.png',
     },
+    '0x219656F33c58488D09d518BaDF50AA8CdCAcA2Aa': {
+      symbol: 'SiloWETH',
+      name: 'Silo Wrapped wETH',
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/silo-weth.png',
+    },
   },
 }
