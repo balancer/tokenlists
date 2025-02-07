@@ -1169,11 +1169,15 @@ export const overwrites: OverwritesForList = {
       },
     },
     '0xFc00000000000000000000000000000000000001': {
+      name: 'Frax USD',
+      symbol: 'frxUSD',
       extensions: {
         coingeckoId: 'frax-usd',
       },
     },
     '0xfc00000000000000000000000000000000000008': {
+      name: 'Staked Frax USD',
+      symbol: 'sfrxUSD',
       extensions: {
         coingeckoId: 'staked-frax-usd',
       },
