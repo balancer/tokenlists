@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 178
+        "patch": 179
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-02-07T16:50:44.653Z",
+    "timestamp": "2025-02-07T21:07:32.045Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13341,6 +13341,17 @@
         },
         {
             "chainId": 252,
+            "address": "0x2FC7447F6cF71f9aa9E7FF8814B37E55b268Ec91",
+            "name": "Balancer",
+            "symbol": "BAL",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2fc7447f6cf71f9aa9e7ff8814b37e55b268ec91.png",
+            "extensions": {
+                "coingeckoId": "balancer"
+            }
+        },
+        {
+            "chainId": 252,
             "address": "0x4d15EA9C2573ADDAeD814e48C148b5262694646A",
             "name": "Tether USD",
             "symbol": "USDT",
@@ -13445,17 +13456,6 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2.png",
             "extensions": {
                 "coingeckoId": "ethena-staked-usde"
-            }
-        },
-        {
-            "chainId": 252,
-            "address": "0x2FC7447F6cF71f9aa9E7FF8814B37E55b268Ec91",
-            "name": "Balancer",
-            "symbol": "BAL",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2fc7447f6cf71f9aa9e7ff8814b37e55b268ec91.png",
-            "extensions": {
-                "coingeckoId": "balancer"
             }
         },
         {
