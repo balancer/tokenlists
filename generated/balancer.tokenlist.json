@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 175
+        "patch": 176
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-02-06T20:45:57.680Z",
+    "timestamp": "2025-02-07T15:10:06.146Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8389,7 +8389,8 @@
             "address": "0xFC2E6e6BCbd49ccf3A5f029c79984372DcBFE527",
             "name": "Autonolas",
             "symbol": "OLAS",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/31099/large/OLAS-token.png?1696529930"
         },
         {
             "chainId": 10,
@@ -12199,6 +12200,13 @@
             "symbol": "wanS",
             "decimals": 18,
             "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/wans.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0x219656F33c58488D09d518BaDF50AA8CdCAcA2Aa",
+            "name": "Silo Finance Borrowable WETH Deposit, SiloId: 26",
+            "symbol": "bWETH-26",
+            "decimals": 18
         },
         {
             "chainId": 250,
