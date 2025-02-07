@@ -1177,6 +1177,7 @@ export const overwrites: OverwritesForList = {
       extensions: {
         coingeckoId: 'staked-frax-usd',
       },
+    },
   },
   [Network.Mode]: {
     '0xD08a2917653d4E460893203471f0000826fb4034': {
