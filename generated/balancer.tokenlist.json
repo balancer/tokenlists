@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 177
+        "patch": 178
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-02-07T16:23:53.435Z",
+    "timestamp": "2025-02-07T16:50:44.653Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7694,6 +7694,14 @@
             "symbol": "USDQ",
             "decimals": 6,
             "logoURI": "https://coin-images.coingecko.com/coins/images/51852/large/USDQ_1000px_Color.png?1732071232"
+        },
+        {
+            "chainId": 1,
+            "address": "0x99999999999999Cc837C997B882957daFdCb1Af9",
+            "name": "Wrapped Ultimate Synthetic Delta Neutral",
+            "symbol": "WUSDN",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x99999999999999cc837c997b882957dafdcb1af9.png"
         },
         {
             "chainId": 10,
