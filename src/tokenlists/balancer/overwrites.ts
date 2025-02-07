@@ -1168,6 +1168,16 @@ export const overwrites: OverwritesForList = {
         coingeckoId: 'ethena-usde',
       },
     },
+    '0xFc00000000000000000000000000000000000001': {
+      extensions: {
+        coingeckoId: 'frax-usd',
+      },
+    },
+    '0xfc00000000000000000000000000000000000008': {
+      extensions: {
+        coingeckoId: 'staked-frax-usd',
+      },
+    },
   },
   [Network.Mode]: {
     '0xD08a2917653d4E460893203471f0000826fb4034': {
