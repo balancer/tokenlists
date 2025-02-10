@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 181
+        "patch": 182
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-02-07T21:31:08.889Z",
+    "timestamp": "2025-02-10T02:35:14.061Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14419,7 +14419,8 @@
             "address": "0xF8F10f39116716e89498c1c5E94137ADa11b2BC7",
             "name": "Wrapped Aave Base ezETH",
             "symbol": "waBasezETH",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf8f10f39116716e89498c1c5e94137ada11b2bc7.png"
         },
         {
             "chainId": 8453,
@@ -14436,6 +14437,14 @@
             "symbol": "smUSDC",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x616a4e1db48e22028f6bbf20444cd3b8e3273738.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+            "name": "Renzo Restaked ETH",
+            "symbol": "ezETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2416092f143378750bb29b79ed961ab195cceea5.png"
         },
         {
             "chainId": 8453,
@@ -14476,14 +14485,6 @@
             "symbol": "waBascbETH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5e8b674127b321dc344c078e58bbacc3f3008962.png"
-        },
-        {
-            "chainId": 8453,
-            "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
-            "name": "Renzo Restaked ETH",
-            "symbol": "ezETH",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2416092f143378750bb29b79ed961ab195cceea5.png"
         },
         {
             "chainId": 34443,
@@ -16697,7 +16698,8 @@
             "address": "0x4ff50C17df0D1b788d021ACd85039810a1aA68A1",
             "name": "Wrapped Aave Arbitrum ezETH",
             "symbol": "waArbezETH",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4ff50c17df0d1b788d021acd85039810a1aa68a1.png"
         },
         {
             "chainId": 43114,
