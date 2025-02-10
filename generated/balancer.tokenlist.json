@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 182
+        "patch": 183
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-02-10T02:35:14.061Z",
+    "timestamp": "2025-02-10T16:42:39.618Z",
     "tokens": [
         {
             "chainId": 1,
@@ -17666,6 +17666,13 @@
             "name": "GGGGGG",
             "symbol": "GXX1",
             "decimals": 2
+        },
+        {
+            "chainId": 11155111,
+            "address": "0x779877A7B0D9E8603169DdbD7836e478b4624789",
+            "name": "ChainLink Token",
+            "symbol": "LINK",
+            "decimals": 18
         }
     ]
 }
