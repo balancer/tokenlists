@@ -1503,5 +1503,12 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/OriginProtocol/origin-website/refs/heads/master/static/img/coins/os-256x256.png',
     },
+    '0x6047828dc181963ba44974801ff68e538da5eaf9': {
+      logoURI:
+        'https://coin-images.coingecko.com/coins/images/31185/large/anyusdt_32.png?1696530013',
+      extensions: {
+        coingeckoId: 'tether',
+      },
+    },
   },
 }
