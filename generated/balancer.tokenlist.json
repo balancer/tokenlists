@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 188
+        "patch": 189
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-02-11T19:31:14.264Z",
+    "timestamp": "2025-02-11T20:03:50.923Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14430,30 +14430,6 @@
         },
         {
             "chainId": 8453,
-            "address": "0x0830820D1A9aa1554364752d6D8F55C836871B74",
-            "name": "Wrapped Aave Base wstETH",
-            "symbol": "waBaswstETH",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0830820d1a9aa1554364752d6d8f55c836871b74.png"
-        },
-        {
-            "chainId": 8453,
-            "address": "0xe298b938631f750DD409fB18227C4a23dCdaab9b",
-            "name": "Wrapped Aave Base WETH",
-            "symbol": "waBasWETH",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe298b938631f750dd409fb18227c4a23dcdaab9b.png"
-        },
-        {
-            "chainId": 8453,
-            "address": "0xF8F10f39116716e89498c1c5E94137ADa11b2BC7",
-            "name": "Wrapped Aave Base ezETH",
-            "symbol": "waBasezETH",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf8f10f39116716e89498c1c5e94137ada11b2bc7.png"
-        },
-        {
-            "chainId": 8453,
             "address": "0x5875eEE11Cf8398102FdAd704C9E96607675467a",
             "name": "Savings USDS",
             "symbol": "sUSDS",
@@ -14475,6 +14451,30 @@
             "symbol": "ezETH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2416092f143378750bb29b79ed961ab195cceea5.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x0830820D1A9aa1554364752d6D8F55C836871B74",
+            "name": "Wrapped Aave Base wstETH",
+            "symbol": "waBaswstETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0830820d1a9aa1554364752d6d8f55c836871b74.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0xe298b938631f750DD409fB18227C4a23dCdaab9b",
+            "name": "Wrapped Aave Base WETH",
+            "symbol": "waBasWETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe298b938631f750dd409fb18227c4a23dcdaab9b.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0xF8F10f39116716e89498c1c5E94137ADa11b2BC7",
+            "name": "Wrapped Aave Base ezETH",
+            "symbol": "waBasezETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf8f10f39116716e89498c1c5e94137ada11b2bc7.png"
         },
         {
             "chainId": 8453,
@@ -14521,7 +14521,8 @@
             "address": "0x88b1Cd4b430D95b406E382C3cDBaE54697a0286E",
             "name": "Wrapped Aave Base GHO",
             "symbol": "waBasGHO",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x88b1cd4b430d95b406e382c3cdbae54697a0286e.png"
         },
         {
             "chainId": 34443,
