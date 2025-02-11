@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 183
+        "patch": 184
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-02-10T16:42:39.618Z",
+    "timestamp": "2025-02-11T10:07:06.170Z",
     "tokens": [
         {
             "chainId": 1,
@@ -883,7 +883,7 @@
         {
             "chainId": 1,
             "address": "0x8Ab7404063Ec4DBcfd4598215992DC3F8EC853d7",
-            "name": "Akropolis",
+            "name": "Kaon",
             "symbol": "AKRO",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/3328/large/Akropolis.png?1547037929"
@@ -12232,6 +12232,14 @@
             "symbol": "SiloWETH",
             "decimals": 18,
             "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/silo-weth.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0xb1e25689D55734FD3ffFc939c4C3Eb52DFf8A794",
+            "name": "Origin Sonic",
+            "symbol": "OS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/OriginProtocol/origin-website/refs/heads/master/static/img/coins/os-256x256.png"
         },
         {
             "chainId": 250,
