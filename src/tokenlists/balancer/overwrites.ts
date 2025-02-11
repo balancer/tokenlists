@@ -1499,5 +1499,9 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://beethoven-assets.s3.eu-central-1.amazonaws.com/silo-weth.png',
     },
+    '0xb1e25689D55734FD3ffFc939c4C3Eb52DFf8A794': {
+      logoURI:
+        'https://raw.githubusercontent.com/OriginProtocol/origin-website/refs/heads/master/static/img/coins/os-256x256.png',
+    },
   },
 }
