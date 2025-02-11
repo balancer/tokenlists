@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 189
+        "patch": 190
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-02-11T20:03:50.923Z",
+    "timestamp": "2025-02-11T20:16:18.200Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14523,6 +14523,14 @@
             "symbol": "waBasGHO",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x88b1cd4b430d95b406e382c3cdbae54697a0286e.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x6Bb7a212910682DCFdbd5BCBb3e28FB4E8da10Ee",
+            "name": "Gho Token",
+            "symbol": "GHO",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6bb7a212910682dcfdbd5bcbb3e28fb4e8da10ee.png"
         },
         {
             "chainId": 34443,
