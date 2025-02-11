@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 185
+        "patch": 186
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-02-11T11:17:30.483Z",
+    "timestamp": "2025-02-11T12:56:17.368Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12239,7 +12239,10 @@
             "name": "Origin Sonic",
             "symbol": "OS",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/OriginProtocol/origin-website/refs/heads/master/static/img/coins/os-256x256.png"
+            "logoURI": "https://raw.githubusercontent.com/OriginProtocol/origin-website/refs/heads/master/static/img/coins/os-256x256.png",
+            "extensions": {
+                "coingeckoId": "sonic-3"
+            }
         },
         {
             "chainId": 146,
