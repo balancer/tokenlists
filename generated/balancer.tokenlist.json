@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 187
+        "patch": 188
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-02-11T19:27:03.142Z",
+    "timestamp": "2025-02-11T19:31:14.264Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14515,6 +14515,13 @@
             "symbol": "waBascbETH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5e8b674127b321dc344c078e58bbacc3f3008962.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x88b1Cd4b430D95b406E382C3cDBaE54697a0286E",
+            "name": "Wrapped Aave Base GHO",
+            "symbol": "waBasGHO",
+            "decimals": 18
         },
         {
             "chainId": 34443,
