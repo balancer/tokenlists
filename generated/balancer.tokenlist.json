@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 186
+        "patch": 187
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-02-11T12:56:17.368Z",
+    "timestamp": "2025-02-11T19:27:03.142Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7718,6 +7718,14 @@
             "symbol": "sfrxUSD",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/53964/large/sfrxUSD.png?1737792232"
+        },
+        {
+            "chainId": 1,
+            "address": "0x8E0789d39db454DBE9f4a77aCEF6dc7c69f6D552",
+            "name": "Inception Symbiotic Restaked wstETH",
+            "symbol": "inwstETHs",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/52515/large/inwstETHs.png?1733499299"
         },
         {
             "chainId": 10,
