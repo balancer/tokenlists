@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 190
+        "patch": 191
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-02-11T20:16:18.200Z",
+    "timestamp": "2025-02-12T15:02:15.223Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12262,6 +12262,14 @@
             "extensions": {
                 "coingeckoId": "tether"
             }
+        },
+        {
+            "chainId": 146,
+            "address": "0x9bCeA390ff97e0d3362bf726820776a4dF8AdD9a",
+            "name": "Uppies",
+            "symbol": "UPPIES",
+            "decimals": 18,
+            "logoURI": "https://i.ibb.co/tT6FNGGv/Uppies.jpg"
         },
         {
             "chainId": 250,
