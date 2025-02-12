@@ -70,4 +70,6 @@ export default [
   '0xb1e25689D55734FD3ffFc939c4C3Eb52DFf8A794', // OS
   '0x6047828dc181963ba44974801ff68e538da5eaf9', // USDT
   '0x9bCeA390ff97e0d3362bf726820776a4dF8AdD9a', // UPPIES
+  '0x5954ce6671d97D24B782920ddCdBB4b1E63aB2De', // silo wrapped usdc (market id 23)
+  '0x6c49B18333A1135e9A376560c07E6D1Fd0350EaF', // silo wrapped ws (market id 28)
 ]

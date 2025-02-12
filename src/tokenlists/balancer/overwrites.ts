@@ -1516,5 +1516,15 @@ export const overwrites: OverwritesForList = {
     '0x9bCeA390ff97e0d3362bf726820776a4dF8AdD9a': {
       logoURI: 'https://i.ibb.co/tT6FNGGv/Uppies.jpg',
     },
+    '0x6c49B18333A1135e9A376560c07E6D1Fd0350EaF': {
+      symbol: 'SiloWS',
+      name: 'Silo Wrapped Sonic',
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/silo-ws.png',
+    },
+    '0x5954ce6671d97D24B782920ddCdBB4b1E63aB2De': {
+      symbol: 'SiloUSDC',
+      name: 'Silo Wrapped USDC',
+    },
   },
 }
