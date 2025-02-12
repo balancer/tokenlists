@@ -1513,5 +1513,8 @@ export const overwrites: OverwritesForList = {
         coingeckoId: 'tether',
       },
     },
+    '0x9bCeA390ff97e0d3362bf726820776a4dF8AdD9a': {
+      logoURI: 'https://i.ibb.co/tT6FNGGv/Uppies.jpg',
+    },
   },
 }
