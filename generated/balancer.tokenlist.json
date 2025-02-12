@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 192
+        "patch": 193
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-02-12T16:15:07.917Z",
+    "timestamp": "2025-02-12T16:46:58.148Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7726,6 +7726,13 @@
             "symbol": "inwstETHs",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/52515/large/inwstETHs.png?1733499299"
+        },
+        {
+            "chainId": 1,
+            "address": "0x22d76E6e1D9aB4072522C1bC60C85a0d5626cA2D",
+            "name": "Bao BTC",
+            "symbol": "baoBTC",
+            "decimals": 18
         },
         {
             "chainId": 10,
