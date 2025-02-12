@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 191
+        "patch": 192
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-02-12T15:02:15.223Z",
+    "timestamp": "2025-02-12T16:15:07.917Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12270,6 +12270,21 @@
             "symbol": "UPPIES",
             "decimals": 18,
             "logoURI": "https://i.ibb.co/tT6FNGGv/Uppies.jpg"
+        },
+        {
+            "chainId": 146,
+            "address": "0x5954ce6671d97D24B782920ddCdBB4b1E63aB2De",
+            "name": "Silo Wrapped USDC",
+            "symbol": "SiloUSDC",
+            "decimals": 6
+        },
+        {
+            "chainId": 146,
+            "address": "0x6c49B18333A1135e9A376560c07E6D1Fd0350EaF",
+            "name": "Silo Wrapped Sonic",
+            "symbol": "SiloWS",
+            "decimals": 18,
+            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/silo-ws.png"
         },
         {
             "chainId": 250,
