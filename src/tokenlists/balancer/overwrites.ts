@@ -1525,6 +1525,8 @@ export const overwrites: OverwritesForList = {
     '0x5954ce6671d97D24B782920ddCdBB4b1E63aB2De': {
       symbol: 'SiloUSDC',
       name: 'Silo Wrapped USDC',
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/silo-usdc.png',
     },
   },
 }
