@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 194
+        "patch": 195
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-02-13T06:43:59.478Z",
+    "timestamp": "2025-02-17T14:32:26.666Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8526,6 +8526,13 @@
             "decimals": 18
         },
         {
+            "chainId": 10,
+            "address": "0x455BA8E4c6DFF2453E78CeF92625b38c93F4f3Dd",
+            "name": "BTC 2x Short",
+            "symbol": "BTC2S",
+            "decimals": 18
+        },
+        {
             "chainId": 100,
             "address": "0x7eF541E2a22058048904fE5744f9c7E4C57AF717",
             "name": "Balancer on xDai",
@@ -16684,6 +16691,14 @@
         },
         {
             "chainId": 42161,
+            "address": "0x895e15020C3f52ddD4D8e9514eB83C39F53B1579",
+            "name": "YieldFi yToken",
+            "symbol": "yUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x895e15020c3f52ddd4d8e9514eb83c39f53b1579.png"
+        },
+        {
+            "chainId": 42161,
             "address": "0xD9E3Ef2c12de90E3b03F7b7E3964956a71920d40",
             "name": "Wrapped Aave Arbitrum weETH",
             "symbol": "waArbweETH",
@@ -16697,14 +16712,6 @@
             "symbol": "waArbUSDCn",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7f6501d3b98ee91f9b9535e4b0ac710fb0f9e0bc.png"
-        },
-        {
-            "chainId": 42161,
-            "address": "0x895e15020C3f52ddD4D8e9514eB83C39F53B1579",
-            "name": "YieldFi yToken",
-            "symbol": "yUSD",
-            "decimals": 18,
-            "logoURI": "https://coin-images.coingecko.com/coins/images/53607/large/IMG_2188.jpeg?1736873763"
         },
         {
             "chainId": 42161,
