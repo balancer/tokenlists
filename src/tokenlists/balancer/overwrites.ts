@@ -1528,5 +1528,18 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://beethoven-assets.s3.eu-central-1.amazonaws.com/silo-usdc.png',
     },
+    '0x9990dE39Ca46151150E392Ca96EB349d0f549166': {
+      logoURI: 'https://i.ibb.co/GfRrxSj3/Speed-Logo.jpg',
+    },
+    '0xf26Ff70573ddc8a90Bd7865AF8d7d70B8Ff019bC': {
+      logoURI:
+        'https://dd.dexscreener.com/ds-data/tokens/sonic/0xf26ff70573ddc8a90bd7865af8d7d70b8ff019bc.png?size=lg&key=5e5b9c',
+    },
+    '0xecAc9C5F704e954931349Da37F60E39f515c11c1': {
+      logoURI: 'https://sonicscan.org/token/images/lbtc_64.png',
+    },
+    '0xBb30e76d9Bb2CC9631F7fC5Eb8e87B5Aff32bFbd': {
+      logoURI: 'https://i.ibb.co/F4CXYdL4/scBTC-32.png',
+    },
   },
 }
