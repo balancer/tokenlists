@@ -1537,6 +1537,9 @@ export const overwrites: OverwritesForList = {
     },
     '0xecAc9C5F704e954931349Da37F60E39f515c11c1': {
       logoURI: 'https://sonicscan.org/token/images/lbtc_64.png',
+      extensions: {
+        coingeckoId: 'lombard-staked-btc',
+      },
     },
     '0xBb30e76d9Bb2CC9631F7fC5Eb8e87B5Aff32bFbd': {
       logoURI: 'https://i.ibb.co/F4CXYdL4/scBTC-32.png',
