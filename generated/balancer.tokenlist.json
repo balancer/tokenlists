@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 197
+        "patch": 198
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-02-20T19:09:42.183Z",
+    "timestamp": "2025-02-20T19:46:24.352Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12334,7 +12334,10 @@
             "name": "Sonic BTC",
             "symbol": "scBTC",
             "decimals": 8,
-            "logoURI": "https://i.ibb.co/F4CXYdL4/scBTC-32.png"
+            "logoURI": "https://i.ibb.co/F4CXYdL4/scBTC-32.png",
+            "extensions": {
+                "coingeckoId": "wrapped-bitcoin"
+            }
         },
         {
             "chainId": 250,
