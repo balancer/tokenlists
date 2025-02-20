@@ -1543,6 +1543,9 @@ export const overwrites: OverwritesForList = {
     },
     '0xBb30e76d9Bb2CC9631F7fC5Eb8e87B5Aff32bFbd': {
       logoURI: 'https://i.ibb.co/F4CXYdL4/scBTC-32.png',
+      extensions: {
+        coingeckoId: 'wrapped-bitcoin',
+      },
     },
   },
 }
