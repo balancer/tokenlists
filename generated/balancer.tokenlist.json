@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 196
+        "patch": 197
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-02-20T08:41:32.213Z",
+    "timestamp": "2025-02-20T19:09:42.183Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12323,7 +12323,10 @@
             "name": "Lombard Staked Bitcoin",
             "symbol": "LBTC",
             "decimals": 8,
-            "logoURI": "https://sonicscan.org/token/images/lbtc_64.png"
+            "logoURI": "https://sonicscan.org/token/images/lbtc_64.png",
+            "extensions": {
+                "coingeckoId": "lombard-staked-btc"
+            }
         },
         {
             "chainId": 146,
