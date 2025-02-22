@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 199
+        "patch": 200
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-02-20T23:15:35.054Z",
+    "timestamp": "2025-02-22T03:18:05.060Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14735,6 +14735,22 @@
             "symbol": "wbMSTR",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1a4f71b0ff3c22540887bcf83b50054a213c673d.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0xe9F2a5F9f3c846f29066d7fB3564F8E6B6b2D65b",
+            "name": "SuperUSDC",
+            "symbol": "ysUSDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe9f2a5f9f3c846f29066d7fb3564f8e6b6b2d65b.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0xffE8B2295CEf70290819A8193834cc7900bCef5f",
+            "name": "SuperUSDC SuperPosition",
+            "symbol": "sp-ysUSDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xffe8b2295cef70290819a8193834cc7900bcef5f.png"
         },
         {
             "chainId": 34443,
