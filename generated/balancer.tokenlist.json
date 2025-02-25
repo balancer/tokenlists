@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 193
+        "patch": 200
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-02-12T16:46:58.148Z",
+    "timestamp": "2025-02-22T03:18:05.060Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7735,6 +7735,46 @@
             "decimals": 18
         },
         {
+            "chainId": 1,
+            "address": "0x1e2C4fb7eDE391d116E6B41cD0608260e8801D59",
+            "name": "Backed CSPX Core S&P 500",
+            "symbol": "bCSPX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1e2c4fb7ede391d116e6b41cd0608260e8801d59.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xDEc933e2392AD908263e70A386fbF34e703Ffe8F",
+            "name": "Wrapped Backed Coinbase Global",
+            "symbol": "wbCOIN",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdec933e2392ad908263e70a386fbf34e703ffe8f.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x1f82284C1658Ad71C576f7230E6C2DEE7901c1FA",
+            "name": "Wrapped Backed Tesla Inc",
+            "symbol": "wbTSLA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1f82284c1658ad71c576f7230e6c2dee7901c1fa.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x7E8101A1C322D394b3961498c7D40d2DFA94C392",
+            "name": "Wrapped Backed NVIDIA Corp",
+            "symbol": "wbNVDA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7e8101a1c322d394b3961498c7d40d2dfa94c392.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x1a4F71B0Ff3C22540887bcf83b50054a213c673d",
+            "name": "Wrapped Backed MicroStrategy Inc",
+            "symbol": "wbMSTR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1a4f71b0ff3c22540887bcf83b50054a213c673d.png"
+        },
+        {
             "chainId": 10,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -8526,6 +8566,13 @@
             "decimals": 18
         },
         {
+            "chainId": 10,
+            "address": "0x455BA8E4c6DFF2453E78CeF92625b38c93F4f3Dd",
+            "name": "BTC 2x Short",
+            "symbol": "BTC2S",
+            "decimals": 18
+        },
+        {
             "chainId": 100,
             "address": "0x7eF541E2a22058048904fE5744f9c7E4C57AF717",
             "name": "Balancer on xDai",
@@ -9029,7 +9076,39 @@
             "name": "Backed CSPX Core S&P 500",
             "symbol": "bCSPX",
             "decimals": 18,
-            "logoURI": "https://coin-images.coingecko.com/coins/images/31891/large/b-CSPX-200x200.png?1696530702"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1e2c4fb7ede391d116e6b41cd0608260e8801d59.png"
+        },
+        {
+            "chainId": 100,
+            "address": "0xDEc933e2392AD908263e70A386fbF34e703Ffe8F",
+            "name": "Wrapped Backed Coinbase Global",
+            "symbol": "wbCOIN",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdec933e2392ad908263e70a386fbf34e703ffe8f.png"
+        },
+        {
+            "chainId": 100,
+            "address": "0x1f82284C1658Ad71C576f7230E6C2DEE7901c1FA",
+            "name": "Wrapped Backed Tesla Inc",
+            "symbol": "wbTSLA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1f82284c1658ad71c576f7230e6c2dee7901c1fa.png"
+        },
+        {
+            "chainId": 100,
+            "address": "0x7E8101A1C322D394b3961498c7D40d2DFA94C392",
+            "name": "Wrapped Backed NVIDIA Corp",
+            "symbol": "wbNVDA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7e8101a1c322d394b3961498c7d40d2dfa94c392.png"
+        },
+        {
+            "chainId": 100,
+            "address": "0x1a4F71B0Ff3C22540887bcf83b50054a213c673d",
+            "name": "Wrapped Backed MicroStrategy Inc",
+            "symbol": "wbMSTR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1a4f71b0ff3c22540887bcf83b50054a213c673d.png"
         },
         {
             "chainId": 100,
@@ -9070,30 +9149,6 @@
             "symbol": "waGnoUSDCe",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x51350d88c1bd32cc6a79368c9fb70373fb71f375.png"
-        },
-        {
-            "chainId": 100,
-            "address": "0xA34C5e0AbE843E10461E2C9586Ea03E55Dbcc495",
-            "name": "Backed NVIDIA Corp",
-            "symbol": "bNVDA",
-            "decimals": 18,
-            "logoURI": "https://coin-images.coingecko.com/coins/images/38911/large/b-NVDA-200x200.png?1719474429"
-        },
-        {
-            "chainId": 100,
-            "address": "0xbbcb0356bB9e6B3Faa5CbF9E5F36185d53403Ac9",
-            "name": "Backed Coinbase Global",
-            "symbol": "bCOIN",
-            "decimals": 18,
-            "logoURI": "https://coin-images.coingecko.com/coins/images/31872/large/b-COIN-200x200.png?1696530684"
-        },
-        {
-            "chainId": 100,
-            "address": "0x14A5f2872396802C3Cc8942A39Ab3E4118EE5038",
-            "name": "Backed Tesla Inc",
-            "symbol": "bTSLA",
-            "decimals": 18,
-            "logoURI": "https://coin-images.coingecko.com/coins/images/38916/large/b-TSLA-200x200.png?1719474888"
         },
         {
             "chainId": 137,
@@ -11680,6 +11735,46 @@
             "logoURI": "https://coin-images.coingecko.com/coins/images/33447/large/FRK.png?1701888548"
         },
         {
+            "chainId": 137,
+            "address": "0x1e2C4fb7eDE391d116E6B41cD0608260e8801D59",
+            "name": "Backed CSPX Core S&P 500",
+            "symbol": "bCSPX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1e2c4fb7ede391d116e6b41cd0608260e8801d59.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0xDEc933e2392AD908263e70A386fbF34e703Ffe8F",
+            "name": "Wrapped Backed Coinbase Global",
+            "symbol": "wbCOIN",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdec933e2392ad908263e70a386fbf34e703ffe8f.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x1f82284C1658Ad71C576f7230E6C2DEE7901c1FA",
+            "name": "Wrapped Backed Tesla Inc",
+            "symbol": "wbTSLA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1f82284c1658ad71c576f7230e6c2dee7901c1fa.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x7E8101A1C322D394b3961498c7D40d2DFA94C392",
+            "name": "Wrapped Backed NVIDIA Corp",
+            "symbol": "wbNVDA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7e8101a1c322d394b3961498c7d40d2dfa94c392.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x1a4F71B0Ff3C22540887bcf83b50054a213c673d",
+            "name": "Wrapped Backed MicroStrategy Inc",
+            "symbol": "wbMSTR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1a4f71b0ff3c22540887bcf83b50054a213c673d.png"
+        },
+        {
             "chainId": 146,
             "address": "0xe6cc4D855B4fD4A9D02F46B9adae4C5EfB1764B5",
             "name": "LUDWIG",
@@ -12283,7 +12378,8 @@
             "address": "0x5954ce6671d97D24B782920ddCdBB4b1E63aB2De",
             "name": "Silo Wrapped USDC",
             "symbol": "SiloUSDC",
-            "decimals": 6
+            "decimals": 6,
+            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/silo-usdc.png"
         },
         {
             "chainId": 146,
@@ -12292,6 +12388,44 @@
             "symbol": "SiloWS",
             "decimals": 18,
             "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/silo-ws.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0x9990dE39Ca46151150E392Ca96EB349d0f549166",
+            "name": "SuperSonicSpeedDemon",
+            "symbol": "SPEED",
+            "decimals": 18,
+            "logoURI": "https://i.ibb.co/GfRrxSj3/Speed-Logo.jpg"
+        },
+        {
+            "chainId": 146,
+            "address": "0xf26Ff70573ddc8a90Bd7865AF8d7d70B8Ff019bC",
+            "name": "Eggs",
+            "symbol": "EGGS",
+            "decimals": 18,
+            "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0xf26ff70573ddc8a90bd7865af8d7d70b8ff019bc.png?size=lg&key=5e5b9c"
+        },
+        {
+            "chainId": 146,
+            "address": "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
+            "name": "Lombard Staked Bitcoin",
+            "symbol": "LBTC",
+            "decimals": 8,
+            "logoURI": "https://sonicscan.org/token/images/lbtc_64.png",
+            "extensions": {
+                "coingeckoId": "lombard-staked-btc"
+            }
+        },
+        {
+            "chainId": 146,
+            "address": "0xBb30e76d9Bb2CC9631F7fC5Eb8e87B5Aff32bFbd",
+            "name": "Sonic BTC",
+            "symbol": "scBTC",
+            "decimals": 8,
+            "logoURI": "https://i.ibb.co/F4CXYdL4/scBTC-32.png",
+            "extensions": {
+                "coingeckoId": "wrapped-bitcoin"
+            }
         },
         {
             "chainId": 250,
@@ -14563,6 +14697,62 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6bb7a212910682dcfdbd5bcbb3e28fb4e8da10ee.png"
         },
         {
+            "chainId": 8453,
+            "address": "0xC3cE78B037DDA1B966D31EC7979d3f3a38571A8E",
+            "name": "Backed CSPX Core S&P 500",
+            "symbol": "bCSPX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc3ce78b037dda1b966d31ec7979d3f3a38571a8e.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0xDEc933e2392AD908263e70A386fbF34e703Ffe8F",
+            "name": "Wrapped Backed Coinbase Global",
+            "symbol": "wbCOIN",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdec933e2392ad908263e70a386fbf34e703ffe8f.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x1f82284C1658Ad71C576f7230E6C2DEE7901c1FA",
+            "name": "Wrapped Backed Tesla Inc",
+            "symbol": "wbTSLA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1f82284c1658ad71c576f7230e6c2dee7901c1fa.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x7E8101A1C322D394b3961498c7D40d2DFA94C392",
+            "name": "Wrapped Backed NVIDIA Corp",
+            "symbol": "wbNVDA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7e8101a1c322d394b3961498c7d40d2dfa94c392.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x1a4F71B0Ff3C22540887bcf83b50054a213c673d",
+            "name": "Wrapped Backed MicroStrategy Inc",
+            "symbol": "wbMSTR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1a4f71b0ff3c22540887bcf83b50054a213c673d.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0xe9F2a5F9f3c846f29066d7fB3564F8E6B6b2D65b",
+            "name": "SuperUSDC",
+            "symbol": "ysUSDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe9f2a5f9f3c846f29066d7fb3564f8e6b6b2d65b.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0xffE8B2295CEf70290819A8193834cc7900bCef5f",
+            "name": "SuperUSDC SuperPosition",
+            "symbol": "sp-ysUSDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xffe8b2295cef70290819a8193834cc7900bcef5f.png"
+        },
+        {
             "chainId": 34443,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -16683,6 +16873,14 @@
         },
         {
             "chainId": 42161,
+            "address": "0x895e15020C3f52ddD4D8e9514eB83C39F53B1579",
+            "name": "YieldFi yToken",
+            "symbol": "yUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x895e15020c3f52ddd4d8e9514eb83c39f53b1579.png"
+        },
+        {
+            "chainId": 42161,
             "address": "0xD9E3Ef2c12de90E3b03F7b7E3964956a71920d40",
             "name": "Wrapped Aave Arbitrum weETH",
             "symbol": "waArbweETH",
@@ -16696,14 +16894,6 @@
             "symbol": "waArbUSDCn",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7f6501d3b98ee91f9b9535e4b0ac710fb0f9e0bc.png"
-        },
-        {
-            "chainId": 42161,
-            "address": "0x895e15020C3f52ddD4D8e9514eB83C39F53B1579",
-            "name": "YieldFi yToken",
-            "symbol": "yUSD",
-            "decimals": 18,
-            "logoURI": "https://coin-images.coingecko.com/coins/images/53607/large/IMG_2188.jpeg?1736873763"
         },
         {
             "chainId": 42161,
@@ -17366,6 +17556,46 @@
             "symbol": "GYD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca5d8f8a8d49439357d3cf46ca2e720702f132b8.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x1e2C4fb7eDE391d116E6B41cD0608260e8801D59",
+            "name": "Backed CSPX Core S&P 500",
+            "symbol": "bCSPX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1e2c4fb7ede391d116e6b41cd0608260e8801d59.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xDEc933e2392AD908263e70A386fbF34e703Ffe8F",
+            "name": "Wrapped Backed Coinbase Global",
+            "symbol": "wbCOIN",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdec933e2392ad908263e70a386fbf34e703ffe8f.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x1f82284C1658Ad71C576f7230E6C2DEE7901c1FA",
+            "name": "Wrapped Backed Tesla Inc",
+            "symbol": "wbTSLA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1f82284c1658ad71c576f7230e6c2dee7901c1fa.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x7E8101A1C322D394b3961498c7D40d2DFA94C392",
+            "name": "Wrapped Backed NVIDIA Corp",
+            "symbol": "wbNVDA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7e8101a1c322d394b3961498c7d40d2dfa94c392.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x1a4F71B0Ff3C22540887bcf83b50054a213c673d",
+            "name": "Wrapped Backed MicroStrategy Inc",
+            "symbol": "wbMSTR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1a4f71b0ff3c22540887bcf83b50054a213c673d.png"
         },
         {
             "chainId": 11155111,

@@ -98,4 +98,5 @@ export default [
   '0x6d80113e533a2C0fe82EaBD35f1875DcEA89Ea97', // Aave Optimism sUSD
   '0x326Aec8d7d99d1D6022c57C5f6194D2a7867227d', // paraswap test
   '0xE0B197133ec7E2Db9Cb574B1e3da21b93F6e3CbF', // paraswap test
+  '0x455BA8E4c6DFF2453E78CeF92625b38c93F4f3Dd', // BTC2S
 ]
