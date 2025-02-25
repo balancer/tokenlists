@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 200
+        "patch": 201
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-02-22T03:18:05.060Z",
+    "timestamp": "2025-02-25T13:54:39.770Z",
     "tokens": [
         {
             "chainId": 1,
@@ -9112,19 +9112,19 @@
         },
         {
             "chainId": 100,
-            "address": "0x7c16F0185A26Db0AE7a9377f23BC18ea7ce5d644",
-            "name": "Wrapped Aave Gnosis GNO",
-            "symbol": "waGnoGNO",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7c16f0185a26db0ae7a9377f23bc18ea7ce5d644.png"
-        },
-        {
-            "chainId": 100,
             "address": "0xFECB3F7c54E2CAAE9dC6Ac9060A822D47E053760",
             "name": "BRLA Token",
             "symbol": "BRLA",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/40062/large/IconGreen400.png?1725459580"
+        },
+        {
+            "chainId": 100,
+            "address": "0x7c16F0185A26Db0AE7a9377f23BC18ea7ce5d644",
+            "name": "Wrapped Aave Gnosis GNO",
+            "symbol": "waGnoGNO",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7c16f0185a26db0ae7a9377f23bc18ea7ce5d644.png"
         },
         {
             "chainId": 100,
@@ -11733,6 +11733,13 @@
             "symbol": "FRK",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/33447/large/FRK.png?1701888548"
+        },
+        {
+            "chainId": 137,
+            "address": "0x28e977157727273243CB072f9c9DE494A1387d5d",
+            "name": "STARV5 by StarSeeds Liquidity Protocol",
+            "symbol": "STARV5",
+            "decimals": 18
         },
         {
             "chainId": 137,
