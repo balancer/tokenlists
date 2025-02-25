@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 201
+        "patch": 202
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-02-25T13:54:39.770Z",
+    "timestamp": "2025-02-25T14:17:55.823Z",
     "tokens": [
         {
             "chainId": 1,
@@ -9149,6 +9149,30 @@
             "symbol": "waGnoUSDCe",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x51350d88c1bd32cc6a79368c9fb70373fb71f375.png"
+        },
+        {
+            "chainId": 100,
+            "address": "0xbbcb0356bB9e6B3Faa5CbF9E5F36185d53403Ac9",
+            "name": "Backed Coinbase Global",
+            "symbol": "bCOIN",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xbbcb0356bb9e6b3faa5cbf9e5f36185d53403ac9.png"
+        },
+        {
+            "chainId": 100,
+            "address": "0x14A5f2872396802C3Cc8942A39Ab3E4118EE5038",
+            "name": "Backed Tesla Inc",
+            "symbol": "bTSLA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x14a5f2872396802c3cc8942a39ab3e4118ee5038.png"
+        },
+        {
+            "chainId": 100,
+            "address": "0xA34C5e0AbE843E10461E2C9586Ea03E55Dbcc495",
+            "name": "Backed NVIDIA Corp",
+            "symbol": "bNVDA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa34c5e0abe843e10461e2c9586ea03e55dbcc495.png"
         },
         {
             "chainId": 137,
