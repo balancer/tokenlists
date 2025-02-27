@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 205
+        "patch": 206
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-02-27T11:20:58.760Z",
+    "timestamp": "2025-02-27T15:23:42.678Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12433,6 +12433,20 @@
             "extensions": {
                 "coingeckoId": "wrapped-bitcoin"
             }
+        },
+        {
+            "chainId": 146,
+            "address": "0xa5cd24d9792F4F131f5976Af935A505D19c8Db2b",
+            "name": "EVK Vault eWETH-1",
+            "symbol": "eWETH-1",
+            "decimals": 18
+        },
+        {
+            "chainId": 146,
+            "address": "0x0806af1762Bdd85B167825ab1a64E31CF9497038",
+            "name": "EVK Vault escETH-2",
+            "symbol": "escETH-2",
+            "decimals": 18
         },
         {
             "chainId": 250,
