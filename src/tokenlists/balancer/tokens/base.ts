@@ -115,6 +115,4 @@ export default [
   '0xe9F2a5F9f3c846f29066d7fB3564F8E6B6b2D65b', // SuperUSDC
   '0xffE8B2295CEf70290819A8193834cc7900bCef5f', // ysUSDC
   '0x35e5db674d8e93a03d814fa0ada70731efe8a4b9', // USR
-  '0x0806af1762Bdd85B167825ab1a64E31CF9497038', // Euler mev capital sceth
-  '0xa5cd24d9792F4F131f5976Af935A505D19c8Db2b', // Euler mev capital weth
 ]

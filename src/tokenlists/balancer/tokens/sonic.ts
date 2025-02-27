@@ -76,4 +76,6 @@ export default [
   '0xf26Ff70573ddc8a90Bd7865AF8d7d70B8Ff019bC', // EGGS
   '0xecAc9C5F704e954931349Da37F60E39f515c11c1', // LBTC
   '0xBb30e76d9Bb2CC9631F7fC5Eb8e87B5Aff32bFbd', // scBTC
+  '0xa5cd24d9792F4F131f5976Af935A505D19c8Db2b', // Euler mev capital weth
+  '0x0806af1762Bdd85B167825ab1a64E31CF9497038', // Euler mev capital sceth
 ]
