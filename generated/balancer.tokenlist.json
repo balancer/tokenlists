@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 204
+        "patch": 205
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-02-27T11:16:18.534Z",
+    "timestamp": "2025-02-27T11:20:58.760Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14764,7 +14764,8 @@
             "address": "0x35E5dB674D8e93a03d814FA0ADa70731efe8a4b9",
             "name": "Resolv USD",
             "symbol": "USR",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x35e5db674d8e93a03d814fa0ada70731efe8a4b9.svg"
         },
         {
             "chainId": 34443,
