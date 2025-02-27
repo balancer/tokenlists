@@ -114,4 +114,5 @@ export default [
   '0x1a4F71B0Ff3C22540887bcf83b50054a213c673d', // Wrapped Backed Strategy (wbMSTR)
   '0xe9F2a5F9f3c846f29066d7fB3564F8E6B6b2D65b', // SuperUSDC
   '0xffE8B2295CEf70290819A8193834cc7900bCef5f', // ysUSDC
+  '0x35e5db674d8e93a03d814fa0ada70731efe8a4b9', // USR
 ]
