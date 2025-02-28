@@ -12953,7 +12953,7 @@
         {
             "chainId": 250,
             "address": "0x62227c75908b7d358a9d70eA4670F57f8b012Ccc",
-            "name": "FTM Liquid-Staked via Millenium Club",
+            "name": "FTM Liquid-Staked via Millennium Club",
             "symbol": "mFTM",
             "decimals": 18,
             "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/mFTM-Token-BlackBlue.png"
