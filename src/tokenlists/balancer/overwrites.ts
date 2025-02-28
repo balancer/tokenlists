@@ -1551,5 +1551,12 @@ export const overwrites: OverwritesForList = {
         coingeckoId: 'wrapped-bitcoin',
       },
     },
+    '0x1e2c4fb7ede391d116e6b41cd0608260e8801d59': {
+      extensions: {
+        coingeckoId: 'backed-cspx-core-s-p-500',
+      },
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1e2c4fb7ede391d116e6b41cd0608260e8801d59.png',
+    },
   },
 }

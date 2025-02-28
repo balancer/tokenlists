@@ -78,4 +78,5 @@ export default [
   '0xBb30e76d9Bb2CC9631F7fC5Eb8e87B5Aff32bFbd', // scBTC
   '0xa5cd24d9792F4F131f5976Af935A505D19c8Db2b', // Euler mev capital weth
   '0x0806af1762Bdd85B167825ab1a64E31CF9497038', // Euler mev capital sceth
+  '0x1e2c4fb7ede391d116e6b41cd0608260e8801d59', // bCSPX
 ]
