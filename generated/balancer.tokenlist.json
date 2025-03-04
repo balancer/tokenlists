@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 207
+        "patch": 208
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-02-28T13:28:59.171Z",
+    "timestamp": "2025-03-04T14:53:47.628Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12458,6 +12458,14 @@
             "extensions": {
                 "coingeckoId": "backed-cspx-core-s-p-500"
             }
+        },
+        {
+            "chainId": 146,
+            "address": "0x3419966bC74fa8f951108d15b053bEd233974d3D",
+            "name": "Beets Gem Fragments - S1",
+            "symbol": "BeetsFragmentsS1",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x3419966bc74fa8f951108d15b053bed233974d3d.png"
         },
         {
             "chainId": 250,
