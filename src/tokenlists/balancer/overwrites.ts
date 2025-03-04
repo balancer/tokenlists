@@ -1558,5 +1558,11 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1e2c4fb7ede391d116e6b41cd0608260e8801d59.png',
     },
+    '0x3419966bc74fa8f951108d15b053bed233974d3d': {
+      symbol: 'BeetsFragmentsS1',
+      name: 'Beets Gem Fragments - S1',
+      logoURI:
+      'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x3419966bc74fa8f951108d15b053bed233974d3d.png',
+    },
   },
 }
