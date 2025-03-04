@@ -1564,5 +1564,12 @@ export const overwrites: OverwritesForList = {
       logoURI:
       'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x3419966bc74fa8f951108d15b053bed233974d3d.png',
     },
+    '0x0555e30da8f98308edb960aa94c0db47230d2b9c': {
+      extensions: {
+        coingeckoId: 'wrapped-bitcoin',
+      },
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0555e30da8f98308edb960aa94c0db47230d2b9c.png',
+    },
   },
 }

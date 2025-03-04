@@ -80,4 +80,5 @@ export default [
   '0x0806af1762Bdd85B167825ab1a64E31CF9497038', // Euler mev capital sceth
   '0x1e2c4fb7ede391d116e6b41cd0608260e8801d59', // bCSPX
   '0x3419966bc74fa8f951108d15b053bed233974d3d', // Beets Gem Fragment S1
+  '0x0555e30da8f98308edb960aa94c0db47230d2b9c', // wbtc
 ]
