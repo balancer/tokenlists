@@ -1478,7 +1478,7 @@ export const overwrites: OverwritesForList = {
         'https://cdn.jsdelivr.net/gh/unified-defi/equalizer-tokens@latest/sonic/tokens/128x128/0xf97d438bc03ad0f75b83ce5714c9619880b305bc.png',
     },
     '0x0C4E186Eae8aCAA7F7de1315D5AD174BE39Ec987': {
-      logoURI: 'https://beethoven-assets.s3.eu-central-1.amazonaws.com/ans.png',
+      logoURI: 'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/anS.png',
       extensions: {
         coingeckoId: 'sonic-3',
       },
@@ -1491,7 +1491,7 @@ export const overwrites: OverwritesForList = {
     },
     '0xfA85Fe5A8F5560e9039C04f2b0a90dE1415aBD70': {
       logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/wans.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wanS.png',
     },
     '0x9F0dF7799f6FDAd409300080cfF680f5A23df4b1': {
       logoURI:
