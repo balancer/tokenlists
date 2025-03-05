@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 209
+        "patch": 210
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-03-04T16:12:21.387Z",
+    "timestamp": "2025-03-05T10:02:42.436Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12477,6 +12477,34 @@
             "extensions": {
                 "coingeckoId": "wrapped-bitcoin"
             }
+        },
+        {
+            "chainId": 146,
+            "address": "0xB97af8cbD08d182Cc118439ff5d4b547ec16258C",
+            "name": "Wrapped Avalon Avalon USDA",
+            "symbol": "waSonicUSDA",
+            "decimals": 18
+        },
+        {
+            "chainId": 146,
+            "address": "0x1Bf08B4f49E6aeAa0a59C241d74Fe1DDB8327693",
+            "name": "Wrapped Avalon Avalon SUSDA",
+            "symbol": "waSonicSUSDA",
+            "decimals": 18
+        },
+        {
+            "chainId": 146,
+            "address": "0xff12470a969Dd362EB6595FFB44C82c959Fe9ACc",
+            "name": "USDa",
+            "symbol": "USDa",
+            "decimals": 18
+        },
+        {
+            "chainId": 146,
+            "address": "0x2840F9d9f96321435Ab0f977E7FDBf32EA8b304f",
+            "name": "USDa saving token",
+            "symbol": "sUSDa",
+            "decimals": 18
         },
         {
             "chainId": 250,
