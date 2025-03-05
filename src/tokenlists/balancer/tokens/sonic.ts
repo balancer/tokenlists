@@ -81,4 +81,8 @@ export default [
   '0x1e2c4fb7ede391d116e6b41cd0608260e8801d59', // bCSPX
   '0x3419966bc74fa8f951108d15b053bed233974d3d', // Beets Gem Fragment S1
   '0x0555e30da8f98308edb960aa94c0db47230d2b9c', // wbtc
+  '0xB97af8cbD08d182Cc118439ff5d4b547ec16258C', // avalon wrapped USDa
+  '0x1Bf08B4f49E6aeAa0a59C241d74Fe1DDB8327693', // avalon wrapped sUSDa
+  '0xff12470a969Dd362EB6595FFB44C82c959Fe9ACc', // avalon wrapped USDa
+  '0x2840F9d9f96321435Ab0f977E7FDBf32EA8b304f', // sUSDa
 ]
