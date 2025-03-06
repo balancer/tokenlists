@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 213
+        "patch": 214
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-03-06T10:54:08.103Z",
+    "timestamp": "2025-03-06T12:15:26.500Z",
     "tokens": [
         {
             "chainId": 1,
@@ -17081,7 +17081,10 @@
             "name": "Orbit Ether",
             "symbol": "orbETH",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xcf6c2bb97a8978321c9e207afe8a2037fa9be45c.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xcf6c2bb97a8978321c9e207afe8a2037fa9be45c.png",
+            "extensions": {
+                "coingeckoId": "dinero-apxeth"
+            }
         },
         {
             "chainId": 43114,
