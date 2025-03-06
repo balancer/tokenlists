@@ -460,7 +460,7 @@ export const overwrites: OverwritesForList = {
     },
     '0xcF6C2bb97a8978321C9e207afE8A2037fa9be45C': {
       coingeckoId: 'dinero-apxeth',
-    }
+    },
   },
   [Network.Optimism]: {
     '0xe05A08226c49b636ACf99c40Da8DC6aF83CE5bB3': {
