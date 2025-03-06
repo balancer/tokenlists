@@ -459,7 +459,9 @@ export const overwrites: OverwritesForList = {
       symbol: 'waUSDT',
     },
     '0xcF6C2bb97a8978321C9e207afE8A2037fa9be45C': {
-      coingeckoId: 'dinero-apxeth',
+      extensions: {
+        coingeckoId: 'dinero-apxeth',
+      }
     },
   },
   [Network.Optimism]: {
