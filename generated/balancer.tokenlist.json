@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 211
+        "patch": 212
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-03-05T19:59:42.896Z",
+    "timestamp": "2025-03-06T02:18:33.875Z",
     "tokens": [
         {
             "chainId": 1,
@@ -17053,6 +17053,14 @@
             "symbol": "waArbezETH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4ff50c17df0d1b788d021acd85039810a1aa68a1.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xcF6C2bb97a8978321C9e207afE8A2037fa9be45C",
+            "name": "Orbit Ether",
+            "symbol": "orbETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xcf6c2bb97a8978321c9e207afe8a2037fa9be45c.png"
         },
         {
             "chainId": 43114,
