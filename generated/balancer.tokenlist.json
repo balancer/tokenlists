@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 215
+        "patch": 216
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-03-06T15:55:55.080Z",
+    "timestamp": "2025-03-11T14:57:54.098Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7732,7 +7732,8 @@
             "address": "0x22d76E6e1D9aB4072522C1bC60C85a0d5626cA2D",
             "name": "Bao BTC",
             "symbol": "baoBTC",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x22d76e6e1d9ab4072522c1bc60c85a0d5626ca2d.png"
         },
         {
             "chainId": 1,
@@ -14718,6 +14719,14 @@
         },
         {
             "chainId": 8453,
+            "address": "0x6Bb7a212910682DCFdbd5BCBb3e28FB4E8da10Ee",
+            "name": "Gho Token",
+            "symbol": "GHO",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6bb7a212910682dcfdbd5bcbb3e28fb4e8da10ee.png"
+        },
+        {
+            "chainId": 8453,
             "address": "0x0830820D1A9aa1554364752d6D8F55C836871B74",
             "name": "Wrapped Aave Base wstETH",
             "symbol": "waBaswstETH",
@@ -14787,14 +14796,6 @@
             "symbol": "waBasGHO",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x88b1cd4b430d95b406e382c3cdbae54697a0286e.png"
-        },
-        {
-            "chainId": 8453,
-            "address": "0x6Bb7a212910682DCFdbd5BCBb3e28FB4E8da10Ee",
-            "name": "Gho Token",
-            "symbol": "GHO",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6bb7a212910682dcfdbd5bcbb3e28fb4e8da10ee.png"
         },
         {
             "chainId": 8453,
