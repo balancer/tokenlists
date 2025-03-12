@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 216
+        "patch": 217
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-03-11T14:57:54.098Z",
+    "timestamp": "2025-03-12T15:46:43.515Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12527,6 +12527,24 @@
             "name": "Wrapped Aave Sonic WETH",
             "symbol": "waSonWETH",
             "decimals": 18
+        },
+        {
+            "chainId": 146,
+            "address": "0xdA14A41DbdA731F03A94cb722191639DD22b35b2",
+            "name": "Silo Wrapped frxUSD",
+            "symbol": "SiloFrxUSD",
+            "decimals": 18
+        },
+        {
+            "chainId": 146,
+            "address": "0x80Eede496655FB9047dd39d9f418d5483ED600df",
+            "name": "Frax USD",
+            "symbol": "frxUSD",
+            "decimals": 18,
+            "logoURI": "https://static.frax.com/images/tokens/frxusd.png",
+            "extensions": {
+                "coingeckoId": "frax-usd"
+            }
         },
         {
             "chainId": 250,
