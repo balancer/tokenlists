@@ -1577,5 +1577,16 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0555e30da8f98308edb960aa94c0db47230d2b9c.png',
     },
+    '0x80Eede496655FB9047dd39d9f418d5483ED600df': {
+      extensions: {
+        coingeckoId: 'frax-usd',
+      },
+      logoURI:
+        'https://static.frax.com/images/tokens/frxusd.png',
+    },
+    '0xdA14A41DbdA731F03A94cb722191639DD22b35b2': {
+      symbol: 'SiloFrxUSD',
+      name: 'Silo Wrapped frxUSD',
+    },
   },
 }
