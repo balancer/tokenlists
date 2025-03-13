@@ -1587,6 +1587,8 @@ export const overwrites: OverwritesForList = {
     '0xdA14A41DbdA731F03A94cb722191639DD22b35b2': {
       symbol: 'SiloFrxUSD',
       name: 'Silo Wrapped frxUSD',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/frxUSD_silo.png',
     },
   },
 }
