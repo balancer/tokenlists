@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 217
+        "patch": 218
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-03-12T15:46:43.515Z",
+    "timestamp": "2025-03-13T09:04:09.723Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12533,7 +12533,8 @@
             "address": "0xdA14A41DbdA731F03A94cb722191639DD22b35b2",
             "name": "Silo Wrapped frxUSD",
             "symbol": "SiloFrxUSD",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/frxUSD_silo.png"
         },
         {
             "chainId": 146,
