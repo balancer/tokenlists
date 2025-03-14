@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 218
+        "patch": 219
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-03-13T09:04:09.723Z",
+    "timestamp": "2025-03-14T16:27:03.534Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12546,6 +12546,14 @@
             "extensions": {
                 "coingeckoId": "frax-usd"
             }
+        },
+        {
+            "chainId": 146,
+            "address": "0xEdF8b632b537d5993Adb5e2E15882CD791c284cB",
+            "name": "Fantom Bomb",
+            "symbol": "fBOMB",
+            "decimals": 18,
+            "logoURI": "https://app.fbomb.finance/images/tokens/0xbf4906762C38F50bC7Be0A11BB452C944f6C72E1.png"
         },
         {
             "chainId": 250,
