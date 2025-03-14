@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 219
+        "patch": 220
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-03-14T16:27:03.534Z",
+    "timestamp": "2025-03-14T18:40:52.676Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7776,6 +7776,14 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1a4f71b0ff3c22540887bcf83b50054a213c673d.png"
         },
         {
+            "chainId": 1,
+            "address": "0x90551c1795392094FE6D29B758EcCD233cFAa260",
+            "name": "Fluid Wrapped Ether",
+            "symbol": "fWETH",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/38033/large/fWETH.png?1716322882"
+        },
+        {
             "chainId": 10,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -9150,6 +9158,13 @@
             "symbol": "waGnoUSDCe",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x51350d88c1bd32cc6a79368c9fb70373fb71f375.png"
+        },
+        {
+            "chainId": 100,
+            "address": "0x417bc5b940475203A18C2f320a5ba470D6c5E463",
+            "name": "Wrapped Aave Gnosis EURe",
+            "symbol": "waGnoEURe",
+            "decimals": 18
         },
         {
             "chainId": 137,
@@ -14897,6 +14912,13 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe31ee12bdfdd0573d634124611e85338e2cbf0cf.png"
         },
         {
+            "chainId": 8453,
+            "address": "0x9272D6153133175175Bc276512B2336BE3931CE9",
+            "name": "Fluid Wrapped Ether",
+            "symbol": "fWETH",
+            "decimals": 18
+        },
+        {
             "chainId": 34443,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -17129,6 +17151,13 @@
             "symbol": "eBTC",
             "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x657e8c867d8b37dcc18fa4caead9c45eb088c642.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x45Df0656F8aDf017590009d2f1898eeca4F0a205",
+            "name": "Fluid Wrapped Ether",
+            "symbol": "fWETH",
+            "decimals": 18
         },
         {
             "chainId": 43114,
