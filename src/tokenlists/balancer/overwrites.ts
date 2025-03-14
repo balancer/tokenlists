@@ -1590,5 +1590,9 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/frxUSD_silo.png',
     },
+    '0xEdF8b632b537d5993Adb5e2E15882CD791c284cB': {
+      logoURI:
+        'https://app.fbomb.finance/images/tokens/0xbf4906762C38F50bC7Be0A11BB452C944f6C72E1.png',
+    },
   },
 }
