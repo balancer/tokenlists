@@ -73,4 +73,5 @@ export default [
   '0x773cda0cade2a3d86e6d4e30699d40bb95174ff2', // waGnowstETH
   '0x57f664882f762fa37903fc864e2b633d384b411a', // waGnoWETH
   '0x51350d88c1bd32cc6a79368c9fb70373fb71f375', // waGnoUSDCe
+  '0x417bc5b940475203A18C2f320a5ba470D6c5E463', // waGnoEURe
 ]
