@@ -1581,8 +1581,7 @@ export const overwrites: OverwritesForList = {
       extensions: {
         coingeckoId: 'frax-usd',
       },
-      logoURI:
-        'https://static.frax.com/images/tokens/frxusd.png',
+      logoURI: 'https://static.frax.com/images/tokens/frxusd.png',
     },
     '0xdA14A41DbdA731F03A94cb722191639DD22b35b2': {
       symbol: 'SiloFrxUSD',
