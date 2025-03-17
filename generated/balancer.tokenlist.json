@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 222
+        "patch": 223
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-03-17T16:16:31.956Z",
+    "timestamp": "2025-03-17T18:12:59.475Z",
     "tokens": [
         {
             "chainId": 1,
@@ -9173,14 +9173,6 @@
             "name": "Wrapped Aave Gnosis EURe",
             "symbol": "waGnoEURe",
             "decimals": 18
-        },
-        {
-            "chainId": 100,
-            "address": "0x420CA0f9B9b604cE0fd9C18EF134C705e5Fa3430",
-            "name": "Monerium EURe",
-            "symbol": "EURe",
-            "decimals": 18,
-            "logoURI": "https://coin-images.coingecko.com/coins/images/54303/large/eure.jpg?1739167959"
         },
         {
             "chainId": 137,
