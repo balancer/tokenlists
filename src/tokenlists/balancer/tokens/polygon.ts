@@ -346,4 +346,5 @@ export default [
   '0x1f82284C1658Ad71C576f7230E6C2DEE7901c1FA', // Wrapped Backed Tesla (wbTSLA)
   '0x7E8101A1C322D394b3961498c7D40d2DFA94C392', // Wrapped Backed Nvidia (wbNVDA)
   '0x1a4F71B0Ff3C22540887bcf83b50054a213c673d', // Wrapped Backed Strategy (wbMSTR)
+  '0xc63529297dE076eB15fcbE873AE9136E446cFbB9', // GYFI
 ]
