@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 224
+        "patch": 225
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-03-18T14:43:47.217Z",
+    "timestamp": "2025-03-18T17:23:09.121Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14965,6 +14965,38 @@
             "symbol": "GYFI",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc63529297de076eb15fcbe873ae9136e446cfbb9.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x2615a94df961278DcbC41Fb0a54fEc5f10a693aE",
+            "name": "XRP (Universal)",
+            "symbol": "uXRP",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/51658/large/UA-XRP_1.png?1731703523"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x9B8Df6E244526ab5F6e6400d331DB28C8fdDdb55",
+            "name": "Solana (Universal)",
+            "symbol": "uSOL",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/39987/large/UA-SOL_1.png?1725027946"
+        },
+        {
+            "chainId": 8453,
+            "address": "0xa3A34A0D9A08CCDDB6Ed422Ac0A28a06731335aA",
+            "name": "Cardano (Universal)",
+            "symbol": "uADA",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/51868/large/UA-ADA.png?1732095196"
+        },
+        {
+            "chainId": 8453,
+            "address": "0xF1143f3A8D76f1Ca740d29D5671d365F66C44eD1",
+            "name": "Bitcoin (Universal)",
+            "symbol": "uBTC",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/50252/large/UA-BTC_1.png?1726721793"
         },
         {
             "chainId": 34443,
