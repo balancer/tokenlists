@@ -91,4 +91,5 @@ export default [
   '0xdA14A41DbdA731F03A94cb722191639DD22b35b2', // silo wrapped frxUSD
   '0x80Eede496655FB9047dd39d9f418d5483ED600df', // frxUSD
   '0xEdF8b632b537d5993Adb5e2E15882CD791c284cB', // fbomb
+  '0xc63529297de076eb15fcbe873ae9136e446cfbb9', // GYFI
 ]
