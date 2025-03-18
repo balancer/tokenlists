@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 223
+        "patch": 224
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-03-17T18:12:59.475Z",
+    "timestamp": "2025-03-18T14:43:47.217Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7792,6 +7792,14 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x70c4430f9d98b4184a4ef3e44ce10c320a8b7383.png"
         },
         {
+            "chainId": 1,
+            "address": "0x2411802D8BEA09be0aF8fD8D08314a63e706b29C",
+            "name": "Fluid Wrapped liquid staked Ether 2.0",
+            "symbol": "fwstETH",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/38032/large/fwsteth.png?1716322853"
+        },
+        {
             "chainId": 10,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -9173,6 +9181,14 @@
             "name": "Wrapped Aave Gnosis EURe",
             "symbol": "waGnoEURe",
             "decimals": 18
+        },
+        {
+            "chainId": 100,
+            "address": "0xc63529297dE076eB15fcbE873AE9136E446cFbB9",
+            "name": "Gyroscope",
+            "symbol": "GYFI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc63529297de076eb15fcbe873ae9136e446cfbb9.png"
         },
         {
             "chainId": 137,
@@ -11806,6 +11822,14 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1a4f71b0ff3c22540887bcf83b50054a213c673d.png"
         },
         {
+            "chainId": 137,
+            "address": "0xc63529297dE076eB15fcbE873AE9136E446cFbB9",
+            "name": "Gyroscope",
+            "symbol": "GYFI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc63529297de076eb15fcbe873ae9136e446cfbb9.png"
+        },
+        {
             "chainId": 146,
             "address": "0xe6cc4D855B4fD4A9D02F46B9adae4C5EfB1764B5",
             "name": "LUDWIG",
@@ -14001,6 +14025,14 @@
             "symbol": "USDC.e",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x37eaa0ef3549a5bb7d431be78a3d99bd360d19e5.png"
+        },
+        {
+            "chainId": 1101,
+            "address": "0xc63529297dE076eB15fcbE873AE9136E446cFbB9",
+            "name": "Gyroscope",
+            "symbol": "GYFI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc63529297de076eb15fcbe873ae9136e446cfbb9.png"
         },
         {
             "chainId": 8453,
