@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 227
+        "patch": 228
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-03-18T19:48:52.465Z",
+    "timestamp": "2025-03-19T13:41:32.164Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7798,6 +7798,14 @@
             "symbol": "fwstETH",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/38032/large/fwsteth.png?1716322853"
+        },
+        {
+            "chainId": 1,
+            "address": "0xaD55aebc9b8c03FC43cd9f62260391c13c23e7c0",
+            "name": "Compounding Open Dollar",
+            "symbol": "cUSDO",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xad55aebc9b8c03fc43cd9f62260391c13c23e7c0.png"
         },
         {
             "chainId": 10,
