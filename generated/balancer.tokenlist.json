@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 228
+        "patch": 229
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-03-19T13:41:32.164Z",
+    "timestamp": "2025-03-19T15:45:44.477Z",
     "tokens": [
         {
             "chainId": 1,
@@ -15036,6 +15036,14 @@
             "symbol": "PRF",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/34710/large/parifi200x200.png?1705894380"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x895e15020C3f52ddD4D8e9514eB83C39F53B1579",
+            "name": "YieldFi yToken",
+            "symbol": "yUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x895e15020c3f52ddd4d8e9514eb83c39f53b1579.png"
         },
         {
             "chainId": 34443,
