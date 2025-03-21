@@ -136,6 +136,26 @@ export const overwrites: OverwritesForList = {
     '0xDBf5E36569798D1E39eE9d7B1c61A7409a74F23A': {
       symbol: 'waLUSD',
     },
+    '0x5C5b196aBE0d54485975D1Ec29617D42D9198326': {
+      extensions: {
+        coingeckoId: null,
+      },
+    },
+    '0x8236a87084f8B84306f72007F36F2618A5634494': {
+      extensions: {
+        coingeckoId: 'lombard-staked-btc',
+      },
+    },
+    '0xb51EDdDD8c47856D81C8681EA71404Cec93E92c6': {
+      decimals: 6,
+      symbol: 'Aave Core pyUSD',
+      name: 'Aave Core pyUSD',
+    },
+    '0xC71Ea051a5F82c67ADcF634c36FFE6334793D24C': {
+      decimals: 18,
+      symbol: 'Aave Prime GHO',
+      name: 'Aave Prime GHO',
+    },
   },
   [Network.Polygon]: {
     '0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3': {
@@ -438,6 +458,11 @@ export const overwrites: OverwritesForList = {
     '0xb165a74407fE1e519d6bCbDeC1Ed3202B35a4140': {
       symbol: 'waUSDT',
     },
+    '0xcF6C2bb97a8978321C9e207afE8A2037fa9be45C': {
+      extensions: {
+        coingeckoId: 'dinero-apxeth',
+      },
+    },
   },
   [Network.Optimism]: {
     '0xe05A08226c49b636ACf99c40Da8DC6aF83CE5bB3': {
@@ -596,6 +621,14 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://gitlab.com/optimism-prime/logos/-/raw/main/imxB-USDC-VELO-VELO.png',
     },
+    '0x298B9B95708152ff6968aafd889c6586e9169f1D': {
+      logoURI:
+        'https://optimistic.etherscan.io/token/images/Synthetix_sBTC_32.png',
+    },
+    '0xFBc4198702E81aE77c06D58f81b629BDf36f0a71': {
+      logoURI:
+        'https://optimistic.etherscan.io/token/images/synthetixeuro_32.png',
+    },
   },
   [Network.Gnosis]: {
     '0x7eF541E2a22058048904fE5744f9c7E4C57AF717': {
@@ -650,6 +683,20 @@ export const overwrites: OverwritesForList = {
     '0x99aC4484e8a1dbd6A185380B3A811913Ac884D87': {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x83f20f44975d03b1b09e64809b757c47f942beea.png',
+    },
+    '0xecAc9C5F704e954931349Da37F60E39f515c11c1': {
+      extensions: {
+        coingeckoId: 'lombard-staked-btc',
+      },
+    },
+    '0x35e5db674d8e93a03d814fa0ada70731efe8a4b9': {
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x35e5db674d8e93a03d814fa0ada70731efe8a4b9.svg',
+    },
+    '0xF6BD14Bc7D980122aa2E70dFe2d7CF926709A0F4': {
+      extensions: {
+        coingeckoId: 'parifi',
+      },
     },
   },
   [Network.Fantom]: {
@@ -1023,6 +1070,19 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://cdn.jsdelivr.net/gh/unified-defi/equalizer-tokens@latest/fantom/tokens/128x128/0x5d9eafc54567f34164a269ba6c099068df6ef651.png',
     },
+    '0xA556f91530b4e1f59964d5891ee1c50517dC01cd': {
+      logoURI:
+        'https://dd.dexscreener.com/ds-data/tokens/fantom/0xa556f91530b4e1f59964d5891ee1c50517dc01cd.png?size=lg&key=0cfccd',
+    },
+    '0x24626638Ca7b8315c755F4a7337542f10582C805': {
+      logoURI:
+        'https://dd.dexscreener.com/ds-data/tokens/fantom/0x24626638ca7b8315c755f4a7337542f10582c805.png?size=lg&key=0c4c55',
+    },
+    '0x10b620b2dbAC4Faa7D7FFD71Da486f5D44cd86f9': {
+      extensions: {
+        coingeckoId: 'liquiddriver',
+      },
+    },
   },
   [Network.Sepolia]: {
     '0xb19382073c7A0aDdbb56Ac6AF1808Fa49e377B75': {
@@ -1122,12 +1182,421 @@ export const overwrites: OverwritesForList = {
         coingeckoId: 'ethena-usde',
       },
     },
+    '0xFc00000000000000000000000000000000000001': {
+      name: 'Frax USD',
+      symbol: 'frxUSD',
+      extensions: {
+        coingeckoId: 'frax-usd',
+      },
+    },
+    '0xfc00000000000000000000000000000000000008': {
+      name: 'Staked Frax USD',
+      symbol: 'sfrxUSD',
+      extensions: {
+        coingeckoId: 'staked-frax-usd',
+      },
+    },
   },
   [Network.Mode]: {
     '0xD08a2917653d4E460893203471f0000826fb4034': {
       extensions: {
         coingeckoId: 'balancer',
       },
+    },
+    '0xd0d1b59ca62ce194e882455fd36632d6277b192a': {
+      extensions: {
+        coingeckoId: 'wrapped-bitcoin',
+      },
+    },
+    '0xe3c0ff176ef92fc225096c6d1788ccb818808b35': {
+      extensions: {
+        coingeckoId: 'wrapped-bitcoin',
+      },
+    },
+    '0x964dd444e3192F636322229080A576077B06FbA3': {
+      extensions: {
+        coingeckoId: 'lombard-staked-btc',
+      },
+    },
+  },
+  [Network.Sonic]: {
+    '0xe6cc4D855B4fD4A9D02F46B9adae4C5EfB1764B5': {
+      logoURI:
+        'https://bafybeiehzznjxownjllrbjij7rliuyiqn6nlfaer7izctgjk5la3ldhpq4.ipfs.dweb.link',
+    },
+    '0xe5da20f15420ad15de0fa650600afc998bbe3955': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/token-beets-staked-sonic.png',
+      extensions: {
+        coingeckoId: 'beets-staked-sonic',
+      },
+    },
+    '0x2D0E0814E62D80056181F5cd932274405966e4f0': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/token-BEETS-sonic.png',
+      extensions: {
+        coingeckoId: 'beets',
+      },
+    },
+    '0x039e2fb66102314ce7b64ce5ce3e5183bc94ad38': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/Logomark_Sonic_Black.png',
+      extensions: {
+        coingeckoId: 'sonic-3',
+      },
+    },
+    '0x50c42deacd8fc9773493ed674b675be577f2634b': {
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4200000000000000000000000000000000000006.png',
+    },
+    '0x29219dd400f2Bf60E5a23d13Be72B486D4038894': {
+      logoURI:
+        'https://assets.coingecko.com/coins/images/6319/large/usdc.png?1696506694',
+      extensions: {
+        coingeckoId: 'usd-coin',
+      },
+    },
+    '0x541FD749419CA806a8bc7da8ac23D346f2dF8B77': {
+      logoURI:
+        'https://assets.coingecko.com/coins/images/36800/standard/solvBTC.png?1719810684',
+      extensions: {
+        coingeckoId: 'solv-btc',
+      },
+    },
+    '0xCC0966D8418d412c599A6421b760a847eB169A8c': {
+      logoURI:
+        'https://assets.coingecko.com/coins/images/39384/standard/unnamed.png?1721961640',
+      extensions: {
+        coingeckoId: 'solv-protocol-solvbtc-bbn',
+      },
+    },
+    '0x342781fd3d3F73bdB54b2DEDd925f2ad81b48590': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/SonicPooh.PNG',
+    },
+    '0x93cd403693Da40d27188714a872943F717E3c543': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/SONICBEER.PNG',
+    },
+    '0xB5A10bd15aF95381D830f71E85328F2d1d823de7': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/SONIC+PUB.PNG',
+    },
+    '0x71D634647a1aa323C1A0E6d9548dDaA6Eb750E6e': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/Sonic+Honey+Beer.PNG',
+    },
+    '0x74ebDC16D36D1820BA014c2F273Bd03796Ad30C3': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/Sonic+Smoke.JPG',
+    },
+    '0x2d10a2e2D680564a942e98EE43e35553db990807': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/Sonic+Tequila.PNG',
+    },
+    '0xaA2549E4B687a338C111d5d1feA4754d51E55471': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/Sonic+Pub+Girls.PNG',
+    },
+    '0xE17Be928A08D66156eC242A68c4929B07cF14CCC': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/Sonic+Cartel.PNG',
+    },
+    '0x99AaC0966ec3F667c85e9FD2dFc6b8f3E2C896B5': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/Sonic+Goat+Milk.PNG',
+    },
+    '0x77672EdD7F5ED8bDD4e6De9F56B9A312A1a41031': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/BURGER.png',
+    },
+    '0x3854fD4712eb3A5Aa51c949C29cACE84F7ED2eFC': {
+      logoURI: 'https://i.ibb.co/0s08MzL/SHILLY-LOGO-CIRCLE-BIG-2.png',
+    },
+    '0x17Af1Df44444AB9091622e4Aa66dB5BB34E51aD5': {
+      logoURI: 'https://beethoven-assets.s3.eu-central-1.amazonaws.com/THC.jpg',
+    },
+    '0x1E5fe95fB90ac0530F581C617272cd0864626795': {
+      name: 'Fantom lzBEETS',
+      symbol: 'lzBEETS',
+      logoURI:
+        'https://assets.coingecko.com/coins/images/19158/standard/beets-icon-large.png?1696518608',
+    },
+    '0xBC0d0650412EF353D672c0Bbd12eFFF90591B251': {
+      logoURI: 'https://i.ibb.co/D7wShRv/Square-Fantom-Starter-Logo.png',
+    },
+    '0x63A522f6E7D5B96F7aeBB74d2648545E9e14078D': {
+      logoURI:
+        'https://gateway.pinata.cloud/ipfs/bafkreiaynps4xalkiktny4fpwhk2ziq3xbw7hiq676cijddb3zzflcwdcq',
+    },
+    '0xBe422DD2F451348d5D0979D8ab25B4c6eAAd1eB2': {
+      logoURI: 'https://i.ibb.co/x3DdsbK/Familio.png',
+    },
+    '0x9fDbC3f8Abc05Fa8f3Ad3C17D2F806c1230c4564': {
+      logoURI: 'https://i.ibb.co/Ksp9CcT/Goggles.png',
+    },
+    '0x50Bc6e1DfF8039A4b967c1BF507ba5eA13fa18B6': {
+      logoURI: 'https://i.ibb.co/TmPRQZp/sDOG.png',
+    },
+    '0x7A08Bf5304094CA4C7b4132Ef62b5EDc4a3478B7': {
+      logoURI:
+        'https://dd.dexscreener.com/ds-data/tokens/fantom/0xb8a32897016c1b2ee0797090162eafe58f032795.png?key=a473b3',
+    },
+    '0xd3DCe716f3eF535C5Ff8d041c1A41C3bd89b97aE': {
+      logoURI: 'https://i.ibb.co/PFw2zkx/scUSD64.png',
+    },
+    '0x3bcE5CB273F0F148010BbEa2470e7b5df84C7812': {
+      logoURI: 'https://i.ibb.co/fMTYnj2/scETH64.png',
+    },
+    '0xf2968631D02330Dc5E420373f083b7B4F8B24E17': {
+      logoURI: 'https://i.ibb.co/qs9X9Xt/Relic.png',
+    },
+    '0xB2a909b8bCce9B30BbC9d4c748fD897d6AD9c285': {
+      logoURI: 'https://i.ibb.co/DMPP0tZ/pizzaratlogo-text-600dpi.png',
+    },
+    '0xd43b5d6899635e514A00b475eEa04C364979e076': {
+      logoURI:
+        'https://dd.dexscreener.com/ds-data/tokens/fantom/0x1e2ea3f3209d66647f959cf00627107e079b870d.png?size=lg&key=5a19d7',
+    },
+    '0x9aF092fD69e341a651725f89CC5510a22E40E614': {
+      logoURI: 'https://i.ibb.co/FzGjYCR/Blaze.png',
+    },
+    '0xE51EE9868C1f0d6cd968A8B8C8376Dc2991BFE44': {
+      logoURI:
+        'https://coin-images.coingecko.com/coins/images/18579/large/ps-cmc-200x200.png?1707862125',
+      extensions: {
+        coingeckoId: 'paint-swap',
+      },
+    },
+    '0x10ac2F9DaE6539E77e372aDB14B1BF8fBD16b3e8': {
+      logoURI: 'https://sonicscan.org/token/images/mabeets_32.png',
+    },
+    '0xe715cba7b5ccb33790cebff1436809d36cb17e57': {
+      logoURI:
+        'https://assets.coingecko.com/coins/images/26045/standard/euro.png?1696525125',
+      extensions: {
+        coingeckoId: null,
+      },
+    },
+    '0x6fB9897896Fe5D05025Eb43306675727887D0B7c': {
+      logoURI:
+        'https://dd.dexscreener.com/ds-data/tokens/sonic/0x6fb9897896fe5d05025eb43306675727887d0b7c.png?size=lg&key=69e35d',
+    },
+    '0xC046dCb16592FBb3F9fA0C629b8D93090dD4cB76': {
+      logoURI:
+        'https://dd.dexscreener.com/ds-data/tokens/sonic/0xc046dcb16592fbb3f9fa0c629b8d93090dd4cb76.png?size=lg&key=872bae',
+    },
+    '0x05e31a691405d06708A355C029599c12d5da8b28': {
+      logoURI:
+        'https://dd.dexscreener.com/ds-data/tokens/sonic/0x05e31a691405d06708a355c029599c12d5da8b28.png?size=lg&key=f7ac24',
+    },
+    '0xf1c9b8171bf3902554e791010ccbcd6bacba6efd': {
+      logoURI: 'https://i.ibb.co/4N62vMk/BEARZWIFGUNZ180042069.png',
+    },
+    '0xb161Fe49dEB1BDa8e3A4a484D5CcD927a35A7DDe': {
+      logoURI: 'https://i.ibb.co/64mycQm/SURV.png',
+    },
+    '0x690d956D97d3EEe18AB68ED1A28a89d531734F3d': {
+      logoURI: 'https://i.ibb.co/BTm5hX9/Moist.jpg',
+    },
+    '0x7F144F8691CbA3d2EfD8e5bcf042f9303EE31a46': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/aurum.png',
+    },
+    '0x0a54364631Ea37813a63edb3bBa1C46f8d8304B2': {
+      logoURI:
+        'https://dd.dexscreener.com/ds-data/tokens/sonic/0x0a54364631ea37813a63edb3bba1c46f8d8304b2.png?size=lg&key=761e2c',
+    },
+    '0x486B6Fa0419b33a0c7A6e4698c231D7E2f2D5299': {
+      logoURI: 'https://sonicscan.org/token/images/moonbaysonic_32.png',
+    },
+    '0xDE55B113A27Cc0c5893CAa6Ee1C020b6B46650C0': {
+      logoURI:
+        'https://assets.coingecko.com/coins/images/18778/standard/Black_Background_200x200.png?1696518242',
+    },
+    '0x0e65f5a7cb56641e31bc5c9d53388db7ac7eacae': {
+      logoURI: 'https://beethoven-assets.s3.eu-central-1.amazonaws.com/ats.png',
+    },
+    '0x19008165514Ec7622b34924c755Dc7d116F84840': {
+      logoURI: 'https://i.ibb.co/S60DvQm/Shill.jpg',
+    },
+    '0x35be05dF4e074606c77d78968ec5FBC9cCd4348B': {
+      logoURI:
+        'https://pbs.twimg.com/profile_images/1734720923448537088/6WMuxreE_400x400.jpg',
+    },
+    '0xCf3FE6eDFeE9c7fdf7d53DC58f4EFe66Fe110981': {
+      logoURI:
+        'https://static.wixstatic.com/media/c7bf16_e769d4fbfdd64beb95c94854ee34b2d8~mv2.png',
+    },
+    '0xd31e89ffb929b38ba60d1c7dbeb68c7712eaab0a': {
+      symbol: 'AvalonSolvBTC',
+      name: 'Static Avalon solvBTC',
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/solvBTC-Avalon.png',
+    },
+    '0xa28d4dbcc90c849e3249d642f356d85296a12954': {
+      symbol: 'AvalonSolvBTC.bbn',
+      name: 'Static Avalon solvBTC.bbn',
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/solvBTC-BBN-Avalon.png',
+    },
+    '0x87178fe8698c7eda8aa207083c3d66aea569ab98': {
+      symbol: 'SiloSolvBTC',
+      name: 'Silo wrapped solvBTC',
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/solvBTC-Silo.png',
+    },
+    '0x52fc9e0a68b6a4c9b57b9d1d99fb71449a99dcd8': {
+      symbol: 'SiloSolvBTC.bbn',
+      name: 'Silo wrapped solvBTC.bbn',
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/solvBTC-BBN-Silo.png',
+    },
+    '0x7870ddfd5aca4e977b2287e9a212bcbe8fc4135a': {
+      symbol: 'BeefyUSDC.e',
+      name: 'Beefy Wrapped SiloV2 USDC.e',
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/beefy-usdc.png',
+    },
+    '0x53f753E4B17F4075D6fa2c6909033d224b81e698': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/silo-token.png',
+      extensions: {
+        coingeckoId: 'silo-finance',
+      },
+    },
+    '0x284d81e48fbc782aa9186a03a226690aea5cbe0e': {
+      logoURI:
+        'https://assets.coingecko.com/coins/images/53797/standard/IMG_7045.jpeg?1737477230',
+      extensions: {
+        coingeckoId: 'atoll-eth',
+      },
+    },
+    '0x39838b880BA948C49aaB7253f61Ce1e00C30c014': {
+      logoURI: 'https://maxflowo2.com/img/image.png',
+    },
+    '0x44E23B1F3f4511b3a7e81077Fd9F2858dF1B7579': {
+      logoURI:
+        'https://assets.coingecko.com/coins/images/29314/standard/mclb.png?1696528265',
+    },
+    '0x38628cb4cc74cbDFB6dDD877B17c1F60fCAE7C2C': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/blackhole_logo_gradient.png',
+    },
+    '0xF97d438BC03aD0F75B83ce5714c9619880B305bc': {
+      logoURI:
+        'https://cdn.jsdelivr.net/gh/unified-defi/equalizer-tokens@latest/sonic/tokens/128x128/0xf97d438bc03ad0f75b83ce5714c9619880b305bc.png',
+    },
+    '0x0C4E186Eae8aCAA7F7de1315D5AD174BE39Ec987': {
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/anS.png',
+      extensions: {
+        coingeckoId: 'sonic-3',
+      },
+    },
+    '0x016C306e103FbF48EC24810D078C65aD13c5f11B': {
+      symbol: 'SiloWS',
+      name: 'Silo Wrapped Sonic',
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/silo-ws.png',
+    },
+    '0xfA85Fe5A8F5560e9039C04f2b0a90dE1415aBD70': {
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wanS.png',
+    },
+    '0x9F0dF7799f6FDAd409300080cfF680f5A23df4b1': {
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/wos-256x256.png',
+    },
+    '0x219656F33c58488D09d518BaDF50AA8CdCAcA2Aa': {
+      symbol: 'SiloWETH',
+      name: 'Silo Wrapped wETH',
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/silo-weth.png',
+    },
+    '0xb1e25689D55734FD3ffFc939c4C3Eb52DFf8A794': {
+      logoURI:
+        'https://raw.githubusercontent.com/OriginProtocol/origin-website/refs/heads/master/static/img/coins/os-256x256.png',
+      extensions: {
+        coingeckoId: 'sonic-3',
+      },
+    },
+    '0x6047828dc181963ba44974801ff68e538da5eaf9': {
+      logoURI:
+        'https://coin-images.coingecko.com/coins/images/31185/large/anyusdt_32.png?1696530013',
+      extensions: {
+        coingeckoId: 'tether',
+      },
+    },
+    '0x9bCeA390ff97e0d3362bf726820776a4dF8AdD9a': {
+      logoURI: 'https://i.ibb.co/tT6FNGGv/Uppies.jpg',
+    },
+    '0x6c49B18333A1135e9A376560c07E6D1Fd0350EaF': {
+      symbol: 'SiloWS',
+      name: 'Silo Wrapped Sonic',
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/silo-ws.png',
+    },
+    '0x5954ce6671d97D24B782920ddCdBB4b1E63aB2De': {
+      symbol: 'SiloUSDC',
+      name: 'Silo Wrapped USDC',
+      logoURI:
+        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/silo-usdc.png',
+    },
+    '0x9990dE39Ca46151150E392Ca96EB349d0f549166': {
+      logoURI: 'https://i.ibb.co/GfRrxSj3/Speed-Logo.jpg',
+    },
+    '0xf26Ff70573ddc8a90Bd7865AF8d7d70B8Ff019bC': {
+      logoURI:
+        'https://dd.dexscreener.com/ds-data/tokens/sonic/0xf26ff70573ddc8a90bd7865af8d7d70b8ff019bc.png?size=lg&key=5e5b9c',
+    },
+    '0xecAc9C5F704e954931349Da37F60E39f515c11c1': {
+      logoURI: 'https://sonicscan.org/token/images/lbtc_64.png',
+      extensions: {
+        coingeckoId: 'lombard-staked-btc',
+      },
+    },
+    '0xBb30e76d9Bb2CC9631F7fC5Eb8e87B5Aff32bFbd': {
+      logoURI: 'https://i.ibb.co/F4CXYdL4/scBTC-32.png',
+      extensions: {
+        coingeckoId: 'wrapped-bitcoin',
+      },
+    },
+    '0x1e2c4fb7ede391d116e6b41cd0608260e8801d59': {
+      extensions: {
+        coingeckoId: 'backed-cspx-core-s-p-500',
+      },
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1e2c4fb7ede391d116e6b41cd0608260e8801d59.png',
+    },
+    '0x3419966bc74fa8f951108d15b053bed233974d3d': {
+      symbol: 'BeetsFragmentsS1',
+      name: 'Beets Gem Fragments - S1',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x3419966bc74fa8f951108d15b053bed233974d3d.png',
+    },
+    '0x0555e30da8f98308edb960aa94c0db47230d2b9c': {
+      extensions: {
+        coingeckoId: 'wrapped-bitcoin',
+      },
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0555e30da8f98308edb960aa94c0db47230d2b9c.png',
+    },
+    '0x80Eede496655FB9047dd39d9f418d5483ED600df': {
+      extensions: {
+        coingeckoId: 'frax-usd',
+      },
+      logoURI: 'https://static.frax.com/images/tokens/frxusd.png',
+    },
+    '0xdA14A41DbdA731F03A94cb722191639DD22b35b2': {
+      symbol: 'SiloFrxUSD',
+      name: 'Silo Wrapped frxUSD',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/frxUSD_silo.png',
+    },
+    '0xEdF8b632b537d5993Adb5e2E15882CD791c284cB': {
+      logoURI:
+        'https://app.fbomb.finance/images/tokens/0xbf4906762C38F50bC7Be0A11BB452C944f6C72E1.png',
     },
   },
 }

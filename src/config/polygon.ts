@@ -1,6 +1,6 @@
 export default {
   name: 'polygon',
-  rpc: `https://polygon-mainnet.g.alchemy.com/v2/${process.env.ALCHEMY_KEY}`,
+  rpc: `https://lb.drpc.org/ogrpc?network=polygon&dkey=${process.env.DRPC_KEY}`,
   coingecko: {
     platformId: 'polygon-pos',
   },

@@ -1,6 +1,6 @@
 export default {
   name: 'arbitrum',
-  rpc: `https://arb-mainnet.g.alchemy.com/v2/${process.env.ALCHEMY_KEY}`,
+  rpc: `https://lb.drpc.org/ogrpc?network=arbitrum&dkey=${process.env.DRPC_KEY}`,
   coingecko: {
     platformId: 'arbitrum-one',
   },

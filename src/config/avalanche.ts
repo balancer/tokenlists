@@ -1,6 +1,6 @@
 export default {
   name: 'avalanche',
-  rpc: `https://avax-mainnet.g.alchemy.com/v2/${process.env.ALCHEMY_KEY}`,
+  rpc: `https://lb.drpc.org/ogrpc?network=avalanche&dkey=${process.env.DRPC_KEY}`,
   coingecko: {
     platformId: 'avalanche',
   },

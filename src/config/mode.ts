@@ -1,6 +1,6 @@
 export default {
   name: 'mode',
-  rpc: 'https://mainnet.mode.network',
+  rpc: `https://lb.drpc.org/ogrpc?network=mode&dkey=${process.env.DRPC_KEY}`,
   coingecko: {
     platformId: 'mode',
   },
