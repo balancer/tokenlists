@@ -693,6 +693,11 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x35e5db674d8e93a03d814fa0ada70731efe8a4b9.svg',
     },
+    '0xF6BD14Bc7D980122aa2E70dFe2d7CF926709A0F4': {
+      extensions: {
+        coingeckoId: 'parifi',
+      },
+    },
   },
   [Network.Fantom]: {
     '0xf1648C50d2863f780c57849D812b4B7686031A3D': {
