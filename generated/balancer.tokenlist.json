@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 229
+        "patch": 230
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-03-19T15:45:44.477Z",
+    "timestamp": "2025-03-21T12:45:59.769Z",
     "tokens": [
         {
             "chainId": 1,
@@ -15027,7 +15027,10 @@
             "address": "0xF6BD14Bc7D980122aa2E70dFe2d7CF926709A0F4",
             "name": "escrowed PRF",
             "symbol": "esPRF",
-            "decimals": 18
+            "decimals": 18,
+            "extensions": {
+                "coingeckoId": "parifi"
+            }
         },
         {
             "chainId": 8453,
