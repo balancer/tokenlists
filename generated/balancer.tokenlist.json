@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 232
+        "patch": 233
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-03-25T13:56:52.443Z",
+    "timestamp": "2025-03-25T14:23:10.738Z",
     "tokens": [
         {
             "chainId": 1,
@@ -9213,6 +9213,13 @@
             "symbol": "GYFI",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc63529297de076eb15fcbe873ae9136e446cfbb9.png"
+        },
+        {
+            "chainId": 100,
+            "address": "0xa34cc6726456a4e7be92B6575F6e0f3D2aa97155",
+            "name": "FullNodeDummyGrp-ERC20s",
+            "symbol": "s-FNDG",
+            "decimals": 18
         },
         {
             "chainId": 137,
