@@ -75,4 +75,5 @@ export default [
   '0x51350d88c1bd32cc6a79368c9fb70373fb71f375', // waGnoUSDCe
   '0x417bc5b940475203A18C2f320a5ba470D6c5E463', // waGnoEURe
   '0xc63529297dE076eB15fcbE873AE9136E446cFbB9', // GYFI
+  '0xa34cc6726456a4e7be92b6575f6e0f3d2aa97155', // FullNodeDummyGrp
 ]
