@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 231
+        "patch": 232
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-03-21T13:47:56.697Z",
+    "timestamp": "2025-03-25T13:56:52.443Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7806,6 +7806,14 @@
             "symbol": "cUSDO",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xad55aebc9b8c03fc43cd9f62260391c13c23e7c0.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x7788A3538C5fc7F9c7C8A74EAC4c898fC8d87d92",
+            "name": "Staked USDX",
+            "symbol": "sUSDX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7788a3538c5fc7f9c7c8a74eac4c898fc8d87d92.png"
         },
         {
             "chainId": 10,
