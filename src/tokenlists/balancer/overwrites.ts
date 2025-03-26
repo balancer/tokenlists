@@ -13,7 +13,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x89d24A6b4CcB1B6fAA2625fE562bDD9a23260359': {
       name: 'Sai Stablecoin v1.0',
-      symbol: 'SAI', 
+      symbol: 'SAI',
       decimals: 18,
     },
     '0xE0B7927c4aF23765Cb51314A0E0521A9645F0E2A': {
@@ -1602,7 +1602,7 @@ export const overwrites: OverwritesForList = {
       symbol: 'SiloSCBTC',
       name: 'Silo Wrapped scBTC',
       logoURI:
-      'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0A94e18bdbCcD048198806d7FF28A1B1D2590724.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0A94e18bdbCcD048198806d7FF28A1B1D2590724.png',
     },
   },
 }
