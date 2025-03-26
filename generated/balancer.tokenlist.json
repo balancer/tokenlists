@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 233
+        "patch": 234
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-03-25T14:23:10.738Z",
+    "timestamp": "2025-03-26T09:13:13.250Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12640,6 +12640,14 @@
             "symbol": "GYFI",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc63529297de076eb15fcbe873ae9136e446cfbb9.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0x0A94e18bdbCcD048198806d7FF28A1B1D2590724",
+            "name": "Silo Wrapped scBTC",
+            "symbol": "SiloSCBTC",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0A94e18bdbCcD048198806d7FF28A1B1D2590724.png"
         },
         {
             "chainId": 250,
