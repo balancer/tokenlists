@@ -1598,5 +1598,11 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://app.fbomb.finance/images/tokens/0xbf4906762C38F50bC7Be0A11BB452C944f6C72E1.png',
     },
+    '0x0A94e18bdbCcD048198806d7FF28A1B1D2590724': {
+      symbol: 'SiloSCBTC',
+      name: 'Silo Wrapped scBTC',
+      logoURI:
+      'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0A94e18bdbCcD048198806d7FF28A1B1D2590724.png',
+    },
   },
 }
