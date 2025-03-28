@@ -513,11 +513,11 @@ export const overwrites: OverwritesForList = {
     },
     '0x3e9cBFfd270AE67aBB09D28988e7e785498c7373': {
       logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/boosted-OP-enclosed%402x.png',
+        'src/assets/images/tokens/0x3e9cBFfd270AE67aBB09D28988e7e785498c7373.png',
     },
     '0xc83c23DBA4a008d7Df46cd50Ad144ae856b6B1Be': {
       logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/boosted-sUSD-enclosed%402x.png',
+        'src/assets/images/tokens/0xc83c23DBA4a008d7Df46cd50Ad144ae856b6B1Be.png',
     },
     '0x3F56e0c36d275367b8C502090EDF38289b3dEa0d': {
       name: 'Qi Dao',
@@ -532,7 +532,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x1509706a6c66CA549ff0cB464de88231DDBe213B': {
       logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/aura.png',
+        'src/assets/images/tokens/0x1509706a6c66CA549ff0cB464de88231DDBe213B.png',
     },
     '0xb45ad160634c528cc3d2926d9807104fa3157305': {
       extensions: {
@@ -758,7 +758,7 @@ export const overwrites: OverwritesForList = {
       name: 'LayerZero Dai',
       symbol: 'lzDAI',
       logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/dai-128.png',
+        'src/assets/images/tokens/0x91a40C733c97a6e1BF876EaF9ed8c08102eB491f.png',
     },
     '0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E': {
       name: 'Multichain Dai',
@@ -805,7 +805,7 @@ export const overwrites: OverwritesForList = {
     },
     '0xE5586582E1a60E302a53e73E4FaDccAF868b459a': {
       logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/xrlc.png',
+        'src/assets/images/tokens/0xE5586582E1a60E302a53e73E4FaDccAF868b459a.png',
     },
     '0xbf4906762C38F50bC7Be0A11BB452C944f6C72E1': {
       logoURI:
@@ -813,7 +813,7 @@ export const overwrites: OverwritesForList = {
     },
     '0xc5713B6a0F26bf0fdC1c52B90cd184D950be515C': {
       logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/linspirit.png',
+        'src/assets/images/tokens/0xc5713B6a0F26bf0fdC1c52B90cd184D950be515C.png',
     },
     '0xF04A45b429eB5930a85884141C530147Db0f609E': {
       logoURI:
@@ -825,7 +825,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x4f76664105ba7E35dD4904eC70F2042fc17563d9': {
       logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/icon_white.png',
+        'src/assets/images/tokens/0x4f76664105ba7E35dD4904eC70F2042fc17563d9.png',
     },
     '0x454d4BaE7c2adab588d837aFF4Db16Db19d46A33': {
       name: 'Good Morning FTM',
@@ -833,7 +833,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x08d70A47D3f28BbF755ae050a783844b40ae5761': {
       logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/kelvin.png',
+        'src/assets/images/tokens/0x08d70A47D3f28BbF755ae050a783844b40ae5761.png',
     },
     '0x6CAa3e5FebA1f83ec1d80EA2EAca37C3421C33A8': {
       logoURI:
@@ -859,12 +859,12 @@ export const overwrites: OverwritesForList = {
       name: 'BIFI Maxi',
       symbol: 'mooBIFI',
       logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/mooBIFI.png',
+        'src/assets/images/tokens/0xbF07093ccd6adFC3dEB259C557b61E94c1F66945.png',
     },
     '0xcdE5a11a4ACB4eE4c805352Cec57E236bdBC3837': {
       symbol: 'BPT-BEETS-FTM ',
       logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/fidelio-duetto.png',
+        'src/assets/images/tokens/0xcdE5a11a4ACB4eE4c805352Cec57E236bdBC3837.png',
     },
     '0x953Cd009a490176FcEB3a26b9753e6F01645ff28': {
       symbol: 'XDEUS',
@@ -892,7 +892,7 @@ export const overwrites: OverwritesForList = {
     '0xfcef8a994209d6916EB2C86cDD2AFD60Aa6F54b1': {
       name: 'Fresh BEETS',
       logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/fBEETS.png',
+        'src/assets/images/tokens/0xfcef8a994209d6916EB2C86cDD2AFD60Aa6F54b1.png',
     },
     '0xC09A82aD5075B3067D80F54f05e1E22229699Cc1': {
       logoURI:
@@ -991,7 +991,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x5Be1789a6928f8659305BF86aD3054530501f424': {
       logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/memenatis.png',
+        'src/assets/images/tokens/0x5Be1789a6928f8659305BF86aD3054530501f424.png',
     },
     '0x0cE12ae7c899eBF2bcDa7AA570C5af98b6688C95': {
       logoURI:
@@ -1011,7 +1011,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x677079211f6c82e34096153e6cea0d2c26b4b7dc': {
       logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/goatm.jpg',
+        'src/assets/images/tokens/0x677079211f6c82e34096153e6cea0d2c26b4b7dc.png',
     },
     '0x3ea22B3bb815348120cFFdd84c3701311F2eDb72': {
       logoURI:
@@ -1222,25 +1222,25 @@ export const overwrites: OverwritesForList = {
   [Network.Sonic]: {
     '0xe6cc4D855B4fD4A9D02F46B9adae4C5EfB1764B5': {
       logoURI:
-        'https://bafybeiehzznjxownjllrbjij7rliuyiqn6nlfaer7izctgjk5la3ldhpq4.ipfs.dweb.link',
+        'src/assets/images/tokens/0xe6cc4D855B4fD4A9D02F46B9adae4C5EfB1764B5.png',
     },
     '0xe5da20f15420ad15de0fa650600afc998bbe3955': {
       logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/token-beets-staked-sonic.png',
+        'src/assets/images/tokens/0xe5da20f15420ad15de0fa650600afc998bbe3955.png',
       extensions: {
         coingeckoId: 'beets-staked-sonic',
       },
     },
     '0x2D0E0814E62D80056181F5cd932274405966e4f0': {
       logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/token-BEETS-sonic.png',
+        'src/assets/images/tokens/0x2D0E0814E62D80056181F5cd932274405966e4f0.png',
       extensions: {
         coingeckoId: 'beets',
       },
     },
     '0x039e2fb66102314ce7b64ce5ce3e5183bc94ad38': {
       logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/Logomark_Sonic_Black.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x039e2fb66102314ce7b64ce5ce3e5183bc94ad38.png',
       extensions: {
         coingeckoId: 'sonic-3',
       },
@@ -1272,39 +1272,39 @@ export const overwrites: OverwritesForList = {
     },
     '0x342781fd3d3F73bdB54b2DEDd925f2ad81b48590': {
       logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/SonicPooh.PNG',
+        'src/assets/images/tokens/0x342781fd3d3F73bdB54b2DEDd925f2ad81b48590.png',
     },
     '0x93cd403693Da40d27188714a872943F717E3c543': {
       logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/SONICBEER.PNG',
+        'src/assets/images/tokens/0x93cd403693Da40d27188714a872943F717E3c543.png',
     },
     '0xB5A10bd15aF95381D830f71E85328F2d1d823de7': {
       logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/SONIC+PUB.PNG',
+        'src/assets/images/tokens/0xB5A10bd15aF95381D830f71E85328F2d1d823de7.png',
     },
     '0x71D634647a1aa323C1A0E6d9548dDaA6Eb750E6e': {
       logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/Sonic+Honey+Beer.PNG',
+        'src/assets/images/tokens/0x71D634647a1aa323C1A0E6d9548dDaA6Eb750E6e.png',
     },
     '0x74ebDC16D36D1820BA014c2F273Bd03796Ad30C3': {
       logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/Sonic+Smoke.JPG',
+        'src/assets/images/tokens/0x74ebDC16D36D1820BA014c2F273Bd03796Ad30C3.png',
     },
     '0x2d10a2e2D680564a942e98EE43e35553db990807': {
       logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/Sonic+Tequila.PNG',
+        'src/assets/images/tokens/0x2d10a2e2D680564a942e98EE43e35553db990807.png',
     },
     '0xaA2549E4B687a338C111d5d1feA4754d51E55471': {
       logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/Sonic+Pub+Girls.PNG',
+        'src/assets/images/tokens/0xaA2549E4B687a338C111d5d1feA4754d51E55471.png',
     },
     '0xE17Be928A08D66156eC242A68c4929B07cF14CCC': {
       logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/Sonic+Cartel.PNG',
+        'src/assets/images/tokens/0xE17Be928A08D66156eC242A68c4929B07cF14CCC.png',
     },
     '0x99AaC0966ec3F667c85e9FD2dFc6b8f3E2C896B5': {
       logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/Sonic+Goat+Milk.PNG',
+        'src/assets/images/tokens/0x99AaC0966ec3F667c85e9FD2dFc6b8f3E2C896B5.png',
     },
     '0x77672EdD7F5ED8bDD4e6De9F56B9A312A1a41031': {
       logoURI:
@@ -1314,7 +1314,7 @@ export const overwrites: OverwritesForList = {
       logoURI: 'https://i.ibb.co/0s08MzL/SHILLY-LOGO-CIRCLE-BIG-2.png',
     },
     '0x17Af1Df44444AB9091622e4Aa66dB5BB34E51aD5': {
-      logoURI: 'https://beethoven-assets.s3.eu-central-1.amazonaws.com/THC.jpg',
+      logoURI: 'src/assets/images/tokens/0x17Af1Df44444AB9091622e4Aa66dB5BB34E51aD5.png',
     },
     '0x1E5fe95fB90ac0530F581C617272cd0864626795': {
       name: 'Fantom lzBEETS',
@@ -1401,7 +1401,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x7F144F8691CbA3d2EfD8e5bcf042f9303EE31a46': {
       logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/aurum.png',
+        'src/assets/images/tokens/0x7F144F8691CbA3d2EfD8e5bcf042f9303EE31a46.png',
     },
     '0x0a54364631Ea37813a63edb3bBa1C46f8d8304B2': {
       logoURI:
@@ -1415,7 +1415,7 @@ export const overwrites: OverwritesForList = {
         'https://assets.coingecko.com/coins/images/18778/standard/Black_Background_200x200.png?1696518242',
     },
     '0x0e65f5a7cb56641e31bc5c9d53388db7ac7eacae': {
-      logoURI: 'https://beethoven-assets.s3.eu-central-1.amazonaws.com/ats.png',
+      logoURI: 'src/assets/images/tokens/0x0e65f5a7cb56641e31bc5c9d53388db7ac7eacae.png',
     },
     '0x19008165514Ec7622b34924c755Dc7d116F84840': {
       logoURI: 'https://i.ibb.co/S60DvQm/Shill.jpg',
@@ -1432,35 +1432,35 @@ export const overwrites: OverwritesForList = {
       symbol: 'AvalonSolvBTC',
       name: 'Static Avalon solvBTC',
       logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/solvBTC-Avalon.png',
+        'src/assets/images/tokens/0xd31e89ffb929b38ba60d1c7dbeb68c7712eaab0a.png',
     },
     '0xa28d4dbcc90c849e3249d642f356d85296a12954': {
       symbol: 'AvalonSolvBTC.bbn',
       name: 'Static Avalon solvBTC.bbn',
       logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/solvBTC-BBN-Avalon.png',
+        'src/assets/images/tokens/0xa28d4dbcc90c849e3249d642f356d85296a12954.png',
     },
     '0x87178fe8698c7eda8aa207083c3d66aea569ab98': {
       symbol: 'SiloSolvBTC',
       name: 'Silo wrapped solvBTC',
       logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/solvBTC-Silo.png',
+        'src/assets/images/tokens/0x87178fe8698c7eda8aa207083c3d66aea569ab98.png',
     },
     '0x52fc9e0a68b6a4c9b57b9d1d99fb71449a99dcd8': {
       symbol: 'SiloSolvBTC.bbn',
       name: 'Silo wrapped solvBTC.bbn',
       logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/solvBTC-BBN-Silo.png',
+        'src/assets/images/tokens/0x52fc9e0a68b6a4c9b57b9d1d99fb71449a99dcd8.png',
     },
     '0x7870ddfd5aca4e977b2287e9a212bcbe8fc4135a': {
       symbol: 'BeefyUSDC.e',
       name: 'Beefy Wrapped SiloV2 USDC.e',
       logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/beefy-usdc.png',
+        'src/assets/images/tokens/0x7870ddfd5aca4e977b2287e9a212bcbe8fc4135a.png',
     },
     '0x53f753E4B17F4075D6fa2c6909033d224b81e698': {
       logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/silo-token.png',
+        'src/assets/images/tokens/0x53f753E4B17F4075D6fa2c6909033d224b81e698.png',
       extensions: {
         coingeckoId: 'silo-finance',
       },
@@ -1481,7 +1481,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x38628cb4cc74cbDFB6dDD877B17c1F60fCAE7C2C': {
       logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/blackhole_logo_gradient.png',
+        'src/assets/images/tokens/0x38628cb4cc74cbDFB6dDD877B17c1F60fCAE7C2C.png',
     },
     '0xF97d438BC03aD0F75B83ce5714c9619880B305bc': {
       logoURI:
@@ -1498,7 +1498,7 @@ export const overwrites: OverwritesForList = {
       symbol: 'SiloWS',
       name: 'Silo Wrapped Sonic',
       logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/silo-ws.png',
+      'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x016C306e103FbF48EC24810D078C65aD13c5f11B.png',
     },
     '0xfA85Fe5A8F5560e9039C04f2b0a90dE1415aBD70': {
       logoURI:
@@ -1506,13 +1506,13 @@ export const overwrites: OverwritesForList = {
     },
     '0x9F0dF7799f6FDAd409300080cfF680f5A23df4b1': {
       logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/wos-256x256.png',
+        'src/assets/images/tokens/0x9F0dF7799f6FDAd409300080cfF680f5A23df4b1.png',
     },
     '0x219656F33c58488D09d518BaDF50AA8CdCAcA2Aa': {
       symbol: 'SiloWETH',
       name: 'Silo Wrapped wETH',
       logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/silo-weth.png',
+        'src/assets/images/tokens/0x219656F33c58488D09d518BaDF50AA8CdCAcA2Aa.png',
     },
     '0xb1e25689D55734FD3ffFc939c4C3Eb52DFf8A794': {
       logoURI:
@@ -1535,13 +1535,13 @@ export const overwrites: OverwritesForList = {
       symbol: 'SiloWS',
       name: 'Silo Wrapped Sonic',
       logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/silo-ws.png',
+        'src/assets/images/tokens/0x6c49B18333A1135e9A376560c07E6D1Fd0350EaF.png',
     },
     '0x5954ce6671d97D24B782920ddCdBB4b1E63aB2De': {
       symbol: 'SiloUSDC',
       name: 'Silo Wrapped USDC',
       logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/silo-usdc.png',
+        'src/assets/images/tokens/0x5954ce6671d97D24B782920ddCdBB4b1E63aB2De.png',
     },
     '0x9990dE39Ca46151150E392Ca96EB349d0f549166': {
       logoURI: 'https://i.ibb.co/GfRrxSj3/Speed-Logo.jpg',
