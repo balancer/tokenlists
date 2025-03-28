@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 236
+        "patch": 237
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-03-28T10:21:45.327Z",
+    "timestamp": "2025-03-28T12:39:10.954Z",
     "tokens": [
         {
             "chainId": 1,
@@ -17360,6 +17360,14 @@
             "symbol": "GYFI",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc63529297de076eb15fcbe873ae9136e446cfbb9.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xba5DdD1f9d7F570dc94a51479a000E3BCE967196",
+            "name": "Aave Token",
+            "symbol": "AAVE",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/12645/large/aave-token-round.png?1720472354"
         },
         {
             "chainId": 43114,
