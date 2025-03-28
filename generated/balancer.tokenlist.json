@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 235
+        "patch": 236
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-03-27T09:19:37.438Z",
+    "timestamp": "2025-03-28T10:21:45.327Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8111,7 +8111,7 @@
             "name": "Beets Reaper Boosted OP",
             "symbol": "bb-rfOP",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/boosted-OP-enclosed%402x.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x3e9cBFfd270AE67aBB09D28988e7e785498c7373.png"
         },
         {
             "chainId": 10,
@@ -8143,7 +8143,7 @@
             "name": "Reaper.Farm Aave sUSD Vault",
             "symbol": "rf-a-sUSD",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/boosted-sUSD-enclosed%402x.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc83c23DBA4a008d7Df46cd50Ad144ae856b6B1Be.png"
         },
         {
             "chainId": 10,
@@ -8310,7 +8310,7 @@
             "name": "Aura",
             "symbol": "AURA",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/aura.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1509706a6c66CA549ff0cB464de88231DDBe213B.png"
         },
         {
             "chainId": 10,
@@ -11866,7 +11866,7 @@
             "name": "LUDWIG",
             "symbol": "LUDWIG",
             "decimals": 18,
-            "logoURI": "https://bafybeiehzznjxownjllrbjij7rliuyiqn6nlfaer7izctgjk5la3ldhpq4.ipfs.dweb.link"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe6cc4D855B4fD4A9D02F46B9adae4C5EfB1764B5.png"
         },
         {
             "chainId": 146,
@@ -11874,7 +11874,7 @@
             "name": "Beets Staked Sonic",
             "symbol": "stS",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/token-beets-staked-sonic.png",
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe5da20f15420ad15de0fa650600afc998bbe3955.png",
             "extensions": {
                 "coingeckoId": "beets-staked-sonic"
             }
@@ -11885,7 +11885,7 @@
             "name": "Beets",
             "symbol": "BEETS",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/token-BEETS-sonic.png",
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2D0E0814E62D80056181F5cd932274405966e4f0.png",
             "extensions": {
                 "coingeckoId": "beets"
             }
@@ -11896,7 +11896,7 @@
             "name": "Wrapped Sonic",
             "symbol": "wS",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/Logomark_Sonic_Black.png",
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x039e2fb66102314ce7b64ce5ce3e5183bc94ad38.png",
             "extensions": {
                 "coingeckoId": "sonic-3"
             }
@@ -11948,7 +11948,7 @@
             "name": "SonicPooh",
             "symbol": "SPOOH",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/SonicPooh.PNG"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x342781fd3d3F73bdB54b2DEDd925f2ad81b48590.png"
         },
         {
             "chainId": 146,
@@ -11956,7 +11956,7 @@
             "name": "SONICBEER",
             "symbol": "SBEER",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/SONICBEER.PNG"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x93cd403693Da40d27188714a872943F717E3c543.png"
         },
         {
             "chainId": 146,
@@ -11964,7 +11964,7 @@
             "name": "SONIC PUB",
             "symbol": "SPUB",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/SONIC+PUB.PNG"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xB5A10bd15aF95381D830f71E85328F2d1d823de7.png"
         },
         {
             "chainId": 146,
@@ -11972,7 +11972,7 @@
             "name": "Sonic Honey Beer",
             "symbol": "SHOB",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/Sonic+Honey+Beer.PNG"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x71D634647a1aa323C1A0E6d9548dDaA6Eb750E6e.png"
         },
         {
             "chainId": 146,
@@ -11980,7 +11980,7 @@
             "name": "Sonic Smoke",
             "symbol": "Smoke",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/Sonic+Smoke.JPG"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x74ebDC16D36D1820BA014c2F273Bd03796Ad30C3.png"
         },
         {
             "chainId": 146,
@@ -11988,7 +11988,7 @@
             "name": "Sonic Tequila",
             "symbol": "STeqila",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/Sonic+Tequila.PNG"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2d10a2e2D680564a942e98EE43e35553db990807.png"
         },
         {
             "chainId": 146,
@@ -11996,7 +11996,7 @@
             "name": "Sonic Pub Girls",
             "symbol": "SGirls",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/Sonic+Pub+Girls.PNG"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xaA2549E4B687a338C111d5d1feA4754d51E55471.png"
         },
         {
             "chainId": 146,
@@ -12004,7 +12004,7 @@
             "name": "Sonic Cartel",
             "symbol": "SCARTEL",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/Sonic+Cartel.PNG"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xE17Be928A08D66156eC242A68c4929B07cF14CCC.png"
         },
         {
             "chainId": 146,
@@ -12012,7 +12012,7 @@
             "name": "Sonic Goat Milk",
             "symbol": "SMILK",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/Sonic+Goat+Milk.PNG"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x99AaC0966ec3F667c85e9FD2dFc6b8f3E2C896B5.png"
         },
         {
             "chainId": 146,
@@ -12036,7 +12036,7 @@
             "name": "Tin Hat Cat",
             "symbol": "THC",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/THC.jpg"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x17Af1Df44444AB9091622e4Aa66dB5BB34E51aD5.png"
         },
         {
             "chainId": 146,
@@ -12226,7 +12226,7 @@
             "name": "Aurum",
             "symbol": "AUR",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/aurum.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7F144F8691CbA3d2EfD8e5bcf042f9303EE31a46.png"
         },
         {
             "chainId": 146,
@@ -12266,7 +12266,7 @@
             "name": "Atoll Sonic",
             "symbol": "atS",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/ats.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0e65f5a7cb56641e31bc5c9d53388db7ac7eacae.png"
         },
         {
             "chainId": 146,
@@ -12290,7 +12290,7 @@
             "name": "Static Avalon solvBTC",
             "symbol": "AvalonSolvBTC",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/solvBTC-Avalon.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd31e89ffb929b38ba60d1c7dbeb68c7712eaab0a.png"
         },
         {
             "chainId": 146,
@@ -12298,7 +12298,7 @@
             "name": "Static Avalon solvBTC.bbn",
             "symbol": "AvalonSolvBTC.bbn",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/solvBTC-BBN-Avalon.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa28d4dbcc90c849e3249d642f356d85296a12954.png"
         },
         {
             "chainId": 146,
@@ -12314,7 +12314,7 @@
             "name": "Silo wrapped solvBTC",
             "symbol": "SiloSolvBTC",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/solvBTC-Silo.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x87178fe8698c7eda8aa207083c3d66aea569ab98.png"
         },
         {
             "chainId": 146,
@@ -12322,7 +12322,7 @@
             "name": "Silo wrapped solvBTC.bbn",
             "symbol": "SiloSolvBTC.bbn",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/solvBTC-BBN-Silo.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x52fc9e0a68b6a4c9b57b9d1d99fb71449a99dcd8.png"
         },
         {
             "chainId": 146,
@@ -12330,7 +12330,7 @@
             "name": "Beefy Wrapped SiloV2 USDC.e",
             "symbol": "BeefyUSDC.e",
             "decimals": 6,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/beefy-usdc.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7870ddfd5aca4e977b2287e9a212bcbe8fc4135a.png"
         },
         {
             "chainId": 146,
@@ -12338,7 +12338,7 @@
             "name": "Silo Governance Token",
             "symbol": "Silo",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/silo-token.png",
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x53f753E4B17F4075D6fa2c6909033d224b81e698.png",
             "extensions": {
                 "coingeckoId": "silo-finance"
             }
@@ -12376,7 +12376,7 @@
             "name": "BLACKHOLE",
             "symbol": "BOL",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/blackhole_logo_gradient.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x38628cb4cc74cbDFB6dDD877B17c1F60fCAE7C2C.png"
         },
         {
             "chainId": 146,
@@ -12392,7 +12392,7 @@
             "name": "Wrapped OS",
             "symbol": "wOS",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/wos-256x256.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9F0dF7799f6FDAd409300080cfF680f5A23df4b1.png"
         },
         {
             "chainId": 146,
@@ -12400,7 +12400,7 @@
             "name": "Silo Wrapped Sonic",
             "symbol": "SiloWS",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/silo-ws.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x016C306e103FbF48EC24810D078C65aD13c5f11B.png"
         },
         {
             "chainId": 146,
@@ -12427,7 +12427,7 @@
             "name": "Silo Wrapped wETH",
             "symbol": "SiloWETH",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/silo-weth.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x219656F33c58488D09d518BaDF50AA8CdCAcA2Aa.png"
         },
         {
             "chainId": 146,
@@ -12465,7 +12465,7 @@
             "name": "Silo Wrapped USDC",
             "symbol": "SiloUSDC",
             "decimals": 6,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/silo-usdc.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5954ce6671d97D24B782920ddCdBB4b1E63aB2De.png"
         },
         {
             "chainId": 146,
@@ -12473,7 +12473,7 @@
             "name": "Silo Wrapped Sonic",
             "symbol": "SiloWS",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/silo-ws.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6c49B18333A1135e9A376560c07E6D1Fd0350EaF.png"
         },
         {
             "chainId": 146,
@@ -12803,7 +12803,7 @@
             "name": "LayerZero Dai",
             "symbol": "lzDAI",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/dai-128.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x91a40C733c97a6e1BF876EaF9ed8c08102eB491f.png"
         },
         {
             "chainId": 250,
@@ -13130,7 +13130,7 @@
             "name": "Arcane Relic",
             "symbol": "XRLC",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/xrlc.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xE5586582E1a60E302a53e73E4FaDccAF868b459a.png"
         },
         {
             "chainId": 250,
@@ -13173,7 +13173,7 @@
             "name": "linSpirit",
             "symbol": "LINSPIRIT",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/linspirit.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc5713B6a0F26bf0fdC1c52B90cd184D950be515C.png"
         },
         {
             "chainId": 250,
@@ -13205,7 +13205,7 @@
             "name": "Sologenic",
             "symbol": "SOLO",
             "decimals": 15,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/icon_white.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4f76664105ba7E35dD4904eC70F2042fc17563d9.png"
         },
         {
             "chainId": 250,
@@ -13253,7 +13253,7 @@
             "name": "KELVIN",
             "symbol": "KELVIN",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/kelvin.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x08d70A47D3f28BbF755ae050a783844b40ae5761.png"
         },
         {
             "chainId": 250,
@@ -13328,7 +13328,7 @@
             "name": "BIFI Maxi",
             "symbol": "mooBIFI",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/mooBIFI.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xbF07093ccd6adFC3dEB259C557b61E94c1F66945.png"
         },
         {
             "chainId": 250,
@@ -13344,7 +13344,7 @@
             "name": "The Fidelio Duetto",
             "symbol": "BPT-BEETS-FTM ",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/fidelio-duetto.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xcdE5a11a4ACB4eE4c805352Cec57E236bdBC3837.png"
         },
         {
             "chainId": 250,
@@ -13424,7 +13424,7 @@
             "name": "Fresh BEETS",
             "symbol": "fBEETS",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/fBEETS.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfcef8a994209d6916EB2C86cDD2AFD60Aa6F54b1.png"
         },
         {
             "chainId": 250,
@@ -13600,7 +13600,7 @@
             "name": "MemeNatis",
             "symbol": "NATIS",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/memenatis.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5Be1789a6928f8659305BF86aD3054530501f424.png"
         },
         {
             "chainId": 250,
@@ -13647,7 +13647,7 @@
             "name": "Goat Milk",
             "symbol": "GoatM",
             "decimals": 18,
-            "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/goatm.jpg"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x677079211f6c82e34096153e6cea0d2c26b4b7dc.png"
         },
         {
             "chainId": 250,
