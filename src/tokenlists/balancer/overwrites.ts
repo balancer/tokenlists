@@ -1314,7 +1314,8 @@ export const overwrites: OverwritesForList = {
       logoURI: 'https://i.ibb.co/0s08MzL/SHILLY-LOGO-CIRCLE-BIG-2.png',
     },
     '0x17Af1Df44444AB9091622e4Aa66dB5BB34E51aD5': {
-      logoURI: 'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x17Af1Df44444AB9091622e4Aa66dB5BB34E51aD5.png',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x17Af1Df44444AB9091622e4Aa66dB5BB34E51aD5.png',
     },
     '0x1E5fe95fB90ac0530F581C617272cd0864626795': {
       name: 'Fantom lzBEETS',
@@ -1415,7 +1416,8 @@ export const overwrites: OverwritesForList = {
         'https://assets.coingecko.com/coins/images/18778/standard/Black_Background_200x200.png?1696518242',
     },
     '0x0e65f5a7cb56641e31bc5c9d53388db7ac7eacae': {
-      logoURI: 'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0e65f5a7cb56641e31bc5c9d53388db7ac7eacae.png',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0e65f5a7cb56641e31bc5c9d53388db7ac7eacae.png',
     },
     '0x19008165514Ec7622b34924c755Dc7d116F84840': {
       logoURI: 'https://i.ibb.co/S60DvQm/Shill.jpg',
@@ -1498,7 +1500,7 @@ export const overwrites: OverwritesForList = {
       symbol: 'SiloWS',
       name: 'Silo Wrapped Sonic',
       logoURI:
-      'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x016C306e103FbF48EC24810D078C65aD13c5f11B.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x016C306e103FbF48EC24810D078C65aD13c5f11B.png',
     },
     '0xfA85Fe5A8F5560e9039C04f2b0a90dE1415aBD70': {
       logoURI:
