@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 234
+        "patch": 235
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-03-26T09:13:13.250Z",
+    "timestamp": "2025-03-27T09:19:37.438Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12648,6 +12648,46 @@
             "symbol": "SiloSCBTC",
             "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0A94e18bdbCcD048198806d7FF28A1B1D2590724.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0xdB1E39faC2EeeEdB49198735B12a8e598a84510c",
+            "name": "Vicuna Wrapped stS",
+            "symbol": "Vicuna-stS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/vicuna-stS.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0x6C2dadFfAB1714485aD87d1926f4c26E29a957b6",
+            "name": "Vicuna Wrapped wS",
+            "symbol": "Vicuna-ws",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/vicuna-wS.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0x711a93a8bD6803aF0a6122F2dE18c1a6AB7CB29C",
+            "name": "Vicuna Wrapped scUSD",
+            "symbol": "Vicuna-scUSD",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/vicuna-scUSD.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0xd7c9f62622dB85545731F0E4e5D4556aC8a19832",
+            "name": "Vicuna Wrapped USDT",
+            "symbol": "Vicuna-USDT",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/vicuna-USDT.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0xef23FdCbd9b36Ed99A6C51CaA83Af549c36601CF",
+            "name": "Vicuna Wrapped USDC.e",
+            "symbol": "Vicuna-USDC.e",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/vicuna-USDCe.png"
         },
         {
             "chainId": 250,

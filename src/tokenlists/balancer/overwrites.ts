@@ -1604,5 +1604,35 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0A94e18bdbCcD048198806d7FF28A1B1D2590724.png',
     },
+    '0xdB1E39faC2EeeEdB49198735B12a8e598a84510c': {
+      symbol: 'Vicuna-stS',
+      name: 'Vicuna Wrapped stS',
+      logoURI:
+      'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/vicuna-stS.png',
+    },
+    '0x6C2dadFfAB1714485aD87d1926f4c26E29a957b6': {
+      symbol: 'Vicuna-ws',
+      name: 'Vicuna Wrapped wS',
+      logoURI:
+      'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/vicuna-wS.png',
+    },
+    '0x711a93a8bD6803aF0a6122F2dE18c1a6AB7CB29C': {
+      symbol: 'Vicuna-scUSD',
+      name: 'Vicuna Wrapped scUSD',
+      logoURI:
+      'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/vicuna-scUSD.png',
+    },
+    '0xd7c9f62622dB85545731F0E4e5D4556aC8a19832': {
+      symbol: 'Vicuna-USDT',
+      name: 'Vicuna Wrapped USDT',
+      logoURI:
+      'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/vicuna-USDT.png',
+    },
+    '0xef23FdCbd9b36Ed99A6C51CaA83Af549c36601CF': {
+      symbol: 'Vicuna-USDC.e',
+      name: 'Vicuna Wrapped USDC.e',
+      logoURI:
+      'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/vicuna-USDCe.png',
+    },
   },
 }
