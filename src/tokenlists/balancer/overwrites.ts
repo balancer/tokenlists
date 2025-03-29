@@ -156,6 +156,10 @@ export const overwrites: OverwritesForList = {
       symbol: 'Aave Prime GHO',
       name: 'Aave Prime GHO',
     },
+    '0xFa2B947eEc368f42195f24F36d2aF29f7c24CeC2': {
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfa2b947eec368f42195f24f36d2af29f7c24cec2.png',
+    },
   },
   [Network.Polygon]: {
     '0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3': {
