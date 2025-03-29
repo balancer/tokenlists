@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 238
+        "patch": 239
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-03-29T14:33:19.966Z",
+    "timestamp": "2025-03-29T21:14:50.598Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7821,7 +7821,7 @@
             "name": "Falcon USD",
             "symbol": "USDf",
             "decimals": 18,
-            "logoURI": "https://coin-images.coingecko.com/coins/images/54558/large/ff_200_X_200.png?1740741076"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfa2b947eec368f42195f24f36d2af29f7c24cec2.png"
         },
         {
             "chainId": 10,
