@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 237
+        "patch": 238
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-03-28T12:39:10.954Z",
+    "timestamp": "2025-03-29T14:33:19.966Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7816,6 +7816,14 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7788a3538c5fc7f9c7c8a74eac4c898fc8d87d92.png"
         },
         {
+            "chainId": 1,
+            "address": "0xFa2B947eEc368f42195f24F36d2aF29f7c24CeC2",
+            "name": "Falcon USD",
+            "symbol": "USDf",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/54558/large/ff_200_X_200.png?1740741076"
+        },
+        {
             "chainId": 10,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -14465,7 +14473,8 @@
             "address": "0xA61BeB4A3d02decb01039e378237032B351125B4",
             "name": "EURA (previously agEUR)",
             "symbol": "EURA",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/19479/large/agEUR-4.png?1710726218"
         },
         {
             "chainId": 8453,
