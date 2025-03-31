@@ -305,6 +305,11 @@ export const overwrites: OverwritesForList = {
     '0x2dCa80061632f3F87c9cA28364d1d0c30cD79a19': {
       symbol: 'waUSDCn',
     },
+    '0xc63529297dE076eB15fcbE873AE9136E446cFbB9': {
+      extensions: {
+        coingeckoId: 'gyroscope',
+      },
+    },
   },
   [Network.Arbitrum]: {
     '0xfc675adfdd721064ba923d07a8a238a9e52d8ace': {
@@ -465,6 +470,11 @@ export const overwrites: OverwritesForList = {
     '0xcF6C2bb97a8978321C9e207afE8A2037fa9be45C': {
       extensions: {
         coingeckoId: 'dinero-apxeth',
+      },
+    },
+    '0xc63529297dE076eB15fcbE873AE9136E446cFbB9': {
+      extensions: {
+        coingeckoId: 'gyroscope',
       },
     },
   },
@@ -652,6 +662,11 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://assets.coingecko.com/coins/images/15044/large/stakewise200.png?1619520721',
     },
+    '0xc63529297dE076eB15fcbE873AE9136E446cFbB9': {
+      extensions: {
+        coingeckoId: 'gyroscope',
+      },
+    },
   },
   [Network.Zkevm]: {
     '0x37eAA0eF3549a5Bb7D431be78a3D99BD360d19e5': {
@@ -669,6 +684,11 @@ export const overwrites: OverwritesForList = {
       decimals: 18,
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca5d8f8a8d49439357d3cf46ca2e720702f132b8.png',
+    },
+    '0xc63529297dE076eB15fcbE873AE9136E446cFbB9': {
+      extensions: {
+        coingeckoId: 'gyroscope',
+      },
     },
   },
   [Network.Base]: {
