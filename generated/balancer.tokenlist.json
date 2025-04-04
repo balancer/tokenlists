@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 241
+        "patch": 242
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-04-02T12:40:57.475Z",
+    "timestamp": "2025-04-04T20:43:24.962Z",
     "tokens": [
         {
             "chainId": 1,
@@ -15121,6 +15121,14 @@
             "symbol": "uBTC",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/50252/large/UA-BTC_1.png?1726721793"
+        },
+        {
+            "chainId": 8453,
+            "address": "0xCa5E0dB4B1C43280C00029786d992d6E8ab57521",
+            "name": "TOSHINME",
+            "symbol": "TOSHINME",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca5e0db4b1c43280c00029786d992d6e8ab57521.png"
         },
         {
             "chainId": 8453,
