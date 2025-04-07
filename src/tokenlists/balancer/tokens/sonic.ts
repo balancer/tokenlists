@@ -98,4 +98,11 @@ export default [
   '0x711a93a8bD6803aF0a6122F2dE18c1a6AB7CB29C', // vicuna wrapped scusd
   '0xd7c9f62622dB85545731F0E4e5D4556aC8a19832', // vicuna wrapped usdt
   '0xef23FdCbd9b36Ed99A6C51CaA83Af549c36601CF', // vicuna wrapped usdc
+  '0xe6605932e4a686534D19005BB9dB0FBA1F101272', // silo wrapped scusd 46
+  '0x24c74B30d1a4261608E84Bf5a618693032681DAc', // silo wrapped sceth 47
+  '0x08C320A84a59c6f533e0DcA655cf497594BCa1F9', // silo wrapped weth 35
+  '0x42CE2234fd5a26bF161477a996961c4d01F466a3', // silo wrapped usdc 33
+  '0x9144C0F0614dD0acE859C61CC37e5386d2Ada43A', // euler mev capital wS-2
+  '0xe8a41c62bb4d5863c6eadc96792cfe90a1f37c47', // wstkscETH
+  '0x9fb76f7ce5fceaa2c42887ff441d46095e494206', // wstkscUSD
 ]
