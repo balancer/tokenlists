@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 242
+        "patch": 243
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-04-04T20:43:24.962Z",
+    "timestamp": "2025-04-07T17:30:37.311Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12602,9 +12602,10 @@
         {
             "chainId": 146,
             "address": "0x6646248971427B80ce531bdD793e2Eb859347E55",
-            "name": "Wrapped Aave Sonic USDC",
-            "symbol": "waSonUSDC",
-            "decimals": 6
+            "name": "Wrapped Aave Sonic USDC.e",
+            "symbol": "waUSDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd4fa2d31b7968e448877f69a96de69f5de8cd23e.png"
         },
         {
             "chainId": 146,
@@ -12702,6 +12703,57 @@
             "symbol": "Vicuna-USDC.e",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/vicuna-USDCe.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0xe6605932e4a686534D19005BB9dB0FBA1F101272",
+            "name": "Silo Wrapped scUSD - 46",
+            "symbol": "SiloScUSD",
+            "decimals": 6
+        },
+        {
+            "chainId": 146,
+            "address": "0x24c74B30d1a4261608E84Bf5a618693032681DAc",
+            "name": "Silo Wrapped scETH - 47",
+            "symbol": "SiloScETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 146,
+            "address": "0x08C320A84a59c6f533e0DcA655cf497594BCa1F9",
+            "name": "Silo Wrapped wETH - 35",
+            "symbol": "SiloWETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x219656F33c58488D09d518BaDF50AA8CdCAcA2Aa.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0x42CE2234fd5a26bF161477a996961c4d01F466a3",
+            "name": "Silo Wrapped USDC.e - 33",
+            "symbol": "SiloUSDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5954ce6671d97D24B782920ddCdBB4b1E63aB2De.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0x9144C0F0614dD0acE859C61CC37e5386d2Ada43A",
+            "name": "Euler Wrapped wS - 2",
+            "symbol": "eWS",
+            "decimals": 18
+        },
+        {
+            "chainId": 146,
+            "address": "0xE8a41c62BB4d5863C6eadC96792cFE90A1f37C47",
+            "name": "Wrapped stkscETH",
+            "symbol": "wstkscETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 146,
+            "address": "0x9fb76f7ce5FCeAA2C42887ff441D46095E494206",
+            "name": "Wrapped stkscUSD",
+            "symbol": "wstkscUSD",
+            "decimals": 6
         },
         {
             "chainId": 250,
@@ -15137,6 +15189,14 @@
             "symbol": "yUSD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x895e15020c3f52ddd4d8e9514eb83c39f53b1579.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x729F75Aff28c726e32403e80cef2aFb518CFbfa7",
+            "name": "Wrapped Aave Base EURC",
+            "symbol": "waBasEURC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x729f75aff28c726e32403e80cef2afb518cfbfa7.png"
         },
         {
             "chainId": 34443,
