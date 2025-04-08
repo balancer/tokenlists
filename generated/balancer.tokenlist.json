@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 245
+        "patch": 246
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-04-08T14:42:40.449Z",
+    "timestamp": "2025-04-08T15:06:06.615Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12503,7 +12503,10 @@
             "name": "Eggs",
             "symbol": "EGGS",
             "decimals": 18,
-            "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0xf26ff70573ddc8a90bd7865af8d7d70b8ff019bc.png?size=lg&key=5e5b9c"
+            "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0xf26ff70573ddc8a90bd7865af8d7d70b8ff019bc.png?size=lg&key=5e5b9c",
+            "extensions": {
+                "coingeckoId": "eggs-finance"
+            }
         },
         {
             "chainId": 146,
