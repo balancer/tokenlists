@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 244
+        "patch": 245
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-04-08T12:52:06.568Z",
+    "timestamp": "2025-04-08T14:42:40.449Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12709,7 +12709,8 @@
             "address": "0xe6605932e4a686534D19005BB9dB0FBA1F101272",
             "name": "Silo Wrapped scUSD - 46",
             "symbol": "SiloScUSD",
-            "decimals": 6
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-silo.svg"
         },
         {
             "chainId": 146,
@@ -12757,7 +12758,7 @@
             "name": "Wrapped stkscUSD",
             "symbol": "wstkscUSD",
             "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wstkscUSD.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wstkscusd.png"
         },
         {
             "chainId": 250,
