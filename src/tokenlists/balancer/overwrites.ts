@@ -1667,6 +1667,8 @@ export const overwrites: OverwritesForList = {
     '0x24c74B30d1a4261608E84Bf5a618693032681DAc': {
       symbol: 'SiloScETH',
       name: 'Silo Wrapped scETH - 47',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scETH-silo.png',
     },
     '0x08C320A84a59c6f533e0DcA655cf497594BCa1F9': {
       symbol: 'SiloWETH',
@@ -1683,12 +1685,22 @@ export const overwrites: OverwritesForList = {
     '0x9144C0F0614dD0acE859C61CC37e5386d2Ada43A': {
       symbol: 'eWS',
       name: 'Euler Wrapped wS - 2',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wS-boosted-Euler.png',
     },
     '0x6646248971427B80ce531bdD793e2Eb859347E55': {
       symbol: 'waUSDC',
       name: 'Wrapped Aave Sonic USDC.e',
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd4fa2d31b7968e448877f69a96de69f5de8cd23e.png',
+    },
+    '0xe8a41c62bb4d5863c6eadc96792cfe90a1f37c47': {
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wstkscETH.png',
+    },
+    '0x9fb76f7ce5fceaa2c42887ff441d46095e494206': {
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wstkscUSD.png',
     },
   },
 }
