@@ -1663,6 +1663,8 @@ export const overwrites: OverwritesForList = {
     '0xe6605932e4a686534D19005BB9dB0FBA1F101272': {
       symbol: 'SiloScUSD',
       name: 'Silo Wrapped scUSD - 46',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-silo.svg',
     },
     '0x24c74B30d1a4261608E84Bf5a618693032681DAc': {
       symbol: 'SiloScETH',
@@ -1700,7 +1702,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x9fb76f7ce5fceaa2c42887ff441d46095e494206': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wstkscUSD.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wstkscusd.png',
     },
   },
 }
