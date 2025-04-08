@@ -1575,6 +1575,9 @@ export const overwrites: OverwritesForList = {
     '0xf26Ff70573ddc8a90Bd7865AF8d7d70B8Ff019bC': {
       logoURI:
         'https://dd.dexscreener.com/ds-data/tokens/sonic/0xf26ff70573ddc8a90bd7865af8d7d70b8ff019bc.png?size=lg&key=5e5b9c',
+      extensions: {
+        coingeckoId: 'eggs-finance',
+      },
     },
     '0xecAc9C5F704e954931349Da37F60E39f515c11c1': {
       logoURI: 'https://sonicscan.org/token/images/lbtc_64.png',
