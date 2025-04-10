@@ -80,4 +80,12 @@ export default [
   '0x7E8101A1C322D394b3961498c7D40d2DFA94C392', // Wrapped Backed Nvidia (wbNVDA)
   '0x1a4F71B0Ff3C22540887bcf83b50054a213c673d', // Wrapped Backed Strategy (wbMSTR)
   '0xc63529297de076eb15fcbe873ae9136e446cfbb9', // GYFI
+  '0x45cf39eeb437fa95bb9b52c0105254a6bd25d01e', // waAvaAUSD
+  '0x59933c571d200dc6a7fd1cda22495db442082e34', // waAvaUSDT
+  '0xe1bfc96d95badcb10ff013cb0c9c6c737ca07009', // waAvaUSDC
+  '0x06d47f3fb376649c3a9dafe069b3d6e35572219e', // savUSD
+  '0x3408b22d8895753c9a3e14e4222e981d4e9a599e', // upAUSD
+  '0x68088c91446c7bea49ea7dbd3b96ce62b272dc96', // sdeUSD
+  '0x7d0394f8898fba73836bf12bd606228887705895', // waAvaSAVAX
+  '0xd7da0de6ef4f51d6206bf2a35fcd2030f54c3f7b', // waAvaWAVAX
 ]
