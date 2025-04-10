@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 247
+        "patch": 248
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-04-08T21:50:08.584Z",
+    "timestamp": "2025-04-10T18:35:16.680Z",
     "tokens": [
         {
             "chainId": 1,
@@ -18105,6 +18105,64 @@
             "symbol": "GYFI",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc63529297de076eb15fcbe873ae9136e446cfbb9.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x45cf39EeB437FA95Bb9b52c0105254a6BD25D01e",
+            "name": "Wrapped Aave Avalanche AUSD",
+            "symbol": "waAvaAUSD",
+            "decimals": 6
+        },
+        {
+            "chainId": 43114,
+            "address": "0x59933c571d200dc6A7Fd1CDa22495dB442082E34",
+            "name": "Wrapped Aave Avalanche USDT",
+            "symbol": "waAvaUSDT",
+            "decimals": 6
+        },
+        {
+            "chainId": 43114,
+            "address": "0xe1bFC96d95BAdCB10Ff013Cb0C9C6c737ca07009",
+            "name": "Wrapped Aave Avalanche USDC",
+            "symbol": "waAvaUSDC",
+            "decimals": 6
+        },
+        {
+            "chainId": 43114,
+            "address": "0x06d47F3fb376649c3A9Dafe069B3D6E35572219E",
+            "name": "Staked avUSD",
+            "symbol": "savUSD",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/53558/large/token-savusd.png?1736674786"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x3408b22d8895753C9A3e14e4222E981d4E9A599E",
+            "name": "Upshift Avalanche AUSD",
+            "symbol": "upAUSD",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x3408b22d8895753c9a3e14e4222e981d4e9a599e.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x68088C91446c7bEa49ea7Dbd3B96Ce62B272DC96",
+            "name": "Staked deUSD",
+            "symbol": "sdeUSD",
+            "decimals": 18
+        },
+        {
+            "chainId": 43114,
+            "address": "0x7D0394F8898fBA73836Bf12bD606228887705895",
+            "name": "Wrapped Aave Avalanche SAVAX",
+            "symbol": "waAvaSAVAX",
+            "decimals": 18
+        },
+        {
+            "chainId": 43114,
+            "address": "0xD7da0De6Ef4f51d6206bF2A35fCd2030F54c3F7B",
+            "name": "Wrapped Aave Avalanche WAVAX",
+            "symbol": "waAvaWAVAX",
+            "decimals": 18
         },
         {
             "chainId": 11155111,
