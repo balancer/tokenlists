@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 248
+        "patch": 249
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-04-10T18:35:16.680Z",
+    "timestamp": "2025-04-10T20:23:03.593Z",
     "tokens": [
         {
             "chainId": 1,
@@ -18111,21 +18111,88 @@
             "address": "0x45cf39EeB437FA95Bb9b52c0105254a6BD25D01e",
             "name": "Wrapped Aave Avalanche AUSD",
             "symbol": "waAvaAUSD",
-            "decimals": 6
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x45cf39eeb437fa95bb9b52c0105254a6bd25d01e.png"
         },
         {
             "chainId": 43114,
             "address": "0x59933c571d200dc6A7Fd1CDa22495dB442082E34",
             "name": "Wrapped Aave Avalanche USDT",
             "symbol": "waAvaUSDT",
-            "decimals": 6
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x59933c571d200dc6a7fd1cda22495db442082e34.png"
         },
         {
             "chainId": 43114,
             "address": "0xe1bFC96d95BAdCB10Ff013Cb0C9C6c737ca07009",
             "name": "Wrapped Aave Avalanche USDC",
             "symbol": "waAvaUSDC",
-            "decimals": 6
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe1bfc96d95badcb10ff013cb0c9c6c737ca07009.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x7D0394F8898fBA73836Bf12bD606228887705895",
+            "name": "Wrapped Aave Avalanche SAVAX",
+            "symbol": "waAvaSAVAX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7d0394f8898fba73836bf12bd606228887705895.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xD7da0De6Ef4f51d6206bF2A35fCd2030F54c3F7B",
+            "name": "Wrapped Aave Avalanche WAVAX",
+            "symbol": "waAvaWAVAX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd7da0de6ef4f51d6206bf2a35fcd2030f54c3f7b.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x2d324fD1Ca86D90f61B0965d2db2f86d22eA4B74",
+            "name": "Wrapped Aave Avalanche BTC.b",
+            "symbol": "waAvaBTC.b",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2d324fd1ca86d90f61b0965d2db2f86d22ea4b74.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xdFD2b2437a94108323045C282fF1916de5Ac6Af7",
+            "name": "Wrapped Aave Avalanche WETH",
+            "symbol": "waAvaWETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdfd2b2437a94108323045c282ff1916de5ac6af7.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xC38aD3527A4B821BF437639cBA8Bf567BFa63A13",
+            "name": "Wrapped Aave Avalanche DAI",
+            "symbol": "waAvaDAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc38ad3527a4b821bf437639cba8bf567bfa63a13.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x61933AF56431280EE4e5667133D8aF6322D64B32",
+            "name": "Wrapped Aave Avalanche LINK",
+            "symbol": "waAvaLINK",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x61933af56431280ee4e5667133d8af6322d64b32.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x3929336Afd0BBa6FCAbB67dFB78610379C66B43B",
+            "name": "Wrapped Aave Avalanche FRAX",
+            "symbol": "waAvaFRAX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x3929336afd0bba6fcabb67dfb78610379c66b43b.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x7883978D1F322641a3AaA82Bac3b0a6Dee7A171E",
+            "name": "Wrapped Aave Avalanche AAVE",
+            "symbol": "waAvaAAVE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7883978d1f322641a3aaa82bac3b0a6dee7a171e.png"
         },
         {
             "chainId": 43114,
@@ -18148,21 +18215,8 @@
             "address": "0x68088C91446c7bEa49ea7Dbd3B96Ce62B272DC96",
             "name": "Staked deUSD",
             "symbol": "sdeUSD",
-            "decimals": 18
-        },
-        {
-            "chainId": 43114,
-            "address": "0x7D0394F8898fBA73836Bf12bD606228887705895",
-            "name": "Wrapped Aave Avalanche SAVAX",
-            "symbol": "waAvaSAVAX",
-            "decimals": 18
-        },
-        {
-            "chainId": 43114,
-            "address": "0xD7da0De6Ef4f51d6206bF2A35fCd2030F54c3F7B",
-            "name": "Wrapped Aave Avalanche WAVAX",
-            "symbol": "waAvaWAVAX",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x68088c91446c7bea49ea7dbd3b96ce62b272dc96.png"
         },
         {
             "chainId": 11155111,

@@ -94,5 +94,4 @@ export default [
   '0x06d47f3fb376649c3a9dafe069b3d6e35572219e', // savUSD
   '0x3408b22d8895753c9a3e14e4222e981d4e9a599e', // upAUSD
   '0x68088c91446c7bea49ea7dbd3b96ce62b272dc96', // sdeUSD
-
 ]
