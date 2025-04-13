@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 249
+        "patch": 250
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-04-10T20:23:03.593Z",
+    "timestamp": "2025-04-13T10:07:17.991Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12762,6 +12762,13 @@
             "symbol": "wstkscUSD",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wstkscusd.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0x9A08cD5691E009cC72E2A4d8e7F2e6EE14E96d6d",
+            "name": "Stability Gem Season 1",
+            "symbol": "sGEM1",
+            "decimals": 18
         },
         {
             "chainId": 250,
