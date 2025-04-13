@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 250
+        "patch": 251
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-04-13T10:07:17.991Z",
+    "timestamp": "2025-04-13T18:34:00.173Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7822,6 +7822,14 @@
             "symbol": "USDf",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfa2b947eec368f42195f24f36d2af29f7c24cec2.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x59d1e836F7b7210A978b25a855085cc46fd090B5",
+            "name": "AssangeDAO",
+            "symbol": "JUSTICE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x59d1e836f7b7210a978b25a855085cc46fd090b5.png"
         },
         {
             "chainId": 10,
