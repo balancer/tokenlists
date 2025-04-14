@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 251
+        "patch": 252
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-04-13T18:34:00.173Z",
+    "timestamp": "2025-04-14T07:12:51.140Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12657,7 +12657,7 @@
             "name": "Fantom Bomb",
             "symbol": "fBOMB",
             "decimals": 18,
-            "logoURI": "https://app.fbomb.finance/images/tokens/0xbf4906762C38F50bC7Be0A11BB452C944f6C72E1.png"
+            "logoURI": "https://dd.dexscreener.com/ds-data/tokens/base/0x74ccbe53f77b08632ce0cb91d3a545bf6b8e0979.png?size=lg&key=9217b4"
         },
         {
             "chainId": 146,
