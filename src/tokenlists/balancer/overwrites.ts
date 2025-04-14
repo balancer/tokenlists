@@ -1707,5 +1707,9 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wstkscusd.png',
     },
+    '0x74ccbe53F77b08632ce0CB91D3A545bF6B8E0979': {
+      logoURI:
+        'https://dd.dexscreener.com/ds-data/tokens/base/0x74ccbe53f77b08632ce0cb91d3a545bf6b8e0979.png?size=lg&key=9217b4',
+    },
   },
 }
