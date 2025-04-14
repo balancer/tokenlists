@@ -1625,7 +1625,7 @@ export const overwrites: OverwritesForList = {
     },
     '0xEdF8b632b537d5993Adb5e2E15882CD791c284cB': {
       logoURI:
-        'https://app.fbomb.finance/images/tokens/0xbf4906762C38F50bC7Be0A11BB452C944f6C72E1.png',
+        'https://dd.dexscreener.com/ds-data/tokens/base/0x74ccbe53f77b08632ce0cb91d3a545bf6b8e0979.png?size=lg&key=9217b4',
     },
     '0x0A94e18bdbCcD048198806d7FF28A1B1D2590724': {
       symbol: 'SiloSCBTC',
@@ -1706,10 +1706,6 @@ export const overwrites: OverwritesForList = {
     '0x9fb76f7ce5fceaa2c42887ff441d46095e494206': {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wstkscusd.png',
-    },
-    '0x74ccbe53F77b08632ce0CB91D3A545bF6B8E0979': {
-      logoURI:
-        'https://dd.dexscreener.com/ds-data/tokens/base/0x74ccbe53f77b08632ce0cb91d3a545bf6b8e0979.png?size=lg&key=9217b4',
     },
   },
 }
