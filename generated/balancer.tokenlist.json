@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 253
+        "patch": 254
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-04-14T12:33:41.967Z",
+    "timestamp": "2025-04-14T14:39:45.261Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12777,6 +12777,14 @@
             "name": "Stability Gem Season 1",
             "symbol": "sGEM1",
             "decimals": 18
+        },
+        {
+            "chainId": 146,
+            "address": "0x871A101Dcf22fE4fE37be7B654098c801CBA1c88",
+            "name": "Beefy Sonic",
+            "symbol": "beS",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/55186/standard/beS.png?1744440042"
         },
         {
             "chainId": 250,
