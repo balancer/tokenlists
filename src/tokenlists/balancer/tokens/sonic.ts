@@ -106,4 +106,5 @@ export default [
   '0xe8a41c62bb4d5863c6eadc96792cfe90a1f37c47', // wstkscETH
   '0x9fb76f7ce5fceaa2c42887ff441d46095e494206', // wstkscUSD
   '0x9a08cd5691e009cc72e2a4d8e7f2e6ee14e96d6d', // sgem1
+  '0xfD28f108e95f4D41daAE9dbfFf707D677985998E', // PRL
 ]
