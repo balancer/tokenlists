@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 255
+        "patch": 256
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-04-14T15:17:01.177Z",
+    "timestamp": "2025-04-14T20:43:13.386Z",
     "tokens": [
         {
             "chainId": 1,
@@ -18256,6 +18256,14 @@
             "symbol": "AUSD",
             "decimals": 6,
             "logoURI": "https://coin-images.coingecko.com/coins/images/39284/large/Circle_Agora_White_on_Olive_1080px.png?1722961274"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
+            "name": "Wrapped Ether",
+            "symbol": "WETH.e",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/39707/large/WETH.PNG?1723730205"
         },
         {
             "chainId": 11155111,
