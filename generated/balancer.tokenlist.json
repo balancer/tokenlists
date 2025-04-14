@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 254
+        "patch": 255
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-04-14T14:39:45.261Z",
+    "timestamp": "2025-04-14T15:17:01.177Z",
     "tokens": [
         {
             "chainId": 1,
@@ -15229,6 +15229,14 @@
             "symbol": "yUSD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x895e15020c3f52ddd4d8e9514eb83c39f53b1579.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x025dB5BA4D0c2990725817858C78A899DECD58d2",
+            "name": "DeFi Choice VOTE",
+            "symbol": "VOTE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x025db5ba4d0c2990725817858c78a899decd58d2.png"
         },
         {
             "chainId": 34443,
