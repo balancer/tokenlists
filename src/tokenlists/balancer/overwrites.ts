@@ -1700,9 +1700,6 @@ export const overwrites: OverwritesForList = {
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd4fa2d31b7968e448877f69a96de69f5de8cd23e.png',
     },
     '0xe8a41c62bb4d5863c6eadc96792cfe90a1f37c47': {
-      extensions: {
-        coingeckoId: 'ethereum',
-      },
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wstkscETH.png',
     },
