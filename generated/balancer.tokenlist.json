@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 252
+        "patch": 256
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-04-14T07:12:51.140Z",
+    "timestamp": "2025-04-14T20:43:13.386Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12779,6 +12779,14 @@
             "decimals": 18
         },
         {
+            "chainId": 146,
+            "address": "0x871A101Dcf22fE4fE37be7B654098c801CBA1c88",
+            "name": "Beefy Sonic",
+            "symbol": "beS",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/55186/standard/beS.png?1744440042"
+        },
+        {
             "chainId": 250,
             "address": "0xf1648C50d2863f780c57849D812b4B7686031A3D",
             "name": "LayerZero Wrapped Bitcoin",
@@ -15221,6 +15229,14 @@
             "symbol": "yUSD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x895e15020c3f52ddd4d8e9514eb83c39f53b1579.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x025dB5BA4D0c2990725817858C78A899DECD58d2",
+            "name": "DeFi Choice VOTE",
+            "symbol": "VOTE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x025db5ba4d0c2990725817858c78a899decd58d2.png"
         },
         {
             "chainId": 34443,
@@ -18232,6 +18248,22 @@
             "symbol": "sdeUSD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x68088c91446c7bea49ea7dbd3b96ce62b272dc96.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+            "name": "AUSD",
+            "symbol": "AUSD",
+            "decimals": 6,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/39284/large/Circle_Agora_White_on_Olive_1080px.png?1722961274"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
+            "name": "Wrapped Ether",
+            "symbol": "WETH.e",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/39707/large/WETH.PNG?1723730205"
         },
         {
             "chainId": 11155111,

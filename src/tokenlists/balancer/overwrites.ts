@@ -1707,5 +1707,9 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wstkscusd.png',
     },
+    '0x871A101Dcf22fE4fE37be7B654098c801CBA1c88': {
+      logoURI:
+        'https://assets.coingecko.com/coins/images/55186/standard/beS.png?1744440042',
+    },
   },
 }
