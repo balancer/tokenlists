@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 256
+        "patch": 257
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-04-14T20:43:13.386Z",
+    "timestamp": "2025-04-15T10:54:30.945Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12761,7 +12761,10 @@
             "name": "Wrapped stkscETH",
             "symbol": "wstkscETH",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wstkscETH.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wstkscETH.png",
+            "extensions": {
+                "coingeckoId": "ethereum"
+            }
         },
         {
             "chainId": 146,
