@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 260
+        "patch": 261
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-04-16T08:59:32.974Z",
+    "timestamp": "2025-04-16T11:39:07.651Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12443,7 +12443,7 @@
         {
             "chainId": 146,
             "address": "0x016C306e103FbF48EC24810D078C65aD13c5f11B",
-            "name": "Silo Wrapped Sonic",
+            "name": "Silo Wrapped Sonic - 25",
             "symbol": "SiloWS",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x016C306e103FbF48EC24810D078C65aD13c5f11B.png"
@@ -12470,7 +12470,7 @@
         {
             "chainId": 146,
             "address": "0x219656F33c58488D09d518BaDF50AA8CdCAcA2Aa",
-            "name": "Silo Wrapped wETH",
+            "name": "Silo Wrapped wETH - 26",
             "symbol": "SiloWETH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x219656F33c58488D09d518BaDF50AA8CdCAcA2Aa.png"
@@ -12508,7 +12508,7 @@
         {
             "chainId": 146,
             "address": "0x5954ce6671d97D24B782920ddCdBB4b1E63aB2De",
-            "name": "Silo Wrapped USDC",
+            "name": "Silo Wrapped USDC - 23",
             "symbol": "SiloUSDC",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5954ce6671d97D24B782920ddCdBB4b1E63aB2De.png"
@@ -12516,7 +12516,7 @@
         {
             "chainId": 146,
             "address": "0x6c49B18333A1135e9A376560c07E6D1Fd0350EaF",
-            "name": "Silo Wrapped Sonic",
+            "name": "Silo Wrapped Sonic - 28",
             "symbol": "SiloWS",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6c49B18333A1135e9A376560c07E6D1Fd0350EaF.png"
@@ -12659,7 +12659,7 @@
         {
             "chainId": 146,
             "address": "0xdA14A41DbdA731F03A94cb722191639DD22b35b2",
-            "name": "Silo Wrapped frxUSD",
+            "name": "Silo Wrapped frxUSD - 37",
             "symbol": "SiloFrxUSD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/frxUSD_silo.png"
@@ -12694,50 +12694,10 @@
         {
             "chainId": 146,
             "address": "0x0A94e18bdbCcD048198806d7FF28A1B1D2590724",
-            "name": "Silo Wrapped scBTC",
+            "name": "Silo Wrapped scBTC - 32",
             "symbol": "SiloSCBTC",
             "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0A94e18bdbCcD048198806d7FF28A1B1D2590724.png"
-        },
-        {
-            "chainId": 146,
-            "address": "0xdB1E39faC2EeeEdB49198735B12a8e598a84510c",
-            "name": "Vicuna Wrapped stS",
-            "symbol": "Vicuna-stS",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/vicuna-stS.png"
-        },
-        {
-            "chainId": 146,
-            "address": "0x6C2dadFfAB1714485aD87d1926f4c26E29a957b6",
-            "name": "Vicuna Wrapped wS",
-            "symbol": "Vicuna-ws",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/vicuna-wS.png"
-        },
-        {
-            "chainId": 146,
-            "address": "0x711a93a8bD6803aF0a6122F2dE18c1a6AB7CB29C",
-            "name": "Vicuna Wrapped scUSD",
-            "symbol": "Vicuna-scUSD",
-            "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/vicuna-scUSD.png"
-        },
-        {
-            "chainId": 146,
-            "address": "0xd7c9f62622dB85545731F0E4e5D4556aC8a19832",
-            "name": "Vicuna Wrapped USDT",
-            "symbol": "Vicuna-USDT",
-            "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/vicuna-USDT.png"
-        },
-        {
-            "chainId": 146,
-            "address": "0xef23FdCbd9b36Ed99A6C51CaA83Af549c36601CF",
-            "name": "Vicuna Wrapped USDC.e",
-            "symbol": "Vicuna-USDC.e",
-            "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/vicuna-USDCe.png"
         },
         {
             "chainId": 146,
