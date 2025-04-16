@@ -1149,6 +1149,11 @@ export const overwrites: OverwritesForList = {
         coingeckoId: 'wrapped-bitcoin',
       },
     },
+    '0x29f2d40b0605204364af54ec677bd022da425d03': {
+      extensions: {
+        coingeckoId: 'wrapped-bitcoin',
+      },
+    },
     '0xFF34B3d4Aee8ddCd6F9AFFFB6Fe49bD371b8a357': {
       name: 'DAI (AAVE Faucet)',
       symbol: 'dai-aave',
