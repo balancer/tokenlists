@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 261
+        "patch": 262
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-04-16T11:39:07.651Z",
+    "timestamp": "2025-04-16T15:33:53.468Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7830,6 +7830,14 @@
             "symbol": "JUSTICE",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x59d1e836f7b7210a978b25a855085cc46fd090b5.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xBFB53910C935E837C74e6C4EF584557352d20fDe",
+            "name": "StakingLPUsdc",
+            "symbol": "slpUSDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xbfb53910c935e837c74e6c4ef584557352d20fde.png"
         },
         {
             "chainId": 1,
