@@ -93,11 +93,6 @@ export default [
   '0xEdF8b632b537d5993Adb5e2E15882CD791c284cB', // fbomb
   '0xc63529297de076eb15fcbe873ae9136e446cfbb9', // GYFI
   '0x0A94e18bdbCcD048198806d7FF28A1B1D2590724', // silo wrapped scusd market 32
-  '0xdB1E39faC2EeeEdB49198735B12a8e598a84510c', // vicuna wrapped sts
-  '0x6C2dadFfAB1714485aD87d1926f4c26E29a957b6', // vicuna wrapped ws
-  '0x711a93a8bD6803aF0a6122F2dE18c1a6AB7CB29C', // vicuna wrapped scusd
-  '0xd7c9f62622dB85545731F0E4e5D4556aC8a19832', // vicuna wrapped usdt
-  '0xef23FdCbd9b36Ed99A6C51CaA83Af549c36601CF', // vicuna wrapped usdc
   '0xe6605932e4a686534D19005BB9dB0FBA1F101272', // silo wrapped scusd 46
   '0x24c74B30d1a4261608E84Bf5a618693032681DAc', // silo wrapped sceth 47
   '0x08C320A84a59c6f533e0DcA655cf497594BCa1F9', // silo wrapped weth 35

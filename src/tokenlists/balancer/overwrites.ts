@@ -1527,7 +1527,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x016C306e103FbF48EC24810D078C65aD13c5f11B': {
       symbol: 'SiloWS',
-      name: 'Silo Wrapped Sonic',
+      name: 'Silo Wrapped Sonic - 25',
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x016C306e103FbF48EC24810D078C65aD13c5f11B.png',
     },
@@ -1541,7 +1541,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x219656F33c58488D09d518BaDF50AA8CdCAcA2Aa': {
       symbol: 'SiloWETH',
-      name: 'Silo Wrapped wETH',
+      name: 'Silo Wrapped wETH - 26',
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x219656F33c58488D09d518BaDF50AA8CdCAcA2Aa.png',
     },
@@ -1564,13 +1564,13 @@ export const overwrites: OverwritesForList = {
     },
     '0x6c49B18333A1135e9A376560c07E6D1Fd0350EaF': {
       symbol: 'SiloWS',
-      name: 'Silo Wrapped Sonic',
+      name: 'Silo Wrapped Sonic - 28',
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6c49B18333A1135e9A376560c07E6D1Fd0350EaF.png',
     },
     '0x5954ce6671d97D24B782920ddCdBB4b1E63aB2De': {
       symbol: 'SiloUSDC',
-      name: 'Silo Wrapped USDC',
+      name: 'Silo Wrapped USDC - 23',
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5954ce6671d97D24B782920ddCdBB4b1E63aB2De.png',
     },
@@ -1624,7 +1624,7 @@ export const overwrites: OverwritesForList = {
     },
     '0xdA14A41DbdA731F03A94cb722191639DD22b35b2': {
       symbol: 'SiloFrxUSD',
-      name: 'Silo Wrapped frxUSD',
+      name: 'Silo Wrapped frxUSD - 37',
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/frxUSD_silo.png',
     },
@@ -1634,39 +1634,9 @@ export const overwrites: OverwritesForList = {
     },
     '0x0A94e18bdbCcD048198806d7FF28A1B1D2590724': {
       symbol: 'SiloSCBTC',
-      name: 'Silo Wrapped scBTC',
+      name: 'Silo Wrapped scBTC - 32',
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0A94e18bdbCcD048198806d7FF28A1B1D2590724.png',
-    },
-    '0xdB1E39faC2EeeEdB49198735B12a8e598a84510c': {
-      symbol: 'Vicuna-stS',
-      name: 'Vicuna Wrapped stS',
-      logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/vicuna-stS.png',
-    },
-    '0x6C2dadFfAB1714485aD87d1926f4c26E29a957b6': {
-      symbol: 'Vicuna-ws',
-      name: 'Vicuna Wrapped wS',
-      logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/vicuna-wS.png',
-    },
-    '0x711a93a8bD6803aF0a6122F2dE18c1a6AB7CB29C': {
-      symbol: 'Vicuna-scUSD',
-      name: 'Vicuna Wrapped scUSD',
-      logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/vicuna-scUSD.png',
-    },
-    '0xd7c9f62622dB85545731F0E4e5D4556aC8a19832': {
-      symbol: 'Vicuna-USDT',
-      name: 'Vicuna Wrapped USDT',
-      logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/vicuna-USDT.png',
-    },
-    '0xef23FdCbd9b36Ed99A6C51CaA83Af549c36601CF': {
-      symbol: 'Vicuna-USDC.e',
-      name: 'Vicuna Wrapped USDC.e',
-      logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/vicuna-USDCe.png',
     },
     '0xe6605932e4a686534D19005BB9dB0FBA1F101272': {
       symbol: 'SiloScUSD',
