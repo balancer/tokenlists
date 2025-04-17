@@ -1686,5 +1686,9 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://assets.coingecko.com/coins/images/55186/standard/beS.png?1744440042',
     },
+    '0x3333b97138D4b086720b5aE8A7844b1345a33333': {
+      logoURI:
+        'https://dd.dexscreener.com/ds-data/tokens/sonic/0x3333b97138d4b086720b5ae8a7844b1345a33333.png?size=lg&key=c2e8a2',
+    },
   },
 }
