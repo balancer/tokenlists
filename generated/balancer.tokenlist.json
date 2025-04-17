@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 262
+        "patch": 263
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-04-16T15:33:53.468Z",
+    "timestamp": "2025-04-17T13:50:56.623Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12785,6 +12785,14 @@
             "symbol": "beS",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/55186/standard/beS.png?1744440042"
+        },
+        {
+            "chainId": 146,
+            "address": "0x3333b97138D4b086720b5aE8A7844b1345a33333",
+            "name": "Shadow",
+            "symbol": "SHADOW",
+            "decimals": 18,
+            "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x3333b97138d4b086720b5ae8a7844b1345a33333.png?size=lg&key=c2e8a2"
         },
         {
             "chainId": 250,
