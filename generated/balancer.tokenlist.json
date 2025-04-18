@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 263
+        "patch": 264
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-04-17T13:50:56.623Z",
+    "timestamp": "2025-04-18T08:47:03.006Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12742,7 +12742,7 @@
         {
             "chainId": 146,
             "address": "0x9144C0F0614dD0acE859C61CC37e5386d2Ada43A",
-            "name": "Euler Wrapped wS - 2",
+            "name": "EVK Vault ewS-2",
             "symbol": "eWS",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wS-boosted-Euler.png"
@@ -12793,6 +12793,21 @@
             "symbol": "SHADOW",
             "decimals": 18,
             "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x3333b97138d4b086720b5ae8a7844b1345a33333.png?size=lg&key=c2e8a2"
+        },
+        {
+            "chainId": 146,
+            "address": "0x90a804D316A06E00755444D56b9eF52e5C4F4D73",
+            "name": "Euler Wrapped wS - 5",
+            "symbol": "eWS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wS-boosted-Euler.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0xD229fF67806D6037e6Dfc9EEb2f331Cb74e8c79e",
+            "name": "notUSD",
+            "symbol": "nUSD",
+            "decimals": 18
         },
         {
             "chainId": 250,
