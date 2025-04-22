@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 264
+        "patch": 265
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-04-18T08:47:03.006Z",
+    "timestamp": "2025-04-22T15:07:48.621Z",
     "tokens": [
         {
             "chainId": 1,
@@ -18303,6 +18303,46 @@
             "symbol": "WETH.e",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/39707/large/WETH.PNG?1723730205"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x5030183B3DD0105d69D7d45595C120Fc4b542EC3",
+            "name": "EVK Vault esavUSD-3",
+            "symbol": "esavUSD-3",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5030183b3dd0105d69d7d45595c120fc4b542ec3.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xa446938b0204Aa4055cdFEd68Ddf0E0d1BAB3E9E",
+            "name": "EVK Vault eUSDt-3",
+            "symbol": "eUSDt-3",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa446938b0204aa4055cdfed68ddf0e0d1bab3e9e.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x2137568666f12fc5A026f5430Ae7194F1C1362aB",
+            "name": "EVK Vault eAUSD-2",
+            "symbol": "eAUSD-2",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2137568666f12fc5a026f5430ae7194f1c1362ab.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x39dE0f00189306062D79eDEC6DcA5bb6bFd108f9",
+            "name": "EVK Vault eUSDC-2",
+            "symbol": "eUSDC-2",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x39de0f00189306062d79edec6dca5bb6bfd108f9.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x72F92a966f1874f74e1b601BEe7CF57031B53A03",
+            "name": "EVK Vault esavUSD-2",
+            "symbol": "esavUSD-2",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x72f92a966f1874f74e1b601bee7cf57031b53a03.png"
         },
         {
             "chainId": 11155111,
