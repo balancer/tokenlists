@@ -1663,10 +1663,14 @@ export const overwrites: OverwritesForList = {
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5954ce6671d97D24B782920ddCdBB4b1E63aB2De.png',
     },
     '0x90a804D316A06E00755444D56b9eF52e5C4F4D73': {
-      symbol: 'eWS',
+      symbol: 'ewS',
       name: 'Euler Wrapped wS - 5',
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wS-boosted-Euler.png',
+    },
+    '0x6832F3090867449c058e1e3088E552E12AB18F9E': {
+      symbol: 'estS',
+      name: 'Euler Wrappe stS - 5',
     },
     '0x6646248971427B80ce531bdD793e2Eb859347E55': {
       symbol: 'waUSDC',
