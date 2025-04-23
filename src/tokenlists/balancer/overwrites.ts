@@ -1670,7 +1670,9 @@ export const overwrites: OverwritesForList = {
     },
     '0x6832F3090867449c058e1e3088E552E12AB18F9E': {
       symbol: 'estS',
-      name: 'Euler Wrappe stS - 5',
+      name: 'Euler Wrapped stS - 5',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/stS-boosted-Euler.png',
     },
     '0x6646248971427B80ce531bdD793e2Eb859347E55': {
       symbol: 'waUSDC',
