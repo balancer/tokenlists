@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 266
+        "patch": 267
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-04-23T06:22:26.548Z",
+    "timestamp": "2025-04-23T08:10:39.341Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12798,7 +12798,7 @@
             "chainId": 146,
             "address": "0x90a804D316A06E00755444D56b9eF52e5C4F4D73",
             "name": "Euler Wrapped wS - 5",
-            "symbol": "eWS",
+            "symbol": "ewS",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wS-boosted-Euler.png"
         },
@@ -12813,8 +12813,8 @@
         {
             "chainId": 146,
             "address": "0x6832F3090867449c058e1e3088E552E12AB18F9E",
-            "name": "EVK Vault estS-5",
-            "symbol": "estS-5",
+            "name": "Euler Wrappe stS - 5",
+            "symbol": "estS",
             "decimals": 18
         },
         {
