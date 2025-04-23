@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 267
+        "patch": 268
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-04-23T08:10:39.341Z",
+    "timestamp": "2025-04-23T09:07:04.371Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12813,9 +12813,10 @@
         {
             "chainId": 146,
             "address": "0x6832F3090867449c058e1e3088E552E12AB18F9E",
-            "name": "Euler Wrappe stS - 5",
+            "name": "Euler Wrapped stS - 5",
             "symbol": "estS",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/stS-boosted-Euler.png"
         },
         {
             "chainId": 250,
