@@ -722,7 +722,12 @@ export const overwrites: OverwritesForList = {
         coingeckoId: 'parifi',
       },
     },
-  },
+    '0x994ac01750047B9d35431a7Ae4Ed312ee955E030': {
+      extensions: {
+        coingeckoId: 'optimism',
+      },
+    },
+},
   [Network.Fantom]: {
     '0xf1648C50d2863f780c57849D812b4B7686031A3D': {
       name: 'LayerZero Wrapped Bitcoin',
