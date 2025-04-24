@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 268
+        "patch": 269
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-04-23T09:07:04.371Z",
+    "timestamp": "2025-04-24T12:04:14.739Z",
     "tokens": [
         {
             "chainId": 1,
@@ -9262,6 +9262,13 @@
             "address": "0xa34cc6726456a4e7be92B6575F6e0f3D2aa97155",
             "name": "FullNodeDummyGrp-ERC20s",
             "symbol": "s-FNDG",
+            "decimals": 18
+        },
+        {
+            "chainId": 100,
+            "address": "0x7147A7405fCFe5CFa30c6d5363f9f357a317d082",
+            "name": "MetriTestSupergroup-ERC20s",
+            "symbol": "s-METESTSUP",
             "decimals": 18
         },
         {
