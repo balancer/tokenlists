@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 270
+        "patch": 271
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-04-24T18:38:57.401Z",
+    "timestamp": "2025-04-24T18:49:09.867Z",
     "tokens": [
         {
             "chainId": 1,
@@ -15279,18 +15279,19 @@
         },
         {
             "chainId": 8453,
+            "address": "0x994ac01750047B9d35431a7Ae4Ed312ee955E030",
+            "name": "Axelar Wrapped OP",
+            "symbol": "axlOP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x994ac01750047b9d35431a7ae4ed312ee955e030.png"
+        },
+        {
+            "chainId": 8453,
             "address": "0x025dB5BA4D0c2990725817858C78A899DECD58d2",
             "name": "DeFi Choice VOTE",
             "symbol": "VOTE",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x025db5ba4d0c2990725817858c78a899decd58d2.png"
-        },
-        {
-            "chainId": 8453,
-            "address": "0x994ac01750047B9d35431a7Ae4Ed312ee955E030",
-            "name": "Axelar Wrapped OP",
-            "symbol": "axlOP",
-            "decimals": 18
         },
         {
             "chainId": 34443,
