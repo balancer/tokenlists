@@ -727,7 +727,7 @@ export const overwrites: OverwritesForList = {
         coingeckoId: 'optimism',
       },
     },
-},
+  },
   [Network.Fantom]: {
     '0xf1648C50d2863f780c57849D812b4B7686031A3D': {
       name: 'LayerZero Wrapped Bitcoin',
