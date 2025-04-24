@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 271
+        "patch": 272
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-04-24T18:49:09.867Z",
+    "timestamp": "2025-04-24T19:22:23.877Z",
     "tokens": [
         {
             "chainId": 1,
@@ -15283,7 +15283,10 @@
             "name": "Axelar Wrapped OP",
             "symbol": "axlOP",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x994ac01750047b9d35431a7ae4ed312ee955e030.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x994ac01750047b9d35431a7ae4ed312ee955e030.png",
+            "extensions": {
+                "coingeckoId": "optimism"
+            }
         },
         {
             "chainId": 8453,
