@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 272
+        "patch": 273
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-04-24T19:22:23.877Z",
+    "timestamp": "2025-04-28T08:24:39.655Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12824,6 +12824,14 @@
             "symbol": "estS",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/stS-boosted-Euler.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0x3333111A391cC08fa51353E9195526A70b333333",
+            "name": "Shadow Liquid Staking Token",
+            "symbol": "x33",
+            "decimals": 18,
+            "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x3333111a391cc08fa51353e9195526a70b333333.png?size=lg&key=6ad28a"
         },
         {
             "chainId": 250,
