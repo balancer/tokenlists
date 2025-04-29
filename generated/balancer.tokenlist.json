@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 275
+        "patch": 276
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-04-29T13:35:47.362Z",
+    "timestamp": "2025-04-29T15:01:36.749Z",
     "tokens": [
         {
             "chainId": 1,
@@ -17568,18 +17568,19 @@
         },
         {
             "chainId": 42161,
+            "address": "0x2e412435928EFE43b156Caa8F4B1068729fEE275",
+            "name": "King Protocol",
+            "symbol": "KING",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2e412435928efe43b156caa8f4b1068729fee275.png"
+        },
+        {
+            "chainId": 42161,
             "address": "0xfD28f108e95f4D41daAE9dbfFf707D677985998E",
             "name": "Parallel Governance Token",
             "symbol": "PRL",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfd28f108e95f4d41daae9dbfff707d677985998e.png"
-        },
-        {
-            "chainId": 42161,
-            "address": "0x2e412435928EFE43b156Caa8F4B1068729fEE275",
-            "name": "King Protocol",
-            "symbol": "KING",
-            "decimals": 18
         },
         {
             "chainId": 43114,
