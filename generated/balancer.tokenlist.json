@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 274
+        "patch": 275
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-04-29T07:25:41.297Z",
+    "timestamp": "2025-04-29T13:35:47.362Z",
     "tokens": [
         {
             "chainId": 1,
@@ -17573,6 +17573,13 @@
             "symbol": "PRL",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfd28f108e95f4d41daae9dbfff707d677985998e.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x2e412435928EFE43b156Caa8F4B1068729fEE275",
+            "name": "King Protocol",
+            "symbol": "KING",
+            "decimals": 18
         },
         {
             "chainId": 43114,
