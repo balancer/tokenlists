@@ -1709,5 +1709,9 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://dd.dexscreener.com/ds-data/tokens/sonic/0x3333111a391cc08fa51353e9195526a70b333333.png?size=lg&key=6ad28a',
     },
+    '0x9A08cD5691E009cC72E2A4d8e7F2e6EE14E96d6d': {
+      logoURI:
+        'https://raw.githubusercontent.com/stabilitydao/.github/main/tokens/sGEM1.png',
+    },
   },
 }
