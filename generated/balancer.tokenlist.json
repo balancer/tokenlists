@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 278
+        "patch": 279
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-05-01T18:56:50.034Z",
+    "timestamp": "2025-05-01T18:59:44.757Z",
     "tokens": [
         {
             "chainId": 1,
@@ -15309,6 +15309,13 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x025db5ba4d0c2990725817858c78a899decd58d2.png"
         },
         {
+            "chainId": 8453,
+            "address": "0x4772D2e014F9fC3a820C444e3313968e9a5C8121",
+            "name": "YieldFi yUSD",
+            "symbol": "yUSD",
+            "decimals": 18
+        },
+        {
             "chainId": 34443,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -17584,6 +17591,13 @@
             "symbol": "PRL",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfd28f108e95f4d41daae9dbfff707d677985998e.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x4772D2e014F9fC3a820C444e3313968e9a5C8121",
+            "name": "YieldFi yUSD",
+            "symbol": "yUSD",
+            "decimals": 18
         },
         {
             "chainId": 42161,
