@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 277
+        "patch": 278
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-05-01T05:56:21.451Z",
+    "timestamp": "2025-05-01T18:56:50.034Z",
     "tokens": [
         {
             "chainId": 1,
@@ -17584,6 +17584,38 @@
             "symbol": "PRL",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfd28f108e95f4d41daae9dbfff707d677985998e.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x4C9aAed3b8c443b4b634D1A189a5e25C604768dE",
+            "name": "Lodestar USD Coin",
+            "symbol": "lUSDC",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4c9aaed3b8c443b4b634d1a189a5e25c604768de.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x2193c45244AF12C280941281c8aa67dD08be0a64",
+            "name": "Lodestar Ether",
+            "symbol": "lETH",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2193c45244af12c280941281c8aa67dd08be0a64.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xC37896BF3EE5a2c62Cdbd674035069776f721668",
+            "name": "Lodestar Wrapped BTC",
+            "symbol": "lWBTC",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc37896bf3ee5a2c62cdbd674035069776f721668.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xF19547f9ED24aA66b03c3a552D181Ae334FBb8DB",
+            "name": "Lodestar",
+            "symbol": "LODE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf19547f9ed24aa66b03c3a552d181ae334fbb8db.png"
         },
         {
             "chainId": 43114,
