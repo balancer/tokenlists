@@ -1708,6 +1708,9 @@ export const overwrites: OverwritesForList = {
     '0x3333111A391cC08fa51353E9195526A70b333333': {
       logoURI:
         'https://dd.dexscreener.com/ds-data/tokens/sonic/0x3333111a391cc08fa51353e9195526a70b333333.png?size=lg&key=6ad28a',
+      extensions: {
+        coingeckoId: 'shadow-liquid-staking-token',
+      },
     },
     '0x9A08cD5691E009cC72E2A4d8e7F2e6EE14E96d6d': {
       logoURI:
