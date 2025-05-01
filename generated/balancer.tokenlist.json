@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 276
+        "patch": 277
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-04-29T15:01:36.749Z",
+    "timestamp": "2025-05-01T05:56:21.451Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12832,7 +12832,10 @@
             "name": "Shadow Liquid Staking Token",
             "symbol": "x33",
             "decimals": 18,
-            "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x3333111a391cc08fa51353e9195526a70b333333.png?size=lg&key=6ad28a"
+            "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x3333111a391cc08fa51353e9195526a70b333333.png?size=lg&key=6ad28a",
+            "extensions": {
+                "coingeckoId": "shadow-liquid-staking-token"
+            }
         },
         {
             "chainId": 250,
@@ -14024,7 +14027,7 @@
         {
             "chainId": 252,
             "address": "0xFc00000000000000000000000000000000000002",
-            "name": "Frax Share",
+            "name": "Wrapped Frax",
             "symbol": "FXS",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/39951/large/FXS.png?1724902450"
@@ -14043,7 +14046,7 @@
         {
             "chainId": 252,
             "address": "0xFC00000000000000000000000000000000000006",
-            "name": "Wrapped Frax Ether",
+            "name": "Frax Ether",
             "symbol": "wfrxETH",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/35848/large/wrapped-sfrxeth.png?1709894604"
