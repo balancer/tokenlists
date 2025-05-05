@@ -1716,5 +1716,10 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/stabilitydao/.github/main/tokens/sGEM1.png',
     },
+    '0xfd28f108e95f4d41daae9dbfff707d677985998e': {
+      extensions: {
+        coingeckoId: null,
+      },
+    },
   },
 }
