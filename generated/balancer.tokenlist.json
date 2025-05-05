@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 280
+        "patch": 281
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-05-05T17:54:15.559Z",
+    "timestamp": "2025-05-05T20:44:19.092Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12784,7 +12784,10 @@
             "name": "Parallel Governance Token",
             "symbol": "PRL",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfd28f108e95f4d41daae9dbfff707d677985998e.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfd28f108e95f4d41daae9dbfff707d677985998e.png",
+            "extensions": {
+                "coingeckoId": null
+            }
         },
         {
             "chainId": 146,
