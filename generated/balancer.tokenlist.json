@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 279
+        "patch": 280
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-05-01T18:59:44.757Z",
+    "timestamp": "2025-05-05T17:54:15.559Z",
     "tokens": [
         {
             "chainId": 1,
@@ -15302,18 +15302,19 @@
         },
         {
             "chainId": 8453,
+            "address": "0x4772D2e014F9fC3a820C444e3313968e9a5C8121",
+            "name": "YieldFi yUSD",
+            "symbol": "yUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4772d2e014f9fc3a820c444e3313968e9a5c8121.png"
+        },
+        {
+            "chainId": 8453,
             "address": "0x025dB5BA4D0c2990725817858C78A899DECD58d2",
             "name": "DeFi Choice VOTE",
             "symbol": "VOTE",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x025db5ba4d0c2990725817858c78a899decd58d2.png"
-        },
-        {
-            "chainId": 8453,
-            "address": "0x4772D2e014F9fC3a820C444e3313968e9a5C8121",
-            "name": "YieldFi yUSD",
-            "symbol": "yUSD",
-            "decimals": 18
         },
         {
             "chainId": 34443,
@@ -17597,7 +17598,8 @@
             "address": "0x4772D2e014F9fC3a820C444e3313968e9a5C8121",
             "name": "YieldFi yUSD",
             "symbol": "yUSD",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4772d2e014f9fc3a820c444e3313968e9a5c8121.png"
         },
         {
             "chainId": 42161,
