@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 281
+        "patch": 282
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-05-05T20:44:19.092Z",
+    "timestamp": "2025-05-10T22:08:18.951Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7846,6 +7846,14 @@
             "symbol": "PRL",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6c0aeceedc55c9d55d8b99216a670d85330941c3.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xc597a71A49C49b4A0554B3110bab25A51c76847b",
+            "name": "Heroglyph Name Change Token",
+            "symbol": "HCT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc597a71a49c49b4a0554b3110bab25a51c76847b.png"
         },
         {
             "chainId": 10,
