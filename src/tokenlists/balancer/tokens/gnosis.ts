@@ -77,4 +77,17 @@ export default [
   '0xc63529297dE076eB15fcbE873AE9136E446cFbB9', // GYFI
   '0xa34cc6726456a4e7be92b6575f6e0f3d2aa97155', // FullNodeDummyGrp
   '0x7147a7405fcfe5cfa30c6d5363f9f357a317d082', // MetriTestSupergroup
+  '0x45508F2D63A36f5F45cB4a967bcC9ff05201b16a', // MetriTestSupergroup2
+  '0xf084b8F984912f0c62179Ca7EE998BeC90757B53', // MetriTestSupergroup3
+  '0xC2366F0d00f274d1fB6ac761e7D66EAfD1b8C03D', // MetriTestSupergroup4
+  '0xa0ea681f5685BFa6857d776b5aCbf3D51bbeCC9a', // MetriTestSupergroup5
+  '0xE0eD85F76D9C552478929fab44693E03F0899F23', // MetriTestSupergroup6
+  '0xe855AC8aAf7df5ACaefb760fD66a5ed71f6141Fb', // MetriTestSupergroup7
+  '0x51cFFACFfb9bF480c20023B625977c419146F12a', // MetriTestSupergroup8
+  '0x8E758696fE53944c43e591470F8b05168556792E', // MetriTestSupergroup9
+  '0xBF41377Eef5a29F11152bA7145FA096e0Ea1189e', // MetriTestSupergroup10
+  '0x0d8c4901Dd270Fe101B8014A5dbECC4e4432eB1E', // MetriTestSupergroup11
+  '0x1C67d859bD4a4e449d790b65fd6E28f982ae84B0', // MetriTestSupergroup12
+  '0x31B32b96049F8FD24969611252c4e44a1b4A07eB', // MetriTestSupergroup13
+  '0x5198D513A6DBbA16637B353ce06197f750addB4B', // MetriTestSupergroup14
 ]
