@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 283
+        "patch": 284
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-05-12T17:01:31.414Z",
+    "timestamp": "2025-05-13T06:23:28.922Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8668,6 +8668,97 @@
             "symbol": "PRL",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfd28f108e95f4d41daae9dbfff707d677985998e.png"
+        },
+        {
+            "chainId": 10,
+            "address": "0x61b620FAd391b53A2D0973b10a3Ed69558d5c66E",
+            "name": "Wrapped Aave Optimism DAI",
+            "symbol": "waOptDAI",
+            "decimals": 18
+        },
+        {
+            "chainId": 10,
+            "address": "0x464b808c2C7E04b07e860fDF7a91870620246148",
+            "name": "Wrapped Aave Optimism WETH",
+            "symbol": "waOptWETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 10,
+            "address": "0x927CfF131fD5B43FC992D071929b2c095d6E4b70",
+            "name": "Wrapped Aave Optimism USDT",
+            "symbol": "waOptUSDT",
+            "decimals": 6
+        },
+        {
+            "chainId": 10,
+            "address": "0xEA9020a9e04C557478daD749A1aaD242b443042C",
+            "name": "Wrapped Aave Optimism WBTC",
+            "symbol": "waOptWBTC",
+            "decimals": 8
+        },
+        {
+            "chainId": 10,
+            "address": "0xbaF95bB30CDab3d5b7a11B67EDeF5631bD62be86",
+            "name": "Wrapped Aave Optimism wstETH",
+            "symbol": "waOptwstETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 10,
+            "address": "0x41B334E9F2C0ED1f30fD7c351874a6071C53a78E",
+            "name": "Wrapped Aave Optimism USDCn",
+            "symbol": "waOptUSDCn",
+            "decimals": 6
+        },
+        {
+            "chainId": 10,
+            "address": "0x712Ef4D78f43ecAfa106ea003704a908C99D7f11",
+            "name": "Wrapped Aave Optimism OP",
+            "symbol": "waOptOP",
+            "decimals": 18
+        },
+        {
+            "chainId": 10,
+            "address": "0x8e6a81b9d541A0CeA090818B62C4B2DE7f2A2Cf7",
+            "name": "Wrapped Aave Optimism rETH",
+            "symbol": "waOptrETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 10,
+            "address": "0x0B590eF479c8e03825Ae779839aCb4583aCc15FD",
+            "name": "Wrapped Aave Optimism USDC",
+            "symbol": "waOptUSDC",
+            "decimals": 6
+        },
+        {
+            "chainId": 10,
+            "address": "0xC438643b0eee8a314eEC53eb8A1Ee6467C88fc24",
+            "name": "Wrapped Aave Optimism LINK",
+            "symbol": "waOptLINK",
+            "decimals": 18
+        },
+        {
+            "chainId": 10,
+            "address": "0x527604E4D87A7562ec653dbe2878D0DCAB7f1972",
+            "name": "Wrapped Aave Optimism AAVE",
+            "symbol": "waOptAAVE",
+            "decimals": 18
+        },
+        {
+            "chainId": 10,
+            "address": "0x0ec63A55a688E5Ba26afe8d9250114505E8b60a0",
+            "name": "Wrapped Aave Optimism SUSD",
+            "symbol": "waOptSUSD",
+            "decimals": 18
+        },
+        {
+            "chainId": 10,
+            "address": "0x413093E03d6aeE4F2F7e48D4b88881bf4932b249",
+            "name": "Wrapped Aave Optimism LUSD",
+            "symbol": "waOptLUSD",
+            "decimals": 18
         },
         {
             "chainId": 100,
