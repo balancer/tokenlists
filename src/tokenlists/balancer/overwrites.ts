@@ -828,10 +828,6 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://assets.coingecko.com/coins/images/18779/small/DEI-logo-round-white-3.png?1646300101',
     },
-    '0x250CD2c6B7259a0621d1C2997C48dDdbEA54A5A6': {
-      logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/Bwool_logo_round.svg',
-    },
     '0xE5586582E1a60E302a53e73E4FaDccAF868b459a': {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xE5586582E1a60E302a53e73E4FaDccAF868b459a.png',
@@ -847,10 +843,6 @@ export const overwrites: OverwritesForList = {
     '0xF04A45b429eB5930a85884141C530147Db0f609E': {
       logoURI:
         'https://valhalla-dao.com/wp-content/uploads/2023/02/logo1-1.png',
-    },
-    '0x62227c75908b7d358a9d70eA4670F57f8b012Ccc': {
-      logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/mFTM-Token-BlackBlue.png',
     },
     '0x4f76664105ba7E35dD4904eC70F2042fc17563d9': {
       logoURI:
@@ -1006,10 +998,6 @@ export const overwrites: OverwritesForList = {
     '0x43F9a13675e352154f745d6402E853FECC388aA5': {
       logoURI:
         'https://cdn.jsdelivr.net/gh/unified-defi/equalizer-tokens@main/fantom/tokens/128x128/0x43f9a13675e352154f745d6402e853fecc388aa5.png',
-    },
-    '0x2f733095b80a04b38b0d10cc884524a3d09b836a': {
-      logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/USDCe.svg',
     },
     '0x1D631Adc479309aA073949E0D67973555BBBDcd0': {
       logoURI:
@@ -1341,10 +1329,6 @@ export const overwrites: OverwritesForList = {
     '0x99AaC0966ec3F667c85e9FD2dFc6b8f3E2C896B5': {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x99AaC0966ec3F667c85e9FD2dFc6b8f3E2C896B5.png',
-    },
-    '0x77672EdD7F5ED8bDD4e6De9F56B9A312A1a41031': {
-      logoURI:
-        'https://beethoven-assets.s3.eu-central-1.amazonaws.com/BURGER.png',
     },
     '0x3854fD4712eb3A5Aa51c949C29cACE84F7ED2eFC': {
       logoURI: 'https://i.ibb.co/0s08MzL/SHILLY-LOGO-CIRCLE-BIG-2.png',
