@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 284
+        "patch": 285
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-05-13T06:23:28.922Z",
+    "timestamp": "2025-05-13T06:46:24.267Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12163,8 +12163,8 @@
         {
             "chainId": 146,
             "address": "0x29219dd400f2Bf60E5a23d13Be72B486D4038894",
-            "name": "Bridged USDC (Sonic Labs)",
-            "symbol": "USDC.e",
+            "name": "USDC",
+            "symbol": "usdc",
             "decimals": 6,
             "logoURI": "https://assets.coingecko.com/coins/images/6319/large/usdc.png?1696506694",
             "extensions": {
