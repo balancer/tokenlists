@@ -1287,7 +1287,7 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://assets.coingecko.com/coins/images/6319/large/usdc.png?1696506694',
       name: 'USDC',
-      symbol: 'usdc',
+      symbol: 'USDC',
       extensions: {
         coingeckoId: 'usd-coin',
       },
