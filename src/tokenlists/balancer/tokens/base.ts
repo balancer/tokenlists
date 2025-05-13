@@ -134,5 +134,5 @@ export default [
   '0x0000000f2eb9f69274678c76222b35eec7588a65', // yoUSD
   '0xbcbc8cb4d1e8ed048a6276a5e94a3e952660bcbc', // yoBTC
   '0x3a43aec53490cb9fa922847385d82fe25d0e9de7', // yoETH
-  "0x9d0e8f5b25384c7310cb8c6ae32c8fbeb645d083", // DRV
+  '0x9d0e8f5b25384c7310cb8c6ae32c8fbeb645d083', // DRV
 ]
