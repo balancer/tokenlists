@@ -643,6 +643,18 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://optimistic.etherscan.io/token/images/synthetixeuro_32.png',
     },
+    '0x41B334E9F2C0ED1f30fD7c351874a6071C53a78E': {
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd4fa2d31b7968e448877f69a96de69f5de8cd23e.png',
+    },
+    '0x927CfF131fD5B43FC992D071929b2c095d6E4b70': {
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7bc3485026ac48b6cf9baf0a377477fff5703af8.png',
+    },
+    '0x464b808c2C7E04b07e860fDF7a91870620246148': {
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0bfc9d54fc184518a81162f8fb99c2eaca081202.png',
+    },
   },
   [Network.Gnosis]: {
     '0x7eF541E2a22058048904fE5744f9c7E4C57AF717': {
