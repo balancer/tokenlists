@@ -1719,5 +1719,11 @@ export const overwrites: OverwritesForList = {
         coingeckoId: null,
       },
     },
+    '0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C': {
+      logoURI: 'https://sonicscan.org/token/images/heyanon_64.png',
+    },
+    '0x0e0Ce4D450c705F8a0B6Dd9d5123e3df2787D16B': {
+      logoURI: 'https://sonicscan.org/token/images/wagmi_64.png',
+    },
   },
 }
