@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 291
+        "patch": 292
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-05-14T14:16:50.806Z",
+    "timestamp": "2025-05-14T18:00:43.853Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7856,6 +7856,14 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc597a71a49c49b4a0554b3110bab25a51c76847b.png"
         },
         {
+            "chainId": 1,
+            "address": "0x97cCC1C046d067ab945d3CF3CC6920D3b1E54c88",
+            "name": "Pareto synthetic dollar USP",
+            "symbol": "USP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x97ccc1c046d067ab945d3cf3cc6920d3b1e54c88.png"
+        },
+        {
             "chainId": 10,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -9406,49 +9414,56 @@
             "address": "0x7147A7405fCFe5CFa30c6d5363f9f357a317d082",
             "name": "MetriTestSupergroup-ERC20s",
             "symbol": "s-METESTSUP",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7147a7405fcfe5cfa30c6d5363f9f357a317d082.png"
         },
         {
             "chainId": 100,
             "address": "0x45508F2D63A36f5F45cB4a967bcC9ff05201b16a",
             "name": "ETH Prague-ERC20s",
             "symbol": "s-EPRG",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x45508f2d63a36f5f45cb4a967bcc9ff05201b16a.png"
         },
         {
             "chainId": 100,
             "address": "0xf084b8F984912f0c62179Ca7EE998BeC90757B53",
             "name": "CirclesLisboa-ERC20s",
             "symbol": "s-crc-lx",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf084b8f984912f0c62179ca7ee998bec90757b53.png"
         },
         {
             "chainId": 100,
             "address": "0xC2366F0d00f274d1fB6ac761e7D66EAfD1b8C03D",
             "name": "Futura Garden-ERC20s",
             "symbol": "s-ZUB",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc2366f0d00f274d1fb6ac761e7d66eafd1b8c03d.png"
         },
         {
             "chainId": 100,
             "address": "0xa0ea681f5685BFa6857d776b5aCbf3D51bbeCC9a",
             "name": "Circles Backers-ERC20s",
             "symbol": "s-CBG",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa0ea681f5685bfa6857d776b5acbf3d51bbecc9a.png"
         },
         {
             "chainId": 100,
             "address": "0xE0eD85F76D9C552478929fab44693E03F0899F23",
             "name": "KPK-ERC20s",
             "symbol": "s-KPK",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe0ed85f76d9c552478929fab44693e03f0899f23.png"
         },
         {
             "chainId": 100,
             "address": "0xe855AC8aAf7df5ACaefb760fD66a5ed71f6141Fb",
             "name": "ETHDam-ERC20s",
             "symbol": "s-DAM",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe855ac8aaf7df5acaefb760fd66a5ed71f6141fb.png"
         },
         {
             "chainId": 100,
@@ -9462,7 +9477,8 @@
             "address": "0x8E758696fE53944c43e591470F8b05168556792E",
             "name": "Metri Testers Group-ERC20s",
             "symbol": "s-METEST",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x8e758696fe53944c43e591470f8b05168556792e.png"
         },
         {
             "chainId": 100,
@@ -9476,28 +9492,32 @@
             "address": "0x0d8c4901Dd270Fe101B8014A5dbECC4e4432eB1E",
             "name": "Berlin Full Node-ERC20s",
             "symbol": "s-BFN",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0d8c4901dd270fe101b8014a5dbecc4e4432eb1e.png"
         },
         {
             "chainId": 100,
             "address": "0x1C67d859bD4a4e449d790b65fd6E28f982ae84B0",
             "name": "Breadchain-ERC20s",
             "symbol": "s-BREAD",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1c67d859bd4a4e449d790b65fd6e28f982ae84b0.png"
         },
         {
             "chainId": 100,
             "address": "0x31B32b96049F8FD24969611252c4e44a1b4A07eB",
             "name": "Blockscout-ERC20s",
             "symbol": "s-SCOUT",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x31b32b96049f8fd24969611252c4e44a1b4a07eb.png"
         },
         {
             "chainId": 100,
             "address": "0x5198D513A6DBbA16637B353ce06197f750addB4B",
             "name": "ETHCC-ERC20s",
             "symbol": "s-ETHCC",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5198d513a6dbba16637b353ce06197f750addb4b.png"
         },
         {
             "chainId": 137,
