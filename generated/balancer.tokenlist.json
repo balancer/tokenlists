@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 289
+        "patch": 290
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-05-14T12:38:56.587Z",
+    "timestamp": "2025-05-14T12:49:47.338Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12616,8 +12616,8 @@
         {
             "chainId": 146,
             "address": "0x7870ddFd5ACA4E977B2287e9A212bcbe8FC4135a",
-            "name": "Beefy Wrapped SiloV2 USDC.e",
-            "symbol": "BeefyUSDC.e",
+            "name": "Beefy Wrapped SiloV2 USDC",
+            "symbol": "BeefyUSDC",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7870ddfd5aca4e977b2287e9a212bcbe8fc4135a.png"
         },
@@ -12880,7 +12880,7 @@
         {
             "chainId": 146,
             "address": "0x6646248971427B80ce531bdD793e2Eb859347E55",
-            "name": "Wrapped Aave Sonic USDC.e",
+            "name": "Wrapped Aave Sonic USDC",
             "symbol": "waUSDC",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd4fa2d31b7968e448877f69a96de69f5de8cd23e.png"
@@ -12969,7 +12969,7 @@
         {
             "chainId": 146,
             "address": "0x42CE2234fd5a26bF161477a996961c4d01F466a3",
-            "name": "Silo Wrapped USDC.e - 33",
+            "name": "Silo Wrapped USDC - 33",
             "symbol": "SiloUSDC",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5954ce6671d97D24B782920ddCdBB4b1E63aB2De.png"
