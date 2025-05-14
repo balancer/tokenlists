@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 288
+        "patch": 289
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-05-14T07:00:35.951Z",
+    "timestamp": "2025-05-14T12:38:56.587Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13069,6 +13069,22 @@
             }
         },
         {
+            "chainId": 146,
+            "address": "0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C",
+            "name": "HeyAnon",
+            "symbol": "Anon",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0x0e0Ce4D450c705F8a0B6Dd9d5123e3df2787D16B",
+            "name": "Wagmi",
+            "symbol": "WAGMI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/146/0x0e0Ce4D450c705F8a0B6Dd9d5123e3df2787D16B/logo.png"
+        },
+        {
             "chainId": 250,
             "address": "0xf1648C50d2863f780c57849D812b4B7686031A3D",
             "name": "LayerZero Wrapped Bitcoin",
@@ -15243,7 +15259,7 @@
             "name": "HeyAnon",
             "symbol": "Anon",
             "decimals": 18,
-            "logoURI": "https://coin-images.coingecko.com/coins/images/52961/large/ICON.png?1734862960"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c.png"
         },
         {
             "chainId": 8453,
