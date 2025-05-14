@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 290
+        "patch": 291
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-05-14T12:49:47.338Z",
+    "timestamp": "2025-05-14T14:16:50.806Z",
     "tokens": [
         {
             "chainId": 1,
@@ -15588,6 +15588,14 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x3a43aec53490cb9fa922847385d82fe25d0e9de7.png"
         },
         {
+            "chainId": 8453,
+            "address": "0x9d0E8f5b25384C7310CB8C6aE32C8fbeb645d083",
+            "name": "Derive",
+            "symbol": "DRV",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/52889/large/Token_Logo.png?1734601695"
+        },
+        {
             "chainId": 34443,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -18709,6 +18717,21 @@
             "symbol": "esavUSD-2",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x72f92a966f1874f74e1b601bee7cf57031b53a03.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xbc78D84Ba0c46dFe32cf2895a19939c86b81a777",
+            "name": "Solv BTC",
+            "symbol": "SolvBTC",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/36800/large/solvBTC.png?1719810684"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x6C7d727a0432D03351678F91FAA1126a5B871DF5",
+            "name": "SolvBTC Avalanche",
+            "symbol": "SolvBTC.AVAX",
+            "decimals": 18
         },
         {
             "chainId": 11155111,
