@@ -1487,8 +1487,8 @@ export const overwrites: OverwritesForList = {
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x52fc9e0a68b6a4c9b57b9d1d99fb71449a99dcd8.png',
     },
     '0x7870ddfd5aca4e977b2287e9a212bcbe8fc4135a': {
-      symbol: 'BeefyUSDC.e',
-      name: 'Beefy Wrapped SiloV2 USDC.e',
+      symbol: 'BeefyUSDC',
+      name: 'Beefy Wrapped SiloV2 USDC',
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7870ddfd5aca4e977b2287e9a212bcbe8fc4135a.png',
     },
@@ -1661,7 +1661,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x42CE2234fd5a26bF161477a996961c4d01F466a3': {
       symbol: 'SiloUSDC',
-      name: 'Silo Wrapped USDC.e - 33',
+      name: 'Silo Wrapped USDC - 33',
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5954ce6671d97D24B782920ddCdBB4b1E63aB2De.png',
     },
@@ -1679,7 +1679,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x6646248971427B80ce531bdD793e2Eb859347E55': {
       symbol: 'waUSDC',
-      name: 'Wrapped Aave Sonic USDC.e',
+      name: 'Wrapped Aave Sonic USDC',
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd4fa2d31b7968e448877f69a96de69f5de8cd23e.png',
     },
