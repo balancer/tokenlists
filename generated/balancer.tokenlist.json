@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 292
+        "patch": 293
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-05-14T18:00:43.853Z",
+    "timestamp": "2025-05-14T19:59:32.570Z",
     "tokens": [
         {
             "chainId": 1,
@@ -15614,6 +15614,30 @@
             "symbol": "DRV",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/52889/large/Token_Logo.png?1734601695"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x9e271eC4D66F2b400Ad92De8a10e5c9C1914259C",
+            "name": "The Upsider by Virtuals",
+            "symbol": "$UP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9e271ec4d66f2b400ad92de8a10e5c9c1914259c.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x74299A718b2c44483a27325d7725F0B2646DE3B1",
+            "name": "Constellation",
+            "symbol": "DAG",
+            "decimals": 8,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/4645/large/Constellation_Network_Logo.png?1696505213"
+        },
+        {
+            "chainId": 8453,
+            "address": "0xFE9885BAfF18074846aaa2D5541581aDf068731d",
+            "name": "Dor Technologies",
+            "symbol": "DOR",
+            "decimals": 8,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/33044/large/dortoken_red.png?1700429057"
         },
         {
             "chainId": 34443,
