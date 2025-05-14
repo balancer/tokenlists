@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 287
+        "patch": 288
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-05-13T10:59:41.123Z",
+    "timestamp": "2025-05-14T07:00:35.951Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8681,14 +8681,16 @@
             "address": "0x464b808c2C7E04b07e860fDF7a91870620246148",
             "name": "Wrapped Aave Optimism WETH",
             "symbol": "waOptWETH",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0bfc9d54fc184518a81162f8fb99c2eaca081202.png"
         },
         {
             "chainId": 10,
             "address": "0x927CfF131fD5B43FC992D071929b2c095d6E4b70",
             "name": "Wrapped Aave Optimism USDT",
             "symbol": "waOptUSDT",
-            "decimals": 6
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7bc3485026ac48b6cf9baf0a377477fff5703af8.png"
         },
         {
             "chainId": 10,
@@ -8709,7 +8711,8 @@
             "address": "0x41B334E9F2C0ED1f30fD7c351874a6071C53a78E",
             "name": "Wrapped Aave Optimism USDCn",
             "symbol": "waOptUSDCn",
-            "decimals": 6
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd4fa2d31b7968e448877f69a96de69f5de8cd23e.png"
         },
         {
             "chainId": 10,
@@ -8758,6 +8761,41 @@
             "address": "0x413093E03d6aeE4F2F7e48D4b88881bf4932b249",
             "name": "Wrapped Aave Optimism LUSD",
             "symbol": "waOptLUSD",
+            "decimals": 18
+        },
+        {
+            "chainId": 10,
+            "address": "0x80Eede496655FB9047dd39d9f418d5483ED600df",
+            "name": "Frax USD",
+            "symbol": "frxUSD",
+            "decimals": 18
+        },
+        {
+            "chainId": 10,
+            "address": "0x5Bff88cA1442c2496f7E475E9e7786383Bc070c0",
+            "name": "Staked Frax USD",
+            "symbol": "sfrxUSD",
+            "decimals": 18
+        },
+        {
+            "chainId": 10,
+            "address": "0x43eDD7f3831b08FE70B7555ddD373C8bF65a9050",
+            "name": "Frax Ether",
+            "symbol": "frxETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 10,
+            "address": "0x3Ec3849C33291a9eF4c5dB86De593EB4A37fDe45",
+            "name": "Staked Frax Ether",
+            "symbol": "sfrxETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 10,
+            "address": "0x64445f0aecC51E94aD52d8AC56b7190e764E561a",
+            "name": "Wrapped Frax",
+            "symbol": "WFRAX",
             "decimals": 18
         },
         {
