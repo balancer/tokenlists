@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 294
+        "patch": 295
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-05-15T01:17:21.862Z",
+    "timestamp": "2025-05-15T11:09:37.718Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8164,7 +8164,7 @@
         {
             "chainId": 10,
             "address": "0x484c2D6e3cDd945a8B2DF735e079178C1036578c",
-            "name": "Staked Frax Ether",
+            "name": "Staked Frax Ether - Frax Ferry",
             "symbol": "sfrxETH",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/28285/large/sfrxETH_icon.png?1696527285"
@@ -8783,7 +8783,8 @@
             "address": "0x5Bff88cA1442c2496f7E475E9e7786383Bc070c0",
             "name": "Staked Frax USD",
             "symbol": "sfrxUSD",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/sfrxusd.png"
         },
         {
             "chainId": 10,
@@ -8797,7 +8798,8 @@
             "address": "0x3Ec3849C33291a9eF4c5dB86De593EB4A37fDe45",
             "name": "Staked Frax Ether",
             "symbol": "sfrxETH",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/28285/large/sfrxETH_icon.png/1696527285&w=48&q=75"
         },
         {
             "chainId": 10,
