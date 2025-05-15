@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 293
+        "patch": 294
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-05-14T19:59:32.570Z",
+    "timestamp": "2025-05-15T01:17:21.862Z",
     "tokens": [
         {
             "chainId": 1,
@@ -17955,6 +17955,22 @@
             "symbol": "LODE",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf19547f9ed24aa66b03c3a552d181ae334fbb8db.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x0A1a1A107E45b7Ced86833863f482BC5f4ed82EF",
+            "name": "USDai",
+            "symbol": "USDai",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0a1a1a107e45b7ced86833863f482bc5f4ed82ef.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x0B2b2B2076d95dda7817e785989fE353fe955ef9",
+            "name": "Staked USDai",
+            "symbol": "sUSDai",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0b2b2b2076d95dda7817e785989fe353fe955ef9.png"
         },
         {
             "chainId": 43114,
