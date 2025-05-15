@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 296
+        "patch": 297
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-05-15T12:51:44.469Z",
+    "timestamp": "2025-05-15T14:06:37.459Z",
     "tokens": [
         {
             "chainId": 1,
@@ -18742,6 +18742,22 @@
         },
         {
             "chainId": 43114,
+            "address": "0xbc78D84Ba0c46dFe32cf2895a19939c86b81a777",
+            "name": "Solv BTC",
+            "symbol": "SolvBTC",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/36800/large/solvBTC.png?1719810684"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x6C7d727a0432D03351678F91FAA1126a5B871DF5",
+            "name": "SolvBTC Avalanche",
+            "symbol": "SolvBTC.AVAX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6c7d727a0432d03351678f91faa1126a5b871df5.png"
+        },
+        {
+            "chainId": 43114,
             "address": "0x5030183B3DD0105d69D7d45595C120Fc4b542EC3",
             "name": "EVK Vault esavUSD-3",
             "symbol": "esavUSD-3",
@@ -18779,21 +18795,6 @@
             "symbol": "esavUSD-2",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x72f92a966f1874f74e1b601bee7cf57031b53a03.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0xbc78D84Ba0c46dFe32cf2895a19939c86b81a777",
-            "name": "Solv BTC",
-            "symbol": "SolvBTC",
-            "decimals": 18,
-            "logoURI": "https://coin-images.coingecko.com/coins/images/36800/large/solvBTC.png?1719810684"
-        },
-        {
-            "chainId": 43114,
-            "address": "0x6C7d727a0432D03351678F91FAA1126a5B871DF5",
-            "name": "SolvBTC Avalanche",
-            "symbol": "SolvBTC.AVAX",
-            "decimals": 18
         },
         {
             "chainId": 11155111,
