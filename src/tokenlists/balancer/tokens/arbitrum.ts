@@ -274,4 +274,6 @@ export default [
   '0x2193c45244AF12C280941281c8aa67dD08be0a64', // Lodestar ETH
   '0xC37896BF3EE5a2c62Cdbd674035069776f721668', // Lodestar Wrapped Bitcoin
   '0xF19547f9ED24aA66b03c3a552D181Ae334FBb8DB', // Lodestar Token
+  '0x0a1a1a107e45b7ced86833863f482bc5f4ed82ef', // USD.ai
+  '0x0B2b2B2076d95dda7817e785989fE353fe955ef9', // sUSD.ai
 ]
