@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 295
+        "patch": 296
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-05-15T11:09:37.718Z",
+    "timestamp": "2025-05-15T12:51:44.469Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8799,7 +8799,7 @@
             "name": "Staked Frax Ether",
             "symbol": "sfrxETH",
             "decimals": 18,
-            "logoURI": "https://coin-images.coingecko.com/coins/images/28285/large/sfrxETH_icon.png/1696527285&w=48&q=75"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/sfrxETH.png"
         },
         {
             "chainId": 10,
