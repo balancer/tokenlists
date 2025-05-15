@@ -655,6 +655,17 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0bfc9d54fc184518a81162f8fb99c2eaca081202.png',
     },
+    '0x3ec3849c33291a9ef4c5db86de593eb4a37fde45': {
+      logoURI:
+        'https://coin-images.coingecko.com/coins/images/28285/large/sfrxETH_icon.png/1696527285&w=48&q=75',
+    },
+    '0x484c2d6e3cdd945a8b2df735e079178c1036578c': {
+      name: 'Staked Frax Ether - Frax Ferry',
+    },
+    '0x5bff88ca1442c2496f7e475e9e7786383bc070c0': {
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/sfrxusd.png',
+    },
   },
   [Network.Gnosis]: {
     '0x7eF541E2a22058048904fE5744f9c7E4C57AF717': {
