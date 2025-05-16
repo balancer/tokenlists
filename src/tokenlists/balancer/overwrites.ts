@@ -663,7 +663,7 @@ export const overwrites: OverwritesForList = {
       },
     },
     '0x484c2d6e3cdd945a8b2df735e079178c1036578c': {
-      name: 'Staked Frax Ether - Frax Ferry',
+      name: 'Staked Frax Ether - Deprecated Frax Ferry',
     },
     '0x5bff88ca1442c2496f7e475e9e7786383bc070c0': {
       logoURI:
