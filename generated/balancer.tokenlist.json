@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 297
+        "patch": 298
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-05-15T14:06:37.459Z",
+    "timestamp": "2025-05-16T06:04:44.315Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8164,7 +8164,7 @@
         {
             "chainId": 10,
             "address": "0x484c2D6e3cDd945a8B2DF735e079178C1036578c",
-            "name": "Staked Frax Ether - Frax Ferry",
+            "name": "Staked Frax Ether - Deprecated Frax Ferry",
             "symbol": "sfrxETH",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/28285/large/sfrxETH_icon.png?1696527285"
@@ -8799,7 +8799,10 @@
             "name": "Staked Frax Ether",
             "symbol": "sfrxETH",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/sfrxETH.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/sfrxETH.png",
+            "extensions": {
+                "coingeckoId": "staked-frax-ether"
+            }
         },
         {
             "chainId": 10,
