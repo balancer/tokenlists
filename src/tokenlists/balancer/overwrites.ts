@@ -658,6 +658,9 @@ export const overwrites: OverwritesForList = {
     '0x3ec3849c33291a9ef4c5db86de593eb4a37fde45': {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/sfrxETH.png',
+      extensions: {
+        coingeckoId: 'staked-frax-ether',
+      },
     },
     '0x484c2d6e3cdd945a8b2df735e079178c1036578c': {
       name: 'Staked Frax Ether - Frax Ferry',
