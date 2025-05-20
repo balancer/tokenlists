@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 300
+        "patch": 301
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-05-20T01:39:51.840Z",
+    "timestamp": "2025-05-20T14:16:25.322Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8719,7 +8719,8 @@
             "address": "0xbaF95bB30CDab3d5b7a11B67EDeF5631bD62be86",
             "name": "Wrapped Aave Optimism wstETH",
             "symbol": "waOptwstETH",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wstETH-aave-boosted.png"
         },
         {
             "chainId": 10,
@@ -8741,7 +8742,8 @@
             "address": "0x8e6a81b9d541A0CeA090818B62C4B2DE7f2A2Cf7",
             "name": "Wrapped Aave Optimism rETH",
             "symbol": "waOptrETH",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/rETH-aave-boosted.png"
         },
         {
             "chainId": 10,
@@ -8816,7 +8818,8 @@
             "address": "0x64445f0aecC51E94aD52d8AC56b7190e764E561a",
             "name": "Wrapped Frax",
             "symbol": "WFRAX",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/FRAX.png"
         },
         {
             "chainId": 100,
