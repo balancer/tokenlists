@@ -669,6 +669,18 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/sfrxusd.png',
     },
+    '0x8e6a81b9d541A0CeA090818B62C4B2DE7f2A2Cf7': {
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/rETH-aave-boosted.png',
+    },
+    '0xbaF95bB30CDab3d5b7a11B67EDeF5631bD62be86': {
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wstETH-aave-boosted.png',
+    },
+    '0x64445f0aecc51e94ad52d8ac56b7190e764e561a': {
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/FRAX.png',
+    },
   },
   [Network.Gnosis]: {
     '0x7eF541E2a22058048904fE5744f9c7E4C57AF717': {
