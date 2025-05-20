@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 301
+        "patch": 302
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-05-20T14:16:25.322Z",
+    "timestamp": "2025-05-20T18:31:52.154Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7441,18 +7441,19 @@
         },
         {
             "chainId": 1,
-            "address": "0x6A1792a91C08e9f0bFe7a990871B786643237f0F",
-            "name": "Wrapped Aave Ethereum RLUSD",
-            "symbol": "waEthRLUSD",
-            "decimals": 18
-        },
-        {
-            "chainId": 1,
             "address": "0x0bfc9d54Fc184518A81162F8fB99c2eACa081202",
             "name": "Wrapped Aave Ethereum WETH",
             "symbol": "waEthWETH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0bfc9d54fc184518a81162f8fb99c2eaca081202.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x6A1792a91C08e9f0bFe7a990871B786643237f0F",
+            "name": "Wrapped Aave Ethereum RLUSD",
+            "symbol": "waEthRLUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6a1792a91c08e9f0bfe7a990871b786643237f0f.png"
         },
         {
             "chainId": 1,
@@ -17690,6 +17691,14 @@
             "symbol": "USDX",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf3527ef8de265eaa3716fb312c12847bfba66cef.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x35e050d3C0eC2d29D269a8EcEa763a183bDF9A9D",
+            "name": "Ondo U.S. Dollar Yield",
+            "symbol": "USDY",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x35e050d3c0ec2d29d269a8ecea763a183bdf9a9d.png"
         },
         {
             "chainId": 42161,
