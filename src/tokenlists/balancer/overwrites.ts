@@ -668,6 +668,9 @@ export const overwrites: OverwritesForList = {
     '0x5bff88ca1442c2496f7e475e9e7786383bc070c0': {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/sfrxusd.png',
+      extensions: {
+        coingeckoId: 'staked-frax-usd',
+      },
     },
     '0x8e6a81b9d541A0CeA090818B62C4B2DE7f2A2Cf7': {
       logoURI:
@@ -680,6 +683,9 @@ export const overwrites: OverwritesForList = {
     '0x64445f0aecc51e94ad52d8ac56b7190e764e561a': {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/FRAX.png',
+      extensions: {
+        coingeckoId: 'frax-share',
+      },
     },
   },
   [Network.Gnosis]: {
