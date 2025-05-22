@@ -1758,6 +1758,9 @@ export const overwrites: OverwritesForList = {
     '0x0e0Ce4D450c705F8a0B6Dd9d5123e3df2787D16B': {
       logoURI:
         'https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/146/0x0e0Ce4D450c705F8a0B6Dd9d5123e3df2787D16B/logo.png',
+      extensions: {
+        coingeckoId: 'wagmi-2',
+      },
     },
   },
 }
