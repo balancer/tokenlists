@@ -1762,5 +1762,12 @@ export const overwrites: OverwritesForList = {
         coingeckoId: 'wagmi-2',
       },
     },
+    '0xBB821aca41ac46198931E8fe8468201124fb0ecF': {
+      decimals: 18,
+      symbol: 'BOL',
+      name: 'bollcoin',
+      logoURI:
+        'http://www.bollcoin.com/logo.png',
+    },
   },
 }
