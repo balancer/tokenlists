@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 304
+        "patch": 305
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-05-22T11:21:26.146Z",
+    "timestamp": "2025-05-22T16:56:50.619Z",
     "tokens": [
         {
             "chainId": 1,
@@ -18773,6 +18773,22 @@
         },
         {
             "chainId": 43114,
+            "address": "0xDBc5192A6B6FfEe7451301bb4ec312f844F02B4A",
+            "name": "Unity",
+            "symbol": "UTY",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdbc5192a6b6ffee7451301bb4ec312f844f02b4a.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x580d5E1399157FD0d58218b7A514b60974F2AB01",
+            "name": "Staked UTY",
+            "symbol": "yUTY",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x580d5e1399157fd0d58218b7a514b60974f2ab01.png"
+        },
+        {
+            "chainId": 43114,
             "address": "0xbc78D84Ba0c46dFe32cf2895a19939c86b81a777",
             "name": "Solv BTC",
             "symbol": "SolvBTC",
@@ -18826,20 +18842,6 @@
             "symbol": "esavUSD-2",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x72f92a966f1874f74e1b601bee7cf57031b53a03.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0xDBc5192A6B6FfEe7451301bb4ec312f844F02B4A",
-            "name": "Unity",
-            "symbol": "UTY",
-            "decimals": 18
-        },
-        {
-            "chainId": 43114,
-            "address": "0x580d5E1399157FD0d58218b7A514b60974F2AB01",
-            "name": "Staked UTY",
-            "symbol": "yUTY",
-            "decimals": 18
         },
         {
             "chainId": 11155111,
