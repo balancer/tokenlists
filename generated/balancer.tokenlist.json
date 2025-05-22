@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 303
+        "patch": 304
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-05-22T10:56:54.323Z",
+    "timestamp": "2025-05-22T11:21:26.146Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13124,7 +13124,10 @@
             "name": "Wagmi",
             "symbol": "WAGMI",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/146/0x0e0Ce4D450c705F8a0B6Dd9d5123e3df2787D16B/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/146/0x0e0Ce4D450c705F8a0B6Dd9d5123e3df2787D16B/logo.png",
+            "extensions": {
+                "coingeckoId": "wagmi-2"
+            }
         },
         {
             "chainId": 250,
