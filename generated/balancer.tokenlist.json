@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 305
+        "patch": 306
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-05-22T16:56:50.619Z",
+    "timestamp": "2025-05-27T20:44:34.244Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7870,6 +7870,14 @@
             "symbol": "USP",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x97ccc1c046d067ab945d3cf3cc6920d3b1e54c88.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x8292Bb45bf1Ee4d140127049757C2E0fF06317eD",
+            "name": "RLUSD",
+            "symbol": "RLUSD",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/39651/large/RLUSD_200x200_%281%29.png?1727376633"
         },
         {
             "chainId": 10,
