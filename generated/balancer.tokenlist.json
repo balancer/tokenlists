@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 306
+        "patch": 307
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-05-27T20:44:34.244Z",
+    "timestamp": "2025-05-28T01:47:20.335Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7878,6 +7878,22 @@
             "symbol": "RLUSD",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/39651/large/RLUSD_200x200_%281%29.png?1727376633"
+        },
+        {
+            "chainId": 1,
+            "address": "0x48f9e38f3070AD8945DFEae3FA70987722E3D89c",
+            "name": "infiniFi USD",
+            "symbol": "iUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x48f9e38f3070ad8945dfeae3fa70987722e3d89c.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xDBDC1Ef57537E34680B898E1FEBD3D68c7389bCB",
+            "name": "Staked infiniFi USD",
+            "symbol": "siUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdbdc1ef57537e34680b898e1febd3d68c7389bcb.png"
         },
         {
             "chainId": 10,
