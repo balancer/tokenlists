@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 308
+        "patch": 309
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-05-28T11:55:30.175Z",
+    "timestamp": "2025-05-28T13:22:40.078Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13173,6 +13173,13 @@
             "name": "Varlamore scUSD",
             "symbol": "vscUSD",
             "decimals": 18
+        },
+        {
+            "chainId": 146,
+            "address": "0x6202B9f02E30E5e1c62Cc01E4305450E5d83b926",
+            "name": "Staked Stream USD",
+            "symbol": "xUSD",
+            "decimals": 6
         },
         {
             "chainId": 250,
