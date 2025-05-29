@@ -1765,5 +1765,17 @@ export const overwrites: OverwritesForList = {
     '0xd9D6F92Df52716835594Ab41Ea6f3BB994da98b6': {
       logoURI: 'https://i.ibb.co/3mV17Yhj/photo-2025-05-29-10-50-32.jpg',
     },
+    '0xF6F87073cF8929C206A77b0694619DC776F89885': {
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/USDC-varlamore-boosted.png',
+    },
+    '0xDED4aC8645619334186f28B8798e07ca354CFa0e': {
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-varlamore-boosted.png',
+    },
+    '0xb6A23cB29e512Df41876B28D7A848BD831f9c5Ba': {
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wS-varlamore-boosted.png',
+    },
   },
 }
