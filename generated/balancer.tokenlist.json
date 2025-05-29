@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 309
+        "patch": 310
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-05-28T13:22:40.078Z",
+    "timestamp": "2025-05-29T07:57:23.957Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13180,6 +13180,14 @@
             "name": "Staked Stream USD",
             "symbol": "xUSD",
             "decimals": 6
+        },
+        {
+            "chainId": 146,
+            "address": "0xd9D6F92Df52716835594Ab41Ea6f3BB994da98b6",
+            "name": "Intern Token",
+            "symbol": "INTERN",
+            "decimals": 18,
+            "logoURI": "https://i.ibb.co/3mV17Yhj/photo-2025-05-29-10-50-32.jpg"
         },
         {
             "chainId": 250,
