@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 312
+        "patch": 313
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-05-29T13:46:10.999Z",
+    "timestamp": "2025-05-29T15:28:49.367Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7902,6 +7902,14 @@
             "symbol": "SDEX",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5de8ab7e27f6e7a1fff3e5b337584aa43961beef.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x6440f144b7e50D6a8439336510312d2F54beB01D",
+            "name": "BOLD Stablecoin",
+            "symbol": "BOLD",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/56069/large/BOLD_logo.png?1748265087"
         },
         {
             "chainId": 10,
