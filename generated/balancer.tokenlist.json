@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 310
+        "patch": 311
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-05-29T07:57:23.957Z",
+    "timestamp": "2025-05-29T10:07:06.655Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13158,21 +13158,24 @@
             "address": "0xF6F87073cF8929C206A77b0694619DC776F89885",
             "name": "Varlamore USDC Growth",
             "symbol": "vgUSDC",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/USDC-varlamore-boosted.png"
         },
         {
             "chainId": 146,
             "address": "0xDED4aC8645619334186f28B8798e07ca354CFa0e",
             "name": "Varlamore S",
             "symbol": "vS",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-varlamore-boosted.png"
         },
         {
             "chainId": 146,
             "address": "0xb6A23cB29e512Df41876B28D7A848BD831f9c5Ba",
             "name": "Varlamore scUSD",
             "symbol": "vscUSD",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wS-varlamore-boosted.png"
         },
         {
             "chainId": 146,
