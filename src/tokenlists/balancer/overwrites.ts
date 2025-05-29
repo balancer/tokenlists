@@ -1762,5 +1762,8 @@ export const overwrites: OverwritesForList = {
         coingeckoId: 'wagmi-2',
       },
     },
+    '0xd9D6F92Df52716835594Ab41Ea6f3BB994da98b6': {
+      logoURI: 'https://i.ibb.co/3mV17Yhj/photo-2025-05-29-10-50-32.jpg',
+    },
   },
 }
