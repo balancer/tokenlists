@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 311
+        "patch": 312
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-05-29T10:07:06.655Z",
+    "timestamp": "2025-05-29T13:46:10.999Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7894,6 +7894,14 @@
             "symbol": "siUSD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdbdc1ef57537e34680b898e1febd3d68c7389bcb.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x5DE8ab7E27f6E7A1fFf3E5B337584Aa43961BEeF",
+            "name": "SmarDex Token",
+            "symbol": "SDEX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5de8ab7e27f6e7a1fff3e5b337584aa43961beef.png"
         },
         {
             "chainId": 10,
