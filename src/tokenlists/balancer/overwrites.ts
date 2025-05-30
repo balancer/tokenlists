@@ -1771,11 +1771,11 @@ export const overwrites: OverwritesForList = {
     },
     '0xDED4aC8645619334186f28B8798e07ca354CFa0e': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-varlamore-boosted.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wS-varlamore-boosted.png',
     },
     '0xb6A23cB29e512Df41876B28D7A848BD831f9c5Ba': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wS-varlamore-boosted.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-varlamore-boosted.png',
     },
   },
 }
