@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 313
+        "patch": 314
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-05-29T15:28:49.367Z",
+    "timestamp": "2025-05-30T05:53:30.097Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13183,7 +13183,7 @@
             "name": "Varlamore S",
             "symbol": "vS",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-varlamore-boosted.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wS-varlamore-boosted.png"
         },
         {
             "chainId": 146,
@@ -13191,7 +13191,7 @@
             "name": "Varlamore scUSD",
             "symbol": "vscUSD",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wS-varlamore-boosted.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-varlamore-boosted.png"
         },
         {
             "chainId": 146,
