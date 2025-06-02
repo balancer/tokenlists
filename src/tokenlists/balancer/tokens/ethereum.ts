@@ -1024,4 +1024,5 @@ export default [
   '0xdbdc1ef57537e34680b898e1febd3d68c7389bcb', // siUSD
   '0x5de8ab7e27f6e7a1fff3e5b337584aa43961beef', // SDEX
   '0x6440f144b7e50d6a8439336510312d2f54beb01d', // BOLD
+  '0x85E30b8b263bC64d94b827ed450F2EdFEE8579dA', //USDaf
 ]
