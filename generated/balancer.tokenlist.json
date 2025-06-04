@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 317
+        "patch": 318
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-06-04T13:05:24.975Z",
+    "timestamp": "2025-06-04T17:03:37.742Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7451,7 +7451,7 @@
             "chainId": 1,
             "address": "0x6A1792a91C08e9f0bFe7a990871B786643237f0F",
             "name": "Wrapped Aave Ethereum RLUSD",
-            "symbol": "waEthRLUSD",
+            "symbol": "aRLUSD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6a1792a91c08e9f0bfe7a990871b786643237f0f.png"
         },
