@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 316
+        "patch": 317
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-06-03T13:45:13.094Z",
+    "timestamp": "2025-06-04T13:05:24.975Z",
     "tokens": [
         {
             "chainId": 1,
@@ -15735,6 +15735,22 @@
         },
         {
             "chainId": 8453,
+            "address": "0x589A7339C6d0c8777E7429F57f2f95c069c37288",
+            "name": "Wrapped ExtraFi X Base USDC",
+            "symbol": "wexBaseUSDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x589a7339c6d0c8777e7429f57f2f95c069c37288.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x98eFe85735F253a0ed0Be8e2915ff39f9e4AfF0F",
+            "name": "Wrapped ExtraX Base USR",
+            "symbol": "wexBaseUSR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x98efe85735f253a0ed0be8e2915ff39f9e4aff0f.png"
+        },
+        {
+            "chainId": 8453,
             "address": "0x9d0E8f5b25384C7310CB8C6aE32C8fbeb645d083",
             "name": "Derive",
             "symbol": "DRV",
@@ -15764,20 +15780,6 @@
             "symbol": "DOR",
             "decimals": 8,
             "logoURI": "https://coin-images.coingecko.com/coins/images/33044/large/dortoken_red.png?1700429057"
-        },
-        {
-            "chainId": 8453,
-            "address": "0x589A7339C6d0c8777E7429F57f2f95c069c37288",
-            "name": "Wrapped ExtraFi X Base USDC",
-            "symbol": "wexBaseUSDC",
-            "decimals": 6
-        },
-        {
-            "chainId": 8453,
-            "address": "0x98eFe85735F253a0ed0Be8e2915ff39f9e4AfF0F",
-            "name": "Wrapped ExtraX Base USR",
-            "symbol": "wexBaseUSR",
-            "decimals": 18
         },
         {
             "chainId": 34443,
