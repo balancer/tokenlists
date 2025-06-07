@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 318
+        "patch": 319
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-06-04T17:03:37.742Z",
+    "timestamp": "2025-06-07T11:35:14.580Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13229,6 +13229,14 @@
             "symbol": "INTERN",
             "decimals": 18,
             "logoURI": "https://i.ibb.co/3mV17Yhj/photo-2025-05-29-10-50-32.jpg"
+        },
+        {
+            "chainId": 146,
+            "address": "0x6c9B3A74ae4779da5Ca999371eE8950e8DB3407f",
+            "name": "fly.trade",
+            "symbol": "FLY",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/66394/large/fly.jpg?1749286672"
         },
         {
             "chainId": 250,
