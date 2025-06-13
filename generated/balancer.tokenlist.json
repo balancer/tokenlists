@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 323
+        "patch": 324
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-06-13T07:37:14.117Z",
+    "timestamp": "2025-06-13T08:39:59.916Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13252,7 +13252,8 @@
             "address": "0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5",
             "name": "Rezerve.money",
             "symbol": "RZR",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/rzr.png"
         },
         {
             "chainId": 146,
