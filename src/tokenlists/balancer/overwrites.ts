@@ -1781,5 +1781,8 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-varlamore-boosted.png',
     },
+    '0x6202B9f02E30E5e1c62Cc01E4305450E5d83b926': {
+      logoURI: 'https://app.streamprotocol.money/assets/usdc-a6e16350.svg',
+    },
   },
 }
