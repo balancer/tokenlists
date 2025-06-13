@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 319
+        "patch": 320
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-06-07T11:35:14.580Z",
+    "timestamp": "2025-06-13T01:51:22.336Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12252,6 +12252,14 @@
             "symbol": "PRL",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7790dd69aa10ed3f1271e41cd7222d2a7d2d5948.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0xe75220cB014Dfb2D354bb59be26d7458bB8d0706",
+            "name": "PHT Stablecoin",
+            "symbol": "PHT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe75220cb014dfb2d354bb59be26d7458bb8d0706.png"
         },
         {
             "chainId": 146,
