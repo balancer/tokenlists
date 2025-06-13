@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 321
+        "patch": 322
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-06-13T07:04:12.703Z",
+    "timestamp": "2025-06-13T07:14:54.773Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13246,6 +13246,13 @@
             "symbol": "FLY",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/66394/large/fly.jpg?1749286672"
+        },
+        {
+            "chainId": 146,
+            "address": "0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5",
+            "name": "Rezerve.money",
+            "symbol": "RZR",
+            "decimals": 18
         },
         {
             "chainId": 250,
