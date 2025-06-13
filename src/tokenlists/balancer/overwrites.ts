@@ -1784,5 +1784,9 @@ export const overwrites: OverwritesForList = {
     '0x6202B9f02E30E5e1c62Cc01E4305450E5d83b926': {
       logoURI: 'https://app.streamprotocol.money/assets/usdc-a6e16350.svg',
     },
+    '0xb4444468e444f89e1c2cac2f1d3ee7e336cbd1f5': {
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/rzr.png',
+    },
   },
 }
