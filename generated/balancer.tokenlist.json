@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 324
+        "patch": 325
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-06-13T08:39:59.916Z",
+    "timestamp": "2025-06-17T13:46:10.146Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7934,6 +7934,22 @@
             "decimals": 6
         },
         {
+            "chainId": 1,
+            "address": "0x4956b52aE2fF65D74CA2d61207523288e4528f96",
+            "name": "Resolv Liquidity Provider Token",
+            "symbol": "RLP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4956b52ae2ff65d74ca2d61207523288e4528f96.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x1202F5C7b4B9E47a1A484E8B270be34dbbC75055",
+            "name": "Wrapped stUSR",
+            "symbol": "wstUSR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1202f5c7b4b9e47a1a484e8b270be34dbbc75055.png"
+        },
+        {
             "chainId": 10,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -15819,6 +15835,14 @@
             "symbol": "DOR",
             "decimals": 8,
             "logoURI": "https://coin-images.coingecko.com/coins/images/33044/large/dortoken_red.png?1700429057"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
+            "name": "Staked USDe",
+            "symbol": "sUSDe",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2.png"
         },
         {
             "chainId": 34443,
