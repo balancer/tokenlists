@@ -1788,5 +1788,13 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/rzr.png',
     },
+    '0xEEEEEEE6d95E55A468D32FeB5d6648754d10A967': {
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/USDC-stability-boosted.png',
+    },
+    '0xccccCCcca9FC69a2b32408730011EdB3205A93A1': {
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-stability-boosted.png',
+    },
   },
 }
