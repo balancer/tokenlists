@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 326
+        "patch": 327
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-06-18T15:27:10.858Z",
+    "timestamp": "2025-06-18T19:46:38.015Z",
     "tokens": [
         {
             "chainId": 1,
@@ -19024,6 +19024,20 @@
             "symbol": "esavUSD-2",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x72f92a966f1874f74e1b601bee7cf57031b53a03.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xA3D68b74bF0528fdD07263c60d6488749044914b",
+            "name": "Wrapped eETH",
+            "symbol": "weETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 43114,
+            "address": "0x51b47B3013863c52CA28D603De3C2d7a5FEf50B9",
+            "name": "EVK Vault eweETH-1",
+            "symbol": "eweETH-1",
+            "decimals": 18
         },
         {
             "chainId": 11155111,
