@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 327
+        "patch": 328
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-06-18T19:46:38.015Z",
+    "timestamp": "2025-06-20T15:33:40.936Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7948,6 +7948,13 @@
             "symbol": "wstUSR",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1202f5c7b4b9e47a1a484e8b270be34dbbc75055.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x77146784315Ba81904d654466968e3a7c196d1f3",
+            "name": "Treehouse Token",
+            "symbol": "TREE",
+            "decimals": 18
         },
         {
             "chainId": 10,
