@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 328
+        "patch": 329
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-06-20T15:33:40.936Z",
+    "timestamp": "2025-06-23T01:32:35.283Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7954,7 +7954,8 @@
             "address": "0x77146784315Ba81904d654466968e3a7c196d1f3",
             "name": "Treehouse Token",
             "symbol": "TREE",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x77146784315ba81904d654466968e3a7c196d1f3.png"
         },
         {
             "chainId": 10,
@@ -17990,6 +17991,14 @@
         },
         {
             "chainId": 42161,
+            "address": "0x4772D2e014F9fC3a820C444e3313968e9a5C8121",
+            "name": "YieldFi yUSD",
+            "symbol": "yUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4772d2e014f9fc3a820c444e3313968e9a5c8121.png"
+        },
+        {
+            "chainId": 42161,
             "address": "0xD9E3Ef2c12de90E3b03F7b7E3964956a71920d40",
             "name": "Wrapped Aave Arbitrum weETH",
             "symbol": "waArbweETH",
@@ -18137,14 +18146,6 @@
             "symbol": "PRL",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfd28f108e95f4d41daae9dbfff707d677985998e.png"
-        },
-        {
-            "chainId": 42161,
-            "address": "0x4772D2e014F9fC3a820C444e3313968e9a5C8121",
-            "name": "YieldFi yUSD",
-            "symbol": "yUSD",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4772d2e014f9fc3a820c444e3313968e9a5c8121.png"
         },
         {
             "chainId": 42161,
