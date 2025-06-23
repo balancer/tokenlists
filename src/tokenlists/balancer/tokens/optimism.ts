@@ -119,4 +119,5 @@ export default [
   '0x43edd7f3831b08fe70b7555ddd373c8bf65a9050', // frxETH OFT
   '0x3ec3849c33291a9ef4c5db86de593eb4a37fde45', // sfrxETH OFT
   '0x64445f0aecc51e94ad52d8ac56b7190e764e561a', // FRAX OFT
+  '0x2dAD3a13ef0C6366220f989157009e501e7938F8', // EXTRA
 ]
