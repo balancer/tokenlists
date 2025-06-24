@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 330
+        "patch": 331
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-06-24T12:48:15.432Z",
+    "timestamp": "2025-06-24T14:28:34.215Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13254,6 +13254,24 @@
             "symbol": "vscUSD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-varlamore-boosted.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0x9A1BF5365edBB99C2c61CA6D9ffAd0B705ACfc6F",
+            "name": "Varlamore dUSD Vault",
+            "symbol": "vdUSD",
+            "decimals": 18
+        },
+        {
+            "chainId": 146,
+            "address": "0x53a6aBb52B2F968fA80dF6A894e4f1b1020DA975",
+            "name": "dTRINITY USD",
+            "symbol": "dUSD",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/53290/large/dUSD_Logo.png?1735997462",
+            "extensions": {
+                "coingeckoId": "dtrinity-usd"
+            }
         },
         {
             "chainId": 146,
