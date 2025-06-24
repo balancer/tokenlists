@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 329
+        "patch": 330
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-06-23T01:32:35.283Z",
+    "timestamp": "2025-06-24T12:48:15.432Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8915,6 +8915,14 @@
             }
         },
         {
+            "chainId": 10,
+            "address": "0x2dAD3a13ef0C6366220f989157009e501e7938F8",
+            "name": "Extra Finance",
+            "symbol": "EXTRA",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/30973/large/Ex_logo-white-blue_ring_288x.png?1696529812"
+        },
+        {
             "chainId": 100,
             "address": "0x7eF541E2a22058048904fE5744f9c7E4C57AF717",
             "name": "Balancer on xDai",
@@ -15853,6 +15861,14 @@
             "symbol": "sUSDe",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x2dAD3a13ef0C6366220f989157009e501e7938F8",
+            "name": "Extra Finance",
+            "symbol": "EXTRA",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/30973/large/Ex_logo-white-blue_ring_288x.png?1696529812"
         },
         {
             "chainId": 34443,
