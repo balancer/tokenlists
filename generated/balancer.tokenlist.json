@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 331
+        "patch": 332
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-06-24T14:28:34.215Z",
+    "timestamp": "2025-06-24T15:25:10.441Z",
     "tokens": [
         {
             "chainId": 1,
@@ -19013,6 +19013,14 @@
         },
         {
             "chainId": 43114,
+            "address": "0xA3D68b74bF0528fdD07263c60d6488749044914b",
+            "name": "Wrapped eETH",
+            "symbol": "weETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa3d68b74bf0528fdd07263c60d6488749044914b.png"
+        },
+        {
+            "chainId": 43114,
             "address": "0xbc78D84Ba0c46dFe32cf2895a19939c86b81a777",
             "name": "Solv BTC",
             "symbol": "SolvBTC",
@@ -19066,13 +19074,6 @@
             "symbol": "esavUSD-2",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x72f92a966f1874f74e1b601bee7cf57031b53a03.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0xA3D68b74bF0528fdD07263c60d6488749044914b",
-            "name": "Wrapped eETH",
-            "symbol": "weETH",
-            "decimals": 18
         },
         {
             "chainId": 43114,
