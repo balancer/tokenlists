@@ -1796,5 +1796,10 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-stability-boosted.png',
     },
+    '0x53a6aBb52B2F968fA80dF6A894e4f1b1020DA975': {
+      extensions: {
+        coingeckoId: 'dtrinity-usd',
+      },
+    },
   },
 }
