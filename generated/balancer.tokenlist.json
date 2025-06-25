@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 333
+        "patch": 334
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-06-25T06:00:51.778Z",
+    "timestamp": "2025-06-25T07:06:55.679Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13267,7 +13267,8 @@
             "address": "0x592D1e187729C76EfacC6dfFB9355bd7BF47B2a7",
             "name": "Re7 scUSD",
             "symbol": "Re7scUSD",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-silo.svg"
         },
         {
             "chainId": 146,
