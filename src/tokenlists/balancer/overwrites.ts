@@ -1432,7 +1432,7 @@ export const overwrites: OverwritesForList = {
     },
     '0xE51EE9868C1f0d6cd968A8B8C8376Dc2991BFE44': {
       logoURI:
-        'https://coin-images.coingecko.com/coins/images/18579/large/ps-cmc-200x200.png?1707862125',
+        'https://dd.dexscreener.com/ds-data/tokens/sonic/0xe51ee9868c1f0d6cd968a8b8c8376dc2991bfe44.png?size=lg&key=50f8b4',
       extensions: {
         coingeckoId: 'paint-swap',
       },
