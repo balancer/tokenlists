@@ -1801,5 +1801,9 @@ export const overwrites: OverwritesForList = {
         coingeckoId: 'dtrinity-usd',
       },
     },
+    '0x592D1e187729C76EfacC6dfFB9355bd7BF47B2a7': {
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-silo.svg',
+    },
   },
 }
