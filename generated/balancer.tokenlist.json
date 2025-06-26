@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 337
+        "patch": 338
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-06-26T06:57:40.531Z",
+    "timestamp": "2025-06-26T12:41:38.498Z",
     "tokens": [
         {
             "chainId": 1,
@@ -19026,7 +19026,10 @@
             "name": "Wrapped eETH",
             "symbol": "weETH",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa3d68b74bf0528fdd07263c60d6488749044914b.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa3d68b74bf0528fdd07263c60d6488749044914b.png",
+            "extensions": {
+                "coingeckoId": "wrapped-eeth"
+            }
         },
         {
             "chainId": 43114,
