@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 339
+        "patch": 340
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-06-26T15:34:01.335Z",
+    "timestamp": "2025-06-26T16:49:55.334Z",
     "tokens": [
         {
             "chainId": 1,
@@ -18974,6 +18974,14 @@
             "symbol": "waAvaAAVE",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7883978d1f322641a3aaa82bac3b0a6dee7a171e.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x79459f4C9AfC902488109D058C3E76ed0B037c41",
+            "name": "Wrapped Aave Avalanche GHO",
+            "symbol": "waAvaGHO",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x79459f4c9afc902488109d058c3e76ed0b037c41.png"
         },
         {
             "chainId": 43114,
