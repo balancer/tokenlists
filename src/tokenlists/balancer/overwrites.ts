@@ -1817,6 +1817,9 @@ export const overwrites: OverwritesForList = {
     '0xE4A4353CD8F008f1a70f1a564535990479E8ceb7': {
       logoURI:
         'https://assets.coingecko.com/coins/images/24558/standard/PAL-Token-dark_%281%29.png?1735661952',
+      extensions: {
+        coingeckoId: 'paladin',
+      },
     },
   },
 }
