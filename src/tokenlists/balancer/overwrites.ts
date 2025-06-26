@@ -1225,6 +1225,11 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xc8E7fB72B53D08C4f95b93b390ed3f132d03f2D5/logo.png',
     },
+    '0xA3D68b74bF0528fdD07263c60d6488749044914b': {
+      extensions: {
+        coingeckoId: 'wrapped-eeth',
+      },
+    },
   },
   [Network.Fraxtal]: {
     '0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2': {
