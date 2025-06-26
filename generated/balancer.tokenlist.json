@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 336
+        "patch": 337
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-06-25T14:06:51.803Z",
+    "timestamp": "2025-06-26T06:57:40.531Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13260,7 +13260,8 @@
             "address": "0x9A1BF5365edBB99C2c61CA6D9ffAd0B705ACfc6F",
             "name": "Varlamore dUSD Vault",
             "symbol": "vdUSD",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/dUSD-varlamore-boosted.png"
         },
         {
             "chainId": 146,
@@ -13268,7 +13269,7 @@
             "name": "Re7 scUSD",
             "symbol": "Re7scUSD",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-silo.svg"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-re7-boosted.png"
         },
         {
             "chainId": 146,
@@ -18508,7 +18509,7 @@
         {
             "chainId": 43114,
             "address": "0xA25EaF2906FA1a3a13EdAc9B9657108Af7B703e3",
-            "name": "GoGoPool Liquid Staking Token",
+            "name": "Hypha Staked AVAX",
             "symbol": "ggAVAX",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa25eaf2906fa1a3a13edac9b9657108af7b703e3.png"
