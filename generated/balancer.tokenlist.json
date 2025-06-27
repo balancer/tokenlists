@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 337
+        "patch": 340
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-06-26T06:57:40.531Z",
+    "timestamp": "2025-06-26T16:49:55.334Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13331,6 +13331,17 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-stability-boosted.png"
         },
         {
+            "chainId": 146,
+            "address": "0xE4A4353CD8F008f1a70f1a564535990479E8ceb7",
+            "name": "Paladin Token",
+            "symbol": "PAL",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/24558/standard/PAL-Token-dark_%281%29.png?1735661952",
+            "extensions": {
+                "coingeckoId": "paladin"
+            }
+        },
+        {
             "chainId": 250,
             "address": "0xf1648C50d2863f780c57849D812b4B7686031A3D",
             "name": "LayerZero Wrapped Bitcoin",
@@ -18966,6 +18977,14 @@
         },
         {
             "chainId": 43114,
+            "address": "0x79459f4C9AfC902488109D058C3E76ed0B037c41",
+            "name": "Wrapped Aave Avalanche GHO",
+            "symbol": "waAvaGHO",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x79459f4c9afc902488109d058c3e76ed0b037c41.png"
+        },
+        {
+            "chainId": 43114,
             "address": "0x06d47F3fb376649c3A9Dafe069B3D6E35572219E",
             "name": "Staked avUSD",
             "symbol": "savUSD",
@@ -19026,7 +19045,10 @@
             "name": "Wrapped eETH",
             "symbol": "weETH",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa3d68b74bf0528fdd07263c60d6488749044914b.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa3d68b74bf0528fdd07263c60d6488749044914b.png",
+            "extensions": {
+                "coingeckoId": "wrapped-eeth"
+            }
         },
         {
             "chainId": 43114,
