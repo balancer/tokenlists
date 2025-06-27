@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 340
+        "patch": 341
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-06-26T16:49:55.334Z",
+    "timestamp": "2025-06-27T05:14:57.657Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8921,6 +8921,13 @@
             "symbol": "EXTRA",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/30973/large/Ex_logo-white-blue_ring_288x.png?1696529812"
+        },
+        {
+            "chainId": 10,
+            "address": "0xCF9326e24EBfFBEF22ce1050007A43A3c0B6DB55",
+            "name": "Spark USDC Vault",
+            "symbol": "sUSDC",
+            "decimals": 18
         },
         {
             "chainId": 100,
