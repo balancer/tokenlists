@@ -1,9 +1,9 @@
 import { TokenInfo, TokenList } from '@uniswap/token-lists'
-import { Network, OverwritesForList, PartialTokenInfoMap } from '../../types'
-import fs from 'fs'
 import { getAddress, isAddress } from 'ethers'
+import fs from 'fs'
 import { merge, pick } from 'lodash'
 import config from '../../config'
+import { Network, OverwritesForList, PartialTokenInfoMap } from '../../types'
 
 function convertTokenInfoToMap(tokenInfo: TokenInfo[]): PartialTokenInfoMap {
   return tokenInfo.reduce((map: PartialTokenInfoMap, obj) => {
@@ -67,7 +67,7 @@ function fetchLocalTokenIcons(network: Network): PartialTokenInfoMap {
     tokenIcons.push({
       address: getAddress(address),
       // eslint-disable-next-line max-len
-      logoURI: `https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/${fileName.toLowerCase()}.png`,
+      logoURI: `https://raw.githubusercontent.com/burrbear-dev/tokenlists/main/src/assets/images/tokens/${fileName.toLowerCase()}.png`,
     })
   })
 
