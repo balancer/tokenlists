@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 341
+        "patch": 342
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-06-27T05:14:57.657Z",
+    "timestamp": "2025-06-30T06:13:28.326Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13347,6 +13347,14 @@
             "extensions": {
                 "coingeckoId": "paladin"
             }
+        },
+        {
+            "chainId": 146,
+            "address": "0xddF26B42C1d903De8962d3F79a74a501420d5F19",
+            "name": "Equalizer on Sonic",
+            "symbol": "EQUAL",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/53369/large/hq_png_icon_file.png?1736204170"
         },
         {
             "chainId": 250,
