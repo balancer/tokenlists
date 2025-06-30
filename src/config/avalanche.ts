@@ -1,6 +1,6 @@
 export default {
   name: 'avalanche',
-  rpc: `https://avalanche-mainnet.infura.io/v3/${process.env.INFURA_KEY}`,
+  rpc: `https://lb.drpc.org/ogrpc?network=avalanche&dkey=${process.env.DRPC_KEY}`,
   coingecko: {
     platformId: 'avalanche',
   },

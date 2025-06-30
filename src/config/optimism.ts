@@ -1,6 +1,6 @@
 export default {
   name: 'optimism',
-  rpc: `https://optimism-mainnet.infura.io/v3/${process.env.INFURA_KEY}`,
+  rpc: `https://lb.drpc.org/ogrpc?network=optimism&dkey=${process.env.DRPC_KEY}`,
   coingecko: {
     platformId: 'optimistic-ethereum',
   },

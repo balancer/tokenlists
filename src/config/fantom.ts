@@ -1,6 +1,6 @@
 export default {
   name: 'fantom',
-  rpc: 'https://rpc.fantom.network',
+  rpc: `https://lb.drpc.org/ogrpc?network=fantom&dkey=${process.env.DRPC_KEY}`,
   coingecko: {
     platformId: 'fantom',
   },

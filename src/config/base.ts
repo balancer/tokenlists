@@ -1,6 +1,6 @@
 export default {
   name: 'base',
-  rpc: 'https://developer-access-mainnet.base.org',
+  rpc: `https://lb.drpc.org/ogrpc?network=base&dkey=${process.env.DRPC_KEY}`,
   coingecko: {
     platformId: 'base',
   },

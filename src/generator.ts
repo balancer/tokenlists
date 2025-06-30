@@ -57,9 +57,8 @@ async function build(tokenlistName: string) {
 
   for (network in tokens) {
     console.log(chalk.cyan(`Starting build for ${network}`))
-    const tokenAddresses = tokens[network]
-    console.log(chalk.cyan(`Found ${tokenAddresses.length} tokens`))
-    if (tokenAddresses.length === 0) continue
+    // format to hashed value
+    const tokenAddresses = tokens[network].map((token) => getAddress(token))
 
     console.time(chalk.cyan(`Fetched onchain metadata for chain ${network}`))
 
@@ -112,14 +111,23 @@ function buildTokenList(
   tokens: TokenInfo[],
   existingTokenList: TokenList | undefined
 ): TokenList {
-  const newTokenList = {
+  const newVersion = {
+    ...metadata.version,
+    patch: (existingTokenList?.version?.patch ?? metadata.version.patch) + 1,
+  }
+  const newMetadata = {
     ...metadata,
+    version: newVersion,
+  }
+  const newTokenList = {
+    ...newMetadata,
     timestamp: new Date().toISOString(),
     tokens,
   }
 
   if (existingTokenList && isEqualTokenlists(newTokenList, existingTokenList)) {
     newTokenList.timestamp = existingTokenList.timestamp
+    newTokenList.version.patch = existingTokenList.version.patch
   }
 
   return newTokenList

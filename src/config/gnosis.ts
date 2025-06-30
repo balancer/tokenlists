@@ -1,6 +1,6 @@
 export default {
   name: 'gnosis',
-  rpc: 'https://rpc.gnosischain.com',
+  rpc: `https://lb.drpc.org/ogrpc?network=gnosis&dkey=${process.env.DRPC_KEY}`,
   coingecko: {
     platformId: 'xdai',
   },

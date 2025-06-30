@@ -3,13 +3,13 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 0
+        "patch": 6
     },
     "keywords": [
         "Balancer"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-04-12T13:15:48.140Z",
+    "timestamp": "2025-01-29T15:39:01.134Z",
     "tokens": [
         {
             "chainId": 1,
@@ -583,7 +583,7 @@
             "name": "CoW Protocol Token",
             "symbol": "COW",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdef1ca1fb7fbcdc777520aa7f396b4e015f497ab.png"
+            "logoURI": "https://coin-images.coingecko.com/coins/images/24384/large/CoW-token_logo.png?1719524382"
         },
         {
             "chainId": 1,
@@ -1413,21 +1413,24 @@
             "address": "0x888a6195D42a95e80D81e1c506172772a80b80Bc",
             "name": "Beets Reaper Aave Boosted DAI",
             "symbol": "bb-rf-aDAI",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x888a6195d42a95e80d81e1c506172772a80b80bc.png"
         },
         {
             "chainId": 10,
             "address": "0x9253d7e1B42fa01eDE2c53f3A21b3B4d13239cD4",
             "name": "Beets Reaper Aave Boosted USDT",
             "symbol": "bb-rf-aUSDT",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9253d7e1b42fa01ede2c53f3a21b3b4d13239cd4.png"
         },
         {
             "chainId": 10,
             "address": "0xba7834bb3cd2DB888E6A06Fb45E82b4225Cd0C71",
             "name": "Beets Reaper Aave Boosted USDC",
             "symbol": "bb-rf-aUSDC",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xba7834bb3cd2db888e6a06fb45e82b4225cd0c71.png"
         },
         {
             "chainId": 10,
@@ -1531,7 +1534,7 @@
             "name": "Wrapped XDAI",
             "symbol": "WXDAI",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/11062/large/Identity-Primary-DarkBG.png?1696511004"
+            "logoURI": "https://coin-images.coingecko.com/coins/images/11062/large/Identity-Primary-DarkBG.png?1696511004"
         },
         {
             "chainId": 100,
@@ -1555,7 +1558,7 @@
             "name": "Honey",
             "symbol": "HNY",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/12895/large/hnys.png?1696512683"
+            "logoURI": "https://coin-images.coingecko.com/coins/images/12895/large/hnys.png?1696512683"
         },
         {
             "chainId": 100,
@@ -1619,7 +1622,7 @@
             "name": "CoW Protocol Token from Mainnet",
             "symbol": "COW",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x177127622c4a00f3d409b75571e12cb3c8973d3c.png"
+            "logoURI": "https://coin-images.coingecko.com/coins/images/24384/large/CoW-token_logo.png?1719524382"
         },
         {
             "chainId": 100,
@@ -1664,7 +1667,7 @@
         {
             "chainId": 137,
             "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
-            "name": "Wrapped Matic",
+            "name": "Wrapped Polygon Ecosystem Token",
             "symbol": "WMATIC",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270.png"
@@ -1803,7 +1806,7 @@
             "name": "Jarvis Reward Token (PoS)",
             "symbol": "JRT",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/10390/large/cfeii0y.png?1696510389"
+            "logoURI": "https://coin-images.coingecko.com/coins/images/10390/large/cfeii0y.png?1696510389"
         },
         {
             "chainId": 137,
@@ -2178,7 +2181,7 @@
             "name": "Luchadores.io LUCHA Token",
             "symbol": "LUCHA",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/22794/large/lucha.png?1696522097"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/137_0x6749441fdc8650b5b5a854ed255c82ef361f1596.png"
         },
         {
             "chainId": 137,
@@ -2845,7 +2848,7 @@
             "name": "TrueUSD",
             "symbol": "TUSD",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/30837/large/tusd.jpeg?1696529695"
+            "logoURI": "https://coin-images.coingecko.com/coins/images/30837/large/tusd.jpeg?1696529695"
         },
         {
             "chainId": 42161,
@@ -2993,7 +2996,7 @@
         {
             "chainId": 42161,
             "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
-            "name": "Tether USD",
+            "name": "USD₮0",
             "symbol": "USDT",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9.png"

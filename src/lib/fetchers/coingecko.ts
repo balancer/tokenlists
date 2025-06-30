@@ -20,10 +20,12 @@ export async function fetchCoingeckoMetadata(
 ): Promise<Partial<TokenInfo> | undefined> {
   try {
     callIndex++
-    // Coingecko rate limits their API to 10 calls/second
-    if (callIndex > 0 && callIndex % 10 === 0) {
-      console.log(chalk.dim('Waiting for 2s to avoid Coingecko rate limit'))
-      await sleep(3000)
+    // Coingecko rate limits their API to 10 calls/second if we dont use pro
+    if (baseUrl !== 'https://pro-api.coingecko.com/api/v3') {
+      if (callIndex > 0 && callIndex % 10 === 0) {
+        console.log(chalk.dim('Waiting for 2s to avoid Coingecko rate limit'))
+        await sleep(3000)
+      }
     }
 
     const response = await fetch(
