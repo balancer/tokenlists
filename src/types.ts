@@ -15,6 +15,7 @@ export enum Network {
   Fraxtal = '252',
   Mode = '34443',
   Sonic = '146',
+  Hyperevm = '999',
 }
 
 export interface Config {

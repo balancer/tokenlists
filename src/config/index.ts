@@ -5,15 +5,15 @@ import bartio from './bartio'
 import base from './base'
 import ethereum from './ethereum'
 import fantom from './fantom'
+import fraxtal from './fraxtal'
 import gnosis from './gnosis'
+import hyperevm from './hyperevm'
+import mode from './mode'
 import optimism from './optimism'
 import polygon from './polygon'
 import sepolia from './sepolia'
-import zkevm from './zkevm'
-import fantom from './fantom'
-import fraxtal from './fraxtal'
-import mode from './mode'
 import sonic from './sonic'
+import zkevm from './zkevm'
 
 const config: Configs = {
   [Network.Arbitrum]: arbitrum,
@@ -26,9 +26,11 @@ const config: Configs = {
   [Network.Sepolia]: sepolia,
   [Network.Zkevm]: zkevm,
   [Network.Fantom]: fantom,
+  [Network.Bartio]: bartio,
   [Network.Fraxtal]: fraxtal,
   [Network.Mode]: mode,
   [Network.Sonic]: sonic,
+  [Network.Hyperevm]: hyperevm,
 }
 
 export default config
