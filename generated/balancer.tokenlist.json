@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 343
+        "patch": 344
     },
     "keywords": [
         "Balancer",
@@ -17,21 +17,23 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-06-30T07:09:21.541Z",
+    "timestamp": "2025-06-30T07:27:38.588Z",
     "tokens": [
         {
             "chainId": 999,
             "address": "0x5555555555555555555555555555555555555555",
             "name": "Wrapped HYPE",
             "symbol": "WHYPE",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5555555555555555555555555555555555555555.png"
         },
         {
             "chainId": 999,
             "address": "0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb",
             "name": "USD₮0",
             "symbol": "USD₮0",
-            "decimals": 6
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb.png"
         },
         {
             "chainId": 999,
