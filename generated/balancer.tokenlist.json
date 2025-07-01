@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 342
+        "patch": 343
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-06-30T06:13:28.326Z",
+    "timestamp": "2025-07-01T08:00:20.015Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13355,6 +13355,30 @@
             "symbol": "EQUAL",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/53369/large/hq_png_icon_file.png?1736204170"
+        },
+        {
+            "chainId": 146,
+            "address": "0x71E99522EaD5E21CF57F1f542Dc4ad2E841F7321",
+            "name": "Metropolis Token",
+            "symbol": "METRO",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/sonic/assets/0x71E99522EaD5E21CF57F1f542Dc4ad2E841F7321/logo.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0xA04BC7140c26fc9BB1F36B1A604C7A5a88fb0E70",
+            "name": "SwapX",
+            "symbol": "SWPx",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/53530/large/IMG_6986.jpeg?1736579863"
+        },
+        {
+            "chainId": 146,
+            "address": "0x4451765739b2D7BCe5f8BC95Beaf966c45E1Dcc9",
+            "name": "xSILO",
+            "symbol": "xSILO",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/66788/large/xSILO.png?1750575606"
         },
         {
             "chainId": 250,
