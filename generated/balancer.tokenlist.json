@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 343
+        "patch": 344
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-07-01T08:00:20.015Z",
+    "timestamp": "2025-07-01T19:17:27.291Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14626,6 +14626,34 @@
             "extensions": {
                 "coingeckoId": "ethena-staked-usde"
             }
+        },
+        {
+            "chainId": 999,
+            "address": "0x5555555555555555555555555555555555555555",
+            "name": "Wrapped HYPE",
+            "symbol": "WHYPE",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb",
+            "name": "USD₮0",
+            "symbol": "USD₮0",
+            "decimals": 6
+        },
+        {
+            "chainId": 999,
+            "address": "0xBe6727B535545C67d5cAa73dEa54865B92CF7907",
+            "name": "Unit Ethereum",
+            "symbol": "UETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0x02c6a2fA58cC01A18B8D9E00eA48d65E4dF26c70",
+            "name": "feUSD",
+            "symbol": "feUSD",
+            "decimals": 18
         },
         {
             "chainId": 1101,

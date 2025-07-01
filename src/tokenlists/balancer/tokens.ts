@@ -1,5 +1,6 @@
 import { Network, TokensForList } from '../../types'
 import arbitrum from './tokens/arbitrum'
+import hyperevm from './tokens/hyperevm'
 import avalanche from './tokens/avalanche'
 import base from './tokens/base'
 import gnosis from './tokens/gnosis'
@@ -27,4 +28,5 @@ export const tokens: TokensForList = {
   [Network.Fraxtal]: fraxtal,
   [Network.Mode]: mode,
   [Network.Sonic]: sonic,
+  [Network.HyperEVM]: hyperevm,
 }
