@@ -1,376 +1,390 @@
 {
-  "name": "Balancer",
-  "version": {
-    "major": 1,
-    "minor": 0,
-    "patch": 345
-  },
-  "keywords": [
-    "Balancer",
-    "DeFi",
-    "DEX",
-    "AMM",
-    "Exchange",
-    "Liquidity",
-    "Pool",
-    "Token",
-    "Swap"
-  ],
-  "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-  "timestamp": "2025-06-30T07:40:13.559Z",
-  "tokens": [
-    {
-      "chainId": 999,
-      "address": "0x5555555555555555555555555555555555555555",
-      "name": "Wrapped HYPE",
-      "symbol": "WHYPE",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/tokenlists/main/src/assets/images/tokens/0x5555555555555555555555555555555555555555.png"
+    "name": "Balancer",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 346
     },
-    {
-      "chainId": 999,
-      "address": "0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb",
-      "name": "USD₮0",
-      "symbol": "USD₮0",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/tokenlists/main/src/assets/images/tokens/0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb.png"
-    },
-    {
-      "chainId": 999,
-      "address": "0x7f5aB8f7974FCcd857163E5DA649Eb2588201dF1",
-      "name": "HyperGun",
-      "symbol": "HGUN",
-      "decimals": 18
-    },
-    {
-      "chainId": 999,
-      "address": "0xfFaa4a3D97fE9107Cef8a3F48c069F577Ff76cC1",
-      "name": "Staked HYPE",
-      "symbol": "stHYPE",
-      "decimals": 18
-    },
-    {
-      "chainId": 999,
-      "address": "0xE9e70B7C9D108011C5aB15Ce9BF6EF21D0cF8363",
-      "name": "peanut is gay",
-      "symbol": "PGAY",
-      "decimals": 6
-    },
-    {
-      "chainId": 999,
-      "address": "0x0D745EAA9E70bb8B6e2a0317f85F1d536616bD34",
-      "name": "HyperLend HyperEVM WHYPE",
-      "symbol": "hHyperEvmWHYPE",
-      "decimals": 18
-    },
-    {
-      "chainId": 999,
-      "address": "0x5748ae796AE46A4F1348a1693de4b50560485562",
-      "name": "Looped HYPE",
-      "symbol": "LHYPE",
-      "decimals": 18
-    },
-    {
-      "chainId": 999,
-      "address": "0x94e8396e0869c9F2200760aF0621aFd240E1CF38",
-      "name": "Staked HYPE Shares",
-      "symbol": "wstHYPE",
-      "decimals": 18
-    },
-    {
-      "chainId": 999,
-      "address": "0x7C97cd7B57b736c6AD74fAE97C0e21e856251dcf",
-      "name": "WHYPE Hypurr",
-      "symbol": "hyWHYPE",
-      "decimals": 18
-    },
-    {
-      "chainId": 999,
-      "address": "0x75cD9E692a2bF5157F6429D0a5E5A75b3e5ea884",
-      "name": "HYDOGE",
-      "symbol": "HYDOGE",
-      "decimals": 18
-    },
-    {
-      "chainId": 999,
-      "address": "0x96C6cBB6251Ee1c257b2162ca0f39AA5Fa44B1FB",
-      "name": "Hyperbeat Ultra HYPE",
-      "symbol": "hbHYPE",
-      "decimals": 18
-    },
-    {
-      "chainId": 999,
-      "address": "0x02c6a2fA58cC01A18B8D9E00eA48d65E4dF26c70",
-      "name": "feUSD",
-      "symbol": "feUSD",
-      "decimals": 18
-    },
-    {
-      "chainId": 999,
-      "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
-      "name": "USDeOFT",
-      "symbol": "USDe",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/burrbear-dev/tokenlists/main/src/assets/images/tokens/0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34.png"
-    },
-    {
-      "chainId": 999,
-      "address": "0x9FDBdA0A5e284c32744D2f17Ee5c74B284993463",
-      "name": "Unit Bitcoin",
-      "symbol": "UBTC",
-      "decimals": 8
-    },
-    {
-      "chainId": 999,
-      "address": "0x47bb061C0204Af921F43DC73C7D7768d2672DdEE",
-      "name": "alright buddy",
-      "symbol": "BUDDY",
-      "decimals": 6
-    },
-    {
-      "chainId": 999,
-      "address": "0xae83a3a0F0722782C943DA06570F9F963ecB515e",
-      "name": "DOG",
-      "symbol": "DOG",
-      "decimals": 18
-    },
-    {
-      "chainId": 999,
-      "address": "0x0Ab8AAE3335Ed4B373A33D9023b6A6585b149D33",
-      "name": "HyperLend HyperEVM wstHYPE",
-      "symbol": "hHyperEvmwstHYPE",
-      "decimals": 18
-    },
-    {
-      "chainId": 999,
-      "address": "0x74a40455Ff49ECE02009BEe405154ac9Ac3FA340",
-      "name": "Stonks",
-      "symbol": "STONKS",
-      "decimals": 6
-    },
-    {
-      "chainId": 999,
-      "address": "0xBe6727B535545C67d5cAa73dEa54865B92CF7907",
-      "name": "Unit Ethereum",
-      "symbol": "UETH",
-      "decimals": 18
-    },
-    {
-      "chainId": 999,
-      "address": "0x39694eFF3b02248929120c73F90347013Aec834d",
-      "name": "stHYPE AMM",
-      "symbol": "stHYPE AMM LP",
-      "decimals": 18
-    },
-    {
-      "chainId": 999,
-      "address": "0xdAbB040c428436d41CECd0Fb06bCFDBAaD3a9AA8",
-      "name": "Hyperpie Staked mHYPE",
-      "symbol": "mHYPE",
-      "decimals": 18
-    },
-    {
-      "chainId": 999,
-      "address": "0xca79db4B49f608eF54a5CB813FbEd3a6387bC645",
-      "name": "Last USD",
-      "symbol": "USDXL",
-      "decimals": 18
-    },
-    {
-      "chainId": 999,
-      "address": "0x2831775cb5e64B1D892853893858A261E898FbEb",
-      "name": "wHYPE",
-      "symbol": "wHYPE",
-      "decimals": 18
-    },
-    {
-      "chainId": 999,
-      "address": "0x6D1aB1c149cA270F15ef2089e3D03a2CA73c1A78",
-      "name": "HYPE",
-      "symbol": "Claim: hyperliquid-labs.com",
-      "decimals": 18
-    },
-    {
-      "chainId": 999,
-      "address": "0x1Ecd15865D7F8019D546f76d095d9c93cc34eDFa",
-      "name": "LiquidLaunch",
-      "symbol": "LIQD",
-      "decimals": 18
-    },
-    {
-      "chainId": 999,
-      "address": "0xB44ca395a468229dD61d3819F30bf4bf47e84a5d",
-      "name": "Kitten Swap",
-      "symbol": "KITTEN",
-      "decimals": 18
-    },
-    {
-      "chainId": 999,
-      "address": "0x1fbcCdc677c10671eE50b46C61F0f7d135112450",
-      "name": "Ether",
-      "symbol": "ETH",
-      "decimals": 18
-    },
-    {
-      "chainId": 999,
-      "address": "0x37E44F3070b5455f1f5d7aaAd9Fc8590229CC5Cb",
-      "name": "WHYPE Variable Debt Hypurr",
-      "symbol": "variableDebtWHYPE",
-      "decimals": 18
-    },
-    {
-      "chainId": 999,
-      "address": "0x1D5a8a4EfbE8Ce2D4a6d241901D04e351399fe38",
-      "name": "Turbo",
-      "symbol": "TURBO",
-      "decimals": 18
-    },
-    {
-      "chainId": 999,
-      "address": "0x4533C3002660117a56fa44ED3C4bF4b6A8E0b0A2",
-      "name": "Hyperlauncher",
-      "symbol": "LAUNCH",
-      "decimals": 18
-    },
-    {
-      "chainId": 999,
-      "address": "0x9b498C3c8A0b8CD8BA1D9851d40D186F1872b44E",
-      "name": "Purr",
-      "symbol": "PURR",
-      "decimals": 18
-    },
-    {
-      "chainId": 999,
-      "address": "0xACdAb7652772aed39Dcbb939a6C4159f6aA6Ad41",
-      "name": "PEPE",
-      "symbol": "PEPE",
-      "decimals": 18
-    },
-    {
-      "chainId": 999,
-      "address": "0xC8b6E0acf159E058E22c564C0C513ec21f8a1Bf5",
-      "name": "wstHYPE Hypurr",
-      "symbol": "hywstHYPE",
-      "decimals": 18
-    },
-    {
-      "chainId": 999,
-      "address": "0x4Ae080EcCD89CF1dC2965Dbd5198B7a4EfDfa7B8",
-      "name": "hi im Glo",
-      "symbol": "GLO",
-      "decimals": 6
-    },
-    {
-      "chainId": 999,
-      "address": "0x5e105266db42f78FA814322Bce7f388B4C2e61eb",
-      "name": "Hyperbeat USDT",
-      "symbol": "hbUSDT",
-      "decimals": 18
-    },
-    {
-      "chainId": 999,
-      "address": "0xB5fE77d323d69eB352A02006eA8ecC38D882620C",
-      "name": "KEI Stablecoin",
-      "symbol": "KEI",
-      "decimals": 18
-    },
-    {
-      "chainId": 999,
-      "address": "0x7952D59a35aCf858556B976e8476dF7949856d0e",
-      "name": "sidelined",
-      "symbol": "SIDE",
-      "decimals": 18
-    },
-    {
-      "chainId": 999,
-      "address": "0xE5C927778955205AB0dB5076c2ce4615Aff23Ce8",
-      "name": "Holy Liquid\n\n 2.0",
-      "symbol": "HL2.0",
-      "decimals": 18
-    },
-    {
-      "chainId": 999,
-      "address": "0xa0399Ff8F46Ce6C2Cfee05C5F67307C7F390a439",
-      "name": "USDXL Variable Debt Hypurr",
-      "symbol": "variableDebtUSDXL",
-      "decimals": 18
-    },
-    {
-      "chainId": 999,
-      "address": "0xc061d38903b99aC12713B550C2CB44B221674F94",
-      "name": "Hyperbeat Ultra uBTC",
-      "symbol": "hbBTC",
-      "decimals": 8
-    },
-    {
-      "chainId": 999,
-      "address": "0xb50A96253aBDF803D85efcDce07Ad8becBc52BD5",
-      "name": "Hyper USD",
-      "symbol": "USDHL",
-      "decimals": 6
-    },
-    {
-      "chainId": 999,
-      "address": "0xb50f23153cbEbaCED6F15a537e023d910905D4D5",
-      "name": "Hyperliquid Ape",
-      "symbol": "HAPE",
-      "decimals": 18
-    },
-    {
-      "chainId": 999,
-      "address": "0x6E0F6a71a74fAD5D0ED5A34b468203A4a4437b71",
-      "name": "EVMoon",
-      "symbol": "EVM",
-      "decimals": 9
-    },
-    {
-      "chainId": 999,
-      "address": "0x27249FC563e0308F7A9e27B23379527B06357D72",
-      "name": "Hypepe",
-      "symbol": "HP",
-      "decimals": 18
-    },
-    {
-      "chainId": 999,
-      "address": "0x62D5dD0190376c444a4B2E2e860aa392eC83Ed80",
-      "name": "Chomolon Joff",
-      "symbol": "JOFF",
-      "decimals": 8
-    },
-    {
-      "chainId": 999,
-      "address": "0x66c58ccee34539bcc507DfbB62B7DC37518E8eC9",
-      "name": "Hyper Ski",
-      "symbol": "HYPERSKI",
-      "decimals": 18
-    },
-    {
-      "chainId": 999,
-      "address": "0x4B46a2FF5b7a5B3E69D7a7BffDb19E47835e6611",
-      "name": "HYPEDOGE",
-      "symbol": "HYPEDOGE",
-      "decimals": 18
-    },
-    {
-      "chainId": 999,
-      "address": "0xE2c53Ed964578258EdA427382d01d0C98a5Bbb8d",
-      "name": "WARx",
-      "symbol": "WARx",
-      "decimals": 18
-    },
-    {
-      "chainId": 999,
-      "address": "0xd0aC013E7160bE0B745197a69768ec278a8576AF",
-      "name": "Meowsk",
-      "symbol": "MEOWSK",
-      "decimals": 18
-    },
-    {
-      "chainId": 999,
-      "address": "0xdecDE03733979B1b87B5bb085F97b583fb548288",
-      "name": "Hype Elon",
-      "symbol": "HYPEELON",
-      "decimals": 18
-    }
-  ]
+    "keywords": [
+        "Balancer",
+        "DeFi",
+        "DEX",
+        "AMM",
+        "Exchange",
+        "Liquidity",
+        "Pool",
+        "Token",
+        "Swap"
+    ],
+    "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
+    "timestamp": "2025-07-01T06:53:00.275Z",
+    "tokens": [
+        {
+            "chainId": 999,
+            "address": "0x5555555555555555555555555555555555555555",
+            "name": "Wrapped HYPE",
+            "symbol": "WHYPE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/burrbear-dev/tokenlists/main/src/assets/images/tokens/0x5555555555555555555555555555555555555555.png"
+        },
+        {
+            "chainId": 999,
+            "address": "0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb",
+            "name": "USD₮0",
+            "symbol": "USD₮0",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/burrbear-dev/tokenlists/main/src/assets/images/tokens/0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb.png"
+        },
+        {
+            "chainId": 999,
+            "address": "0x7f5aB8f7974FCcd857163E5DA649Eb2588201dF1",
+            "name": "HyperGun",
+            "symbol": "HGUN",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0xfFaa4a3D97fE9107Cef8a3F48c069F577Ff76cC1",
+            "name": "Staked HYPE",
+            "symbol": "stHYPE",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0xE9e70B7C9D108011C5aB15Ce9BF6EF21D0cF8363",
+            "name": "peanut is gay",
+            "symbol": "PGAY",
+            "decimals": 6
+        },
+        {
+            "chainId": 999,
+            "address": "0x0D745EAA9E70bb8B6e2a0317f85F1d536616bD34",
+            "name": "HyperLend HyperEVM WHYPE",
+            "symbol": "hHyperEvmWHYPE",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0x5748ae796AE46A4F1348a1693de4b50560485562",
+            "name": "Looped HYPE",
+            "symbol": "LHYPE",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0x94e8396e0869c9F2200760aF0621aFd240E1CF38",
+            "name": "Staked HYPE Shares",
+            "symbol": "wstHYPE",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0x7C97cd7B57b736c6AD74fAE97C0e21e856251dcf",
+            "name": "WHYPE Hypurr",
+            "symbol": "hyWHYPE",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0x75cD9E692a2bF5157F6429D0a5E5A75b3e5ea884",
+            "name": "HYDOGE",
+            "symbol": "HYDOGE",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0x96C6cBB6251Ee1c257b2162ca0f39AA5Fa44B1FB",
+            "name": "Hyperbeat Ultra HYPE",
+            "symbol": "hbHYPE",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0x02c6a2fA58cC01A18B8D9E00eA48d65E4dF26c70",
+            "name": "feUSD",
+            "symbol": "feUSD",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+            "name": "USDeOFT",
+            "symbol": "USDe",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/burrbear-dev/tokenlists/main/src/assets/images/tokens/0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34.png"
+        },
+        {
+            "chainId": 999,
+            "address": "0x9FDBdA0A5e284c32744D2f17Ee5c74B284993463",
+            "name": "Unit Bitcoin",
+            "symbol": "UBTC",
+            "decimals": 8
+        },
+        {
+            "chainId": 999,
+            "address": "0x47bb061C0204Af921F43DC73C7D7768d2672DdEE",
+            "name": "alright buddy",
+            "symbol": "BUDDY",
+            "decimals": 6
+        },
+        {
+            "chainId": 999,
+            "address": "0xae83a3a0F0722782C943DA06570F9F963ecB515e",
+            "name": "DOG",
+            "symbol": "DOG",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0x0Ab8AAE3335Ed4B373A33D9023b6A6585b149D33",
+            "name": "HyperLend HyperEVM wstHYPE",
+            "symbol": "hHyperEvmwstHYPE",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0x74a40455Ff49ECE02009BEe405154ac9Ac3FA340",
+            "name": "Stonks",
+            "symbol": "STONKS",
+            "decimals": 6
+        },
+        {
+            "chainId": 999,
+            "address": "0xBe6727B535545C67d5cAa73dEa54865B92CF7907",
+            "name": "Unit Ethereum",
+            "symbol": "UETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0x39694eFF3b02248929120c73F90347013Aec834d",
+            "name": "stHYPE AMM",
+            "symbol": "stHYPE AMM LP",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0xdAbB040c428436d41CECd0Fb06bCFDBAaD3a9AA8",
+            "name": "Hyperpie Staked mHYPE",
+            "symbol": "mHYPE",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0xca79db4B49f608eF54a5CB813FbEd3a6387bC645",
+            "name": "Last USD",
+            "symbol": "USDXL",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0x2831775cb5e64B1D892853893858A261E898FbEb",
+            "name": "wHYPE",
+            "symbol": "wHYPE",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0x6D1aB1c149cA270F15ef2089e3D03a2CA73c1A78",
+            "name": "HYPE",
+            "symbol": "Claim: hyperliquid-labs.com",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0x1Ecd15865D7F8019D546f76d095d9c93cc34eDFa",
+            "name": "LiquidLaunch",
+            "symbol": "LIQD",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0xB44ca395a468229dD61d3819F30bf4bf47e84a5d",
+            "name": "Kitten Swap",
+            "symbol": "KITTEN",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0x1fbcCdc677c10671eE50b46C61F0f7d135112450",
+            "name": "Ether",
+            "symbol": "ETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0x37E44F3070b5455f1f5d7aaAd9Fc8590229CC5Cb",
+            "name": "WHYPE Variable Debt Hypurr",
+            "symbol": "variableDebtWHYPE",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0x1D5a8a4EfbE8Ce2D4a6d241901D04e351399fe38",
+            "name": "Turbo",
+            "symbol": "TURBO",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0x4533C3002660117a56fa44ED3C4bF4b6A8E0b0A2",
+            "name": "Hyperlauncher",
+            "symbol": "LAUNCH",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0x9b498C3c8A0b8CD8BA1D9851d40D186F1872b44E",
+            "name": "Purr",
+            "symbol": "PURR",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0xACdAb7652772aed39Dcbb939a6C4159f6aA6Ad41",
+            "name": "PEPE",
+            "symbol": "PEPE",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0xC8b6E0acf159E058E22c564C0C513ec21f8a1Bf5",
+            "name": "wstHYPE Hypurr",
+            "symbol": "hywstHYPE",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0x4Ae080EcCD89CF1dC2965Dbd5198B7a4EfDfa7B8",
+            "name": "hi im Glo",
+            "symbol": "GLO",
+            "decimals": 6
+        },
+        {
+            "chainId": 999,
+            "address": "0x5e105266db42f78FA814322Bce7f388B4C2e61eb",
+            "name": "Hyperbeat USDT",
+            "symbol": "hbUSDT",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0xB5fE77d323d69eB352A02006eA8ecC38D882620C",
+            "name": "KEI Stablecoin",
+            "symbol": "KEI",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0x7952D59a35aCf858556B976e8476dF7949856d0e",
+            "name": "sidelined",
+            "symbol": "SIDE",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0xE5C927778955205AB0dB5076c2ce4615Aff23Ce8",
+            "name": "Holy Liquid\n\n 2.0",
+            "symbol": "HL2.0",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0xa0399Ff8F46Ce6C2Cfee05C5F67307C7F390a439",
+            "name": "USDXL Variable Debt Hypurr",
+            "symbol": "variableDebtUSDXL",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0xc061d38903b99aC12713B550C2CB44B221674F94",
+            "name": "Hyperbeat Ultra uBTC",
+            "symbol": "hbBTC",
+            "decimals": 8
+        },
+        {
+            "chainId": 999,
+            "address": "0xb50A96253aBDF803D85efcDce07Ad8becBc52BD5",
+            "name": "Hyper USD",
+            "symbol": "USDHL",
+            "decimals": 6
+        },
+        {
+            "chainId": 999,
+            "address": "0xb50f23153cbEbaCED6F15a537e023d910905D4D5",
+            "name": "Hyperliquid Ape",
+            "symbol": "HAPE",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0x6E0F6a71a74fAD5D0ED5A34b468203A4a4437b71",
+            "name": "EVMoon",
+            "symbol": "EVM",
+            "decimals": 9
+        },
+        {
+            "chainId": 999,
+            "address": "0x27249FC563e0308F7A9e27B23379527B06357D72",
+            "name": "Hypepe",
+            "symbol": "HP",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0x62D5dD0190376c444a4B2E2e860aa392eC83Ed80",
+            "name": "Chomolon Joff",
+            "symbol": "JOFF",
+            "decimals": 8
+        },
+        {
+            "chainId": 999,
+            "address": "0x66c58ccee34539bcc507DfbB62B7DC37518E8eC9",
+            "name": "Hyper Ski",
+            "symbol": "HYPERSKI",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0x4B46a2FF5b7a5B3E69D7a7BffDb19E47835e6611",
+            "name": "HYPEDOGE",
+            "symbol": "HYPEDOGE",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0xE2c53Ed964578258EdA427382d01d0C98a5Bbb8d",
+            "name": "WARx",
+            "symbol": "WARx",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0xd0aC013E7160bE0B745197a69768ec278a8576AF",
+            "name": "Meowsk",
+            "symbol": "MEOWSK",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0xdecDE03733979B1b87B5bb085F97b583fb548288",
+            "name": "Hype Elon",
+            "symbol": "HYPEELON",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0xaE4EFbc7736f963982aACb17EFA37fCBAb924cB3",
+            "name": "Solv BTC",
+            "symbol": "SolvBTC",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0xE2B36A37bD98ba81658dC5454F2dB2F98438d140",
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "decimals": 8
+        }
+    ]
 }
