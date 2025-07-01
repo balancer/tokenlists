@@ -124,4 +124,7 @@ export default [
   '0xccccCCcca9FC69a2b32408730011EdB3205A93A1', // stability scusd
   '0xE4A4353CD8F008f1a70f1a564535990479E8ceb7', // PAL
   '0xddF26B42C1d903De8962d3F79a74a501420d5F19', // equal
+  '0x71E99522EaD5E21CF57F1f542Dc4ad2E841F7321', // metro
+  '0xa04bc7140c26fc9bb1f36b1a604c7a5a88fb0e70', // swpx
+  '0x4451765739b2d7bce5f8bc95beaf966c45e1dcc9', // xsilo
 ]
