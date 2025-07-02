@@ -1822,5 +1822,12 @@ export const overwrites: OverwritesForList = {
         coingeckoId: 'paladin',
       },
     },
+    '0xe920d1da9a4d59126dc35996ea242d60efca1304': {
+      logoURI:
+        'https://assets.coingecko.com/coins/images/53307/standard/DERP_TOKEN.png?1736066460',
+      extensions: {
+        coingeckoId: 'derp-2',
+      },
+    },
   },
 }
