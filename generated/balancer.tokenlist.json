@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 347
+        "patch": 348
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-07-02T06:00:14.275Z",
+    "timestamp": "2025-07-02T07:26:06.041Z",
     "tokens": [
         {
             "chainId": 999,
@@ -119,7 +119,8 @@
             "address": "0x9FDBdA0A5e284c32744D2f17Ee5c74B284993463",
             "name": "Unit Bitcoin",
             "symbol": "UBTC",
-            "decimals": 8
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/burrbear-dev/tokenlists/main/src/assets/images/tokens/0x9fdbda0a5e284c32744d2f17ee5c74b284993463.png"
         },
         {
             "chainId": 999,
@@ -380,7 +381,8 @@
             "address": "0xaE4EFbc7736f963982aACb17EFA37fCBAb924cB3",
             "name": "Solv BTC",
             "symbol": "SolvBTC",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/burrbear-dev/tokenlists/main/src/assets/images/tokens/0xae4efbc7736f963982aacb17efa37fcbab924cb3.png"
         },
         {
             "chainId": 999,
