@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 344
+        "patch": 345
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-07-01T19:17:27.291Z",
+    "timestamp": "2025-07-02T16:00:40.569Z",
     "tokens": [
         {
             "chainId": 1,
@@ -1726,7 +1726,7 @@
             "name": "Datamine",
             "symbol": "DAM",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/11695/large/qxsFH8W.png?1592880463"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf80d589b3dbe130c270a69f1a69d050f268786df.png"
         },
         {
             "chainId": 1,
@@ -18317,6 +18317,30 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0b2b2b2076d95dda7817e785989fe353fe955ef9.png"
         },
         {
+            "chainId": 42161,
+            "address": "0x64081252c497FCfeC247a664e9D10Ca8eD71b276",
+            "name": "ArbiFLUX",
+            "symbol": "ArbiFLUX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x64081252c497fcfec247a664e9d10ca8ed71b276.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xF80D589b3Dbe130c270a69F1a69D050f268786Df",
+            "name": "Flux",
+            "symbol": "FLUX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf80d589b3dbe130c270a69f1a69d050f268786df.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x454F676D44DF315EEf9B5425178d5a8B524CEa03",
+            "name": "Lockquidity",
+            "symbol": "LOCK",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x454f676d44df315eef9b5425178d5a8b524cea03.png"
+        },
+        {
             "chainId": 43114,
             "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
             "name": "Wrapped AVAX",
@@ -18780,6 +18804,14 @@
             "symbol": "GEC",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/33948/large/token_icon.png?1703537806"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xfc421aD3C883Bf9E7C4f42dE845C4e4405799e73",
+            "name": "Gho Token",
+            "symbol": "GHO",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfc421ad3c883bf9e7c4f42de845c4e4405799e73.png"
         },
         {
             "chainId": 43114,
