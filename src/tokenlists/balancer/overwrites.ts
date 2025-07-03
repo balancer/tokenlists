@@ -165,7 +165,28 @@ export const overwrites: OverwritesForList = {
       symbol: 'aRLUSD',
     },
   },
-  [Network.HyperEVM]: {},
+  [Network.HyperEVM]: {
+    '0x5555555555555555555555555555555555555555': {
+      extensions: {
+        coingeckoId: 'wrapped-hype',
+      },
+    },
+    '0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb': {
+      extensions: {
+        coingeckoId: 'usdt0',
+      },
+    },
+    '0xBe6727B535545C67d5cAa73dEa54865B92CF7907': {
+      extensions: {
+        coingeckoId: 'unit-ethereum',
+      },
+    },
+    '0x02c6a2fA58cC01A18B8D9E00eA48d65E4dF26c70': {
+      extensions: {
+        coingeckoId: 'felix-feusd',
+      },
+    },
+  },
   [Network.Polygon]: {
     '0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3': {
       logoURI:
