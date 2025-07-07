@@ -1822,4 +1822,26 @@ export const overwrites: OverwritesForList = {
       },
     },
   },
+  [Network.Hyperevm]: {
+    '0x02379E4a55111d999Ac18C367F5920119398b94B': {
+      logoURI:
+        'https://raw.githubusercontent.com/burrbear-dev/tokenlists/main/src/assets/images/tokens/0x9fdbda0a5e284c32744d2f17ee5c74b284993463.png',
+    },
+    '0xb50A96253aBDF803D85efcDce07Ad8becBc52BD5': {
+      logoURI:
+        'https://raw.githubusercontent.com/burrbear-dev/tokenlists/main/src/assets/images/tokens/0xb50a96253abdf803d85efcdce07ad8becbc52bd5.png',
+    },
+    '0x1Ca7e21B2dAa5Ab2eB9de7cf8f34dCf9c8683007': {
+      logoURI:
+        'https://raw.githubusercontent.com/burrbear-dev/tokenlists/main/src/assets/images/tokens/0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb.png',
+    },
+    '0xAEA02692F502b47e116bdfA9a4CeB3138Bd8B516': {
+      logoURI:
+        'https://raw.githubusercontent.com/burrbear-dev/tokenlists/main/src/assets/images/tokens/0x02c6a2fa58cc01a18b8d9e00ea48d65e4df26c70.png',
+    },
+    '0xe8F7D82A73f13A64d689e7ddAD06139BFb51f9C6': {
+      logoURI:
+        'https://raw.githubusercontent.com/burrbear-dev/tokenlists/main/src/assets/images/tokens/0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34.png',
+    },
+  },
 }
