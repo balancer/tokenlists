@@ -1827,7 +1827,7 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/burrbear-dev/tokenlists/main/src/assets/images/tokens/0x9fdbda0a5e284c32744d2f17ee5c74b284993463.png',
     },
-    '0xb50A96253aBDF803D85efcDce07Ad8becBc52BD5': {
+    '0xFd32712A1cb152c03a62D54557fcb1dE372ABfe9': {
       logoURI:
         'https://raw.githubusercontent.com/burrbear-dev/tokenlists/main/src/assets/images/tokens/0xb50a96253abdf803d85efcdce07ad8becbc52bd5.png',
     },
