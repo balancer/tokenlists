@@ -683,7 +683,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x3ec3849c33291a9ef4c5db86de593eb4a37fde45': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/sfrxETH.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x3ec3849c33291a9ef4c5db86de593eb4a37fde45.png',
       extensions: {
         coingeckoId: 'staked-frax-ether',
       },
@@ -693,22 +693,22 @@ export const overwrites: OverwritesForList = {
     },
     '0x5bff88ca1442c2496f7e475e9e7786383bc070c0': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/sfrxusd.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5bff88ca1442c2496f7e475e9e7786383bc070c0.png',
       extensions: {
         coingeckoId: 'staked-frax-usd',
       },
     },
     '0x8e6a81b9d541A0CeA090818B62C4B2DE7f2A2Cf7': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/rETH-aave-boosted.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x8e6a81b9d541a0cea090818b62c4b2de7f2a2cf7.png',
     },
     '0xbaF95bB30CDab3d5b7a11B67EDeF5631bD62be86': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wstETH-aave-boosted.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xbaf95bb30cdab3d5b7a11b67edef5631bd62be86.png',
     },
     '0x64445f0aecc51e94ad52d8ac56b7190e764e561a': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/FRAX.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x64445f0aecc51e94ad52d8ac56b7190e764e561a.png',
       extensions: {
         coingeckoId: 'frax-share',
       },
@@ -1586,7 +1586,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x0C4E186Eae8aCAA7F7de1315D5AD174BE39Ec987': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/anS.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0c4e186eae8acaa7f7de1315d5ad174be39ec987.png',
       extensions: {
         coingeckoId: 'sonic-3',
       },
@@ -1599,7 +1599,7 @@ export const overwrites: OverwritesForList = {
     },
     '0xfA85Fe5A8F5560e9039C04f2b0a90dE1415aBD70': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wanS.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfa85fe5a8f5560e9039c04f2b0a90de1415abd70.png',
     },
     '0x9F0dF7799f6FDAd409300080cfF680f5A23df4b1': {
       logoURI:
@@ -1692,7 +1692,7 @@ export const overwrites: OverwritesForList = {
       symbol: 'SiloFrxUSD',
       name: 'Silo Wrapped frxUSD - 37',
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/frxUSD_silo.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xda14a41dbda731f03a94cb722191639dd22b35b2.png',
     },
     '0xEdF8b632b537d5993Adb5e2E15882CD791c284cB': {
       logoURI:
@@ -1708,13 +1708,13 @@ export const overwrites: OverwritesForList = {
       symbol: 'SiloScUSD',
       name: 'Silo Wrapped scUSD - 46',
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-silo.svg',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe6605932e4a686534d19005bb9db0fba1f101272.svg',
     },
     '0x24c74B30d1a4261608E84Bf5a618693032681DAc': {
       symbol: 'SiloScETH',
       name: 'Silo Wrapped scETH - 47',
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scETH-silo.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x24c74b30d1a4261608e84bf5a618693032681dac.png',
     },
     '0x08C320A84a59c6f533e0DcA655cf497594BCa1F9': {
       symbol: 'SiloWETH',
@@ -1732,13 +1732,13 @@ export const overwrites: OverwritesForList = {
       symbol: 'ewS',
       name: 'Euler Wrapped wS - 5',
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wS-boosted-Euler.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x90a804d316a06e00755444d56b9ef52e5c4f4d73.png',
     },
     '0x6832F3090867449c058e1e3088E552E12AB18F9E': {
       symbol: 'estS',
       name: 'Euler Wrapped stS - 5',
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/stS-boosted-Euler.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6832f3090867449c058e1e3088e552e12ab18f9e.png',
     },
     '0x6646248971427B80ce531bdD793e2Eb859347E55': {
       symbol: 'waUSDC',
@@ -1748,11 +1748,11 @@ export const overwrites: OverwritesForList = {
     },
     '0xe8a41c62bb4d5863c6eadc96792cfe90a1f37c47': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wstkscETH.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe8a41c62bb4d5863c6eadc96792cfe90a1f37c47.png',
     },
     '0x9fb76f7ce5fceaa2c42887ff441d46095e494206': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wstkscusd.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9fb76f7ce5fceaa2c42887ff441d46095e494206.png',
     },
     '0x871A101Dcf22fE4fE37be7B654098c801CBA1c88': {
       logoURI:
@@ -1798,30 +1798,30 @@ export const overwrites: OverwritesForList = {
     },
     '0xF6F87073cF8929C206A77b0694619DC776F89885': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/USDC-varlamore-boosted.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf6f87073cf8929c206a77b0694619dc776f89885.png',
     },
     '0xDED4aC8645619334186f28B8798e07ca354CFa0e': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wS-varlamore-boosted.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xded4ac8645619334186f28b8798e07ca354cfa0e.png',
     },
     '0xb6A23cB29e512Df41876B28D7A848BD831f9c5Ba': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-varlamore-boosted.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb6a23cb29e512df41876b28d7a848bd831f9c5ba.png',
     },
     '0x6202B9f02E30E5e1c62Cc01E4305450E5d83b926': {
       logoURI: 'https://app.streamprotocol.money/assets/usdc-a6e16350.svg',
     },
     '0xb4444468e444f89e1c2cac2f1d3ee7e336cbd1f5': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/rzr.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb4444468e444f89e1c2cac2f1d3ee7e336cbd1f5.png',
     },
     '0xEEEEEEE6d95E55A468D32FeB5d6648754d10A967': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/USDC-stability-boosted.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xeeeeeee6d95e55a468d32feb5d6648754d10a967.png',
     },
     '0xccccCCcca9FC69a2b32408730011EdB3205A93A1': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-stability-boosted.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xcccccccca9fc69a2b32408730011edb3205a93a1.png',
     },
     '0x53a6aBb52B2F968fA80dF6A894e4f1b1020DA975': {
       extensions: {
@@ -1830,11 +1830,11 @@ export const overwrites: OverwritesForList = {
     },
     '0x592D1e187729C76EfacC6dfFB9355bd7BF47B2a7': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-re7-boosted.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x592d1e187729c76efacc6dffb9355bd7bf47b2a7.png',
     },
     '0x9A1BF5365edBB99C2c61CA6D9ffAd0B705ACfc6F': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/dUSD-varlamore-boosted.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9a1bf5365edbb99c2c61ca6d9ffad0b705acfc6f.png',
     },
     '0xE4A4353CD8F008f1a70f1a564535990479E8ceb7': {
       logoURI:
