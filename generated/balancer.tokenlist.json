@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 348
+        "patch": 349
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-07-09T09:48:26.943Z",
+    "timestamp": "2025-07-09T12:52:02.401Z",
     "tokens": [
         {
             "chainId": 1,
@@ -19242,6 +19242,14 @@
             "symbol": "esavUSD-2",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x72f92a966f1874f74e1b601bee7cf57031b53a03.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x2cd3CdB3bd68Eea0d3BE81DA707bC0c8743D7335",
+            "name": "Yield BTC.B",
+            "symbol": "YBTC.B",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2cd3cdb3bd68eea0d3be81da707bc0c8743d7335.png"
         },
         {
             "chainId": 11155111,
