@@ -128,4 +128,5 @@ export default [
   '0xa04bc7140c26fc9bb1f36b1a604c7a5a88fb0e70', // swpx
   '0x4451765739b2d7bce5f8bc95beaf966c45e1dcc9', // xsilo
   '0xe920d1da9a4d59126dc35996ea242d60efca1304', // derp
+  '0x67a298e5b65db2b4616e05c3b455e017275f53cb', // lstrzr
 ]
