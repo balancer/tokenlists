@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 347
+        "patch": 348
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-07-03T08:13:37.362Z",
+    "timestamp": "2025-07-09T09:48:26.943Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13390,6 +13390,13 @@
             "extensions": {
                 "coingeckoId": "derp-2"
             }
+        },
+        {
+            "chainId": 146,
+            "address": "0x67A298e5B65dB2b4616E05C3b455E017275f53cB",
+            "name": "Liquid Staked Rezerve.money",
+            "symbol": "lstRZR",
+            "decimals": 18
         },
         {
             "chainId": 250,
