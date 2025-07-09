@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 349
+        "patch": 350
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-07-09T12:52:02.401Z",
+    "timestamp": "2025-07-09T15:17:59.515Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13396,7 +13396,8 @@
             "address": "0x67A298e5B65dB2b4616E05C3b455E017275f53cB",
             "name": "Liquid Staked Rezerve.money",
             "symbol": "lstRZR",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/lstrzr.svg"
         },
         {
             "chainId": 250,
