@@ -195,90 +195,90 @@ export const overwrites: OverwritesForList = {
     '0x1D607Faa0A51518a7728580C238d912747e71F7a': {
       name: 'Data Economy Index',
       logoURI:
-        'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x33d63Ba1E57E54779F7dDAeaA7109349344cf5F1/logo.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1d607faa0a51518a7728580c238d912747e71f7a.png',
     },
     '0x282d8efCe846A88B159800bd4130ad77443Fa1A1': {
       name: 'Ocean Protocol',
       logoURI:
-        'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x967da4048cD07aB37855c090aAF366e4ce1b9F48/logo.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x282d8efce846a88b159800bd4130ad77443fa1a1.png',
     },
     '0x2934b36ca9A4B31E633C5BE670C8C8b28b6aA015': {
       name: 'THX Network',
       logoURI:
-        'https://raw.githubusercontent.com/balancer-labs/assets/refactor-for-multichain/assets/0x2934b36ca9a4b31e633c5be670c8c8b28b6aa015.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2934b36ca9a4b31e633c5be670c8c8b28b6aa015.png',
     },
     '0xC8A94a3d3D2dabC3C1CaffFFDcA6A7543c3e3e65': {
       name: 'Gemini Dollar',
       logoURI:
-        'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd/logo.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc8a94a3d3d2dabc3c1caffffdca6a7543c3e3e65.png',
     },
     '0x5FFD62D3C3eE2E81C00A7b9079FB248e7dF024A8': {
       name: 'Gnosis',
       logoURI:
-        'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6810e776880C02933D47DB1b9fc05908e5386b96/logo.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5ffd62d3c3ee2e81c00a7b9079fb248e7df024a8.png',
     },
     '0x263534a4Fe3cb249dF46810718B7B612a30ebbff': {
       name: 'Perpetual Protocol',
       logoURI:
-        'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbC396689893D065F41bc2C6EcbeE5e0085233447/logo.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x263534a4fe3cb249df46810718b7b612a30ebbff.png',
     },
     '0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b': {
       name: 'Avalanche',
       logoURI:
-        'https://raw.githubusercontent.com/trustwallet/assets/2563ac9dc5369d8e3255cde663cf7f08e3c58914/blockchains/avalanchec/info/logo.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2c89bbc92bd86f8075d1decc58c7f4e0107f286b.png',
     },
     '0x3066818837c5e6eD6601bd5a91B0762877A6B731': {
       name: 'UMA Protocol',
       logoURI:
-        'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828/logo.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x3066818837c5e6ed6601bd5a91b0762877a6b731.png',
     },
     '0x87ff96aba480f1813aF5c780387d8De7cf7D8261': {
       logoURI:
-        'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4Fabb145d64652a948d72533023f6E7A623C7C53/logo.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x87ff96aba480f1813af5c780387d8de7cf7d8261.png',
     },
     '0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619': {
       name: 'Wrapped Ether',
       logoURI:
-        'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7ceb23fd6bc0add59e62ac25578270cff1b9f619.png',
     },
     '0x7DfF46370e9eA5f0Bad3C4E29711aD50062EA7A4': {
       name: 'Solana',
       logoURI:
-        'https://raw.githubusercontent.com/trustwallet/assets/2563ac9dc5369d8e3255cde663cf7f08e3c58914/blockchains/solana/info/logo.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7dff46370e9ea5f0bad3c4e29711ad50062ea7a4.png',
     },
     '0xE7804D91dfCDE7F776c90043E03eAa6Df87E6395': {
       name: 'DFX Token',
       logoURI:
-        'https://raw.githubusercontent.com/dfx-finance/assets/add-dfx-logov3/blockchains/ethereum/assets/0x888888435FDe8e7d4c54cAb67f206e4199454c60/logo.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe7804d91dfcde7f776c90043e03eaa6df87e6395.png',
     },
     '0xF501dd45a1198C2E1b5aEF5314A68B9006D842E0': {
       name: 'Meta',
       logoURI:
-        'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa3BeD4E1c75D00fa6f4E5E6922DB7261B5E9AcD2/logo.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf501dd45a1198c2e1b5aef5314a68b9006d842e0.png',
     },
     '0xfBd8A3b908e764dBcD51e27992464B4432A1132b': {
       name: 'Index',
       logoURI:
-        'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0954906da0Bf32d5479e25f46056d22f08464cab/logo.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfbd8a3b908e764dbcd51e27992464b4432a1132b.png',
     },
     '0xDBf31dF14B66535aF65AaC99C32e9eA844e14501': {
       logoURI:
-        'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D/logo.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdbf31df14b66535af65aac99c32e9ea844e14501.png',
     },
     '0xDB7Cb471dd0b49b29CAB4a1C14d070f27216a0Ab': {
       name: 'Bankless DAO',
       logoURI:
-        'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2d94AA3e47d9D5024503Ca8491fcE9A2fB4DA198/logo.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdb7cb471dd0b49b29cab4a1c14d070f27216a0ab.png',
     },
     '0xbD7A5Cf51d22930B8B3Df6d834F9BCEf90EE7c4f': {
       name: 'Ethereum Name Service',
       logoURI:
-        'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72/logo.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xbd7a5cf51d22930b8b3df6d834f9bcef90ee7c4f.png',
     },
     '0xdb95f9188479575F3F718a245EcA1B3BF74567EC': {
       name: 'Gitcoin',
       logoURI:
-        'https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0xde30da39c46104798bb5aa3fe8b9e0e1f348163f.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdb95f9188479575f3f718a245eca1b3bf74567ec.png',
     },
     '0xEC38621e72D86775a89C7422746de1f52bbA5320': {
       symbol: 'DUSD',
@@ -349,65 +349,65 @@ export const overwrites: OverwritesForList = {
     },
     '0x11cDb42B0EB46D95f990BeDD4695A6e3fA034978': {
       logoURI:
-        'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x11cdb42b0eb46d95f990bedd4695a6e3fa034978.png',
     },
     '0x23A941036Ae778Ac51Ab04CEa08Ed6e2FE103614': {
       logoURI:
-        'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc944E90C64B2c07662A292be6244BDf05Cda44a7/logo.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x23a941036ae778ac51ab04cea08ed6e2fe103614.png',
     },
     '0x2e9a6Df78E42a30712c10a9Dc4b1C8656f8F2879': {
       name: 'Maker',
       symbol: 'MKR',
       logoURI:
-        'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2/logo.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2e9a6df78e42a30712c10a9dc4b1c8656f8f2879.png',
     },
     '0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f': {
       logoURI:
-        'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f.png',
     },
     '0x354A6dA3fcde098F8389cad84b0182725c6C91dE': {
       logoURI:
-        'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc00e94Cb662C3520282E6f5717214004A7f26888/logo.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x354a6da3fcde098f8389cad84b0182725c6c91de.png',
     },
     '0x8038F3C971414FD1FC220bA727F2D4A0fC98cb65': {
       logoURI:
-        'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xca1207647Ff814039530D7d35df0e1Dd2e91Fa84/logo.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x8038f3c971414fd1fc220ba727f2d4a0fc98cb65.png',
     },
     '0x82aF49447D8a07e3bd95BD0d56f35241523fBab1': {
       logoURI:
-        'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x82af49447d8a07e3bd95bd0d56f35241523fbab1.png',
     },
     '0x82e3A8F066a6989666b031d916c43672085b1582': {
       logoURI:
-        'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x82e3a8f066a6989666b031d916c43672085b1582.png',
     },
     '0xa0b862F60edEf4452F25B4160F177db44DeB6Cf1': {
       logoURI:
-        'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6810e776880C02933D47DB1b9fc05908e5386b96/logo.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa0b862f60edef4452f25b4160f177db44deb6cf1.png',
     },
     '0xa684cd057951541187f288294a1e1C2646aA2d24': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer-labs/assets/refactor-for-multichain/assets/0xa684cd057951541187f288294a1e1c2646aa2d24.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa684cd057951541187f288294a1e1c2646aa2d24.png',
     },
     '0xA970AF1a584579B618be4d69aD6F73459D112F95': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0x57ab1ec28d129707052df4df418d58a2d46d5f51.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa970af1a584579b618be4d69ad6f73459d112f95.png',
     },
     '0xB965029343D55189c25a7f3e0c9394DC0F5D41b1': {
       logoURI:
-        'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x86772b1409b61c639EaAc9Ba0AcfBb6E238e5F83/logo.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb965029343d55189c25a7f3e0c9394dc0f5d41b1.png',
     },
     '0xC3Ae0333F0F34aa734D5493276223d95B8F9Cb37': {
       logoURI:
-        'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa1d65E8fB6e87b60FECCBc582F7f97804B725521/logo.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc3ae0333f0f34aa734d5493276223d95b8f9cb37.png',
     },
     '0xd4d42F0b6DEF4CE0383636770eF773390d85c61A': {
       logoURI:
-        'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd4d42f0b6def4ce0383636770ef773390d85c61a.png',
     },
     '0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1': {
       logoURI:
-        'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xda10009cbd5d07dd0cecc66161fc93d7c9000da1.png',
     },
     '0xef888bcA6AB6B1d26dbeC977C455388ecd794794': {
       logoURI:
@@ -415,27 +415,27 @@ export const overwrites: OverwritesForList = {
     },
     '0xf4D48Ce3ee1Ac3651998971541bAdbb9A14D7234': {
       logoURI:
-        'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2ba592F78dB6436527729929AAf6c908497cB200/logo.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf4d48ce3ee1ac3651998971541badbb9a14d7234.png',
     },
     '0xf97f4df75117a78c1A5a0DBb814Af92458539FB4': {
       logoURI:
-        'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf97f4df75117a78c1a5a0dbb814af92458539fb4.png',
     },
     '0xFa7F8980b0f1E64A2062791cc3b0871572f1F7f0': {
       logoURI:
-        'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984/logo.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfa7f8980b0f1e64a2062791cc3b0871572f1f7f0.png',
     },
     '0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8': {
       symbol: 'USDC.e',
       name: 'Bridged USDC',
       logoURI:
-        'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xff970a61a04b1ca14834a43f5de4533ebddb5cc8.png',
     },
     '0xaf88d065e77c8cC2239327C5EDb3A432268e5831': {
       symbol: 'USDC',
       name: 'USDC Coin',
       logoURI:
-        'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xaf88d065e77c8cc2239327c5edb3a432268e5831.png',
     },
     '0x3a301e7917689b8e8a19498b8a28fc912583490c': {
       decimals: 6,
@@ -507,7 +507,7 @@ export const overwrites: OverwritesForList = {
   [Network.Optimism]: {
     '0xe05A08226c49b636ACf99c40Da8DC6aF83CE5bB3': {
       logoURI:
-        'https://www.ankr.com/_next/static/images/ethereum-ankreth-logo-794cb04ee270a7cb5c8559924aa5211d.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe05a08226c49b636acf99c40da8dc6af83ce5bb3.png',
     },
     '0x97513e975a7fA9072c72C92d8000B0dB90b163c5': {
       symbol: 'multiBeets',
@@ -584,20 +584,22 @@ export const overwrites: OverwritesForList = {
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x83f20f44975d03b1b09e64809b757c47f942beea.png',
     },
     '0x5A7fACB970D094B6C7FF1df0eA68D99E6e73CBFF': {
-      logoURI: 'https://etherscan.io/token/images/etherfiweeth_32.png',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5a7facb970d094b6c7ff1df0ea68d99e6e73cbff.png',
       extensions: {
         coingeckId: 'wrapped-eeth',
       },
     },
     '0x5A7a183B6B44Dc4EC2E3d2eF43F98C5152b1d76d': {
       logoURI:
-        'https://optimistic.etherscan.io/token/images/inceptionlrtv2_32.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5a7a183b6b44dc4ec2e3d2ef43f98c5152b1d76d.png',
       extensions: {
         coingeckId: 'genesislrt-restaked-eth',
       },
     },
     '0xd08C3F25862077056cb1b710937576Af899a4959': {
-      logoURI: 'https://optimistic.etherscan.io/token/images/insteth_32.png',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd08c3f25862077056cb1b710937576af899a4959.png',
       extensions: {
         coingeckId: 'inception-restaked-steth',
       },
@@ -605,19 +607,20 @@ export const overwrites: OverwritesForList = {
     '0x676f784d19c7f1ac6c6beaeaac78b02a73427852': {
       name: 'Optimism Prime',
       symbol: 'OPP',
-      logoURI: 'https://gitlab.com/optimism-prime/logos/-/raw/main/OPP.png',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x676f784d19c7f1ac6c6beaeaac78b02a73427852.png',
     },
     '0xc70134c6858f3fe09d051f05dcdda215ace5c153': {
       name: 'OPP Impermax Borrowable OPP-ETH Vault',
       symbol: 'imxB (OPP-ETH)',
       logoURI:
-        'https://gitlab.com/optimism-prime/logos/-/raw/main/imxB-OPP-OPP-ETH.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc70134c6858f3fe09d051f05dcdda215ace5c153.png',
     },
     '0x1d61313ce48Fa3C60DF3a4B567378B954fE6f9A6': {
       name: 'OPP Impermax Borrowable OPP-opxVELO Vault',
       symbol: 'imxB (OPP-opxVELO)',
       logoURI:
-        'https://gitlab.com/optimism-prime/logos/-/raw/main/imxB-OPP-OPP-opxVELO.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1d61313ce48fa3c60df3a4b567378b954fe6f9a6.png',
     },
     '0x035c93db04E5aAea54E6cd0261C492a3e0638b37': {
       symbol: 'waUSDT',
@@ -629,45 +632,45 @@ export const overwrites: OverwritesForList = {
       name: 'ETH Impermax Borrowable ETH-VELO Vault',
       symbol: 'imxB (ETH on ETH-VELO)',
       logoURI:
-        'https://gitlab.com/optimism-prime/logos/-/raw/main/imxB-ETH-VELO-ETH.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9e0b29619dbb2fa7914efa8f3a9302ab9f5025af.png',
     },
     '0xdf413da4bc8e01e5a2d8699e2f8b73fbc011c0bc': {
       name: 'VELO Impermax Borrowable ETH-VELO Vault',
       symbol: 'imxB (VELO on ETH-VELO)',
       logoURI:
-        'https://gitlab.com/optimism-prime/logos/-/raw/main/imxB-ETH-VELO-VELO.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdf413da4bc8e01e5a2d8699e2f8b73fbc011c0bc.png',
     },
     '0x0fac6bbfc6d56e1b7abeb58fd437017603ed731f': {
       name: 'OP Impermax Borrowable OP-VELO Vault',
       symbol: 'imxB (OP on OP-VELO)',
       logoURI:
-        'https://gitlab.com/optimism-prime/logos/-/raw/main/imxB-OP-VELO-OP.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0fac6bbfc6d56e1b7abeb58fd437017603ed731f.png',
     },
     '0xd2ae97aad2e0be8a8c583c703d3ad777471c0464': {
       name: 'VELO Impermax Borrowable OP-VELO Vault',
       symbol: 'imxB (VELO on OP-VELO)',
       logoURI:
-        'https://gitlab.com/optimism-prime/logos/-/raw/main/imxB-OP-VELO-VELO.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd2ae97aad2e0be8a8c583c703d3ad777471c0464.png',
     },
     '0xbdc2ad83ba9f27cd97b58bd05908cb6939f8d789': {
       name: 'USDC Impermax Borrowable USDC-VELO Vault',
       symbol: 'imxB (USDC on USDC-VELO)',
       logoURI:
-        'https://gitlab.com/optimism-prime/logos/-/raw/main/imxB-USDC-VELO-USDC.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xbdc2ad83ba9f27cd97b58bd05908cb6939f8d789.png',
     },
     '0x1f157e15cfaee06b6f8f646e3f4ad1cc7c1739bc': {
       name: 'VELO Impermax Borrowable USDC-VELO Vault',
       symbol: 'imxB (VELO on USDC-VELO)',
       logoURI:
-        'https://gitlab.com/optimism-prime/logos/-/raw/main/imxB-USDC-VELO-VELO.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1f157e15cfaee06b6f8f646e3f4ad1cc7c1739bc.png',
     },
     '0x298B9B95708152ff6968aafd889c6586e9169f1D': {
       logoURI:
-        'https://optimistic.etherscan.io/token/images/Synthetix_sBTC_32.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x298b9b95708152ff6968aafd889c6586e9169f1d.png',
     },
     '0xFBc4198702E81aE77c06D58f81b629BDf36f0a71': {
       logoURI:
-        'https://optimistic.etherscan.io/token/images/synthetixeuro_32.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfbc4198702e81ae77c06d58f81b629bdf36f0a71.png',
     },
     '0x41B334E9F2C0ED1f30fD7c351874a6071C53a78E': {
       logoURI:
@@ -683,7 +686,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x3ec3849c33291a9ef4c5db86de593eb4a37fde45': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x3ec3849c33291a9ef4c5db86de593eb4a37fde45.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/sfrxETH.png',
       extensions: {
         coingeckoId: 'staked-frax-ether',
       },
@@ -693,22 +696,22 @@ export const overwrites: OverwritesForList = {
     },
     '0x5bff88ca1442c2496f7e475e9e7786383bc070c0': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5bff88ca1442c2496f7e475e9e7786383bc070c0.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/sfrxusd.png',
       extensions: {
         coingeckoId: 'staked-frax-usd',
       },
     },
     '0x8e6a81b9d541A0CeA090818B62C4B2DE7f2A2Cf7': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x8e6a81b9d541a0cea090818b62c4b2de7f2a2cf7.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/rETH-aave-boosted.png',
     },
     '0xbaF95bB30CDab3d5b7a11B67EDeF5631bD62be86': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xbaf95bb30cdab3d5b7a11b67edef5631bd62be86.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wstETH-aave-boosted.png',
     },
     '0x64445f0aecc51e94ad52d8ac56b7190e764e561a': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x64445f0aecc51e94ad52d8ac56b7190e764e561a.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/FRAX.png',
       extensions: {
         coingeckoId: 'frax-share',
       },
@@ -886,11 +889,12 @@ export const overwrites: OverwritesForList = {
     },
     '0x80Fe671E580CD1D95B2Dcd8EA09233DF06C81C7b': {
       logoURI:
-        'https://www.tarot.to/assets/images/token-icons/0x80Fe671E580CD1D95B2Dcd8EA09233DF06C81C7b.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x80fe671e580cd1d95b2dcd8ea09233df06c81c7b.png',
     },
     '0x84F8D24231DfbBfae7f39415cD09c8f467729fc8': {
       name: 'Cosmic Cash',
-      logoURI: 'https://mineempire.io/assets/csc-256x256.png',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x84f8d24231dfbbfae7f39415cd09c8f467729fc8.png',
     },
     '0xDE12c7959E1a72bbe8a5f7A1dc8f8EeF9Ab011B3': {
       name: 'old _DEI',
@@ -904,7 +908,7 @@ export const overwrites: OverwritesForList = {
     },
     '0xbf4906762C38F50bC7Be0A11BB452C944f6C72E1': {
       logoURI:
-        'https://app.fbomb.finance/images/tokens/0xbf4906762C38F50bC7Be0A11BB452C944f6C72E1.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xbf4906762c38f50bc7be0a11bb452c944f6c72e1.png',
     },
     '0xc5713B6a0F26bf0fdC1c52B90cd184D950be515C': {
       logoURI:
@@ -912,7 +916,7 @@ export const overwrites: OverwritesForList = {
     },
     '0xF04A45b429eB5930a85884141C530147Db0f609E': {
       logoURI:
-        'https://valhalla-dao.com/wp-content/uploads/2023/02/logo1-1.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf04a45b429eb5930a85884141c530147db0f609e.png',
     },
     '0x4f76664105ba7E35dD4904eC70F2042fc17563d9': {
       logoURI:
@@ -920,7 +924,8 @@ export const overwrites: OverwritesForList = {
     },
     '0x454d4BaE7c2adab588d837aFF4Db16Db19d46A33': {
       name: 'Good Morning FTM',
-      logoURI: 'https://i.ibb.co/12RsJ9g/GMFTMTOKENfuneral.png',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x454d4bae7c2adab588d837aff4db16db19d46a33.png',
     },
     '0x08d70A47D3f28BbF755ae050a783844b40ae5761': {
       logoURI:
@@ -928,19 +933,21 @@ export const overwrites: OverwritesForList = {
     },
     '0x6CAa3e5FebA1f83ec1d80EA2EAca37C3421C33A8': {
       logoURI:
-        'https://www.tarot.to/assets/images/token-icons/0x6CAa3e5FebA1f83ec1d80EA2EAca37C3421C33A8.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6caa3e5feba1f83ec1d80ea2eaca37c3421c33a8.png',
     },
     '0x031305e65166c26F0666353c021c563B4a7c9ca2': {
       name: 'Truth',
-      logoURI: 'https://eyeoftruth.io/static/media/MAAT.png',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x031305e65166c26f0666353c021c563b4a7c9ca2.png',
     },
     '0x73E30eb2e469cc542d86397bECA97Ea6547e1cA7': {
       name: 'Sanik',
       logoURI:
-        'https://equalizer.exchange/assets/fantom/token/0x73e30eb2e469cc542d86397beca97ea6547e1ca7.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x73e30eb2e469cc542d86397beca97ea6547e1ca7.png',
     },
     '0x68EFc4716507709691d5e7AD9906a44FaBCdb1CA': {
-      logoURI: 'https://app.mineempire.io/assets/gem-256x256.png',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x68efc4716507709691d5e7ad9906a44fabcdb1ca.png',
     },
     '0x59D07a115fe3FFe5db3D52029D43Cc0ef5e9ba08': {
       logoURI:
@@ -965,20 +972,24 @@ export const overwrites: OverwritesForList = {
     '0xF386eB6780a1e875616b5751794f909095283860': {
       name: 'fMulti',
       symbol: 'fMULTI',
-      logoURI: 'https://maxflowO2.com/img/image.png',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf386eb6780a1e875616b5751794f909095283860.png',
     },
     '0x96312c36cB278bB84BB1c180E33f17b8857fFFab': {
       logoURI:
-        'https://raw.githubusercontent.com/firebird-finance/firebird-assets/master/blockchains/fantom/assets/0x96312c36cB278bB84BB1c180E33f17b8857fFFab/logo.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x96312c36cb278bb84bb1c180e33f17b8857fffab.png',
     },
     '0x0C9393d08B817a6dA19381ED86D03FF64E11F9b0': {
-      logoURI: 'https://i.imgur.com/GGzuFKw.png',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0c9393d08b817a6da19381ed86d03ff64e11f9b0.png',
     },
     '0xE3e0EBA90185e7292B9Ca92c7409cDEf504F9d07': {
-      logoURI: 'https://i.imgur.com/VO0SnyG.png',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe3e0eba90185e7292b9ca92c7409cdef504f9d07.png',
     },
     '0x524CAbe5b2F66CBd6F6b08dEf086F18F8DdE033a': {
-      logoURI: 'https://i.ibb.co/b37Gktw/BICO-Ticker-01.png',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x524cabe5b2f66cbd6f6b08def086f18f8dde033a.png',
     },
     '0xfcef8a994209d6916EB2C86cDD2AFD60Aa6F54b1': {
       name: 'Fresh BEETS',
@@ -990,7 +1001,8 @@ export const overwrites: OverwritesForList = {
         'https://assets.coingecko.com/coins/images/24109/large/logo-blue.png?1646376874',
     },
     '0x2B6850bF31874d96A21eD4Dc7C6415B9640BE2A4': {
-      logoURI: 'https://www.fantomon.net/plasmagunk.png',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2b6850bf31874d96a21ed4dc7c6415b9640be2a4.png',
     },
     '0xcfc785741dc0e98ad4c9f6394bb9d43cd1ef5179': {
       extensions: {
@@ -1018,7 +1030,7 @@ export const overwrites: OverwritesForList = {
     },
     '0xA80058bDf71F4044942107e33a802752B3bfB4d0': {
       logoURI:
-        'https://static.wixstatic.com/media/a79209_65ac74b375c94fb5a04c2e91f7b8c3d4~mv2.png/v1/crop/x_606,y_187,w_2870,h_2971/fill/w_262,h_272,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/oo2png.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa80058bdf71f4044942107e33a802752b3bfb4d0.png',
     },
     '0xb5Fd949436772E07CbBF35Fb6524e79924c54CB3': {
       logoURI:
@@ -1033,14 +1045,16 @@ export const overwrites: OverwritesForList = {
         'https://moonmasters.mypinata.cloud/ipfs/QmWTSjcjffhJKas33GHMcLbmjSEKq3wVvKroCZAAmyxoVd',
     },
     '0x0E3B1C9be555Ec9806f6eaB9bd101487F53CF0C9': {
-      logoURI: 'https://i.ibb.co/GRtqh61/Grok-Fantom-Logo.png',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0e3b1c9be555ec9806f6eab9bd101487f53cf0c9.png',
     },
     '0x9Ab1070d74216a5F627c6937C0767eA5b990C3d8': {
-      logoURI: 'https://i.ibb.co/W5t3Ssj/IMG-3827-modified.png',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9ab1070d74216a5f627c6937c0767ea5b990c3d8.png',
     },
     '0x5cF90b977C86415a53CE3B7bE13b26f6abdDfee2': {
       logoURI:
-        'https://equalizer.exchange/assets/fantom/token/0x5cf90b977c86415a53ce3b7be13b26f6abddfee2.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5cf90b977c86415a53ce3b7be13b26f6abddfee2.png',
     },
     '0xC8065302b6877416C095aCe72278ec4CcEa664Bb': {
       logoURI:
@@ -1048,7 +1062,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x24b06ef70Da341486eBf96A5Ea6De1AE8881D106': {
       logoURI:
-        'https://pbs.twimg.com/profile_images/1766713023912366080/ho41faiY.jpg',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x24b06ef70da341486ebf96a5ea6de1ae8881d106.jpg',
     },
     '0x46E64b8cd1811Ddc9899d607f24deBC46B7A611C': {
       logoURI:
@@ -1056,25 +1070,27 @@ export const overwrites: OverwritesForList = {
     },
     '0x29cfbAB01CA34864402F4c0F20837a5f05490D69': {
       logoURI:
-        'https://pbs.twimg.com/profile_images/1748096711153549312/qW2vGT-9.jpg',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x29cfbab01ca34864402f4c0f20837a5f05490d69.jpg',
     },
     '0x4CaE69117657f1f10C2aaa9C8c79dc3E5306f7EC': {
       logoURI:
-        'https://pbs.twimg.com/profile_images/1682780086766895105/8iTtqFVH.jpg',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4cae69117657f1f10c2aaa9c8c79dc3e5306f7ec.jpg',
     },
     '0x79A6a56645D11F6d3464AaF422aFb82d462177B7': {
-      logoURI: 'https://i.imgur.com/5NdrSSy.png',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x79a6a56645d11f6d3464aaf422afb82d462177b7.png',
     },
     '0x43F9a13675e352154f745d6402E853FECC388aA5': {
       logoURI:
-        'https://cdn.jsdelivr.net/gh/unified-defi/equalizer-tokens@main/fantom/tokens/128x128/0x43f9a13675e352154f745d6402e853fecc388aa5.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x43f9a13675e352154f745d6402e853fecc388aa5.png',
     },
     '0x1D631Adc479309aA073949E0D67973555BBBDcd0': {
       logoURI:
-        'https://uce6e5fe9c177db24af91933739b.previews.dropboxusercontent.com/p/thumb/ACMOSvZfaLBi-3D39-kQ8NjskZMzh-O6sq11m8fwst5kmZ6iZP2_ygAIs2MrmkgSjVs-UXNVQE3uNC3no0ycfoZmKUJsho6LospnirH-2dAeq4iPg9ll_HPBzZVatW8Czg7kWCZyJGq-0cfVmhSsqWBEyx-xAxBt7_hraG0y9t9ZR4HcMnaWEo05eEwt2plRQaE0me50c7FADCqZXh8lL3UHewXGkjXuOHaSaq7xNcfCoDoB9FHl9hocJur6pEEqpZ6jaEevuYDuHuU4vc5eB_83yMwDZvfnGysdoaZ72vua0sq4QwiVWlSaXD_fPiMP1cUk50_01H6VY8A2dCSHV7_GKEDXRReZpMvRMul663h8V4oaSjrHxSfeZFiT1xRobC4/p.jpeg',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1d631adc479309aa073949e0d67973555bbbdcd0.jpeg',
     },
     '0x07cc4ce4537c209f83d83f856f142e0d0674fd75': {
-      logoURI: 'https://spiritswap.finance/images/tokens/$EMRLD.png',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x07cc4ce4537c209f83d83f856f142e0d0674fd75.png',
     },
     '0x5Be1789a6928f8659305BF86aD3054530501f424': {
       logoURI:
@@ -1086,7 +1102,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x1eb1b381d1473413E430D8CdB91b36208CDE200b': {
       logoURI:
-        'https://static.wixstatic.com/media/c7bf16_e769d4fbfdd64beb95c94854ee34b2d8~mv2.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1eb1b381d1473413e430d8cdb91b36208cde200b.png',
     },
     '0xB8a32897016C1B2ee0797090162eAFe58f032795': {
       logoURI:
@@ -1102,17 +1118,19 @@ export const overwrites: OverwritesForList = {
     },
     '0x3ea22B3bb815348120cFFdd84c3701311F2eDb72': {
       logoURI:
-        'https://dd.dexscreener.com/ds-data/tokens/fantom/0x3ea22b3bb815348120cffdd84c3701311f2edb72.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x3ea22b3bb815348120cffdd84c3701311f2edb72.png',
     },
     '0xd89cc0d2A28a769eADeF50fFf74EBC07405DB9Fc': {
-      logoURI: 'https://ftmscan.com/token/images/elyseos2_32.png',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd89cc0d2a28a769eadef50fff74ebc07405db9fc.png',
     },
     '0x0DEb5dAf6662f87366Fb0E9fbe60a866Ff46d486': {
       logoURI:
         'https://dd.dexscreener.com/ds-data/tokens/fantom/0x0deb5daf6662f87366fb0e9fbe60a866ff46d486.png?size=lg&key=165a8c',
     },
     '0xfA94E37eBcf28de44A6f8088812ce33f16FADb7c': {
-      logoURI: 'https://beerftm.com/images/CARTELFTMLOGO.png',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfa94e37ebcf28de44a6f8088812ce33f16fadb7c.png',
     },
     '0x90cE4aBdf3eC9614ab3AB41B2D20B716fdC50d49': {
       logoURI:
@@ -1126,20 +1144,24 @@ export const overwrites: OverwritesForList = {
         'https://dd.dexscreener.com/ds-data/tokens/fantom/0x431516e478d73cfab034229c4d7a94a2cbf5787f.png?size=lg&key=6238af',
     },
     '0x73c93919cdA13b0FAf01a9188d9eb8aA633732Ad': {
-      logoURI: 'https://beerftm.com/LOGO1+TEXT.png',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x73c93919cda13b0faf01a9188d9eb8aa633732ad.png',
     },
     '0xd978E0638b640d5050812EC5F90fc9a54D27D950': {
-      logoURI: 'https://beerftm.com/OPT2.png',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd978e0638b640d5050812ec5f90fc9a54d27d950.png',
     },
     '0xc18827872E8CC49f182D25B9a2eb530C9Df54c34': {
-      logoURI: 'https://beerftm.com/HOB%20LOGO.png',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc18827872e8cc49f182d25b9a2eb530c9df54c34.png',
     },
     '0x94Ba6241BC7E6F7F24a5B95fE6726B31C74881aB': {
       logoURI:
         'https://dd.dexscreener.com/ds-data/tokens/fantom/0x94ba6241bc7e6f7f24a5b95fe6726b31c74881ab.png?key=f4da13',
     },
     '0x59e758cC4A863734E144CF3070210366daBC2E58': {
-      logoURI: 'https://i.ibb.co/0s08MzL/SHILLY-LOGO-CIRCLE-BIG-2.png',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x59e758cc4a863734e144cf3070210366dabc2e58.png',
     },
     '0xe6cc4D855B4fD4A9D02F46B9adae4C5EfB1764B5': {
       logoURI:
@@ -1155,7 +1177,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x5d9EaFC54567F34164A269Ba6C099068df6ef651': {
       logoURI:
-        'https://cdn.jsdelivr.net/gh/unified-defi/equalizer-tokens@latest/fantom/tokens/128x128/0x5d9eafc54567f34164a269ba6c099068df6ef651.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5d9eafc54567f34164a269ba6c099068df6ef651.png',
     },
     '0xA556f91530b4e1f59964d5891ee1c50517dC01cd': {
       logoURI:
@@ -1245,7 +1267,7 @@ export const overwrites: OverwritesForList = {
       symbol: 'SQRCAT',
       name: 'SQRCAT',
       logoURI:
-        'https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xc8E7fB72B53D08C4f95b93b390ed3f132d03f2D5/logo.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc8e7fb72b53d08c4f95b93b390ed3f132d03f2d5.png',
     },
     '0xA3D68b74bF0528fdD07263c60d6488749044914b': {
       extensions: {
@@ -1406,7 +1428,8 @@ export const overwrites: OverwritesForList = {
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x99AaC0966ec3F667c85e9FD2dFc6b8f3E2C896B5.png',
     },
     '0x3854fD4712eb3A5Aa51c949C29cACE84F7ED2eFC': {
-      logoURI: 'https://i.ibb.co/0s08MzL/SHILLY-LOGO-CIRCLE-BIG-2.png',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x3854fd4712eb3a5aa51c949c29cace84f7ed2efc.png',
     },
     '0x17Af1Df44444AB9091622e4Aa66dB5BB34E51aD5': {
       logoURI:
@@ -1419,43 +1442,52 @@ export const overwrites: OverwritesForList = {
         'https://assets.coingecko.com/coins/images/19158/standard/beets-icon-large.png?1696518608',
     },
     '0xBC0d0650412EF353D672c0Bbd12eFFF90591B251': {
-      logoURI: 'https://i.ibb.co/D7wShRv/Square-Fantom-Starter-Logo.png',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xbc0d0650412ef353d672c0bbd12efff90591b251.png',
     },
     '0x63A522f6E7D5B96F7aeBB74d2648545E9e14078D': {
       logoURI:
         'https://gateway.pinata.cloud/ipfs/bafkreiaynps4xalkiktny4fpwhk2ziq3xbw7hiq676cijddb3zzflcwdcq',
     },
     '0xBe422DD2F451348d5D0979D8ab25B4c6eAAd1eB2': {
-      logoURI: 'https://i.ibb.co/x3DdsbK/Familio.png',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xbe422dd2f451348d5d0979d8ab25b4c6eaad1eb2.png',
     },
     '0x9fDbC3f8Abc05Fa8f3Ad3C17D2F806c1230c4564': {
-      logoURI: 'https://i.ibb.co/Ksp9CcT/Goggles.png',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9fdbc3f8abc05fa8f3ad3c17d2f806c1230c4564.png',
     },
     '0x50Bc6e1DfF8039A4b967c1BF507ba5eA13fa18B6': {
-      logoURI: 'https://i.ibb.co/TmPRQZp/sDOG.png',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x50bc6e1dff8039a4b967c1bf507ba5ea13fa18b6.png',
     },
     '0x7A08Bf5304094CA4C7b4132Ef62b5EDc4a3478B7': {
       logoURI:
         'https://dd.dexscreener.com/ds-data/tokens/fantom/0xb8a32897016c1b2ee0797090162eafe58f032795.png?key=a473b3',
     },
     '0xd3DCe716f3eF535C5Ff8d041c1A41C3bd89b97aE': {
-      logoURI: 'https://i.ibb.co/PFw2zkx/scUSD64.png',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd3dce716f3ef535c5ff8d041c1a41c3bd89b97ae.png',
     },
     '0x3bcE5CB273F0F148010BbEa2470e7b5df84C7812': {
-      logoURI: 'https://i.ibb.co/fMTYnj2/scETH64.png',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x3bce5cb273f0f148010bbea2470e7b5df84c7812.png',
     },
     '0xf2968631D02330Dc5E420373f083b7B4F8B24E17': {
-      logoURI: 'https://i.ibb.co/qs9X9Xt/Relic.png',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf2968631d02330dc5e420373f083b7b4f8b24e17.png',
     },
     '0xB2a909b8bCce9B30BbC9d4c748fD897d6AD9c285': {
-      logoURI: 'https://i.ibb.co/DMPP0tZ/pizzaratlogo-text-600dpi.png',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb2a909b8bcce9b30bbc9d4c748fd897d6ad9c285.png',
     },
     '0xd43b5d6899635e514A00b475eEa04C364979e076': {
       logoURI:
         'https://dd.dexscreener.com/ds-data/tokens/fantom/0x1e2ea3f3209d66647f959cf00627107e079b870d.png?size=lg&key=5a19d7',
     },
     '0x9aF092fD69e341a651725f89CC5510a22E40E614': {
-      logoURI: 'https://i.ibb.co/FzGjYCR/Blaze.png',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9af092fd69e341a651725f89cc5510a22e40e614.png',
     },
     '0xE51EE9868C1f0d6cd968A8B8C8376Dc2991BFE44': {
       logoURI:
@@ -1465,7 +1497,8 @@ export const overwrites: OverwritesForList = {
       },
     },
     '0x10ac2F9DaE6539E77e372aDB14B1BF8fBD16b3e8': {
-      logoURI: 'https://sonicscan.org/token/images/mabeets_32.png',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x10ac2f9dae6539e77e372adb14b1bf8fbd16b3e8.png',
     },
     '0xe715cba7b5ccb33790cebff1436809d36cb17e57': {
       logoURI:
@@ -1487,13 +1520,16 @@ export const overwrites: OverwritesForList = {
         'https://dd.dexscreener.com/ds-data/tokens/sonic/0x05e31a691405d06708a355c029599c12d5da8b28.png?size=lg&key=f7ac24',
     },
     '0xf1c9b8171bf3902554e791010ccbcd6bacba6efd': {
-      logoURI: 'https://i.ibb.co/4N62vMk/BEARZWIFGUNZ180042069.png',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf1c9b8171bf3902554e791010ccbcd6bacba6efd.png',
     },
     '0xb161Fe49dEB1BDa8e3A4a484D5CcD927a35A7DDe': {
-      logoURI: 'https://i.ibb.co/64mycQm/SURV.png',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb161fe49deb1bda8e3a4a484d5ccd927a35a7dde.png',
     },
     '0x690d956D97d3EEe18AB68ED1A28a89d531734F3d': {
-      logoURI: 'https://i.ibb.co/BTm5hX9/Moist.jpg',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x690d956d97d3eee18ab68ed1a28a89d531734f3d.jpg',
     },
     '0x7F144F8691CbA3d2EfD8e5bcf042f9303EE31a46': {
       logoURI:
@@ -1504,7 +1540,8 @@ export const overwrites: OverwritesForList = {
         'https://dd.dexscreener.com/ds-data/tokens/sonic/0x0a54364631ea37813a63edb3bba1c46f8d8304b2.png?size=lg&key=761e2c',
     },
     '0x486B6Fa0419b33a0c7A6e4698c231D7E2f2D5299': {
-      logoURI: 'https://sonicscan.org/token/images/moonbaysonic_32.png',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x486b6fa0419b33a0c7a6e4698c231d7e2f2d5299.png',
     },
     '0xDE55B113A27Cc0c5893CAa6Ee1C020b6B46650C0': {
       logoURI:
@@ -1515,15 +1552,16 @@ export const overwrites: OverwritesForList = {
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0e65f5a7cb56641e31bc5c9d53388db7ac7eacae.png',
     },
     '0x19008165514Ec7622b34924c755Dc7d116F84840': {
-      logoURI: 'https://i.ibb.co/S60DvQm/Shill.jpg',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x19008165514ec7622b34924c755dc7d116f84840.jpg',
     },
     '0x35be05dF4e074606c77d78968ec5FBC9cCd4348B': {
       logoURI:
-        'https://pbs.twimg.com/profile_images/1734720923448537088/6WMuxreE_400x400.jpg',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x35be05df4e074606c77d78968ec5fbc9ccd4348b.jpg',
     },
     '0xCf3FE6eDFeE9c7fdf7d53DC58f4EFe66Fe110981': {
       logoURI:
-        'https://static.wixstatic.com/media/c7bf16_e769d4fbfdd64beb95c94854ee34b2d8~mv2.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xcf3fe6edfee9c7fdf7d53dc58f4efe66fe110981.png',
     },
     '0xd31e89ffb929b38ba60d1c7dbeb68c7712eaab0a': {
       symbol: 'AvalonSolvBTC',
@@ -1570,7 +1608,8 @@ export const overwrites: OverwritesForList = {
       },
     },
     '0x39838b880BA948C49aaB7253f61Ce1e00C30c014': {
-      logoURI: 'https://maxflowo2.com/img/image.png',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x39838b880ba948c49aab7253f61ce1e00c30c014.png',
     },
     '0x44E23B1F3f4511b3a7e81077Fd9F2858dF1B7579': {
       logoURI:
@@ -1582,11 +1621,11 @@ export const overwrites: OverwritesForList = {
     },
     '0xF97d438BC03aD0F75B83ce5714c9619880B305bc': {
       logoURI:
-        'https://cdn.jsdelivr.net/gh/unified-defi/equalizer-tokens@latest/sonic/tokens/128x128/0xf97d438bc03ad0f75b83ce5714c9619880b305bc.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf97d438bc03ad0f75b83ce5714c9619880b305bc.png',
     },
     '0x0C4E186Eae8aCAA7F7de1315D5AD174BE39Ec987': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0c4e186eae8acaa7f7de1315d5ad174be39ec987.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/anS.png',
       extensions: {
         coingeckoId: 'sonic-3',
       },
@@ -1599,7 +1638,7 @@ export const overwrites: OverwritesForList = {
     },
     '0xfA85Fe5A8F5560e9039C04f2b0a90dE1415aBD70': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfa85fe5a8f5560e9039c04f2b0a90de1415abd70.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wanS.png',
     },
     '0x9F0dF7799f6FDAd409300080cfF680f5A23df4b1': {
       logoURI:
@@ -1613,7 +1652,7 @@ export const overwrites: OverwritesForList = {
     },
     '0xb1e25689D55734FD3ffFc939c4C3Eb52DFf8A794': {
       logoURI:
-        'https://raw.githubusercontent.com/OriginProtocol/origin-website/refs/heads/master/static/img/coins/os-256x256.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb1e25689d55734fd3fffc939c4c3eb52dff8a794.png',
       extensions: {
         coingeckoId: 'sonic-3',
       },
@@ -1626,7 +1665,8 @@ export const overwrites: OverwritesForList = {
       },
     },
     '0x9bCeA390ff97e0d3362bf726820776a4dF8AdD9a': {
-      logoURI: 'https://i.ibb.co/tT6FNGGv/Uppies.jpg',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9bcea390ff97e0d3362bf726820776a4df8add9a.jpg',
     },
     '0x6c49B18333A1135e9A376560c07E6D1Fd0350EaF': {
       symbol: 'SiloWS',
@@ -1641,7 +1681,8 @@ export const overwrites: OverwritesForList = {
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5954ce6671d97D24B782920ddCdBB4b1E63aB2De.png',
     },
     '0x9990dE39Ca46151150E392Ca96EB349d0f549166': {
-      logoURI: 'https://i.ibb.co/GfRrxSj3/Speed-Logo.jpg',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9990de39ca46151150e392ca96eb349d0f549166.jpg',
     },
     '0xf26Ff70573ddc8a90Bd7865AF8d7d70B8Ff019bC': {
       logoURI:
@@ -1651,13 +1692,15 @@ export const overwrites: OverwritesForList = {
       },
     },
     '0xecAc9C5F704e954931349Da37F60E39f515c11c1': {
-      logoURI: 'https://sonicscan.org/token/images/lbtc_64.png',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xecac9c5f704e954931349da37f60e39f515c11c1.png',
       extensions: {
         coingeckoId: 'lombard-staked-btc',
       },
     },
     '0xBb30e76d9Bb2CC9631F7fC5Eb8e87B5Aff32bFbd': {
-      logoURI: 'https://i.ibb.co/F4CXYdL4/scBTC-32.png',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xbb30e76d9bb2cc9631f7fc5eb8e87b5aff32bfbd.png',
       extensions: {
         coingeckoId: 'wrapped-bitcoin',
       },
@@ -1692,7 +1735,7 @@ export const overwrites: OverwritesForList = {
       symbol: 'SiloFrxUSD',
       name: 'Silo Wrapped frxUSD - 37',
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xda14a41dbda731f03a94cb722191639dd22b35b2.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/frxUSD_silo.png',
     },
     '0xEdF8b632b537d5993Adb5e2E15882CD791c284cB': {
       logoURI:
@@ -1708,13 +1751,13 @@ export const overwrites: OverwritesForList = {
       symbol: 'SiloScUSD',
       name: 'Silo Wrapped scUSD - 46',
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe6605932e4a686534d19005bb9db0fba1f101272.svg',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-silo.svg',
     },
     '0x24c74B30d1a4261608E84Bf5a618693032681DAc': {
       symbol: 'SiloScETH',
       name: 'Silo Wrapped scETH - 47',
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x24c74b30d1a4261608e84bf5a618693032681dac.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scETH-silo.png',
     },
     '0x08C320A84a59c6f533e0DcA655cf497594BCa1F9': {
       symbol: 'SiloWETH',
@@ -1732,13 +1775,13 @@ export const overwrites: OverwritesForList = {
       symbol: 'ewS',
       name: 'Euler Wrapped wS - 5',
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x90a804d316a06e00755444d56b9ef52e5c4f4d73.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wS-boosted-Euler.png',
     },
     '0x6832F3090867449c058e1e3088E552E12AB18F9E': {
       symbol: 'estS',
       name: 'Euler Wrapped stS - 5',
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6832f3090867449c058e1e3088e552e12ab18f9e.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/stS-boosted-Euler.png',
     },
     '0x6646248971427B80ce531bdD793e2Eb859347E55': {
       symbol: 'waUSDC',
@@ -1748,11 +1791,11 @@ export const overwrites: OverwritesForList = {
     },
     '0xe8a41c62bb4d5863c6eadc96792cfe90a1f37c47': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe8a41c62bb4d5863c6eadc96792cfe90a1f37c47.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wstkscETH.png',
     },
     '0x9fb76f7ce5fceaa2c42887ff441d46095e494206': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9fb76f7ce5fceaa2c42887ff441d46095e494206.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wstkscusd.png',
     },
     '0x871A101Dcf22fE4fE37be7B654098c801CBA1c88': {
       logoURI:
@@ -1775,7 +1818,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x9A08cD5691E009cC72E2A4d8e7F2e6EE14E96d6d': {
       logoURI:
-        'https://raw.githubusercontent.com/stabilitydao/.github/main/tokens/sGEM1.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9a08cd5691e009cc72e2a4d8e7f2e6ee14e96d6d.png',
     },
     '0xfd28f108e95f4d41daae9dbfff707d677985998e': {
       extensions: {
@@ -1788,40 +1831,42 @@ export const overwrites: OverwritesForList = {
     },
     '0x0e0Ce4D450c705F8a0B6Dd9d5123e3df2787D16B': {
       logoURI:
-        'https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/146/0x0e0Ce4D450c705F8a0B6Dd9d5123e3df2787D16B/logo.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0e0ce4d450c705f8a0b6dd9d5123e3df2787d16b.png',
       extensions: {
         coingeckoId: 'wagmi-2',
       },
     },
     '0xd9D6F92Df52716835594Ab41Ea6f3BB994da98b6': {
-      logoURI: 'https://i.ibb.co/3mV17Yhj/photo-2025-05-29-10-50-32.jpg',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd9d6f92df52716835594ab41ea6f3bb994da98b6.jpg',
     },
     '0xF6F87073cF8929C206A77b0694619DC776F89885': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf6f87073cf8929c206a77b0694619dc776f89885.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/USDC-varlamore-boosted.png',
     },
     '0xDED4aC8645619334186f28B8798e07ca354CFa0e': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xded4ac8645619334186f28b8798e07ca354cfa0e.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wS-varlamore-boosted.png',
     },
     '0xb6A23cB29e512Df41876B28D7A848BD831f9c5Ba': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb6a23cb29e512df41876b28d7a848bd831f9c5ba.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-varlamore-boosted.png',
     },
     '0x6202B9f02E30E5e1c62Cc01E4305450E5d83b926': {
-      logoURI: 'https://app.streamprotocol.money/assets/usdc-a6e16350.svg',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6202b9f02e30e5e1c62cc01e4305450e5d83b926.svg',
     },
     '0xb4444468e444f89e1c2cac2f1d3ee7e336cbd1f5': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb4444468e444f89e1c2cac2f1d3ee7e336cbd1f5.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/rzr.png',
     },
     '0xEEEEEEE6d95E55A468D32FeB5d6648754d10A967': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xeeeeeee6d95e55a468d32feb5d6648754d10a967.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/USDC-stability-boosted.png',
     },
     '0xccccCCcca9FC69a2b32408730011EdB3205A93A1': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xcccccccca9fc69a2b32408730011edb3205a93a1.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-stability-boosted.png',
     },
     '0x53a6aBb52B2F968fA80dF6A894e4f1b1020DA975': {
       extensions: {
@@ -1830,11 +1875,11 @@ export const overwrites: OverwritesForList = {
     },
     '0x592D1e187729C76EfacC6dfFB9355bd7BF47B2a7': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x592d1e187729c76efacc6dffb9355bd7bf47b2a7.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-re7-boosted.png',
     },
     '0x9A1BF5365edBB99C2c61CA6D9ffAd0B705ACfc6F': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9a1bf5365edbb99c2c61ca6d9ffad0b705acfc6f.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/dUSD-varlamore-boosted.png',
     },
     '0xE4A4353CD8F008f1a70f1a564535990479E8ceb7': {
       logoURI:
