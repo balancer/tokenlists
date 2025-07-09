@@ -1852,7 +1852,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x67a298e5b65db2b4616e05c3b455e017275f53cb': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/lstrzr.svg',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/lstrzr.png',
     },
   },
 }
