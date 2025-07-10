@@ -2,7 +2,7 @@ export default {
   name: 'hyperevm',
   rpc: `https://lb.drpc.org/ogrpc?network=hyperliquid&dkey=${process.env.DRPC_KEY}`,
   coingecko: {
-    platformId: 'hyperliquid',
+    platformId: 'hyperevm',
   },
   trustWalletNetwork: 'hyperliquid',
   addresses: {
