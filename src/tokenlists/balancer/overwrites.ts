@@ -1854,5 +1854,9 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/lstrzr.png',
     },
+    '0xc7990369DA608C2F4903715E3bD22f2970536C29': {
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/smsusd.png',
+    },
   },
 }
