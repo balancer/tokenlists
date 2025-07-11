@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 351
+        "patch": 353
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-07-09T15:44:12.248Z",
+    "timestamp": "2025-07-10T15:24:51.119Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14652,6 +14652,7 @@
             "name": "Wrapped HYPE",
             "symbol": "WHYPE",
             "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/54469/large/_UP3jBsi_400x400.jpg?1739905920",
             "extensions": {
                 "coingeckoId": "wrapped-hype"
             }
@@ -14662,6 +14663,7 @@
             "name": "USD₮0",
             "symbol": "USD₮0",
             "decimals": 6,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/53705/large/usdt0.jpg?1737086183",
             "extensions": {
                 "coingeckoId": "usdt0"
             }
@@ -14672,6 +14674,7 @@
             "name": "Unit Ethereum",
             "symbol": "UETH",
             "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/55069/large/eth.jpg?1743582414",
             "extensions": {
                 "coingeckoId": "unit-ethereum"
             }
@@ -14682,6 +14685,7 @@
             "name": "feUSD",
             "symbol": "feUSD",
             "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/55068/large/feusd.jpg?1743581333",
             "extensions": {
                 "coingeckoId": "felix-feusd"
             }
@@ -16005,6 +16009,14 @@
             "symbol": "EXTRA",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/30973/large/Ex_logo-white-blue_ring_288x.png?1696529812"
+        },
+        {
+            "chainId": 8453,
+            "address": "0xc694a91e6b071bF030A18BD3053A7fE09B6DaE69",
+            "name": "CoW Protocol Token",
+            "symbol": "COW",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/24384/large/CoW-token_logo.png?1719524382"
         },
         {
             "chainId": 34443,
