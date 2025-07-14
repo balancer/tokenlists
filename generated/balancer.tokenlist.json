@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 348
+        "patch": 355
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-07-09T09:48:26.943Z",
+    "timestamp": "2025-07-14T09:19:54.756Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13396,7 +13396,27 @@
             "address": "0x67A298e5B65dB2b4616E05C3b455E017275f53cB",
             "name": "Liquid Staked Rezerve.money",
             "symbol": "lstRZR",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/lstrzr.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0xc7990369DA608C2F4903715E3bD22f2970536C29",
+            "name": "Staked msUSD",
+            "symbol": "smsUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/smsusd.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0xE5Fb2Ed6832deF99ddE57C0b9d9A56537C89121D",
+            "name": "Main Street USD",
+            "symbol": "msUSD",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/66996/large/msUSD.png?1751389184",
+            "extensions": {
+                "coingeckoId": "main-street-usd"
+            }
         },
         {
             "chainId": 250,
@@ -14651,6 +14671,7 @@
             "name": "Wrapped HYPE",
             "symbol": "WHYPE",
             "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/54469/large/_UP3jBsi_400x400.jpg?1739905920",
             "extensions": {
                 "coingeckoId": "wrapped-hype"
             }
@@ -14661,6 +14682,7 @@
             "name": "USD₮0",
             "symbol": "USD₮0",
             "decimals": 6,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/53705/large/usdt0.jpg?1737086183",
             "extensions": {
                 "coingeckoId": "usdt0"
             }
@@ -14671,6 +14693,7 @@
             "name": "Unit Ethereum",
             "symbol": "UETH",
             "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/55069/large/eth.jpg?1743582414",
             "extensions": {
                 "coingeckoId": "unit-ethereum"
             }
@@ -14681,6 +14704,7 @@
             "name": "feUSD",
             "symbol": "feUSD",
             "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/55068/large/feusd.jpg?1743581333",
             "extensions": {
                 "coingeckoId": "felix-feusd"
             }
@@ -16004,6 +16028,14 @@
             "symbol": "EXTRA",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/30973/large/Ex_logo-white-blue_ring_288x.png?1696529812"
+        },
+        {
+            "chainId": 8453,
+            "address": "0xc694a91e6b071bF030A18BD3053A7fE09B6DaE69",
+            "name": "CoW Protocol Token",
+            "symbol": "COW",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/24384/large/CoW-token_logo.png?1719524382"
         },
         {
             "chainId": 34443,
@@ -19242,6 +19274,14 @@
             "symbol": "esavUSD-2",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x72f92a966f1874f74e1b601bee7cf57031b53a03.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x2cd3CdB3bd68Eea0d3BE81DA707bC0c8743D7335",
+            "name": "Yield BTC.B",
+            "symbol": "YBTC.B",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2cd3cdb3bd68eea0d3be81da707bc0c8743d7335.png"
         },
         {
             "chainId": 11155111,

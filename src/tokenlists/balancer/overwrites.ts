@@ -1858,7 +1858,7 @@ export const overwrites: OverwritesForList = {
     },
     '0xb4444468e444f89e1c2cac2f1d3ee7e336cbd1f5': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/rzr.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb4444468e444f89e1c2cac2f1d3ee7e336cbd1f5.png',
     },
     '0xEEEEEEE6d95E55A468D32FeB5d6648754d10A967': {
       logoURI:
@@ -1893,6 +1893,19 @@ export const overwrites: OverwritesForList = {
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0xe920d1da9a4d59126dc35996ea242d60efca1304.png',
       extensions: {
         coingeckoId: 'derp-2',
+      },
+    },
+    '0x67a298e5b65db2b4616e05c3b455e017275f53cb': {
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/lstrzr.png',
+    },
+    '0xc7990369DA608C2F4903715E3bD22f2970536C29': {
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/smsusd.png',
+    },
+    '0xe5fb2ed6832def99dde57c0b9d9a56537c89121d': {
+      extensions: {
+        coingeckoId: 'main-street-usd',
       },
     },
   },
