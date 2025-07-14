@@ -132,4 +132,5 @@ export default [
   '0xc7990369DA608C2F4903715E3bD22f2970536C29', // smsUSD
   '0x08417cdb7F52a5021bB4eb6E0deAf3f295c3f182', // USDp
   '0xe8a3DA6f5ed1cf04c58ac7f6A7383641e877517b', // sUSDp
+  '0xe5fb2ed6832def99dde57c0b9d9a56537c89121d', // msusd
 ]

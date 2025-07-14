@@ -1923,5 +1923,10 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/sUSDp.svg',
     },
+    '0xe5fb2ed6832def99dde57c0b9d9a56537c89121d': {
+      extensions: {
+        coingeckoId: 'main-street-usd',
+      },
+    },
   },
 }
