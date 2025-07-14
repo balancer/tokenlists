@@ -124,7 +124,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9': {
       logoURI:
-        'https://assets.coingecko.com/coins/images/12645/standard/aave-token-round.png?1720472354',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9.png',
     },
     '0x41FDbea2E52790c0a1Dc374F07b628741f2E062D': {
       name: 'Gyroscope ECLP sdeUSD/deUSD',
@@ -411,7 +411,7 @@ export const overwrites: OverwritesForList = {
     },
     '0xef888bcA6AB6B1d26dbeC977C455388ecd794794': {
       logoURI:
-        'https://assets.coingecko.com/coins/images/12900/large/Rari_Logo_Transparent.png?1613978014',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0xef888bca6ab6b1d26dbec977c455388ecd794794.png',
     },
     '0xf4D48Ce3ee1Ac3651998971541bAdbb9A14D7234': {
       logoURI:
@@ -474,7 +474,7 @@ export const overwrites: OverwritesForList = {
     },
     '0xD8724322f44E5c58D7A815F542036fb17DbbF839': {
       logoURI:
-        'https://assets.coingecko.com/coins/images/29734/standard/woeth-200x200.png?1714796686',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0xd8724322f44e5c58d7a815f542036fb17dbbf839.png',
     },
     '0xca5d8f8a8d49439357d3cf46ca2e720702f132b8': {
       extensions: {
@@ -545,7 +545,7 @@ export const overwrites: OverwritesForList = {
     '0xb4Bc46bc6cB217B59ea8F4530BaE26Bf69F677f0': { name: 'Beethoven X' },
     '0xc96f4F893286137aC17e07Ae7F217fFca5db3AB6': {
       logoURI:
-        'https://assets.coingecko.com/coins/images/29116/large/20230223_224134.jpg?1677224110',
+        'https://assets.coingecko.com/coins/images/29116/large/20230223_224134.png?1677224110',
     },
     '0x00e1724885473B63bCE08a9f0a52F35b0979e35A': {
       name: 'OATH',
@@ -563,12 +563,12 @@ export const overwrites: OverwritesForList = {
       name: 'Qi Dao',
       symbol: 'QI (old)',
       logoURI:
-        'https://assets.coingecko.com/coins/images/15329/large/qi.png?1620540969',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0x3f56e0c36d275367b8c502090edf38289b3dea0d.png',
     },
     '0x0c5b4c92c948691EEBf185C17eeB9c230DC019E9': {
       name: 'Pickle Finance',
       logoURI:
-        'https://assets.coingecko.com/coins/images/12435/large/0M4W6Yr6_400x400.jpg?1643006080',
+        'https://assets.coingecko.com/coins/images/12435/large/0M4W6Yr6_400x400.png?1643006080',
     },
     '0x1509706a6c66CA549ff0cB464de88231DDBe213B': {
       logoURI:
@@ -733,7 +733,7 @@ export const overwrites: OverwritesForList = {
     },
     '0xfdA94F056346d2320d4B5E468D6Ad099b2277746': {
       logoURI:
-        'https://assets.coingecko.com/coins/images/15044/large/stakewise200.png?1619520721',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0xfda94f056346d2320d4b5e468d6ad099b2277746.png',
     },
     '0xc63529297dE076eB15fcbE873AE9136E446cFbB9': {
       extensions: {
@@ -788,7 +788,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x35e5db674d8e93a03d814fa0ada70731efe8a4b9': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x35e5db674d8e93a03d814fa0ada70731efe8a4b9.svg',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x35e5db674d8e93a03d814fa0ada70731efe8a4b9.png',
     },
     '0xF6BD14Bc7D980122aa2E70dFe2d7CF926709A0F4': {
       extensions: {
@@ -809,7 +809,7 @@ export const overwrites: OverwritesForList = {
     '0x448d59B4302aB5d2dadf9611bED9457491926c8e': {
       name: 'Axelar Wrapped Bitcoin',
       logoURI:
-        'https://assets.coingecko.com/coins/images/1/large/bitcoin.png?1547033579',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0x448d59b4302ab5d2dadf9611bed9457491926c8e.png',
     },
     '0x321162Cd933E2Be498Cd2267a90534A804051b11': {
       name: 'Multichain Wrapped Bitcoin',
@@ -876,7 +876,7 @@ export const overwrites: OverwritesForList = {
     '0xF24Bcf4d1e507740041C9cFd2DddB29585aDCe1e': { name: 'Beethoven X' },
     '0xDE1E704dae0B4051e80DAbB26ab6ad6c12262DA0': {
       logoURI:
-        'https://assets.coingecko.com/coins/images/18779/large/DEI-logo-round-white-3.png?1646300101',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0xde1e704dae0b4051e80dabb26ab6ad6c12262da0.png',
     },
     '0xC5e2B037D30a390e62180970B3aa4E91868764cD': {
       name: 'oldTarot',
@@ -885,7 +885,7 @@ export const overwrites: OverwritesForList = {
     '0xD3FDCb837DAfdb7C9C3eBD48FE22a53F6Dd3d7D7': {
       name: 'Qi Dao',
       logoURI:
-        'https://assets.coingecko.com/coins/images/15329/large/qi.png?1620540969',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0xd3fdcb837dafdb7c9c3ebd48fe22a53f6dd3d7d7.png',
     },
     '0x80Fe671E580CD1D95B2Dcd8EA09233DF06C81C7b': {
       logoURI:
@@ -900,7 +900,7 @@ export const overwrites: OverwritesForList = {
       name: 'old _DEI',
       symbol: 'old_DEI',
       logoURI:
-        'https://assets.coingecko.com/coins/images/18779/small/DEI-logo-round-white-3.png?1646300101',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0xde12c7959e1a72bbe8a5f7a1dc8f8eef9ab011b3.png',
     },
     '0xE5586582E1a60E302a53e73E4FaDccAF868b459a': {
       logoURI:
@@ -951,7 +951,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x59D07a115fe3FFe5db3D52029D43Cc0ef5e9ba08': {
       logoURI:
-        'https://assets.coingecko.com/coins/images/22522/large/KmzajETygnMWAKm05ljiI3pc7_JTIdu_H6hhOgaRc-ICj0M9geEpF83iceGbQ6U2PByY3A3jwkHFC0zLEycnplJpUcqb_cl0QV89fPI_h3XdflDh9Sroq22uFfvwQ8lCjl7EFiIKpr-fGbW2ArkJEdPkWL6UJu5DbE6YArcksukEcc_8cpryHjchAdd-imlOugScNPswFZzMqb.jpg?1641970344',
+        'https://assets.coingecko.com/coins/images/22522/large/KmzajETygnMWAKm05ljiI3pc7_JTIdu_H6hhOgaRc-ICj0M9geEpF83iceGbQ6U2PByY3A3jwkHFC0zLEycnplJpUcqb_cl0QV89fPI_h3XdflDh9Sroq22uFfvwQ8lCjl7EFiIKpr-fGbW2ArkJEdPkWL6UJu5DbE6YArcksukEcc_8cpryHjchAdd-imlOugScNPswFZzMqb.png?1641970344',
     },
     '0xbF07093ccd6adFC3dEB259C557b61E94c1F66945': {
       name: 'BIFI Maxi',
@@ -967,7 +967,7 @@ export const overwrites: OverwritesForList = {
     '0x953Cd009a490176FcEB3a26b9753e6F01645ff28': {
       symbol: 'XDEUS',
       logoURI:
-        'https://assets.coingecko.com/coins/images/28702/large/xDEUS_logo_200x200.png?1673425416',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0x953cd009a490176fceb3a26b9753e6f01645ff28.png',
     },
     '0xF386eB6780a1e875616b5751794f909095283860': {
       name: 'fMulti',
@@ -998,7 +998,7 @@ export const overwrites: OverwritesForList = {
     },
     '0xC09A82aD5075B3067D80F54f05e1E22229699Cc1': {
       logoURI:
-        'https://assets.coingecko.com/coins/images/24109/large/logo-blue.png?1646376874',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0xc09a82ad5075b3067d80f54f05e1e22229699cc1.png',
     },
     '0x2B6850bF31874d96A21eD4Dc7C6415B9640BE2A4': {
       logoURI:
@@ -1026,7 +1026,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x5a27c97Bf717F455c9eeb838a53Fb9F044509C59': {
       logoURI:
-        'https://dd.dexscreener.com/ds-data/tokens/fantom/0x5a27c97bf717f455c9eeb838a53fb9f044509c59.png?size=lg&key=99a609',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0x5a27c97bf717f455c9eeb838a53fb9f044509c59.png',
     },
     '0xA80058bDf71F4044942107e33a802752B3bfB4d0': {
       logoURI:
@@ -1034,15 +1034,15 @@ export const overwrites: OverwritesForList = {
     },
     '0xb5Fd949436772E07CbBF35Fb6524e79924c54CB3': {
       logoURI:
-        'https://dd.dexscreener.com/ds-data/tokens/fantom/0xb5fd949436772e07cbbf35fb6524e79924c54cb3.png?size=lg&key=16c774',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0xb5fd949436772e07cbbf35fb6524e79924c54cb3.png',
     },
     '0x1f008f9af47b387BDF67a25f2B8219942207298f': {
       logoURI:
-        'https://dd.dexscreener.com/ds-data/tokens/fantom/0x1f008f9af47b387bdf67a25f2b8219942207298f.png?size=lg&key=327682',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0x1f008f9af47b387bdf67a25f2b8219942207298f.png',
     },
     '0xd361474bB19C8b98870bb67F5759cDF277Dee7F9': {
       logoURI:
-        'https://moonmasters.mypinata.cloud/ipfs/QmWTSjcjffhJKas33GHMcLbmjSEKq3wVvKroCZAAmyxoVd',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0xd361474bb19c8b98870bb67f5759cdf277dee7f9.png',
     },
     '0x0E3B1C9be555Ec9806f6eaB9bd101487F53CF0C9': {
       logoURI:
@@ -1058,11 +1058,11 @@ export const overwrites: OverwritesForList = {
     },
     '0xC8065302b6877416C095aCe72278ec4CcEa664Bb': {
       logoURI:
-        'https://images.squarespace-cdn.com/content/v1/65e6002864f3a87b0f25b49b/f7364673-e0ee-4e47-b827-fe4dbc8fde18/IMG_20240303_134442_043.jpg?format=1000w',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0xc8065302b6877416c095ace72278ec4ccea664bb.png',
     },
     '0x24b06ef70Da341486eBf96A5Ea6De1AE8881D106': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x24b06ef70da341486ebf96a5ea6de1ae8881d106.jpg',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x24b06ef70da341486ebf96a5ea6de1ae8881d106.png',
     },
     '0x46E64b8cd1811Ddc9899d607f24deBC46B7A611C': {
       logoURI:
@@ -1070,11 +1070,11 @@ export const overwrites: OverwritesForList = {
     },
     '0x29cfbAB01CA34864402F4c0F20837a5f05490D69': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x29cfbab01ca34864402f4c0f20837a5f05490d69.jpg',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x29cfbab01ca34864402f4c0f20837a5f05490d69.png',
     },
     '0x4CaE69117657f1f10C2aaa9C8c79dc3E5306f7EC': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4cae69117657f1f10c2aaa9c8c79dc3e5306f7ec.jpg',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4cae69117657f1f10c2aaa9c8c79dc3e5306f7ec.png',
     },
     '0x79A6a56645D11F6d3464AaF422aFb82d462177B7': {
       logoURI:
@@ -1086,7 +1086,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x1D631Adc479309aA073949E0D67973555BBBDcd0': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1d631adc479309aa073949e0d67973555bbbdcd0.jpeg',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1d631adc479309aa073949e0d67973555bbbdcd0.png',
     },
     '0x07cc4ce4537c209f83d83f856f142e0d0674fd75': {
       logoURI:
@@ -1098,7 +1098,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x0cE12ae7c899eBF2bcDa7AA570C5af98b6688C95': {
       logoURI:
-        'https://dd.dexscreener.com/ds-data/tokens/fantom/0x0ce12ae7c899ebf2bcda7aa570c5af98b6688c95.png?size=lg&key=badff6',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0x0ce12ae7c899ebf2bcda7aa570c5af98b6688c95.png',
     },
     '0x1eb1b381d1473413E430D8CdB91b36208CDE200b': {
       logoURI:
@@ -1106,11 +1106,11 @@ export const overwrites: OverwritesForList = {
     },
     '0xB8a32897016C1B2ee0797090162eAFe58f032795': {
       logoURI:
-        'https://dd.dexscreener.com/ds-data/tokens/fantom/0xb8a32897016c1b2ee0797090162eafe58f032795.png?key=a473b3',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0xb8a32897016c1b2ee0797090162eafe58f032795.png',
     },
     '0x2acF406155902919009f8256afC034A8247A1911': {
       logoURI:
-        'https://github.com/fantomindia/FantomKings/blob/main/FKINGS_final.png?raw=true',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0x2acf406155902919009f8256afc034a8247a1911.png',
     },
     '0x677079211f6c82e34096153e6cea0d2c26b4b7dc': {
       logoURI:
@@ -1126,7 +1126,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x0DEb5dAf6662f87366Fb0E9fbe60a866Ff46d486': {
       logoURI:
-        'https://dd.dexscreener.com/ds-data/tokens/fantom/0x0deb5daf6662f87366fb0e9fbe60a866ff46d486.png?size=lg&key=165a8c',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0x0deb5daf6662f87366fb0e9fbe60a866ff46d486.png',
     },
     '0xfA94E37eBcf28de44A6f8088812ce33f16FADb7c': {
       logoURI:
@@ -1134,7 +1134,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x90cE4aBdf3eC9614ab3AB41B2D20B716fdC50d49': {
       logoURI:
-        'https://dd.dexscreener.com/ds-data/tokens/fantom/0x90ce4abdf3ec9614ab3ab41b2d20b716fdc50d49.png?size=lg&key=684221',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0x90ce4abdf3ec9614ab3ab41b2d20b716fdc50d49.png',
     },
     '0xd1f9425518C5CfeE1b89013A4d0fe3094984fCe5': {
       logoURI: 'https://beerftm.com/images/PUBGIRLS-LOGO.gif',
@@ -1157,7 +1157,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x94Ba6241BC7E6F7F24a5B95fE6726B31C74881aB': {
       logoURI:
-        'https://dd.dexscreener.com/ds-data/tokens/fantom/0x94ba6241bc7e6f7f24a5b95fe6726b31c74881ab.png?key=f4da13',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0x94ba6241bc7e6f7f24a5b95fe6726b31c74881ab.png',
     },
     '0x59e758cC4A863734E144CF3070210366daBC2E58': {
       logoURI:
@@ -1165,7 +1165,7 @@ export const overwrites: OverwritesForList = {
     },
     '0xe6cc4D855B4fD4A9D02F46B9adae4C5EfB1764B5': {
       logoURI:
-        'https://bafybeiehzznjxownjllrbjij7rliuyiqn6nlfaer7izctgjk5la3ldhpq4.ipfs.dweb.link',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0xe6cc4d855b4fd4a9d02f46b9adae4c5efb1764b5.png',
     },
     '0xB2a909b8bCce9B30BbC9d4c748fD897d6AD9c285': {
       logoURI:
@@ -1173,7 +1173,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x1aeC146acF835b30b3745fD7a02B1c5D4A9d85eF': {
       logoURI:
-        'https://dd.dexscreener.com/ds-data/tokens/fantom/0x1aec146acf835b30b3745fd7a02b1c5d4a9d85ef.png?size=lg&key=99f24a',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0x1aec146acf835b30b3745fd7a02b1c5d4a9d85ef.png',
     },
     '0x5d9EaFC54567F34164A269Ba6C099068df6ef651': {
       logoURI:
@@ -1181,7 +1181,7 @@ export const overwrites: OverwritesForList = {
     },
     '0xA556f91530b4e1f59964d5891ee1c50517dC01cd': {
       logoURI:
-        'https://dd.dexscreener.com/ds-data/tokens/fantom/0xa556f91530b4e1f59964d5891ee1c50517dc01cd.png?size=lg&key=0cfccd',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0xa556f91530b4e1f59964d5891ee1c50517dc01cd.png',
     },
     '0x24626638Ca7b8315c755F4a7337542f10582C805': {
       logoURI:
@@ -1370,7 +1370,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x29219dd400f2Bf60E5a23d13Be72B486D4038894': {
       logoURI:
-        'https://assets.coingecko.com/coins/images/6319/large/usdc.png?1696506694',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0x29219dd400f2bf60e5a23d13be72b486d4038894.png',
       name: 'USDC',
       symbol: 'USDC',
       extensions: {
@@ -1379,14 +1379,14 @@ export const overwrites: OverwritesForList = {
     },
     '0x541FD749419CA806a8bc7da8ac23D346f2dF8B77': {
       logoURI:
-        'https://assets.coingecko.com/coins/images/36800/standard/solvBTC.png?1719810684',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0x541fd749419ca806a8bc7da8ac23d346f2df8b77.png',
       extensions: {
         coingeckoId: 'solv-btc',
       },
     },
     '0xCC0966D8418d412c599A6421b760a847eB169A8c': {
       logoURI:
-        'https://assets.coingecko.com/coins/images/39384/standard/unnamed.png?1721961640',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0xcc0966d8418d412c599a6421b760a847eb169a8c.png',
       extensions: {
         coingeckoId: 'solv-protocol-solvbtc-bbn',
       },
@@ -1439,7 +1439,7 @@ export const overwrites: OverwritesForList = {
       name: 'Fantom lzBEETS',
       symbol: 'lzBEETS',
       logoURI:
-        'https://assets.coingecko.com/coins/images/19158/standard/beets-icon-large.png?1696518608',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0x1e5fe95fb90ac0530f581c617272cd0864626795.png',
     },
     '0xBC0d0650412EF353D672c0Bbd12eFFF90591B251': {
       logoURI:
@@ -1447,7 +1447,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x63A522f6E7D5B96F7aeBB74d2648545E9e14078D': {
       logoURI:
-        'https://gateway.pinata.cloud/ipfs/bafkreiaynps4xalkiktny4fpwhk2ziq3xbw7hiq676cijddb3zzflcwdcq',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0x63a522f6e7d5b96f7aebb74d2648545e9e14078d.png',
     },
     '0xBe422DD2F451348d5D0979D8ab25B4c6eAAd1eB2': {
       logoURI:
@@ -1463,7 +1463,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x7A08Bf5304094CA4C7b4132Ef62b5EDc4a3478B7': {
       logoURI:
-        'https://dd.dexscreener.com/ds-data/tokens/fantom/0xb8a32897016c1b2ee0797090162eafe58f032795.png?key=a473b3',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0x7a08bf5304094ca4c7b4132ef62b5edc4a3478b7.png',
     },
     '0xd3DCe716f3eF535C5Ff8d041c1A41C3bd89b97aE': {
       logoURI:
@@ -1483,7 +1483,7 @@ export const overwrites: OverwritesForList = {
     },
     '0xd43b5d6899635e514A00b475eEa04C364979e076': {
       logoURI:
-        'https://dd.dexscreener.com/ds-data/tokens/fantom/0x1e2ea3f3209d66647f959cf00627107e079b870d.png?size=lg&key=5a19d7',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0xd43b5d6899635e514a00b475eea04c364979e076.png',
     },
     '0x9aF092fD69e341a651725f89CC5510a22E40E614': {
       logoURI:
@@ -1491,7 +1491,7 @@ export const overwrites: OverwritesForList = {
     },
     '0xE51EE9868C1f0d6cd968A8B8C8376Dc2991BFE44': {
       logoURI:
-        'https://dd.dexscreener.com/ds-data/tokens/sonic/0xe51ee9868c1f0d6cd968a8b8c8376dc2991bfe44.png?size=lg&key=50f8b4',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0xe51ee9868c1f0d6cd968a8b8c8376dc2991bfe44.png',
       extensions: {
         coingeckoId: 'paint-swap',
       },
@@ -1502,22 +1502,22 @@ export const overwrites: OverwritesForList = {
     },
     '0xe715cba7b5ccb33790cebff1436809d36cb17e57': {
       logoURI:
-        'https://assets.coingecko.com/coins/images/26045/standard/euro.png?1696525125',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0xe715cba7b5ccb33790cebff1436809d36cb17e57.png',
       extensions: {
         coingeckoId: null,
       },
     },
     '0x6fB9897896Fe5D05025Eb43306675727887D0B7c': {
       logoURI:
-        'https://dd.dexscreener.com/ds-data/tokens/sonic/0x6fb9897896fe5d05025eb43306675727887d0b7c.png?size=lg&key=69e35d',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0x6fb9897896fe5d05025eb43306675727887d0b7c.png',
     },
     '0xC046dCb16592FBb3F9fA0C629b8D93090dD4cB76': {
       logoURI:
-        'https://dd.dexscreener.com/ds-data/tokens/sonic/0xc046dcb16592fbb3f9fa0c629b8d93090dd4cb76.png?size=lg&key=872bae',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0xc046dcb16592fbb3f9fa0c629b8d93090dd4cb76.png',
     },
     '0x05e31a691405d06708A355C029599c12d5da8b28': {
       logoURI:
-        'https://dd.dexscreener.com/ds-data/tokens/sonic/0x05e31a691405d06708a355c029599c12d5da8b28.png?size=lg&key=f7ac24',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0x05e31a691405d06708a355c029599c12d5da8b28.png',
     },
     '0xf1c9b8171bf3902554e791010ccbcd6bacba6efd': {
       logoURI:
@@ -1529,7 +1529,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x690d956D97d3EEe18AB68ED1A28a89d531734F3d': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x690d956d97d3eee18ab68ed1a28a89d531734f3d.jpg',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x690d956d97d3eee18ab68ed1a28a89d531734f3d.png',
     },
     '0x7F144F8691CbA3d2EfD8e5bcf042f9303EE31a46': {
       logoURI:
@@ -1537,7 +1537,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x0a54364631Ea37813a63edb3bBa1C46f8d8304B2': {
       logoURI:
-        'https://dd.dexscreener.com/ds-data/tokens/sonic/0x0a54364631ea37813a63edb3bba1c46f8d8304b2.png?size=lg&key=761e2c',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0x0a54364631ea37813a63edb3bba1c46f8d8304b2.png',
     },
     '0x486B6Fa0419b33a0c7A6e4698c231D7E2f2D5299': {
       logoURI:
@@ -1545,7 +1545,7 @@ export const overwrites: OverwritesForList = {
     },
     '0xDE55B113A27Cc0c5893CAa6Ee1C020b6B46650C0': {
       logoURI:
-        'https://assets.coingecko.com/coins/images/18778/standard/Black_Background_200x200.png?1696518242',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0xde55b113a27cc0c5893caa6ee1c020b6b46650c0.png',
     },
     '0x0e65f5a7cb56641e31bc5c9d53388db7ac7eacae': {
       logoURI:
@@ -1553,11 +1553,11 @@ export const overwrites: OverwritesForList = {
     },
     '0x19008165514Ec7622b34924c755Dc7d116F84840': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x19008165514ec7622b34924c755dc7d116f84840.jpg',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x19008165514ec7622b34924c755dc7d116f84840.png',
     },
     '0x35be05dF4e074606c77d78968ec5FBC9cCd4348B': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x35be05df4e074606c77d78968ec5fbc9ccd4348b.jpg',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x35be05df4e074606c77d78968ec5fbc9ccd4348b.png',
     },
     '0xCf3FE6eDFeE9c7fdf7d53DC58f4EFe66Fe110981': {
       logoURI:
@@ -1602,7 +1602,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x284d81e48fbc782aa9186a03a226690aea5cbe0e': {
       logoURI:
-        'https://assets.coingecko.com/coins/images/53797/standard/IMG_7045.jpeg?1737477230',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0x284d81e48fbc782aa9186a03a226690aea5cbe0e.jpeg',
       extensions: {
         coingeckoId: 'atoll-eth',
       },
@@ -1613,7 +1613,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x44E23B1F3f4511b3a7e81077Fd9F2858dF1B7579': {
       logoURI:
-        'https://assets.coingecko.com/coins/images/29314/standard/mclb.png?1696528265',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0x44e23b1f3f4511b3a7e81077fd9f2858df1b7579.png',
     },
     '0x38628cb4cc74cbDFB6dDD877B17c1F60fCAE7C2C': {
       logoURI:
@@ -1659,14 +1659,14 @@ export const overwrites: OverwritesForList = {
     },
     '0x6047828dc181963ba44974801ff68e538da5eaf9': {
       logoURI:
-        'https://coin-images.coingecko.com/coins/images/31185/large/anyusdt_32.png?1696530013',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0x6047828dc181963ba44974801ff68e538da5eaf9.png',
       extensions: {
         coingeckoId: 'tether',
       },
     },
     '0x9bCeA390ff97e0d3362bf726820776a4dF8AdD9a': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9bcea390ff97e0d3362bf726820776a4df8add9a.jpg',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9bcea390ff97e0d3362bf726820776a4df8add9a.png',
     },
     '0x6c49B18333A1135e9A376560c07E6D1Fd0350EaF': {
       symbol: 'SiloWS',
@@ -1682,11 +1682,11 @@ export const overwrites: OverwritesForList = {
     },
     '0x9990dE39Ca46151150E392Ca96EB349d0f549166': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9990de39ca46151150e392ca96eb349d0f549166.jpg',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9990de39ca46151150e392ca96eb349d0f549166.png',
     },
     '0xf26Ff70573ddc8a90Bd7865AF8d7d70B8Ff019bC': {
       logoURI:
-        'https://dd.dexscreener.com/ds-data/tokens/sonic/0xf26ff70573ddc8a90bd7865af8d7d70b8ff019bc.png?size=lg&key=5e5b9c',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0xf26ff70573ddc8a90bd7865af8d7d70b8ff019bc.png',
       extensions: {
         coingeckoId: 'eggs-finance',
       },
@@ -1739,7 +1739,7 @@ export const overwrites: OverwritesForList = {
     },
     '0xEdF8b632b537d5993Adb5e2E15882CD791c284cB': {
       logoURI:
-        'https://dd.dexscreener.com/ds-data/tokens/base/0x74ccbe53f77b08632ce0cb91d3a545bf6b8e0979.png?size=lg&key=9217b4',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0xedf8b632b537d5993adb5e2e15882cd791c284cb.png',
     },
     '0x0A94e18bdbCcD048198806d7FF28A1B1D2590724': {
       symbol: 'SiloSCBTC',
@@ -1751,7 +1751,7 @@ export const overwrites: OverwritesForList = {
       symbol: 'SiloScUSD',
       name: 'Silo Wrapped scUSD - 46',
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-silo.svg',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-silo.png',
     },
     '0x24c74B30d1a4261608E84Bf5a618693032681DAc': {
       symbol: 'SiloScETH',
@@ -1799,11 +1799,11 @@ export const overwrites: OverwritesForList = {
     },
     '0x871A101Dcf22fE4fE37be7B654098c801CBA1c88': {
       logoURI:
-        'https://assets.coingecko.com/coins/images/55186/standard/beS.png?1744440042',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0x871a101dcf22fe4fe37be7b654098c801cba1c88.png',
     },
     '0x3333b97138D4b086720b5aE8A7844b1345a33333': {
       logoURI:
-        'https://dd.dexscreener.com/ds-data/tokens/sonic/0x3333b97138d4b086720b5ae8a7844b1345a33333.png?size=lg&key=c2e8a2',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0x3333b97138d4b086720b5ae8a7844b1345a33333.png',
     },
     '0xd229ff67806d6037e6dfc9eeb2f331cb74e8c79e': {
       logoURI:
@@ -1811,7 +1811,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x3333111A391cC08fa51353E9195526A70b333333': {
       logoURI:
-        'https://dd.dexscreener.com/ds-data/tokens/sonic/0x3333111a391cc08fa51353e9195526a70b333333.png?size=lg&key=6ad28a',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0x3333111a391cc08fa51353e9195526a70b333333.png',
       extensions: {
         coingeckoId: 'shadow-liquid-staking-token',
       },
@@ -1838,7 +1838,7 @@ export const overwrites: OverwritesForList = {
     },
     '0xd9D6F92Df52716835594Ab41Ea6f3BB994da98b6': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd9d6f92df52716835594ab41ea6f3bb994da98b6.jpg',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd9d6f92df52716835594ab41ea6f3bb994da98b6.png',
     },
     '0xF6F87073cF8929C206A77b0694619DC776F89885': {
       logoURI:
@@ -1854,7 +1854,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x6202B9f02E30E5e1c62Cc01E4305450E5d83b926': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6202b9f02e30e5e1c62cc01e4305450e5d83b926.svg',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6202b9f02e30e5e1c62cc01e4305450e5d83b926.png',
     },
     '0xb4444468e444f89e1c2cac2f1d3ee7e336cbd1f5': {
       logoURI:
@@ -1883,14 +1883,14 @@ export const overwrites: OverwritesForList = {
     },
     '0xE4A4353CD8F008f1a70f1a564535990479E8ceb7': {
       logoURI:
-        'https://assets.coingecko.com/coins/images/24558/standard/PAL-Token-dark_%281%29.png?1735661952',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0xe4a4353cd8f008f1a70f1a564535990479e8ceb7.png',
       extensions: {
         coingeckoId: 'paladin',
       },
     },
     '0xe920d1da9a4d59126dc35996ea242d60efca1304': {
       logoURI:
-        'https://assets.coingecko.com/coins/images/53307/standard/DERP_TOKEN.png?1736066460',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/token/0xe920d1da9a4d59126dc35996ea242d60efca1304.png',
       extensions: {
         coingeckoId: 'derp-2',
       },
