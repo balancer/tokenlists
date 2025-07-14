@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 354
+        "patch": 355
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-07-11T09:44:03.110Z",
+    "timestamp": "2025-07-14T09:19:54.756Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13406,6 +13406,17 @@
             "symbol": "smsUSD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/smsusd.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0xE5Fb2Ed6832deF99ddE57C0b9d9A56537C89121D",
+            "name": "Main Street USD",
+            "symbol": "msUSD",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/66996/large/msUSD.png?1751389184",
+            "extensions": {
+                "coingeckoId": "main-street-usd"
+            }
         },
         {
             "chainId": 250,
