@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 356
+        "patch": 357
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-07-14T15:08:27.415Z",
+    "timestamp": "2025-07-14T15:12:12.005Z",
     "tokens": [
         {
             "chainId": 1,
@@ -18497,6 +18497,14 @@
             "symbol": "USDp",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x0c06cCF38114ddfc35e07427B9424adcca9F44F8",
+            "name": "Monerium EURe",
+            "symbol": "EURe",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/54303/large/eure.jpg?1739167959"
         },
         {
             "chainId": 43114,
