@@ -130,4 +130,6 @@ export default [
   '0xe920d1da9a4d59126dc35996ea242d60efca1304', // derp
   '0x67a298e5b65db2b4616e05c3b455e017275f53cb', // lstrzr
   '0xc7990369DA608C2F4903715E3bD22f2970536C29', // smsUSD
+  '0x08417cdb7F52a5021bB4eb6E0deAf3f295c3f182', // USDp
+  '0xe8a3DA6f5ed1cf04c58ac7f6A7383641e877517b', // sUSDp
 ]

@@ -110,4 +110,5 @@ export default [
   '0x39de0f00189306062d79edec6dca5bb6bfd108f9', // re7 USDC
   '0x72f92a966f1874f74e1b601bee7cf57031b53a03', // re7 savUSD
   '0x2cd3cdb3bd68eea0d3be81da707bc0c8743d7335', // yBTC.b
+  '0x9eE1963f05553eF838604Dd39403be21ceF26AA4', // USDp
 ]

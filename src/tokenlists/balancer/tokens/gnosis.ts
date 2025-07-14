@@ -90,4 +90,5 @@ export default [
   '0x1C67d859bD4a4e449d790b65fd6E28f982ae84B0', // MetriTestSupergroup12
   '0x31B32b96049F8FD24969611252c4e44a1b4A07eB', // MetriTestSupergroup13
   '0x5198D513A6DBbA16637B353ce06197f750addB4B', // MetriTestSupergroup14
+  '0x9eE1963f05553eF838604Dd39403be21ceF26AA4', // USDp
 ]
