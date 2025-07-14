@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 355
+        "patch": 356
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-07-14T09:19:54.756Z",
+    "timestamp": "2025-07-14T15:08:27.415Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7958,6 +7958,22 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x77146784315ba81904d654466968e3a7c196d1f3.png"
         },
         {
+            "chainId": 1,
+            "address": "0x9B3a8f7CEC208e247d97dEE13313690977e24459",
+            "name": "USDp",
+            "symbol": "USDp",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg"
+        },
+        {
+            "chainId": 1,
+            "address": "0x0d45b129dc868963025Db79A9074EA9c9e32Cae4",
+            "name": "Staked USDp",
+            "symbol": "sUSDp",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/sUSDp.svg"
+        },
+        {
             "chainId": 10,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -8930,6 +8946,14 @@
             "decimals": 18
         },
         {
+            "chainId": 10,
+            "address": "0x90337e484B1Cb02132fc150d3Afa262147348545",
+            "name": "USDp",
+            "symbol": "USDp",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg"
+        },
+        {
             "chainId": 100,
             "address": "0x7eF541E2a22058048904fE5744f9c7E4C57AF717",
             "name": "Balancer on xDai",
@@ -9641,6 +9665,14 @@
             "symbol": "s-ETHCC",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5198d513a6dbba16637b353ce06197f750addb4b.png"
+        },
+        {
+            "chainId": 100,
+            "address": "0x9eE1963f05553eF838604Dd39403be21ceF26AA4",
+            "name": "USDp",
+            "symbol": "USDp",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg"
         },
         {
             "chainId": 137,
@@ -12301,6 +12333,14 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe75220cb014dfb2d354bb59be26d7458bb8d0706.png"
         },
         {
+            "chainId": 137,
+            "address": "0x1250304F66404cd153fA39388DDCDAec7E0f1707",
+            "name": "USDp",
+            "symbol": "USDp",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg"
+        },
+        {
             "chainId": 146,
             "address": "0xe6cc4D855B4fD4A9D02F46B9adae4C5EfB1764B5",
             "name": "LUDWIG",
@@ -13406,6 +13446,22 @@
             "symbol": "smsUSD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/smsusd.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0x08417cdb7F52a5021bB4eb6E0deAf3f295c3f182",
+            "name": "USDp",
+            "symbol": "USDp",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg"
+        },
+        {
+            "chainId": 146,
+            "address": "0xe8a3DA6f5ed1cf04c58ac7f6A7383641e877517b",
+            "name": "Staked USDp",
+            "symbol": "sUSDp",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/sUSDp.svg"
         },
         {
             "chainId": 146,
@@ -14708,6 +14764,22 @@
             "extensions": {
                 "coingeckoId": "felix-feusd"
             }
+        },
+        {
+            "chainId": 999,
+            "address": "0xBE65F0F410A72BeC163dC65d46c83699e957D588",
+            "name": "USDp",
+            "symbol": "USDp",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg"
+        },
+        {
+            "chainId": 999,
+            "address": "0x9B3a8f7CEC208e247d97dEE13313690977e24459",
+            "name": "Staked USDp",
+            "symbol": "sUSDp",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/sUSDp.svg"
         },
         {
             "chainId": 1101,
@@ -16036,6 +16108,22 @@
             "symbol": "COW",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/24384/large/CoW-token_logo.png?1719524382"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x76A9A0062ec6712b99B4f63bD2b4270185759dd5",
+            "name": "USDp",
+            "symbol": "USDp",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x472eD57b376fE400259FB28e5C46eB53f0E3e7E7",
+            "name": "Staked USDp",
+            "symbol": "sUSDp",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/sUSDp.svg"
         },
         {
             "chainId": 34443,
@@ -18403,6 +18491,14 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x454f676d44df315eef9b5425178d5a8b524cea03.png"
         },
         {
+            "chainId": 42161,
+            "address": "0x76A9A0062ec6712b99B4f63bD2b4270185759dd5",
+            "name": "USDp",
+            "symbol": "USDp",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg"
+        },
+        {
             "chainId": 43114,
             "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
             "name": "Wrapped AVAX",
@@ -19282,6 +19378,14 @@
             "symbol": "YBTC.B",
             "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2cd3cdb3bd68eea0d3be81da707bc0c8743d7335.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x9eE1963f05553eF838604Dd39403be21ceF26AA4",
+            "name": "USDp",
+            "symbol": "USDp",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg"
         },
         {
             "chainId": 11155111,
