@@ -1,10 +1,10 @@
 export default {
-  name: 'hyperevm',
-  rpc: `https://rpc.hyperliquid.xyz/evm`,
+  name: 'berachain',
+  rpc: `https://rpc.berachain.com`,
   coingecko: {
-    platformId: 'hyperevm',
+    platformId: 'berachain',
   },
-  // at the time of writing the trust wallet folder for hyperevm is not yet available
+  // at the time of writing the trust wallet folder for berachain is not yet available
   // so we're using the ethereum folder for now
   // @see https://github.com/trustwallet/assets/tree/master/blockchains
   trustWalletNetwork: 'ethereum',

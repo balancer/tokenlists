@@ -16,6 +16,7 @@ export enum Network {
   Mode = '34443',
   Sonic = '146',
   Hyperevm = '999',
+  Berachain = '80094',
 }
 
 export interface Config {

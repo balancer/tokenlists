@@ -10,6 +10,7 @@ import { Network, TokensForList } from '../../types'
 // import zkevm from './tokens/zkevm'
 // import fantom from './tokens/fantom'
 // import bartio from './tokens/bartio'
+import berachain from './tokens/berachain'
 import hyperevm from './tokens/hyperevm'
 
 export const tokens: TokensForList = {
@@ -28,4 +29,5 @@ export const tokens: TokensForList = {
   [Network.Mode]: [],
   [Network.Sonic]: [],
   [Network.Hyperevm]: hyperevm,
+  [Network.Berachain]: berachain,
 }

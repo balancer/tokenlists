@@ -3,6 +3,7 @@ import arbitrum from './arbitrum'
 import avalanche from './avalanche'
 import bartio from './bartio'
 import base from './base'
+import berachain from './berachain'
 import ethereum from './ethereum'
 import fantom from './fantom'
 import fraxtal from './fraxtal'
@@ -31,6 +32,7 @@ const config: Configs = {
   [Network.Mode]: mode,
   [Network.Sonic]: sonic,
   [Network.Hyperevm]: hyperevm,
+  [Network.Berachain]: berachain,
 }
 
 export default config
