@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 357
+        "patch": 358
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-07-14T15:12:12.005Z",
+    "timestamp": "2025-07-17T20:47:23.796Z",
     "tokens": [
         {
             "chainId": 1,
@@ -16124,6 +16124,14 @@
             "symbol": "sUSDp",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/sUSDp.svg"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x63706e401c06ac8513145b7687A14804d17f814b",
+            "name": "Aave Token",
+            "symbol": "AAVE",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/12645/large/aave-token-round.png?1720472354"
         },
         {
             "chainId": 34443,
