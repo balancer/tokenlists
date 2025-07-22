@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 359
+        "patch": 360
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-07-18T10:17:56.596Z",
+    "timestamp": "2025-07-22T04:26:12.869Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14788,6 +14788,70 @@
             "symbol": "sUSDp",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/sUSDp.svg"
+        },
+        {
+            "chainId": 999,
+            "address": "0x1Ecd15865D7F8019D546f76d095d9c93cc34eDFa",
+            "name": "LiquidLaunch",
+            "symbol": "LIQD",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/53730/large/Logo.png?1737143175"
+        },
+        {
+            "chainId": 999,
+            "address": "0x11735dBd0B97CfA7Accf47d005673BA185f7fd49",
+            "name": "CATBAL",
+            "symbol": "CATBAL",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/51085/large/Catbal_Minilogo.png?1732046278"
+        },
+        {
+            "chainId": 999,
+            "address": "0x9FDBdA0A5e284c32744D2f17Ee5c74B284993463",
+            "name": "Unit Bitcoin",
+            "symbol": "UBTC",
+            "decimals": 8,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/55066/large/ubtc.jpg?1743580113"
+        },
+        {
+            "chainId": 999,
+            "address": "0xca79db4B49f608eF54a5CB813FbEd3a6387bC645",
+            "name": "Last USD",
+            "symbol": "USDXL",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/55083/large/usdxl.jpg?1743648438"
+        },
+        {
+            "chainId": 999,
+            "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+            "name": "USDeOFT",
+            "symbol": "USDe",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34.png"
+        },
+        {
+            "chainId": 999,
+            "address": "0x068f321Fa8Fb9f0D135f290Ef6a3e2813e1c8A29",
+            "name": "Unit Solana",
+            "symbol": "USOL",
+            "decimals": 9,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/67159/large/solana.jpg?1751940039"
+        },
+        {
+            "chainId": 999,
+            "address": "0x94e8396e0869c9F2200760aF0621aFd240E1CF38",
+            "name": "Staked HYPE Shares",
+            "symbol": "wstHYPE",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/54722/large/hyperliquid.png?1741232793"
+        },
+        {
+            "chainId": 999,
+            "address": "0xfD739d4e423301CE9385c1fb8850539D657C296D",
+            "name": "Kinetiq Staked HYPE",
+            "symbol": "kHYPE",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/67388/large/khype.png?1752632397"
         },
         {
             "chainId": 1101,
