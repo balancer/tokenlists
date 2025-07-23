@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 362
+        "patch": 363
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-07-23T07:12:32.266Z",
+    "timestamp": "2025-07-23T08:26:15.381Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13489,6 +13489,14 @@
             "symbol": "Gami_scUSD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-silo.svg"
+        },
+        {
+            "chainId": 146,
+            "address": "0x78a76316F66224CBaCA6e70acB24D5ee5b2Bd2c7",
+            "name": "Stability",
+            "symbol": "STBL",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/54772/large/STBL_Logo_%281%29.png?1741445415"
         },
         {
             "chainId": 250,
