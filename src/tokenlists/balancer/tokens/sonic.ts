@@ -134,4 +134,5 @@ export default [
   '0xe8a3DA6f5ed1cf04c58ac7f6A7383641e877517b', // sUSDp
   '0xe5fb2ed6832def99dde57c0b9d9a56537c89121d', // msusd
   '0xD50f1253Af535F63b73C1D6e749D2c1687f1765b', // vS
+  '0x92ebF5A1fB4061B45222a6d76ACCF4698bdE4b95', // gami usdc
 ]
