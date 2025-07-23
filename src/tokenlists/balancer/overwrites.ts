@@ -1934,7 +1934,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x92ebF5A1fB4061B45222a6d76ACCF4698bdE4b95': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5954ce6671d97D24B782920ddCdBB4b1E63aB2De.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-silo.svg',
     },
   },
 }
