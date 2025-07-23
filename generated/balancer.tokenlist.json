@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 361
+        "patch": 362
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-07-23T06:19:36.098Z",
+    "timestamp": "2025-07-23T07:12:32.266Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13488,7 +13488,7 @@
             "name": "Gami Capital scUSD",
             "symbol": "Gami_scUSD",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5954ce6671d97D24B782920ddCdBB4b1E63aB2De.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-silo.svg"
         },
         {
             "chainId": 250,
