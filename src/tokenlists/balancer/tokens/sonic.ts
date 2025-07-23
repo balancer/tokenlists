@@ -135,4 +135,5 @@ export default [
   '0xe5fb2ed6832def99dde57c0b9d9a56537c89121d', // msusd
   '0xD50f1253Af535F63b73C1D6e749D2c1687f1765b', // vS
   '0x92ebF5A1fB4061B45222a6d76ACCF4698bdE4b95', // gami usdc
+  '0x78a76316F66224CBaCA6e70acB24D5ee5b2Bd2c7', // stbl
 ]
