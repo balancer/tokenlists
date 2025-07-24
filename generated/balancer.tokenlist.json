@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 364
+        "patch": 365
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-07-24T08:31:16.310Z",
+    "timestamp": "2025-07-24T20:54:52.265Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14868,6 +14868,42 @@
             "symbol": "kHYPE",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/67388/large/khype.png?1752632397"
+        },
+        {
+            "chainId": 999,
+            "address": "0x53A333e51E96FE288bC9aDd7cdC4B1EAD2CD2FfA",
+            "name": "Gauntlet USDT0 Vault",
+            "symbol": "gtUSDT0",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0x5e105266db42f78FA814322Bce7f388B4C2e61eb",
+            "name": "Hyperbeat USDT",
+            "symbol": "hbUSDT",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/67161/large/hyperbeat_usdt.jpg?1751940634"
+        },
+        {
+            "chainId": 999,
+            "address": "0x5eEC795d919FA97688Fb9844eeB0072E6B846F9d",
+            "name": "Gauntlet USDe Core",
+            "symbol": "gtUSDe",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0x0571362ba5EA9784a97605f57483f865A37dBEAA",
+            "name": "Gauntlet uETH Vault",
+            "symbol": "gtuETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0xd19e3d00f8547f7d108abFD4bbb015486437B487",
+            "name": "MEV Capital HYPE",
+            "symbol": "mcHYPE",
+            "decimals": 18
         },
         {
             "chainId": 1101,
