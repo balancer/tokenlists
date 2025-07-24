@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 363
+        "patch": 364
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-07-23T08:26:15.381Z",
+    "timestamp": "2025-07-24T08:31:16.310Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13476,7 +13476,7 @@
         },
         {
             "chainId": 146,
-            "address": "0xD50f1253Af535F63b73C1D6e749D2c1687f1765b",
+            "address": "0x2286bA4fcbb2eF06C4349fAF6B8970ece593f5DD",
             "name": "vS Token",
             "symbol": "vS",
             "decimals": 18,
