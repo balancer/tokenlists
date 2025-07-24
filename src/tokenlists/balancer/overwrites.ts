@@ -1928,7 +1928,7 @@ export const overwrites: OverwritesForList = {
         coingeckoId: 'main-street-usd',
       },
     },
-    '0xD50f1253Af535F63b73C1D6e749D2c1687f1765b': {
+    '0x2286bA4fcbb2eF06C4349fAF6B8970ece593f5DD': {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/vs.png',
     },
