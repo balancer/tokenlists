@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 366
+        "patch": 367
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-07-25T12:34:58.477Z",
+    "timestamp": "2025-07-25T17:19:06.503Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7980,6 +7980,21 @@
             "symbol": "liUSD-1w",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x12b004719fb632f1e7c010c6f5d6009fb4258442.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xa3931d71877C0E7a3148CB7Eb4463524FEc27fbD",
+            "name": "Savings USDS",
+            "symbol": "sUSDS",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/52721/large/sUSDS_Coin.png?1734086971"
+        },
+        {
+            "chainId": 1,
+            "address": "0x9FD7466f987Fd4C45a5BBDe22ED8aba5BC8D72d1",
+            "name": "hwHLP",
+            "symbol": "hwHLP",
+            "decimals": 6
         },
         {
             "chainId": 10,
