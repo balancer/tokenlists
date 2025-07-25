@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 365
+        "patch": 366
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-07-24T20:54:52.265Z",
+    "timestamp": "2025-07-25T12:34:58.477Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7972,6 +7972,14 @@
             "symbol": "sUSDp",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/sUSDp.svg"
+        },
+        {
+            "chainId": 1,
+            "address": "0x12b004719fb632f1E7c010c6F5D6009Fb4258442",
+            "name": "Locked iUSD - 1 weeks",
+            "symbol": "liUSD-1w",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x12b004719fb632f1e7c010c6f5d6009fb4258442.png"
         },
         {
             "chainId": 10,
