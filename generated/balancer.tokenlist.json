@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 367
+        "patch": 368
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-07-25T17:19:06.503Z",
+    "timestamp": "2025-07-25T19:49:33.393Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14926,6 +14926,166 @@
             "address": "0xd19e3d00f8547f7d108abFD4bbb015486437B487",
             "name": "MEV Capital HYPE",
             "symbol": "mcHYPE",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0x9c59a9389D8f72DE2CdAf1126F36EA4790E2275e",
+            "name": "Felix USDhl",
+            "symbol": "feUSDhl",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0xFc5126377F0efc0041C0969Ef9BA903Ce67d151e",
+            "name": "Felix USDT0",
+            "symbol": "feUSDT0",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0x835FEBF893c6DdDee5CF762B0f8e31C5B06938ab",
+            "name": "Felix USDe",
+            "symbol": "feUSDe",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0x2900ABd73631b2f60747e687095537B673c06A76",
+            "name": "Felix HYPE",
+            "symbol": "feHYPE",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0xD3A9Cb7312B9c29113290758f5ADFe12304cd16A",
+            "name": "MEV Capital USR",
+            "symbol": "mcUSR",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0x4346C98E690c17eFbB999aE8e1dA96B089bE320b",
+            "name": "Relend Network rUSDC",
+            "symbol": "rerUSDC",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0x5e105266db42f78FA814322Bce7f388B4C2e61eb",
+            "name": "Hyperbeat USDT",
+            "symbol": "hbUSDT",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/67161/large/hyperbeat_usdt.jpg?1751940634"
+        },
+        {
+            "chainId": 999,
+            "address": "0x96C6cBB6251Ee1c257b2162ca0f39AA5Fa44B1FB",
+            "name": "Hyperbeat Ultra HYPE",
+            "symbol": "hbHYPE",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/67160/large/hyperbeat_hype.jpg?1751940550"
+        },
+        {
+            "chainId": 999,
+            "address": "0x441794D6a8F9A3739F5D4E98a728937b33489D29",
+            "name": "Liquid HYPE Yield",
+            "symbol": "liquidHYPE",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0xc061d38903b99aC12713B550C2CB44B221674F94",
+            "name": "Hyperbeat Ultra uBTC",
+            "symbol": "hbBTC",
+            "decimals": 8
+        },
+        {
+            "chainId": 999,
+            "address": "0x81e064d0eB539de7c3170EDF38C1A42CBd752A76",
+            "name": "Hyperbeat LST Vault",
+            "symbol": "lstHYPE",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0xa522572cF63E6CeEd49Db6C77Cd9Ec76c1d47d09",
+            "name": "Hyperdrive Primary USD₮0 Market",
+            "symbol": "HD-MKT-USD₮0",
+            "decimals": 6
+        },
+        {
+            "chainId": 999,
+            "address": "0x06Fd9D03b3d0F18E4919919b72D30c582f0a97E5",
+            "name": "Hyperlend Interest Bearing USD₮0 (Wrapped HLP)",
+            "symbol": "hUSD₮0(WHLP)",
+            "decimals": 6
+        },
+        {
+            "chainId": 999,
+            "address": "0xD704254eb350E0D3BaeCD194d095862267897aE0",
+            "name": "Static HyperLend HyperEVM WHYPE v2",
+            "symbol": "stathHyperEvmWHYPEv2",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0x0Ab8AAE3335Ed4B373A33D9023b6A6585b149D33",
+            "name": "HyperLend HyperEVM wstHYPE",
+            "symbol": "hHyperEvmwstHYPE",
+            "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0x2c910F67DbF81099e6f8e126E7265d7595DC20aD",
+            "name": "hyUSD₮0 (hwHLP) - 11",
+            "symbol": "hyUSD₮0(hwHLP)-11",
+            "decimals": 6
+        },
+        {
+            "chainId": 999,
+            "address": "0x1C5164A764844356d57654ea83f9f1B72Cd10db5",
+            "name": "hyUSD₮0 (Looped HYPE) - 9",
+            "symbol": "hyUSD₮0(LHYPE)-9",
+            "decimals": 6
+        },
+        {
+            "chainId": 999,
+            "address": "0x5748ae796AE46A4F1348a1693de4b50560485562",
+            "name": "Looped HYPE",
+            "symbol": "LHYPE",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/54816/large/loopedhype_logo_transparent.png?1741850425"
+        },
+        {
+            "chainId": 999,
+            "address": "0x1359b05241cA5076c9F59605214f4F84114c0dE8",
+            "name": "Wrapped HLP",
+            "symbol": "WHLP",
+            "decimals": 6,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/66783/large/image_%282%29.png?1750493063"
+        },
+        {
+            "chainId": 999,
+            "address": "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
+            "name": "Staked USDe",
+            "symbol": "sUSDe",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2.png"
+        },
+        {
+            "chainId": 999,
+            "address": "0xb50A96253aBDF803D85efcDce07Ad8becBc52BD5",
+            "name": "Hyper USD",
+            "symbol": "USDHL",
+            "decimals": 6,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/66679/large/usdhl.jpg?1750242294"
+        },
+        {
+            "chainId": 999,
+            "address": "0x6fCD93da1E2A288AE68bb1D4f856d8D598E8B861",
+            "name": "Hyperdrive HYPE/LST Market",
+            "symbol": "HD-MKT-HYPE",
             "decimals": 18
         },
         {
