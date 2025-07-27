@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 369
+        "patch": 370
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-07-25T19:58:22.390Z",
+    "timestamp": "2025-07-27T20:09:04.050Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14904,9 +14904,10 @@
         {
             "chainId": 999,
             "address": "0x53A333e51E96FE288bC9aDd7cdC4B1EAD2CD2FfA",
-            "name": "Gauntlet USDT0 Vault",
+            "name": "Gauntlet USDT",
             "symbol": "gtUSDT0",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://app.hyperbeat.org/assets/icons/tokens/usdt.svg"
         },
         {
             "chainId": 999,
@@ -14919,37 +14920,42 @@
         {
             "chainId": 999,
             "address": "0x5eEC795d919FA97688Fb9844eeB0072E6B846F9d",
-            "name": "Gauntlet USDe Core",
+            "name": "Gauntlet USDe",
             "symbol": "gtUSDe",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://app.hyperbeat.org/assets/icons/tokens/usde.svg"
         },
         {
             "chainId": 999,
             "address": "0x0571362ba5EA9784a97605f57483f865A37dBEAA",
-            "name": "Gauntlet uETH Vault",
+            "name": "Gauntlet uETH",
             "symbol": "gtuETH",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://app.hyperbeat.org/assets/icons/tokens/ueth.svg"
         },
         {
             "chainId": 999,
             "address": "0xd19e3d00f8547f7d108abFD4bbb015486437B487",
-            "name": "MEV Capital HYPE",
+            "name": "MEV Capital Hype",
             "symbol": "mcHYPE",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://app.hyperbeat.org/assets/icons/tokens/hype.svg"
         },
         {
             "chainId": 999,
             "address": "0x9c59a9389D8f72DE2CdAf1126F36EA4790E2275e",
             "name": "Felix USDhl",
             "symbol": "feUSDhl",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/66679/large/usdhl.jpg?1750242294"
         },
         {
             "chainId": 999,
             "address": "0xFc5126377F0efc0041C0969Ef9BA903Ce67d151e",
             "name": "Felix USDT0",
             "symbol": "feUSDT0",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/53705/large/usdt0.jpg?1737086183"
         },
         {
             "chainId": 999,
@@ -15033,9 +15039,10 @@
         {
             "chainId": 999,
             "address": "0xD704254eb350E0D3BaeCD194d095862267897aE0",
-            "name": "Static HyperLend HyperEVM WHYPE v2",
+            "name": "HyperLend Hype",
             "symbol": "stathHyperEvmWHYPEv2",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/54469/large/_UP3jBsi_400x400.jpg?1739905920"
         },
         {
             "chainId": 999,
@@ -16441,6 +16448,22 @@
             "symbol": "AAVE",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/12645/large/aave-token-round.png?1720472354"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x7788A3538C5fc7F9c7C8A74EAC4c898fC8d87d92",
+            "name": "Wrapped sUSDX",
+            "symbol": "sUSDX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7788a3538c5fc7f9c7c8a74eac4c898fc8d87d92.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0xf3527ef8dE265eAa3716FB312c12847bFBA66Cef",
+            "name": "Wrapped USDX",
+            "symbol": "USDX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf3527ef8de265eaa3716fb312c12847bfba66cef.png"
         },
         {
             "chainId": 34443,
