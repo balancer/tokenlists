@@ -52,10 +52,13 @@ export default [
   '0xaE4EFbc7736f963982aACb17EFA37fCBAb924cB3', // SolvBTC
   '0xE2B36A37bD98ba81658dC5454F2dB2F98438d140', // WBTC
 
-  // HypurrFi yield-bearing tokens
+  // HypurrFi yield-bearing tokens (aTokens)
   '0x02379E4a55111d999Ac18C367F5920119398b94B', // hyUBTC
   '0xFd32712A1cb152c03a62D54557fcb1dE372ABfe9', // hyUSDHL
   '0x1Ca7e21B2dAa5Ab2eB9de7cf8f34dCf9c8683007', // hyUSDT
   '0xAEA02692F502b47e116bdfA9a4CeB3138Bd8B516', // hyfeUSD
   '0xe8F7D82A73f13A64d689e7ddAD06139BFb51f9C6', // hyUSDe
+
+  // Wrapped aTokens (ERC-4626) for boosted pools
+  '0x6d9dae449c4beb29151132b4c4b2692b7954cfae', // wrapped hyfeUSD
 ]

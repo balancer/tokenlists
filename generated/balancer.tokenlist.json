@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 352
+        "patch": 353
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-07-21T04:08:42.294Z",
+    "timestamp": "2025-07-28T07:51:39.897Z",
     "tokens": [
         {
             "chainId": 999,
@@ -430,6 +430,13 @@
             "symbol": "hyUSDe",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/burrbear-dev/tokenlists/main/src/assets/images/tokens/0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34.png"
+        },
+        {
+            "chainId": 999,
+            "address": "0x6D9daE449C4bEb29151132b4C4B2692b7954CfaE",
+            "name": "Wrapped feUSD Hypurr",
+            "symbol": "wahyfeUSD",
+            "decimals": 18
         },
         {
             "chainId": 80094,
