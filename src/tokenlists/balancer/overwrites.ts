@@ -215,7 +215,7 @@ export const overwrites: OverwritesForList = {
       logoURI: 'https://app.hyperbeat.org/assets/icons/tokens/hype.svg',
     },
     '0x53a333e51e96fe288bc9add7cdc4b1ead2cd2ffa': {
-      name: 'Gauntlet USDT',
+      name: 'Gauntlet USD₮0',
       logoURI: 'https://app.hyperbeat.org/assets/icons/tokens/usdt.svg',
     },
     '0xd704254eb350e0d3baecd194d095862267897ae0': {
@@ -234,13 +234,17 @@ export const overwrites: OverwritesForList = {
         'https://coin-images.coingecko.com/coins/images/66679/large/usdhl.jpg?1750242294',
     },
     '0xfc5126377f0efc0041c0969ef9ba903ce67d151e': {
-      name: 'Felix USDT0',
+      name: 'Felix USD₮0',
       logoURI:
         'https://coin-images.coingecko.com/coins/images/53705/large/usdt0.jpg?1737086183',
     },
     '0xd3a9cb7312b9c29113290758f5adfe12304cd16a': {
       name: 'MEV USR',
       logoURI: 'https://app.hyperbeat.org/assets/icons/tokens/usr.svg',
+    },
+    '0x3Bcc0a5a66bB5BdCEEf5dd8a659a4eC75F3834d8': {
+      name: 'MEV Capital USD₮0',
+      logoURI: 'https://app.hyperbeat.org/assets/icons/tokens/usdt0.svg',
     },
   },
   [Network.Polygon]: {

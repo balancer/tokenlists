@@ -41,4 +41,5 @@ export default [
   '0xb50A96253aBDF803D85efcDce07Ad8becBc52BD5', // USDHL
   '0x6fCD93da1E2A288AE68bb1D4f856d8D598E8B861', // HD-MKT-HYPE
   '0x9fd7466f987fd4c45a5bbde22ed8aba5bc8d72d1', // hwHLP
+  '0x3Bcc0a5a66bB5BdCEEf5dd8a659a4eC75F3834d8', // MEV Capital USD₮0
 ]
