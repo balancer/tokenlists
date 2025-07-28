@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 371
+        "patch": 372
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-07-28T13:20:57.966Z",
+    "timestamp": "2025-07-28T18:47:25.594Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14904,7 +14904,7 @@
         {
             "chainId": 999,
             "address": "0x53A333e51E96FE288bC9aDd7cdC4B1EAD2CD2FfA",
-            "name": "Gauntlet USDT",
+            "name": "Gauntlet USD₮0",
             "symbol": "gtUSDT0",
             "decimals": 18,
             "logoURI": "https://app.hyperbeat.org/assets/icons/tokens/usdt.svg"
@@ -14952,7 +14952,7 @@
         {
             "chainId": 999,
             "address": "0xFc5126377F0efc0041C0969Ef9BA903Ce67d151e",
-            "name": "Felix USDT0",
+            "name": "Felix USD₮0",
             "symbol": "feUSDT0",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/53705/large/usdt0.jpg?1737086183"
@@ -15105,6 +15105,14 @@
             "symbol": "hwHLP",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9fd7466f987fd4c45a5bbde22ed8aba5bc8d72d1.png"
+        },
+        {
+            "chainId": 999,
+            "address": "0x3Bcc0a5a66bB5BdCEEf5dd8a659a4eC75F3834d8",
+            "name": "MEV Capital USD₮0",
+            "symbol": "MC_USDT0",
+            "decimals": 18,
+            "logoURI": "https://app.hyperbeat.org/assets/icons/tokens/usdt0.svg"
         },
         {
             "chainId": 1101,
