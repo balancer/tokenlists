@@ -240,8 +240,8 @@ export const overwrites: OverwritesForList = {
     },
     '0xd3a9cb7312b9c29113290758f5adfe12304cd16a': {
       name: 'MEV USR',
-      logoURI: 'https://app.hyperbeat.org/assets/icons/tokens/usr.svg'
-    }
+      logoURI: 'https://app.hyperbeat.org/assets/icons/tokens/usr.svg',
+    },
   },
   [Network.Polygon]: {
     '0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3': {
