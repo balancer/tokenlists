@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 370
+        "patch": 371
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-07-27T20:09:04.050Z",
+    "timestamp": "2025-07-28T13:20:57.966Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14974,9 +14974,10 @@
         {
             "chainId": 999,
             "address": "0xD3A9Cb7312B9c29113290758f5ADFe12304cd16A",
-            "name": "MEV Capital USR",
+            "name": "MEV USR",
             "symbol": "mcUSR",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://app.hyperbeat.org/assets/icons/tokens/usr.svg"
         },
         {
             "chainId": 999,
@@ -15040,7 +15041,7 @@
             "chainId": 999,
             "address": "0xD704254eb350E0D3BaeCD194d095862267897aE0",
             "name": "HyperLend Hype",
-            "symbol": "stathHyperEvmWHYPEv2",
+            "symbol": "hlHype",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/54469/large/_UP3jBsi_400x400.jpg?1739905920"
         },
@@ -15096,6 +15097,14 @@
             "name": "Hyperdrive HYPE/LST Market",
             "symbol": "HD-MKT-HYPE",
             "decimals": 18
+        },
+        {
+            "chainId": 999,
+            "address": "0x9FD7466f987Fd4C45a5BBDe22ED8aba5BC8D72d1",
+            "name": "hwHLP",
+            "symbol": "hwHLP",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9fd7466f987fd4c45a5bbde22ed8aba5bc8d72d1.png"
         },
         {
             "chainId": 1101,
