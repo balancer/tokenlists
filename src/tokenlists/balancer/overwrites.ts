@@ -220,6 +220,7 @@ export const overwrites: OverwritesForList = {
     },
     '0xd704254eb350e0d3baecd194d095862267897ae0': {
       name: 'HyperLend Hype',
+      symbol: 'hlHype',
       logoURI:
         'https://coin-images.coingecko.com/coins/images/54469/large/_UP3jBsi_400x400.jpg?1739905920',
     },
@@ -237,6 +238,10 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://coin-images.coingecko.com/coins/images/53705/large/usdt0.jpg?1737086183',
     },
+    '0xd3a9cb7312b9c29113290758f5adfe12304cd16a': {
+      name: 'MEV USR',
+      logoURI: 'https://app.hyperbeat.org/assets/icons/tokens/usr.svg'
+    }
   },
   [Network.Polygon]: {
     '0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3': {
