@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 372
+        "patch": 373
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-07-28T18:47:25.594Z",
+    "timestamp": "2025-07-28T20:48:40.475Z",
     "tokens": [
         {
             "chainId": 1,
@@ -15025,16 +15025,17 @@
         },
         {
             "chainId": 999,
-            "address": "0xa522572cF63E6CeEd49Db6C77Cd9Ec76c1d47d09",
-            "name": "Hyperdrive Primary USD₮0 Market",
-            "symbol": "HD-MKT-USD₮0",
-            "decimals": 6
-        },
-        {
-            "chainId": 999,
             "address": "0x06Fd9D03b3d0F18E4919919b72D30c582f0a97E5",
             "name": "Hyperlend Interest Bearing USD₮0 (Wrapped HLP)",
             "symbol": "hUSD₮0(WHLP)",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x06fd9d03b3d0f18e4919919b72d30c582f0a97e5.png"
+        },
+        {
+            "chainId": 999,
+            "address": "0xa522572cF63E6CeEd49Db6C77Cd9Ec76c1d47d09",
+            "name": "Hyperdrive Primary USD₮0 Market",
+            "symbol": "HD-MKT-USD₮0",
             "decimals": 6
         },
         {
