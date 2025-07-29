@@ -43,4 +43,5 @@ export default [
   '0x9fd7466f987fd4c45a5bbde22ed8aba5bc8d72d1', // hwHLP
   '0x3Bcc0a5a66bB5BdCEEf5dd8a659a4eC75F3834d8', // MEV Capital USD₮0
   '0x0aD339d66BF4AeD5ce31c64Bc37B3244b6394A77', // USR
+  '0x81e064d0eb539de7c3170edf38c1a42cbd752a76', // lstHYPE
 ]
