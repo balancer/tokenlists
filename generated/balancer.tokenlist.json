@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 375
+        "patch": 376
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-07-29T20:05:20.556Z",
+    "timestamp": "2025-07-29T20:10:57.954Z",
     "tokens": [
         {
             "chainId": 1,
@@ -15021,7 +15021,8 @@
             "address": "0x81e064d0eB539de7c3170EDF38C1A42CBd752A76",
             "name": "Hyperbeat LST Vault",
             "symbol": "lstHYPE",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x81e064d0eb539de7c3170edf38c1a42cbd752a76.png"
         },
         {
             "chainId": 999,
@@ -15128,7 +15129,8 @@
             "address": "0x81e064d0eB539de7c3170EDF38C1A42CBd752A76",
             "name": "Hyperbeat LST Vault",
             "symbol": "lstHYPE",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x81e064d0eb539de7c3170edf38c1a42cbd752a76.png"
         },
         {
             "chainId": 1101,
