@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 376
+        "patch": 377
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-07-29T20:10:57.954Z",
+    "timestamp": "2025-07-29T20:44:51.204Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14962,14 +14962,16 @@
             "address": "0x835FEBF893c6DdDee5CF762B0f8e31C5B06938ab",
             "name": "Felix USDe",
             "symbol": "feUSDe",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x835febf893c6dddee5cf762b0f8e31c5b06938ab.png"
         },
         {
             "chainId": 999,
             "address": "0x2900ABd73631b2f60747e687095537B673c06A76",
             "name": "Felix HYPE",
             "symbol": "feHYPE",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2900abd73631b2f60747e687095537b673c06a76.png"
         },
         {
             "chainId": 999,
@@ -14984,7 +14986,8 @@
             "address": "0x4346C98E690c17eFbB999aE8e1dA96B089bE320b",
             "name": "Relend Network rUSDC",
             "symbol": "rerUSDC",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4346c98e690c17efbb999ae8e1da96b089be320b.png"
         },
         {
             "chainId": 999,
@@ -15026,6 +15029,14 @@
         },
         {
             "chainId": 999,
+            "address": "0x81e064d0eB539de7c3170EDF38C1A42CBd752A76",
+            "name": "Hyperbeat LST Vault",
+            "symbol": "lstHYPE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x81e064d0eb539de7c3170edf38c1a42cbd752a76.png"
+        },
+        {
+            "chainId": 999,
             "address": "0x06Fd9D03b3d0F18E4919919b72D30c582f0a97E5",
             "name": "Hyperlend Interest Bearing USD₮0 (Wrapped HLP)",
             "symbol": "hUSD₮0(WHLP)",
@@ -15037,7 +15048,8 @@
             "address": "0xa522572cF63E6CeEd49Db6C77Cd9Ec76c1d47d09",
             "name": "Hyperdrive Primary USD₮0 Market",
             "symbol": "HD-MKT-USD₮0",
-            "decimals": 6
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa522572cf63e6ceed49db6c77cd9ec76c1d47d09.png"
         },
         {
             "chainId": 999,
@@ -15052,7 +15064,8 @@
             "address": "0x0Ab8AAE3335Ed4B373A33D9023b6A6585b149D33",
             "name": "HyperLend HyperEVM wstHYPE",
             "symbol": "hHyperEvmwstHYPE",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0ab8aae3335ed4b373a33d9023b6a6585b149d33.png"
         },
         {
             "chainId": 999,
@@ -15067,7 +15080,8 @@
             "address": "0x1C5164A764844356d57654ea83f9f1B72Cd10db5",
             "name": "hyUSD₮0 (Looped HYPE) - 9",
             "symbol": "hyUSD₮0(LHYPE)-9",
-            "decimals": 6
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1c5164a764844356d57654ea83f9f1b72cd10db5.png"
         },
         {
             "chainId": 999,
@@ -15098,7 +15112,8 @@
             "address": "0x6fCD93da1E2A288AE68bb1D4f856d8D598E8B861",
             "name": "Hyperdrive HYPE/LST Market",
             "symbol": "HD-MKT-HYPE",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6fcd93da1e2a288ae68bb1d4f856d8d598e8b861.png"
         },
         {
             "chainId": 999,
@@ -15123,14 +15138,6 @@
             "symbol": "USR",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/66152/large/usr.jpg?1748492157"
-        },
-        {
-            "chainId": 999,
-            "address": "0x81e064d0eB539de7c3170EDF38C1A42CBd752A76",
-            "name": "Hyperbeat LST Vault",
-            "symbol": "lstHYPE",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x81e064d0eb539de7c3170edf38c1a42cbd752a76.png"
         },
         {
             "chainId": 1101,
