@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 373
+        "patch": 374
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-07-28T20:48:40.475Z",
+    "timestamp": "2025-07-29T14:34:51.259Z",
     "tokens": [
         {
             "chainId": 1,
@@ -15114,6 +15114,14 @@
             "symbol": "MC_USDT0",
             "decimals": 18,
             "logoURI": "https://app.hyperbeat.org/assets/icons/tokens/usdt0.svg"
+        },
+        {
+            "chainId": 999,
+            "address": "0x0aD339d66BF4AeD5ce31c64Bc37B3244b6394A77",
+            "name": "Resolv USD",
+            "symbol": "USR",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/66152/large/usr.jpg?1748492157"
         },
         {
             "chainId": 1101,
