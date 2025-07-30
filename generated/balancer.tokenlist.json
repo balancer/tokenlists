@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 377
+        "patch": 378
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-07-29T20:44:51.204Z",
+    "timestamp": "2025-07-30T10:26:17.205Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14904,10 +14904,10 @@
         {
             "chainId": 999,
             "address": "0x53A333e51E96FE288bC9aDd7cdC4B1EAD2CD2FfA",
-            "name": "Gauntlet USD₮0",
+            "name": "Gauntlet USDT0 Vault",
             "symbol": "gtUSDT0",
             "decimals": 18,
-            "logoURI": "https://app.hyperbeat.org/assets/icons/tokens/usdt.svg"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x53a333e51e96fe288bc9add7cdc4b1ead2cd2ffa.png"
         },
         {
             "chainId": 999,
@@ -14920,26 +14920,26 @@
         {
             "chainId": 999,
             "address": "0x5eEC795d919FA97688Fb9844eeB0072E6B846F9d",
-            "name": "Gauntlet USDe",
+            "name": "Gauntlet USDe Core",
             "symbol": "gtUSDe",
             "decimals": 18,
-            "logoURI": "https://app.hyperbeat.org/assets/icons/tokens/usde.svg"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5eec795d919fa97688fb9844eeb0072e6b846f9d.png"
         },
         {
             "chainId": 999,
             "address": "0x0571362ba5EA9784a97605f57483f865A37dBEAA",
-            "name": "Gauntlet uETH",
+            "name": "Gauntlet uETH Vault",
             "symbol": "gtuETH",
             "decimals": 18,
-            "logoURI": "https://app.hyperbeat.org/assets/icons/tokens/ueth.svg"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0571362ba5ea9784a97605f57483f865a37dbeaa.png"
         },
         {
             "chainId": 999,
             "address": "0xd19e3d00f8547f7d108abFD4bbb015486437B487",
-            "name": "MEV Capital Hype",
+            "name": "MEV Capital HYPE",
             "symbol": "mcHYPE",
             "decimals": 18,
-            "logoURI": "https://app.hyperbeat.org/assets/icons/tokens/hype.svg"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd19e3d00f8547f7d108abfd4bbb015486437b487.png"
         },
         {
             "chainId": 999,
@@ -14947,15 +14947,15 @@
             "name": "Felix USDhl",
             "symbol": "feUSDhl",
             "decimals": 18,
-            "logoURI": "https://coin-images.coingecko.com/coins/images/66679/large/usdhl.jpg?1750242294"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9c59a9389d8f72de2cdaf1126f36ea4790e2275e.png"
         },
         {
             "chainId": 999,
             "address": "0xFc5126377F0efc0041C0969Ef9BA903Ce67d151e",
-            "name": "Felix USD₮0",
+            "name": "Felix USDT0",
             "symbol": "feUSDT0",
             "decimals": 18,
-            "logoURI": "https://coin-images.coingecko.com/coins/images/53705/large/usdt0.jpg?1737086183"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfc5126377f0efc0041c0969ef9ba903ce67d151e.png"
         },
         {
             "chainId": 999,
@@ -14976,10 +14976,10 @@
         {
             "chainId": 999,
             "address": "0xD3A9Cb7312B9c29113290758f5ADFe12304cd16A",
-            "name": "MEV USR",
+            "name": "MEV Capital USR",
             "symbol": "mcUSR",
             "decimals": 18,
-            "logoURI": "https://app.hyperbeat.org/assets/icons/tokens/usr.svg"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd3a9cb7312b9c29113290758f5adfe12304cd16a.png"
         },
         {
             "chainId": 999,
@@ -15054,10 +15054,10 @@
         {
             "chainId": 999,
             "address": "0xD704254eb350E0D3BaeCD194d095862267897aE0",
-            "name": "HyperLend Hype",
+            "name": "Static HyperLend HyperEVM WHYPE v2",
             "symbol": "hlHype",
             "decimals": 18,
-            "logoURI": "https://coin-images.coingecko.com/coins/images/54469/large/_UP3jBsi_400x400.jpg?1739905920"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd704254eb350e0d3baecd194d095862267897ae0.png"
         },
         {
             "chainId": 999,
@@ -15126,10 +15126,10 @@
         {
             "chainId": 999,
             "address": "0x3Bcc0a5a66bB5BdCEEf5dd8a659a4eC75F3834d8",
-            "name": "MEV Capital USD₮0",
+            "name": "MEV Capital USDT0",
             "symbol": "MC_USDT0",
             "decimals": 18,
-            "logoURI": "https://app.hyperbeat.org/assets/icons/tokens/usdt0.svg"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x3bcc0a5a66bb5bdceef5dd8a659a4ec75f3834d8.png"
         },
         {
             "chainId": 999,
