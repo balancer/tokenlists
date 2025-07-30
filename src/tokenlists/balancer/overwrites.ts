@@ -206,46 +206,6 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/sUSDp.svg',
     },
-    '0x0571362ba5ea9784a97605f57483f865a37dbeaa': {
-      name: 'Gauntlet uETH',
-      logoURI: 'https://app.hyperbeat.org/assets/icons/tokens/ueth.svg',
-    },
-    '0xd19e3d00f8547f7d108abfd4bbb015486437b487': {
-      name: 'MEV Capital Hype',
-      logoURI: 'https://app.hyperbeat.org/assets/icons/tokens/hype.svg',
-    },
-    '0x53a333e51e96fe288bc9add7cdc4b1ead2cd2ffa': {
-      name: 'Gauntlet USD₮0',
-      logoURI: 'https://app.hyperbeat.org/assets/icons/tokens/usdt.svg',
-    },
-    '0xd704254eb350e0d3baecd194d095862267897ae0': {
-      name: 'HyperLend Hype',
-      symbol: 'hlHype',
-      logoURI:
-        'https://coin-images.coingecko.com/coins/images/54469/large/_UP3jBsi_400x400.jpg?1739905920',
-    },
-    '0x5eec795d919fa97688fb9844eeb0072e6b846f9d': {
-      name: 'Gauntlet USDe',
-      logoURI: 'https://app.hyperbeat.org/assets/icons/tokens/usde.svg',
-    },
-    '0x9c59a9389d8f72de2cdaf1126f36ea4790e2275e': {
-      name: 'Felix USDhl',
-      logoURI:
-        'https://coin-images.coingecko.com/coins/images/66679/large/usdhl.jpg?1750242294',
-    },
-    '0xfc5126377f0efc0041c0969ef9ba903ce67d151e': {
-      name: 'Felix USD₮0',
-      logoURI:
-        'https://coin-images.coingecko.com/coins/images/53705/large/usdt0.jpg?1737086183',
-    },
-    '0xd3a9cb7312b9c29113290758f5adfe12304cd16a': {
-      name: 'MEV USR',
-      logoURI: 'https://app.hyperbeat.org/assets/icons/tokens/usr.svg',
-    },
-    '0x3Bcc0a5a66bB5BdCEEf5dd8a659a4eC75F3834d8': {
-      name: 'MEV Capital USD₮0',
-      logoURI: 'https://app.hyperbeat.org/assets/icons/tokens/usdt0.svg',
-    },
   },
   [Network.Polygon]: {
     '0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3': {
