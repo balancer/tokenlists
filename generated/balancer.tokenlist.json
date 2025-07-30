@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 378
+        "patch": 379
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-07-30T10:26:17.205Z",
+    "timestamp": "2025-07-30T15:45:01.134Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13521,6 +13521,14 @@
             "symbol": "STBL",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/54772/large/STBL_Logo_%281%29.png?1741445415"
+        },
+        {
+            "chainId": 146,
+            "address": "0xf6bC16B79c469b94Cdd25F3e2334DD4FEE47A581",
+            "name": "Greenhouse USDC",
+            "symbol": "ghUSDC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5954ce6671d97D24B782920ddCdBB4b1E63aB2De.png"
         },
         {
             "chainId": 250,
