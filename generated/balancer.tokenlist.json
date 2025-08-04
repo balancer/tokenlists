@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 379
+        "patch": 380
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-07-30T15:45:01.134Z",
+    "timestamp": "2025-08-04T07:05:55.841Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13104,8 +13104,9 @@
             "chainId": 146,
             "address": "0x18B7B8695165290f2767BC63c36D3dFEa4C0F9bB",
             "name": "Wrapped Aave Sonic wS",
-            "symbol": "waSonwS",
-            "decimals": 18
+            "symbol": "wawS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/a-wS.png"
         },
         {
             "chainId": 146,
