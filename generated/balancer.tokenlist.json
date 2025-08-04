@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 380
+        "patch": 381
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-08-04T07:05:55.841Z",
+    "timestamp": "2025-08-04T07:15:54.337Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7996,6 +7996,14 @@
             "symbol": "hwHLP",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9fd7466f987fd4c45a5bbde22ed8aba5bc8d72d1.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5",
+            "name": "Rezerve.money",
+            "symbol": "RZR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb4444468e444f89e1c2cac2f1d3ee7e336cbd1f5.png"
         },
         {
             "chainId": 10,
