@@ -148,4 +148,5 @@ export default [
   '0x63706e401c06ac8513145b7687a14804d17f814b', // AAVE
   '0x7788a3538c5fc7f9c7c8a74eac4c898fc8d87d92', // susdx
   '0xf3527ef8de265eaa3716fb312c12847bfba66cef', // usdx
+  '0x23ee2343b892b1bb63503a4fabc840e0e2c6810f', // AXL
 ]
