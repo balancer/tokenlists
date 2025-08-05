@@ -1946,5 +1946,8 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5954ce6671d97D24B782920ddCdBB4b1E63aB2De.png',
     },
+    '0x41a5477364BF60d8936b90310FecFDa79593304E': {
+      logoURI: 'https://app.dtrinity.org/dloop/icons/tokens/sdusd.svg',
+    },
   },
 }
