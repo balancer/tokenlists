@@ -50,25 +50,30 @@ function fetchLocalTokenIcons(network: Network): PartialTokenInfoMap {
 
   const localImages: string[] = fs.readdirSync('src/assets/images/tokens')
   localImages.map((imageName) => {
-    let address: string
-    const fileName = imageName.split('.png')[0]
+    const match = imageName.match(/^(.+)\.(png|svg)$/)
+    if (!match) return
 
-    if (!isAddress(fileName)) {
+    const fileName = match[1]
+    const fileExtension = match[2]
+
+    if (fileName && !isAddress(fileName)) {
       const [_network, _address] = (fileName as string).split('_')
       if (_network === network && isAddress(_address)) {
-        address = _address
-      } else {
-        return
+        tokenIcons.push({
+          address: getAddress(_address),
+          logoURI: `https://raw.githubusercontent.com/burrbear-dev/tokenlists/main/src/assets/images/tokens/${(
+            fileName as string
+          ).toLowerCase()}.${fileExtension}`,
+        })
       }
     } else {
-      address = fileName
+      tokenIcons.push({
+        address: getAddress(fileName),
+        logoURI: `https://raw.githubusercontent.com/burrbear-dev/tokenlists/main/src/assets/images/tokens/${(
+          fileName as string
+        ).toLowerCase()}.${fileExtension}`,
+      })
     }
-
-    tokenIcons.push({
-      address: getAddress(address),
-      // eslint-disable-next-line max-len
-      logoURI: `https://raw.githubusercontent.com/burrbear-dev/tokenlists/main/src/assets/images/tokens/${fileName.toLowerCase()}.png`,
-    })
   })
 
   return convertTokenInfoToMap(tokenIcons as TokenInfo[])
