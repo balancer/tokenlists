@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 382
+        "patch": 383
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-08-04T12:56:19.460Z",
+    "timestamp": "2025-08-05T10:35:31.461Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13538,6 +13538,14 @@
             "symbol": "ghUSDC",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5954ce6671d97D24B782920ddCdBB4b1E63aB2De.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0x41a5477364BF60d8936b90310FecFDa79593304E",
+            "name": "Staked dUSD",
+            "symbol": "sdUSD",
+            "decimals": 18,
+            "logoURI": "https://app.dtrinity.org/dloop/icons/tokens/sdusd.svg"
         },
         {
             "chainId": 250,
