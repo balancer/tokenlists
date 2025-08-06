@@ -91,5 +91,6 @@ export default [
   '0x31B32b96049F8FD24969611252c4e44a1b4A07eB', // MetriTestSupergroup13
   '0x5198D513A6DBbA16637B353ce06197f750addB4B', // MetriTestSupergroup14
   '0x9eE1963f05553eF838604Dd39403be21ceF26AA4', // USDp
-  '0x58d9acac48a4077e4909181c48decd00e5ba5de4', // GHO
+  '0x58d9acac48a4077e4909181c48decd00e5ba5de4', // stata aave GHO
+  '0xfc421aD3C883Bf9E7C4f42dE845C4e4405799e73', // GHO
 ]
