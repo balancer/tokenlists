@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 384
+        "patch": 385
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-08-06T16:31:56.858Z",
+    "timestamp": "2025-08-06T17:46:11.159Z",
     "tokens": [
         {
             "chainId": 1,
@@ -9705,6 +9705,13 @@
             "symbol": "USDp",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg"
+        },
+        {
+            "chainId": 100,
+            "address": "0x58d9AcAC48A4077E4909181c48DEcD00E5ba5DE4",
+            "name": "Wrapped Aave Gnosis GHO",
+            "symbol": "waGnoGHO",
+            "decimals": 18
         },
         {
             "chainId": 137,
