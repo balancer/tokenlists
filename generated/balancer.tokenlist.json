@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 383
+        "patch": 384
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-08-05T10:35:31.461Z",
+    "timestamp": "2025-08-06T16:31:56.858Z",
     "tokens": [
         {
             "chainId": 1,
@@ -16522,7 +16522,10 @@
             "name": "Wrapped sUSDX",
             "symbol": "sUSDX",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7788a3538c5fc7f9c7c8a74eac4c898fc8d87d92.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7788a3538c5fc7f9c7c8a74eac4c898fc8d87d92.png",
+            "extensions": {
+                "coingeckoId": "usdx-money-staked-usdx"
+            }
         },
         {
             "chainId": 8453,
@@ -16530,7 +16533,10 @@
             "name": "Wrapped USDX",
             "symbol": "USDX",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf3527ef8de265eaa3716fb312c12847bfba66cef.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf3527ef8de265eaa3716fb312c12847bfba66cef.png",
+            "extensions": {
+                "coingeckoId": "usdx-money-usdx"
+            }
         },
         {
             "chainId": 8453,
