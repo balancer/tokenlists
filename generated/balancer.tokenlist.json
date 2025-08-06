@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 385
+        "patch": 386
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-08-06T17:46:11.159Z",
+    "timestamp": "2025-08-06T18:00:04.746Z",
     "tokens": [
         {
             "chainId": 1,
@@ -9712,6 +9712,14 @@
             "name": "Wrapped Aave Gnosis GHO",
             "symbol": "waGnoGHO",
             "decimals": 18
+        },
+        {
+            "chainId": 100,
+            "address": "0xfc421aD3C883Bf9E7C4f42dE845C4e4405799e73",
+            "name": "Gho Token",
+            "symbol": "GHO",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfc421ad3c883bf9e7c4f42de845c4e4405799e73.png"
         },
         {
             "chainId": 137,
