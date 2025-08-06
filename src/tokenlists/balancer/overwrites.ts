@@ -847,6 +847,16 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/sUSDp.svg',
     },
+    '0x7788A3538C5fc7F9c7C8A74EAC4c898fC8d87d92': {
+      extensions: {
+        coingeckoId: 'usdx-money-staked-usdx',
+      },
+    },
+    '0xf3527ef8dE265eAa3716FB312c12847bFBA66Cef': {
+      extensions: {
+        coingeckoId: 'usdx-money-usdx',
+      },
+    },
   },
   [Network.Fantom]: {
     '0xf1648C50d2863f780c57849D812b4B7686031A3D': {
