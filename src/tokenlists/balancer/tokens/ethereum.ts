@@ -1035,5 +1035,6 @@ export default [
   '0x12b004719fb632f1e7c010c6f5d6009fb4258442', // 1week-liUSD
   '0xa3931d71877c0e7a3148cb7eb4463524fec27fbd', // sUSDS
   '0x9fd7466f987fd4c45a5bbde22ed8aba5bc8d72d1', // hwHLP
-  '0xb4444468e444f89e1c2cac2f1d3ee7e336cbd1f5' // RZR
+  '0xb4444468e444f89e1c2cac2f1d3ee7e336cbd1f5', // RZR
+  '0xd018a9ba579d3882748c1f1e4dad7203926dc43b', // atvUSDC
 ]
