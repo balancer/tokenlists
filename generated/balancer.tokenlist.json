@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 387
+        "patch": 388
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-08-07T13:02:50.599Z",
+    "timestamp": "2025-08-07T19:35:31.890Z",
     "tokens": [
         {
             "chainId": 1,
@@ -9407,6 +9407,14 @@
         },
         {
             "chainId": 100,
+            "address": "0xfc421aD3C883Bf9E7C4f42dE845C4e4405799e73",
+            "name": "Gho Token",
+            "symbol": "GHO",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfc421ad3c883bf9e7c4f42de845c4e4405799e73.png"
+        },
+        {
+            "chainId": 100,
             "address": "0xdBF3Ea6F5beE45c02255B2c26a16F300502F68da",
             "name": "BZZ on xDai",
             "symbol": "BZZ",
@@ -9719,15 +9727,8 @@
             "address": "0x58d9AcAC48A4077E4909181c48DEcD00E5ba5DE4",
             "name": "Wrapped Aave Gnosis GHO",
             "symbol": "waGnoGHO",
-            "decimals": 18
-        },
-        {
-            "chainId": 100,
-            "address": "0xfc421aD3C883Bf9E7C4f42dE845C4e4405799e73",
-            "name": "Gho Token",
-            "symbol": "GHO",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfc421ad3c883bf9e7c4f42de845c4e4405799e73.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x58d9acac48a4077e4909181c48decd00e5ba5de4.png"
         },
         {
             "chainId": 137,
