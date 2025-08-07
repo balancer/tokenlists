@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 386
+        "patch": 387
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-08-06T18:00:04.746Z",
+    "timestamp": "2025-08-07T13:02:50.599Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8004,6 +8004,14 @@
             "symbol": "RZR",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb4444468e444f89e1c2cac2f1d3ee7e336cbd1f5.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xd018A9ba579d3882748c1f1E4daD7203926Dc43B",
+            "name": "aarna atv USDC",
+            "symbol": "atvUSDC",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/67895/large/atvusdc.png?1754196349"
         },
         {
             "chainId": 10,
