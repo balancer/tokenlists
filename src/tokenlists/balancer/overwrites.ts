@@ -1959,5 +1959,15 @@ export const overwrites: OverwritesForList = {
     '0x41a5477364BF60d8936b90310FecFDa79593304E': {
       logoURI: 'https://app.dtrinity.org/dloop/icons/tokens/sdusd.svg',
     },
+    '0xd018a9ba579d3882748c1f1e4dad7203926dc43b': {
+      symbol: 'atvUSDC',
+      name: 'aarna atv USDC',
+      decimals: 18,
+      logoURI:
+        'https://coin-images.coingecko.com/coins/images/67895/large/atvusdc.png?1754196349',
+      extensions: {
+        coingeckoId: 'aarna-atv-usdc-ethereum',
+      },
+    },
   },
 }
