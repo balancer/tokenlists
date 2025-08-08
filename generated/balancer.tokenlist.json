@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 389
+        "patch": 390
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-08-08T13:33:12.330Z",
+    "timestamp": "2025-08-08T15:18:13.892Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14944,6 +14944,22 @@
         },
         {
             "chainId": 999,
+            "address": "0x0aD339d66BF4AeD5ce31c64Bc37B3244b6394A77",
+            "name": "Resolv USD",
+            "symbol": "USR",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/66152/large/usr.jpg?1748492157"
+        },
+        {
+            "chainId": 999,
+            "address": "0x0a3d8466F5dE586FA5F6DE117301e2f90bCC5c48",
+            "name": "Resolv Liquidity Provider Token",
+            "symbol": "RLP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0a3d8466f5de586fa5f6de117301e2f90bcc5c48.png"
+        },
+        {
+            "chainId": 999,
             "address": "0xfD739d4e423301CE9385c1fb8850539D657C296D",
             "name": "Kinetiq Staked HYPE",
             "symbol": "kHYPE",
@@ -15179,21 +15195,6 @@
             "symbol": "MC_USDT0",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x3bcc0a5a66bb5bdceef5dd8a659a4ec75f3834d8.png"
-        },
-        {
-            "chainId": 999,
-            "address": "0x0aD339d66BF4AeD5ce31c64Bc37B3244b6394A77",
-            "name": "Resolv USD",
-            "symbol": "USR",
-            "decimals": 18,
-            "logoURI": "https://coin-images.coingecko.com/coins/images/66152/large/usr.jpg?1748492157"
-        },
-        {
-            "chainId": 999,
-            "address": "0x0a3d8466F5dE586FA5F6DE117301e2f90bCC5c48",
-            "name": "Resolv Liquidity Provider Token",
-            "symbol": "RLP",
-            "decimals": 18
         },
         {
             "chainId": 1101,
