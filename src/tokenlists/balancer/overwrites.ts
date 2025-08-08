@@ -777,6 +777,11 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg',
     },
+    '0xfc421aD3C883Bf9E7C4f42dE845C4e4405799e73': {
+      extensions: {
+        coingeckoId: 'gho',
+      },
+    },
   },
   [Network.Zkevm]: {
     '0x37eAA0eF3549a5Bb7D431be78a3D99BD360d19e5': {
