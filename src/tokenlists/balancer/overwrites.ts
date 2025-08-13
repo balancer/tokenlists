@@ -196,6 +196,11 @@ export const overwrites: OverwritesForList = {
         coingeckoId: 'felix-feusd',
       },
     },
+    '0x0a3d8466F5dE586FA5F6DE117301e2f90bCC5c48': {
+      extensions: {
+        coingeckoId: 'resolv-rlp',
+      },
+    },
     '0xBE65F0F410A72BeC163dC65d46c83699e957D588': {
       name: 'USDp',
       logoURI:
