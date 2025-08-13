@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 392
+        "patch": 393
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-08-13T04:34:22.916Z",
+    "timestamp": "2025-08-13T14:46:53.408Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8012,6 +8012,14 @@
             "symbol": "atvUSDC",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/67895/large/atvusdc.png?1754196349"
+        },
+        {
+            "chainId": 1,
+            "address": "0xC3d21f79C3120A4fFda7A535f8005a7c297799bF",
+            "name": "Term Finance",
+            "symbol": "TERM",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/38142/large/terms.png?1716630303"
         },
         {
             "chainId": 10,
