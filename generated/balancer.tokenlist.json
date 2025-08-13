@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 391
+        "patch": 392
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-08-08T16:20:16.094Z",
+    "timestamp": "2025-08-13T04:34:22.916Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14959,7 +14959,10 @@
             "name": "Resolv Liquidity Provider Token",
             "symbol": "RLP",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0a3d8466f5de586fa5f6de117301e2f90bcc5c48.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0a3d8466f5de586fa5f6de117301e2f90bcc5c48.png",
+            "extensions": {
+                "coingeckoId": "resolv-rlp"
+            }
         },
         {
             "chainId": 999,
