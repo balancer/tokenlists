@@ -196,6 +196,11 @@ export const overwrites: OverwritesForList = {
         coingeckoId: 'felix-feusd',
       },
     },
+    '0x0a3d8466F5dE586FA5F6DE117301e2f90bCC5c48': {
+      extensions: {
+        coingeckoId: 'resolv-rlp',
+      },
+    },
     '0xBE65F0F410A72BeC163dC65d46c83699e957D588': {
       name: 'USDp',
       logoURI:
@@ -777,6 +782,11 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg',
     },
+    '0xfc421aD3C883Bf9E7C4f42dE845C4e4405799e73': {
+      extensions: {
+        coingeckoId: 'gho',
+      },
+    },
   },
   [Network.Zkevm]: {
     '0x37eAA0eF3549a5Bb7D431be78a3D99BD360d19e5': {
@@ -846,6 +856,16 @@ export const overwrites: OverwritesForList = {
       name: 'Staked USDp',
       logoURI:
         'https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/sUSDp.svg',
+    },
+    '0x7788A3538C5fc7F9c7C8A74EAC4c898fC8d87d92': {
+      extensions: {
+        coingeckoId: 'usdx-money-staked-usdx',
+      },
+    },
+    '0xf3527ef8dE265eAa3716FB312c12847bFBA66Cef': {
+      extensions: {
+        coingeckoId: 'usdx-money-usdx',
+      },
     },
   },
   [Network.Fantom]: {
@@ -1801,6 +1821,12 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd4fa2d31b7968e448877f69a96de69f5de8cd23e.png',
     },
+    '0x18B7B8695165290f2767BC63c36D3dFEa4C0F9bB': {
+      symbol: 'wawS',
+      name: 'Wrapped Aave Sonic wS',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/a-wS.png',
+    },
     '0xe8a41c62bb4d5863c6eadc96792cfe90a1f37c47': {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wstkscETH.png',
@@ -1939,6 +1965,9 @@ export const overwrites: OverwritesForList = {
     '0xf6bC16B79c469b94Cdd25F3e2334DD4FEE47A581': {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5954ce6671d97D24B782920ddCdBB4b1E63aB2De.png',
+    },
+    '0x41a5477364BF60d8936b90310FecFDa79593304E': {
+      logoURI: 'https://app.dtrinity.org/dloop/icons/tokens/sdusd.svg',
     },
   },
 }

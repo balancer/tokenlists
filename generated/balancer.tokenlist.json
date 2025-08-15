@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 379
+        "patch": 393
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-07-30T15:45:01.134Z",
+    "timestamp": "2025-08-13T14:46:53.408Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7998,6 +7998,30 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9fd7466f987fd4c45a5bbde22ed8aba5bc8d72d1.png"
         },
         {
+            "chainId": 1,
+            "address": "0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5",
+            "name": "Rezerve.money",
+            "symbol": "RZR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb4444468e444f89e1c2cac2f1d3ee7e336cbd1f5.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xd018A9ba579d3882748c1f1E4daD7203926Dc43B",
+            "name": "aarna atv USDC",
+            "symbol": "atvUSDC",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/67895/large/atvusdc.png?1754196349"
+        },
+        {
+            "chainId": 1,
+            "address": "0xC3d21f79C3120A4fFda7A535f8005a7c297799bF",
+            "name": "Term Finance",
+            "symbol": "TERM",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/38142/large/terms.png?1716630303"
+        },
+        {
             "chainId": 10,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -9391,6 +9415,17 @@
         },
         {
             "chainId": 100,
+            "address": "0xfc421aD3C883Bf9E7C4f42dE845C4e4405799e73",
+            "name": "Gho Token",
+            "symbol": "GHO",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfc421ad3c883bf9e7c4f42de845c4e4405799e73.png",
+            "extensions": {
+                "coingeckoId": "gho"
+            }
+        },
+        {
+            "chainId": 100,
             "address": "0xdBF3Ea6F5beE45c02255B2c26a16F300502F68da",
             "name": "BZZ on xDai",
             "symbol": "BZZ",
@@ -9697,6 +9732,14 @@
             "symbol": "USDp",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg"
+        },
+        {
+            "chainId": 100,
+            "address": "0x58d9AcAC48A4077E4909181c48DEcD00E5ba5DE4",
+            "name": "Wrapped Aave Gnosis GHO",
+            "symbol": "waGnoGHO",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x58d9acac48a4077e4909181c48decd00e5ba5de4.png"
         },
         {
             "chainId": 137,
@@ -13104,8 +13147,9 @@
             "chainId": 146,
             "address": "0x18B7B8695165290f2767BC63c36D3dFEa4C0F9bB",
             "name": "Wrapped Aave Sonic wS",
-            "symbol": "waSonwS",
-            "decimals": 18
+            "symbol": "wawS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/a-wS.png"
         },
         {
             "chainId": 146,
@@ -13529,6 +13573,14 @@
             "symbol": "ghUSDC",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5954ce6671d97D24B782920ddCdBB4b1E63aB2De.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0x41a5477364BF60d8936b90310FecFDa79593304E",
+            "name": "Staked dUSD",
+            "symbol": "sdUSD",
+            "decimals": 18,
+            "logoURI": "https://app.dtrinity.org/dloop/icons/tokens/sdusd.svg"
         },
         {
             "chainId": 250,
@@ -14903,6 +14955,25 @@
         },
         {
             "chainId": 999,
+            "address": "0x0aD339d66BF4AeD5ce31c64Bc37B3244b6394A77",
+            "name": "Resolv USD",
+            "symbol": "USR",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/66152/large/usr.jpg?1748492157"
+        },
+        {
+            "chainId": 999,
+            "address": "0x0a3d8466F5dE586FA5F6DE117301e2f90bCC5c48",
+            "name": "Resolv Liquidity Provider Token",
+            "symbol": "RLP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0a3d8466f5de586fa5f6de117301e2f90bcc5c48.png",
+            "extensions": {
+                "coingeckoId": "resolv-rlp"
+            }
+        },
+        {
+            "chainId": 999,
             "address": "0xfD739d4e423301CE9385c1fb8850539D657C296D",
             "name": "Kinetiq Staked HYPE",
             "symbol": "kHYPE",
@@ -15138,14 +15209,6 @@
             "symbol": "MC_USDT0",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x3bcc0a5a66bb5bdceef5dd8a659a4ec75f3834d8.png"
-        },
-        {
-            "chainId": 999,
-            "address": "0x0aD339d66BF4AeD5ce31c64Bc37B3244b6394A77",
-            "name": "Resolv USD",
-            "symbol": "USR",
-            "decimals": 18,
-            "logoURI": "https://coin-images.coingecko.com/coins/images/66152/large/usr.jpg?1748492157"
         },
         {
             "chainId": 1101,
@@ -16505,7 +16568,10 @@
             "name": "Wrapped sUSDX",
             "symbol": "sUSDX",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7788a3538c5fc7f9c7c8a74eac4c898fc8d87d92.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7788a3538c5fc7f9c7c8a74eac4c898fc8d87d92.png",
+            "extensions": {
+                "coingeckoId": "usdx-money-staked-usdx"
+            }
         },
         {
             "chainId": 8453,
@@ -16513,7 +16579,18 @@
             "name": "Wrapped USDX",
             "symbol": "USDX",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf3527ef8de265eaa3716fb312c12847bfba66cef.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf3527ef8de265eaa3716fb312c12847bfba66cef.png",
+            "extensions": {
+                "coingeckoId": "usdx-money-usdx"
+            }
+        },
+        {
+            "chainId": 8453,
+            "address": "0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f",
+            "name": "Axelar",
+            "symbol": "AXL",
+            "decimals": 6,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/27277/large/V-65_xQ1_400x400.jpeg?1696526329"
         },
         {
             "chainId": 34443,
