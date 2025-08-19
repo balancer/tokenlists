@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 393
+        "patch": 394
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-08-13T14:46:53.408Z",
+    "timestamp": "2025-08-19T01:49:31.499Z",
     "tokens": [
         {
             "chainId": 1,
@@ -19381,6 +19381,14 @@
             "symbol": "EGS",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/34557/large/coingecko.png?1705371524"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xACc37335aD138c1D60ea7a805Ac0558FA49C5317",
+            "name": "RED GOGLZ",
+            "symbol": "RGOGLZ",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xacc37335ad138c1d60ea7a805ac0558fa49c5317.png"
         },
         {
             "chainId": 43114,
