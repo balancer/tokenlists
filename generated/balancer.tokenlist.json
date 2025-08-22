@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 395
+        "patch": 396
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-08-20T19:29:01.753Z",
+    "timestamp": "2025-08-22T01:42:12.648Z",
     "tokens": [
         {
             "chainId": 1,
@@ -15090,7 +15090,8 @@
             "address": "0x441794D6a8F9A3739F5D4E98a728937b33489D29",
             "name": "Liquid HYPE Yield",
             "symbol": "liquidHYPE",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/68444/large/liquidhype.png?1755770963"
         },
         {
             "chainId": 999,
@@ -15218,6 +15219,14 @@
             "symbol": "stathyUSD₮0",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdc6f4239c1d8d3b955c06cb8f1a6cf18effc5bfe.png"
+        },
+        {
+            "chainId": 999,
+            "address": "0x00fDBc53719604D924226215bc871D55e40a1009",
+            "name": "Looping Collective",
+            "symbol": "LOOP",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/55979/large/LOOP.png?1747918773"
         },
         {
             "chainId": 1101,
