@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 396
+        "patch": 397
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-08-22T01:42:12.648Z",
+    "timestamp": "2025-08-25T02:24:32.077Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7913,11 +7913,11 @@
         },
         {
             "chainId": 1,
-            "address": "0x85E30b8b263bC64d94b827ed450F2EdFEE8579dA",
+            "address": "0x9Cf12ccd6020b6888e4D4C4e4c7AcA33c1eB91f8",
             "name": "USDaf Stablecoin",
             "symbol": "USDaf",
             "decimals": 18,
-            "logoURI": "https://coin-images.coingecko.com/coins/images/56060/large/USDaf.png?1748165829"
+            "logoURI": "https://coin-images.coingecko.com/coins/images/67996/large/USDaf_copy.png?1754544041"
         },
         {
             "chainId": 1,
