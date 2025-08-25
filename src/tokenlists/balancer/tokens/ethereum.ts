@@ -1036,6 +1036,6 @@ export default [
   '0xa3931d71877c0e7a3148cb7eb4463524fec27fbd', // sUSDS
   '0x9fd7466f987fd4c45a5bbde22ed8aba5bc8d72d1', // hwHLP
   '0xb4444468e444f89e1c2cac2f1d3ee7e336cbd1f5', // RZR
-  '0xd018a9ba579d3882748c1f1e4dad7203926dc43b', // atvUSDC
+  '0xf30f62963cce132f32306d7f18a8587958b30ea9', // atvUSDC
   '0xc3d21f79c3120a4ffda7a535f8005a7c297799bf', // TERM
 ]
