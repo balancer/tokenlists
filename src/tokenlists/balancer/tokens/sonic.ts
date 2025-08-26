@@ -138,4 +138,5 @@ export default [
   '0x78a76316F66224CBaCA6e70acB24D5ee5b2Bd2c7', // stbl
   '0xf6bC16B79c469b94Cdd25F3e2334DD4FEE47A581', // greenhouse usdc
   '0x41a5477364BF60d8936b90310FecFDa79593304E', // sdusd
+  '0x7c050be1dded733bd44116b60a8a35125ba47459', // wrsETH
 ]
