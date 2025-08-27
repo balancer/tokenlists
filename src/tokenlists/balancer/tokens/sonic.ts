@@ -139,4 +139,5 @@ export default [
   '0xf6bC16B79c469b94Cdd25F3e2334DD4FEE47A581', // greenhouse usdc
   '0x41a5477364BF60d8936b90310FecFDa79593304E', // sdusd
   '0x7c050be1dded733bd44116b60a8a35125ba47459', // wrsETH
+  '0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553', // Frankencoin (ZCHF)
 ]
