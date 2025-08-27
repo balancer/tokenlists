@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 398
+        "patch": 399
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-08-26T14:34:04.507Z",
+    "timestamp": "2025-08-27T07:09:01.714Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12956,10 +12956,7 @@
             "name": "Angles Staked Sonic",
             "symbol": "anS",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/anS.png",
-            "extensions": {
-                "coingeckoId": "sonic-3"
-            }
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/anS.png"
         },
         {
             "chainId": 146,
@@ -12983,10 +12980,7 @@
             "name": "Origin Sonic",
             "symbol": "OS",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/OriginProtocol/origin-website/refs/heads/master/static/img/coins/os-256x256.png",
-            "extensions": {
-                "coingeckoId": "sonic-3"
-            }
+            "logoURI": "https://raw.githubusercontent.com/OriginProtocol/origin-website/refs/heads/master/static/img/coins/os-256x256.png"
         },
         {
             "chainId": 146,
@@ -13588,7 +13582,8 @@
             "address": "0x7c050Be1Dded733BD44116b60A8a35125ba47459",
             "name": "rsETHWrapper",
             "symbol": "wrsETH",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x87eee96d50fb761ad85b1c982d28a042169d61b1.png"
         },
         {
             "chainId": 250,
