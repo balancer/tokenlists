@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 400
+        "patch": 401
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-08-27T15:13:08.717Z",
+    "timestamp": "2025-08-27T21:26:15.979Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8022,6 +8022,14 @@
             "logoURI": "https://coin-images.coingecko.com/coins/images/38142/large/terms.png?1716630303"
         },
         {
+            "chainId": 1,
+            "address": "0xB58E61C3098d85632Df34EecfB899A1Ed80921cB",
+            "name": "Frankencoin",
+            "symbol": "ZCHF",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb58e61c3098d85632df34eecfb899a1ed80921cb.png"
+        },
+        {
             "chainId": 10,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -9002,6 +9010,14 @@
             "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg"
         },
         {
+            "chainId": 10,
+            "address": "0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553",
+            "name": "Frankencoin",
+            "symbol": "ZCHF",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd4dd9e2f021bb459d5a5f6c24c12fe09c5d45553.png"
+        },
+        {
             "chainId": 100,
             "address": "0x7eF541E2a22058048904fE5744f9c7E4C57AF717",
             "name": "Balancer on xDai",
@@ -9740,6 +9756,14 @@
             "symbol": "waGnoGHO",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x58d9acac48a4077e4909181c48decd00e5ba5de4.png"
+        },
+        {
+            "chainId": 100,
+            "address": "0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553",
+            "name": "Frankencoin",
+            "symbol": "ZCHF",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd4dd9e2f021bb459d5a5f6c24c12fe09c5d45553.png"
         },
         {
             "chainId": 137,
@@ -12409,6 +12433,14 @@
             "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg"
         },
         {
+            "chainId": 137,
+            "address": "0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553",
+            "name": "Frankencoin",
+            "symbol": "ZCHF",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd4dd9e2f021bb459d5a5f6c24c12fe09c5d45553.png"
+        },
+        {
             "chainId": 146,
             "address": "0xe6cc4D855B4fD4A9D02F46B9adae4C5EfB1764B5",
             "name": "LUDWIG",
@@ -13584,6 +13616,14 @@
             "symbol": "wrsETH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x87eee96d50fb761ad85b1c982d28a042169d61b1.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553",
+            "name": "Frankencoin",
+            "symbol": "ZCHF",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd4dd9e2f021bb459d5a5f6c24c12fe09c5d45553.png"
         },
         {
             "chainId": 250,
@@ -16613,6 +16653,14 @@
             "logoURI": "https://coin-images.coingecko.com/coins/images/27277/large/V-65_xQ1_400x400.jpeg?1696526329"
         },
         {
+            "chainId": 8453,
+            "address": "0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553",
+            "name": "Frankencoin",
+            "symbol": "ZCHF",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd4dd9e2f021bb459d5a5f6c24c12fe09c5d45553.png"
+        },
+        {
             "chainId": 34443,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -18994,6 +19042,14 @@
             "logoURI": "https://coin-images.coingecko.com/coins/images/54303/large/eure.jpg?1739167959"
         },
         {
+            "chainId": 42161,
+            "address": "0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553",
+            "name": "Frankencoin",
+            "symbol": "ZCHF",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd4dd9e2f021bb459d5a5f6c24c12fe09c5d45553.png"
+        },
+        {
             "chainId": 43114,
             "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
             "name": "Wrapped AVAX",
@@ -19897,6 +19953,14 @@
             "symbol": "tAVAX",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x14a84f1a61ccd7d1be596a6cc11fe33a36bc1646.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553",
+            "name": "Frankencoin",
+            "symbol": "ZCHF",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd4dd9e2f021bb459d5a5f6c24c12fe09c5d45553.png"
         },
         {
             "chainId": 11155111,
