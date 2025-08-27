@@ -1662,9 +1662,6 @@ export const overwrites: OverwritesForList = {
     '0x0C4E186Eae8aCAA7F7de1315D5AD174BE39Ec987': {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/anS.png',
-      extensions: {
-        coingeckoId: 'sonic-3',
-      },
     },
     '0x016C306e103FbF48EC24810D078C65aD13c5f11B': {
       symbol: 'SiloWS',
@@ -1689,9 +1686,6 @@ export const overwrites: OverwritesForList = {
     '0xb1e25689D55734FD3ffFc939c4C3Eb52DFf8A794': {
       logoURI:
         'https://raw.githubusercontent.com/OriginProtocol/origin-website/refs/heads/master/static/img/coins/os-256x256.png',
-      extensions: {
-        coingeckoId: 'sonic-3',
-      },
     },
     '0x6047828dc181963ba44974801ff68e538da5eaf9': {
       logoURI:
@@ -1968,6 +1962,10 @@ export const overwrites: OverwritesForList = {
     },
     '0x41a5477364BF60d8936b90310FecFDa79593304E': {
       logoURI: 'https://app.dtrinity.org/dloop/icons/tokens/sdusd.svg',
+    },
+    '0x7c050be1dded733bd44116b60a8a35125ba47459': {
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x87eee96d50fb761ad85b1c982d28a042169d61b1.png',
     },
   },
 }
