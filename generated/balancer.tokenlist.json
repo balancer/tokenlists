@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 399
+        "patch": 400
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-08-27T07:09:01.714Z",
+    "timestamp": "2025-08-27T15:13:08.717Z",
     "tokens": [
         {
             "chainId": 1,
@@ -10030,7 +10030,7 @@
         {
             "chainId": 137,
             "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
-            "name": "(PoS) Tether USD",
+            "name": "USDT0",
             "symbol": "USDT",
             "decimals": 6,
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xc2132D05D31c914a87C6611C10748AEb04B58e8F/logo.png"
@@ -19889,6 +19889,14 @@
             "symbol": "USDp",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x14A84F1a61cCd7D1BE596A6cc11FE33A36Bc1646",
+            "name": "Treehouse AVAX",
+            "symbol": "tAVAX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x14a84f1a61ccd7d1be596a6cc11fe33a36bc1646.png"
         },
         {
             "chainId": 11155111,
