@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 357
+        "patch": 358
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-08-14T01:22:21.621Z",
+    "timestamp": "2025-09-03T12:17:11.867Z",
     "tokens": [
         {
             "chainId": 999,
@@ -979,6 +979,13 @@
             "name": "Dolomite: WBERA",
             "symbol": "dWBERA",
             "decimals": 18
+        },
+        {
+            "chainId": 80094,
+            "address": "0x29cF6e8eCeFb8d3c9dd2b727C1b7d1df1a754F6f",
+            "name": "Dolomite: WBTC",
+            "symbol": "dWBTC",
+            "decimals": 8
         }
     ]
 }
