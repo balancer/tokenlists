@@ -1038,4 +1038,5 @@ export default [
   '0xb4444468e444f89e1c2cac2f1d3ee7e336cbd1f5', // RZR
   '0xf30f62963cce132f32306d7f18a8587958b30ea9', // atvUSDC
   '0xc3d21f79c3120a4ffda7a535f8005a7c297799bf', // TERM
+  '0xB58E61C3098d85632Df34EecfB899A1Ed80921cB', // Frankencoin (ZCHF)
 ]
