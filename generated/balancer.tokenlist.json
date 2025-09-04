@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 402
+        "patch": 403
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-09-02T17:20:52.105Z",
+    "timestamp": "2025-09-04T13:38:16.492Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13183,7 +13183,8 @@
             "address": "0xeB5e9B0ae5bb60274786C747A1A2A798c11271E0",
             "name": "Wrapped Aave Sonic WETH",
             "symbol": "waSonWETH",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0bfc9d54fc184518a81162f8fb99c2eaca081202.png"
         },
         {
             "chainId": 146,
@@ -13624,6 +13625,14 @@
             "symbol": "ZCHF",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd4dd9e2f021bb459d5a5f6c24c12fe09c5d45553.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0xa84D1e5Ca3829e326A2CB6f8BE56C55833B79356",
+            "name": "ONE USDT",
+            "symbol": "ONE-USDT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/ONE.png"
         },
         {
             "chainId": 250,
