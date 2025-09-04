@@ -1971,5 +1971,9 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/ONE.png',
     },
+    '0xeB5e9B0ae5bb60274786C747A1A2A798c11271E0': {
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0bfc9d54fc184518a81162f8fb99c2eaca081202.png',
+    },
   },
 }
