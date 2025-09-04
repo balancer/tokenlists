@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 358
+        "patch": 359
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-09-03T12:17:11.867Z",
+    "timestamp": "2025-09-04T12:31:33.303Z",
     "tokens": [
         {
             "chainId": 999,
@@ -986,6 +986,13 @@
             "name": "Dolomite: WBTC",
             "symbol": "dWBTC",
             "decimals": 8
+        },
+        {
+            "chainId": 80094,
+            "address": "0xB089044EC7DC233736F98B1a410d3B9e559A7932",
+            "name": "Dolomite: SolvBTC",
+            "symbol": "dSolvBTC",
+            "decimals": 18
         }
     ]
 }
