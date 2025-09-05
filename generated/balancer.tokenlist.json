@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 361
+        "patch": 362
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-09-05T05:57:57.341Z",
+    "timestamp": "2025-09-05T06:14:14.175Z",
     "tokens": [
         {
             "chainId": 999,
@@ -1007,6 +1007,13 @@
             "name": "Dolomite: USD₮0",
             "symbol": "dUSD₮0",
             "decimals": 6
+        },
+        {
+            "chainId": 80094,
+            "address": "0x7f2B60fDff1494A0E3e060532c9980d7fad0404B",
+            "name": "Dolomite: HONEY",
+            "symbol": "dHONEY",
+            "decimals": 18
         }
     ]
 }
