@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 360
+        "patch": 361
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-09-05T05:21:49.789Z",
+    "timestamp": "2025-09-05T05:57:57.341Z",
     "tokens": [
         {
             "chainId": 999,
@@ -999,6 +999,13 @@
             "address": "0x444868B6e8079ac2c55eea115250f92C2b2c4D14",
             "name": "Dolomite: USDC.e",
             "symbol": "dUSDC.e",
+            "decimals": 6
+        },
+        {
+            "chainId": 80094,
+            "address": "0xF2d2d55Daf93b0660297eaA10969eBe90ead5CE8",
+            "name": "Dolomite: USD₮0",
+            "symbol": "dUSD₮0",
             "decimals": 6
         }
     ]
