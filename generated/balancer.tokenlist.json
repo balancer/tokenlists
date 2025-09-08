@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 404
+        "patch": 405
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-09-08T11:17:27.394Z",
+    "timestamp": "2025-09-08T12:40:15.454Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13616,7 +13616,10 @@
             "name": "rsETHWrapper",
             "symbol": "wrsETH",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x87eee96d50fb761ad85b1c982d28a042169d61b1.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x87eee96d50fb761ad85b1c982d28a042169d61b1.png",
+            "extensions": {
+                "coingeckoId": "wrapped-rseth"
+            }
         },
         {
             "chainId": 146,
@@ -13637,8 +13640,8 @@
         {
             "chainId": 146,
             "address": "0x391b3F70E254d582588B27e97E48D1CFcdf0BE7e",
-            "name": "Mithras",
-            "symbol": "scUSD",
+            "name": "Trevee Silo scUSD",
+            "symbol": "Trevee scUSD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-silo.svg"
         },
