@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 403
+        "patch": 404
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-09-04T16:16:47.684Z",
+    "timestamp": "2025-09-08T11:17:27.394Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13633,6 +13633,14 @@
             "symbol": "ONE",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/ONE.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0x391b3F70E254d582588B27e97E48D1CFcdf0BE7e",
+            "name": "Mithras",
+            "symbol": "scUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-silo.svg"
         },
         {
             "chainId": 250,
