@@ -150,4 +150,5 @@ export default [
   '0xf3527ef8de265eaa3716fb312c12847bfba66cef', // usdx
   '0x23ee2343b892b1bb63503a4fabc840e0e2c6810f', // AXL
   '0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553', // Frankencoin (ZCHF)
+  '0x22c0a2e55aed8b317a285ccbd4f3d8ee24c9e5e3', // FYNI
 ]
