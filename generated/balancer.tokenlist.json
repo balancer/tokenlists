@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 405
+        "patch": 406
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-09-08T12:40:15.454Z",
+    "timestamp": "2025-09-08T20:01:38.228Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13643,7 +13643,7 @@
             "name": "Trevee Silo scUSD",
             "symbol": "Trevee scUSD",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-silo.svg"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-trevee-boosted.png"
         },
         {
             "chainId": 250,
