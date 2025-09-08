@@ -1982,7 +1982,7 @@ export const overwrites: OverwritesForList = {
       name: 'Trevee Silo scUSD',
       symbol: 'Trevee scUSD',
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-silo.svg',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-trevee-boosted.png',
     },
   },
 }
