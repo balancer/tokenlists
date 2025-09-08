@@ -1964,6 +1964,9 @@ export const overwrites: OverwritesForList = {
       logoURI: 'https://app.dtrinity.org/dloop/icons/tokens/sdusd.svg',
     },
     '0x7c050be1dded733bd44116b60a8a35125ba47459': {
+      extensions: {
+        coingeckoId: 'wrapped-rseth',
+      },
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x87eee96d50fb761ad85b1c982d28a042169d61b1.png',
     },
@@ -1976,6 +1979,8 @@ export const overwrites: OverwritesForList = {
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0bfc9d54fc184518a81162f8fb99c2eaca081202.png',
     },
     '0x391b3F70E254d582588B27e97E48D1CFcdf0BE7e': {
+      name: 'Trevee Silo scUSD',
+      symbol: 'Trevee scUSD',
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-silo.svg',
     },
