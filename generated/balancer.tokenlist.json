@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 363
+        "patch": 364
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-09-09T06:47:19.580Z",
+    "timestamp": "2025-09-09T08:27:58.134Z",
     "tokens": [
         {
             "chainId": 999,
@@ -444,6 +444,13 @@
             "name": "Static USD₮0 Hypurr",
             "symbol": "stathyUSD₮0",
             "decimals": 6
+        },
+        {
+            "chainId": 999,
+            "address": "0xb422fE22eC642382597b8A2579086a8c49b65b52",
+            "name": "Static feUSD Hypurr",
+            "symbol": "stathyfeUSD",
+            "decimals": 18
         },
         {
             "chainId": 80094,
