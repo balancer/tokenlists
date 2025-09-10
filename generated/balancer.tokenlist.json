@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 406
+        "patch": 407
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-09-08T20:01:38.228Z",
+    "timestamp": "2025-09-10T12:04:51.095Z",
     "tokens": [
         {
             "chainId": 1,
@@ -16679,6 +16679,14 @@
             "symbol": "ZCHF",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd4dd9e2f021bb459d5a5f6c24c12fe09c5d45553.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x22c0a2e55AeD8B317A285ccbd4f3D8eE24C9e5e3",
+            "name": "Fyni AI by Virtuals",
+            "symbol": "FYNI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x22c0a2e55aed8b317a285ccbd4f3d8ee24c9e5e3.png"
         },
         {
             "chainId": 34443,
