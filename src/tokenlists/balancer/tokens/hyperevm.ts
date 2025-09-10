@@ -57,4 +57,5 @@ export default [
   // Wrapped aTokens (ERC-4626) for boosted pools
   '0xdc6f4239c1d8d3b955c06cb8f1a6cf18effc5bfe',
   '0xb422fe22ec642382597b8a2579086a8c49b65b52',
+  '0x5b640b5307b09d25e91188326920cd7b4da32a06',
 ]
