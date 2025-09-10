@@ -277,4 +277,5 @@ export default [
   '0xF19547f9ED24aA66b03c3a552D181Ae334FBb8DB', // Lodestar Token
   '0x0a1a1a107e45b7ced86833863f482bc5f4ed82ef', // USD.ai
   '0x0B2b2B2076d95dda7817e785989fE353fe955ef9', // sUSD.ai
+  '0x76A9A0062ec6712b99B4f63bD2b4270185759dd5', // USDp
 ]

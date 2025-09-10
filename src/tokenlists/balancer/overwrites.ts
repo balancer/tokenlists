@@ -164,6 +164,20 @@ export const overwrites: OverwritesForList = {
       decimals: 18,
       symbol: 'aRLUSD',
     },
+    '0x9B3a8f7CEC208e247d97dEE13313690977e24459': {
+      logoURI:
+        'https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg',
+    },
+    '0x0d45b129dc868963025Db79A9074EA9c9e32Cae4': {
+      logoURI:
+        'https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/sUSDp.svg',
+    },
+  },
+  [Network.Berachain]: {
+    '0x9eE1963f05553eF838604Dd39403be21ceF26AA4': {
+      logoURI:
+        'https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg',
+    },
   },
   [Network.Polygon]: {
     '0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3': {
@@ -313,6 +327,10 @@ export const overwrites: OverwritesForList = {
       extensions: {
         coingeckoId: 'gyroscope',
       },
+    },
+    '0x1250304F66404cd153fA39388DDCDAec7E0f1707': {
+      logoURI:
+        'https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg',
     },
   },
   [Network.Arbitrum]: {
@@ -480,6 +498,10 @@ export const overwrites: OverwritesForList = {
       extensions: {
         coingeckoId: 'gyroscope',
       },
+    },
+    '0x76A9A0062ec6712b99B4f63bD2b4270185759dd5': {
+      logoURI:
+        'https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg',
     },
   },
   [Network.Optimism]: {
@@ -691,6 +713,10 @@ export const overwrites: OverwritesForList = {
         coingeckoId: 'frax-share',
       },
     },
+    '0x90337e484B1Cb02132fc150d3Afa262147348545': {
+      logoURI:
+        'https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg',
+    },
   },
   [Network.Gnosis]: {
     '0x7eF541E2a22058048904fE5744f9c7E4C57AF717': {
@@ -774,6 +800,14 @@ export const overwrites: OverwritesForList = {
       extensions: {
         coingeckoId: 'optimism',
       },
+    },
+    '0x76A9A0062ec6712b99B4f63bD2b4270185759dd5': {
+      logoURI:
+        'https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg',
+    },
+    '0x472eD57b376fE400259FB28e5C46eB53f0E3e7E7': {
+      logoURI:
+        'https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/sUSDp.svg',
     },
   },
   [Network.Fantom]: {
@@ -1229,6 +1263,14 @@ export const overwrites: OverwritesForList = {
       extensions: {
         coingeckoId: 'wrapped-eeth',
       },
+    },
+    '0x9eE1963f05553eF838604Dd39403be21ceF26AA4': {
+      logoURI:
+        'https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg',
+    },
+    '0x9d92c21205383651610f90722131655a5b8ed3e0': {
+      logoURI:
+        'https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/sUSDp.svg',
     },
   },
   [Network.Fraxtal]: {
@@ -1821,6 +1863,14 @@ export const overwrites: OverwritesForList = {
         coingeckoId: 'paladin',
       },
     },
+    '0x08417cdb7F52a5021bB4eb6E0deAf3f295c3f182': {
+      logoURI:
+        'https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg',
+    },
+    '0xe8a3DA6f5ed1cf04c58ac7f6A7383641e877517b': {
+      logoURI:
+        'https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/sUSDp.svg',
+    },
   },
   [Network.Hyperevm]: {
     '0x02379E4a55111d999Ac18C367F5920119398b94B': {
@@ -1842,6 +1892,14 @@ export const overwrites: OverwritesForList = {
     '0xe8F7D82A73f13A64d689e7ddAD06139BFb51f9C6': {
       logoURI:
         'https://raw.githubusercontent.com/burrbear-dev/tokenlists/main/src/assets/images/tokens/0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34.png',
+    },
+    '0xBE65F0F410A72BeC163dC65d46c83699e957D588': {
+      logoURI:
+        'https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg',
+    },
+    '0x9B3a8f7CEC208e247d97dEE13313690977e24459': {
+      logoURI:
+        'https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/sUSDp.svg',
     },
   },
 }

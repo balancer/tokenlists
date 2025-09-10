@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 364
+        "patch": 365
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-09-09T08:27:58.134Z",
+    "timestamp": "2025-09-10T01:23:26.452Z",
     "tokens": [
         {
             "chainId": 999,
@@ -393,50 +393,19 @@
         },
         {
             "chainId": 999,
-            "address": "0x02379E4a55111d999Ac18C367F5920119398b94B",
-            "name": "UBTC Hypurr",
-            "symbol": "hyUBTC",
-            "decimals": 8,
-            "logoURI": "https://raw.githubusercontent.com/burrbear-dev/tokenlists/main/src/assets/images/tokens/0x9fdbda0a5e284c32744d2f17ee5c74b284993463.png"
-        },
-        {
-            "chainId": 999,
-            "address": "0xFd32712A1cb152c03a62D54557fcb1dE372ABfe9",
-            "name": "USDHL Hypurr",
-            "symbol": "hyUSDHL",
-            "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/burrbear-dev/tokenlists/main/src/assets/images/tokens/0xb50a96253abdf803d85efcdce07ad8becbc52bd5.png"
-        },
-        {
-            "chainId": 999,
-            "address": "0x1Ca7e21B2dAa5Ab2eB9de7cf8f34dCf9c8683007",
-            "name": "USD₮0 Hypurr",
-            "symbol": "hyUSD₮0",
-            "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/burrbear-dev/tokenlists/main/src/assets/images/tokens/0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb.png"
-        },
-        {
-            "chainId": 999,
-            "address": "0xAEA02692F502b47e116bdfA9a4CeB3138Bd8B516",
-            "name": "feUSD Hypurr",
-            "symbol": "hyfeUSD",
+            "address": "0xBE65F0F410A72BeC163dC65d46c83699e957D588",
+            "name": "USDp",
+            "symbol": "USDp",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/burrbear-dev/tokenlists/main/src/assets/images/tokens/0x02c6a2fa58cc01a18b8d9e00ea48d65e4df26c70.png"
+            "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg"
         },
         {
             "chainId": 999,
-            "address": "0xe8F7D82A73f13A64d689e7ddAD06139BFb51f9C6",
-            "name": "USDe Hypurr",
-            "symbol": "hyUSDe",
+            "address": "0x9B3a8f7CEC208e247d97dEE13313690977e24459",
+            "name": "Staked USDp",
+            "symbol": "sUSDp",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/burrbear-dev/tokenlists/main/src/assets/images/tokens/0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34.png"
-        },
-        {
-            "chainId": 999,
-            "address": "0x6D9daE449C4bEb29151132b4C4B2692b7954CfaE",
-            "name": "Wrapped feUSD Hypurr",
-            "symbol": "wahyfeUSD",
-            "decimals": 18
+            "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/sUSDp.svg"
         },
         {
             "chainId": 999,
@@ -1028,6 +997,14 @@
             "name": "Dolomite: HONEY",
             "symbol": "dHONEY",
             "decimals": 18
+        },
+        {
+            "chainId": 80094,
+            "address": "0x9eE1963f05553eF838604Dd39403be21ceF26AA4",
+            "name": "USDp",
+            "symbol": "USDp",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg"
         }
     ]
 }
