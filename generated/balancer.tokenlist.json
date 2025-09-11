@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 407
+        "patch": 408
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-09-10T12:04:51.095Z",
+    "timestamp": "2025-09-11T18:43:51.784Z",
     "tokens": [
         {
             "chainId": 1,
@@ -15289,6 +15289,30 @@
             "symbol": "LOOP",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/55979/large/LOOP.png?1747918773"
+        },
+        {
+            "chainId": 999,
+            "address": "0x8fF0dd9f9C40a0d76eF1BcFAF5f98c1610c74Bd8",
+            "name": "Hyperstable",
+            "symbol": "USH",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/55951/large/ushlogo.png?1747851688"
+        },
+        {
+            "chainId": 999,
+            "address": "0x27eC642013bcB3D80CA3706599D3cdA04F6f4452",
+            "name": "Unit Pump",
+            "symbol": "UPUMP",
+            "decimals": 6,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/67362/large/pump.jpg?1752548000"
+        },
+        {
+            "chainId": 999,
+            "address": "0x9b498C3c8A0b8CD8BA1D9851d40D186F1872b44E",
+            "name": "Purr",
+            "symbol": "PURR",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/37125/large/PURR_CG.png?1713368828"
         },
         {
             "chainId": 1101,
