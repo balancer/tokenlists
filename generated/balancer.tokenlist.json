@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 410
+        "patch": 411
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-09-11T20:54:26.276Z",
+    "timestamp": "2025-09-11T20:59:19.471Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8044,6 +8044,14 @@
             "symbol": "stcUSD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x88887be419578051ff9f4eb6c858a951921d8888.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xcCcc62962d17b8914c62D74FfB843d73B2a3cccC",
+            "name": "cap USD",
+            "symbol": "cUSD",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/68272/large/cUSD_ab_500%C3%97500.png?1755232868"
         },
         {
             "chainId": 10,
