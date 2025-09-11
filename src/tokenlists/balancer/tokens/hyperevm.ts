@@ -47,4 +47,7 @@ export default [
   '0x3Bcc0a5a66bB5BdCEEf5dd8a659a4eC75F3834d8', // MEV Capital USD₮0
   '0xDC6F4239C1D8D3b955C06CB8f1A6cF18EFfc5BFe', // statahyUSD₮0
   '0x00fdbc53719604d924226215bc871d55e40a1009', // LOOP
+  '0x8ff0dd9f9c40a0d76ef1bcfaf5f98c1610c74bd8', // hyperstable
+  '0x27ec642013bcb3d80ca3706599d3cda04f6f4452', // upump
+  '0x9b498c3c8a0b8cd8ba1d9851d40d186f1872b44e', // purr
 ]
