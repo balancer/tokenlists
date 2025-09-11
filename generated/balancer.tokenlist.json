@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 408
+        "patch": 409
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-09-11T18:43:51.784Z",
+    "timestamp": "2025-09-11T20:11:50.783Z",
     "tokens": [
         {
             "chainId": 1,
@@ -16711,6 +16711,13 @@
             "symbol": "FYNI",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x22c0a2e55aed8b317a285ccbd4f3d8ee24c9e5e3.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x4e107a0000DB66f0E9Fd2039288Bf811dD1f9c74",
+            "name": "Velora",
+            "symbol": "VLR",
+            "decimals": 18
         },
         {
             "chainId": 34443,
