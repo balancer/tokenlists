@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 409
+        "patch": 410
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-09-11T20:11:50.783Z",
+    "timestamp": "2025-09-11T20:54:26.276Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8028,6 +8028,22 @@
             "symbol": "ZCHF",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb58e61c3098d85632df34eecfb899a1ed80921cb.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xF22F0cBaB3C9143b5051E02FE74A451Fe10E1a13",
+            "name": "Kiyosito",
+            "symbol": "ITO",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf22f0cbab3c9143b5051e02fe74a451fe10e1a13.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x88887bE419578051FF9F4eb6C858A951921D8888",
+            "name": "Staked cap USD",
+            "symbol": "stcUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x88887be419578051ff9f4eb6c858a951921d8888.png"
         },
         {
             "chainId": 10,
@@ -16717,7 +16733,8 @@
             "address": "0x4e107a0000DB66f0E9Fd2039288Bf811dD1f9c74",
             "name": "Velora",
             "symbol": "VLR",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4e107a0000db66f0e9fd2039288bf811dd1f9c74.png"
         },
         {
             "chainId": 34443,
