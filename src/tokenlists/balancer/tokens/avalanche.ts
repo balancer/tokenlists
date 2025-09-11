@@ -114,4 +114,6 @@ export default [
   '0x9eE1963f05553eF838604Dd39403be21ceF26AA4', // USDp
   '0x14a84f1a61ccd7d1be596a6cc11fe33a36bc1646', // tAVAX
   '0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553', // Frankencoin (ZCHF)
+  '0x4dc1ce9b9f9ef00c144bfad305f16c62293dc0e8', // mev usdc
+  '0x94f9bB5c972285728DCee7EAece48BeC2fF341ce', // xUSD
 ]

@@ -284,4 +284,8 @@ export default [
   '0x0c06cCF38114ddfc35e07427B9424adcca9F44F8', // EURe
   '0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553', // Frankencoin (ZCHF)
   '0x4ecf61a6c2fab8a047ceb3b3b263b401763e9d49', // USND
+  '0x2ba39e5388ac6c702cb29aea78d52aa66832f1ee', // Varlamore USDC
+  '0x6eaf19b2fc24552925db245f9ff613157a7dbb4c', // xUSD
+  '0x252b965400862d94bda35fecf7ee0f204a53cc36', // yUSND
+  '0xe4783824593a50bfe9dc873204cec171ebc62de0', // Euler Earn USDC
 ]
