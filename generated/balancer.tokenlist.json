@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 411
+        "patch": 412
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-09-11T20:59:19.471Z",
+    "timestamp": "2025-09-11T21:59:17.332Z",
     "tokens": [
         {
             "chainId": 1,
@@ -19142,6 +19142,38 @@
             "logoURI": "https://coin-images.coingecko.com/coins/images/67378/large/USND200.png?1752596582"
         },
         {
+            "chainId": 42161,
+            "address": "0x2BA39e5388aC6C702Cb29AEA78d52aa66832f1ee",
+            "name": "Varlamore USDC Growth",
+            "symbol": "USDC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2ba39e5388ac6c702cb29aea78d52aa66832f1ee.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x6eAf19b2FC24552925dB245F9Ff613157a7dbb4C",
+            "name": "Staked Stream USD",
+            "symbol": "xUSD",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6eaf19b2fc24552925db245f9ff613157a7dbb4c.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x252b965400862d94BDa35FeCF7Ee0f204a53Cc36",
+            "name": "Yearn USND",
+            "symbol": "yUSND",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x252b965400862d94bda35fecf7ee0f204a53cc36.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xe4783824593a50Bfe9dc873204CEc171ebC62dE0",
+            "name": "Euler Earn USDC",
+            "symbol": "eeUSDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe4783824593a50bfe9dc873204cec171ebc62de0.png"
+        },
+        {
             "chainId": 43114,
             "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
             "name": "Wrapped AVAX",
@@ -20053,6 +20085,22 @@
             "symbol": "ZCHF",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd4dd9e2f021bb459d5a5f6c24c12fe09c5d45553.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x4dc1ce9b9f9EF00c144BfAD305f16c62293dC0E8",
+            "name": "MEV USDC",
+            "symbol": "mevUSDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4dc1ce9b9f9ef00c144bfad305f16c62293dc0e8.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x94f9bB5c972285728DCee7EAece48BeC2fF341ce",
+            "name": "Staked Stream USD",
+            "symbol": "xUSD",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x94f9bb5c972285728dcee7eaece48bec2ff341ce.png"
         },
         {
             "chainId": 11155111,
