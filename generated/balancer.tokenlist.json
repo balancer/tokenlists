@@ -430,13 +430,6 @@
         },
         {
             "chainId": 999,
-            "address": "0x5309f0829c252E7dEaF2669929040fCFBa9914B6",
-            "name": "Static USDXL Hypurr",
-            "symbol": "stathyUSDXL",
-            "decimals": 18
-        },
-        {
-            "chainId": 999,
             "address": "0x6a94B839f4DAD429aB98a395e9793463258916eB",
             "name": "Static USDHL Hypurr",
             "symbol": "stathyUSDHL",
