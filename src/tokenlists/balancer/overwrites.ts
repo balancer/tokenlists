@@ -1327,6 +1327,11 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg',
     },
+    '0x9B3a8f7CEC208e247d97dEE13313690977e24459': {
+      name: 'Staked USDp',
+      logoURI:
+        'https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/sUSDp.svg',
+    },
   },
   [Network.Fraxtal]: {
     '0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2': {
