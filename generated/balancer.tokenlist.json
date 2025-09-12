@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 415
+        "patch": 416
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-09-12T17:36:29.244Z",
+    "timestamp": "2025-09-12T20:39:21.329Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5397,6 +5397,14 @@
             "symbol": "BAD",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/30871/large/Bad_idea.jpeg?1688373590"
+        },
+        {
+            "chainId": 1,
+            "address": "0x56072C95FAA701256059aa122697B133aDEd9279",
+            "name": "SKY Governance Token",
+            "symbol": "SKY",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/39925/large/sky.jpg?1724827980"
         },
         {
             "chainId": 1,
