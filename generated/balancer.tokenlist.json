@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 416
+        "patch": 417
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-09-12T20:39:21.329Z",
+    "timestamp": "2025-09-15T14:03:59.217Z",
     "tokens": [
         {
             "chainId": 1,
@@ -19179,7 +19179,7 @@
             "name": "Staked Stream USD",
             "symbol": "xUSD",
             "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6eaf19b2fc24552925db245f9ff613157a7dbb4c.png",
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/src/assets/images/tokens/0x6eaf19b2fc24552925db245f9ff613157a7dbb4c_42161.png",
             "extensions": {
                 "coingeckoId": "staked-stream-usd"
             }
