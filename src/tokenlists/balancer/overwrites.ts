@@ -542,6 +542,8 @@ export const overwrites: OverwritesForList = {
       extensions: {
         coingeckoId: 'staked-stream-usd',
       },
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/src/assets/images/tokens/0x6eaf19b2fc24552925db245f9ff613157a7dbb4c_42161.png',
     },
   },
   [Network.Optimism]: {
@@ -1336,6 +1338,10 @@ export const overwrites: OverwritesForList = {
       extensions: {
         coingeckoId: 'staked-stream-usd',
       },
+    },
+    '0x6eaf19b2fc24552925db245f9ff613157a7dbb4c': {
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/src/assets/images/tokens/0x6eaf19b2fc24552925db245f9ff613157a7dbb4c_43114.png',
     },
   },
   [Network.Fraxtal]: {
