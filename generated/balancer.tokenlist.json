@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 419
+        "patch": 420
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-09-16T11:20:20.163Z",
+    "timestamp": "2025-09-16T13:33:54.884Z",
     "tokens": [
         {
             "chainId": 1,
@@ -20138,7 +20138,7 @@
             "name": "Staked Stream BTC",
             "symbol": "xBTC",
             "decimals": 8,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/src/assets/images/tokens/0x6eaf19b2fc24552925db245f9ff613157a7dbb4c_43114.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6eaf19b2fc24552925db245f9ff613157a7dbb4c_43114.png"
         },
         {
             "chainId": 43114,
