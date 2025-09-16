@@ -1341,7 +1341,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x6eaf19b2fc24552925db245f9ff613157a7dbb4c': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/src/assets/images/tokens/0x6eaf19b2fc24552925db245f9ff613157a7dbb4c_43114.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6eaf19b2fc24552925db245f9ff613157a7dbb4c_43114.png',
     },
   },
   [Network.Fraxtal]: {
