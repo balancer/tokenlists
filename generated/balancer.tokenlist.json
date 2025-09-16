@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 418
+        "patch": 419
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-09-15T15:32:01.715Z",
+    "timestamp": "2025-09-16T11:20:20.163Z",
     "tokens": [
         {
             "chainId": 1,
@@ -20131,6 +20131,22 @@
             "extensions": {
                 "coingeckoId": "staked-stream-usd"
             }
+        },
+        {
+            "chainId": 43114,
+            "address": "0x6eAf19b2FC24552925dB245F9Ff613157a7dbb4C",
+            "name": "Staked Stream BTC",
+            "symbol": "xBTC",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/src/assets/images/tokens/0x6eaf19b2fc24552925db245f9ff613157a7dbb4c_43114.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x1f8E769B5B6010B2C2BBCd68629EA1a0a0Eda7E3",
+            "name": "MEV BTC",
+            "symbol": "mevBTC",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1f8e769b5b6010b2c2bbcd68629ea1a0a0eda7e3.png"
         },
         {
             "chainId": 11155111,
