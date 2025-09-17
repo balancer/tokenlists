@@ -1044,4 +1044,5 @@ export default [
   '0x88887be419578051ff9f4eb6c858a951921d8888', // stcUSD
   '0xcccc62962d17b8914c62d74ffb843d73b2a3cccc', // cUSD
   '0x4e107a0000db66f0e9fd2039288bf811dd1f9c74', // VLR
+  '0x2fe4dc166adbc0b39edb47f4324f00a7374dabf7', // waEthUSDtb
 ]
