@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 420
+        "patch": 421
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-09-16T13:33:54.884Z",
+    "timestamp": "2025-09-17T01:19:08.992Z",
     "tokens": [
         {
             "chainId": 1,
@@ -20147,6 +20147,13 @@
             "symbol": "mevBTC",
             "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1f8e769b5b6010b2c2bbcd68629ea1a0a0eda7e3.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xFECebF56f150A68dDd197c3a6101da35C46693Ac",
+            "name": "EVK Vault esdeUSD-2",
+            "symbol": "esdeUSD-2",
+            "decimals": 18
         },
         {
             "chainId": 11155111,
