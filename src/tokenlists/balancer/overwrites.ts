@@ -2000,5 +2000,10 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-trevee-boosted.png',
     },
+    '0xf05a207442f14E446b0e32b12D2043bfc68Cb1C9': {
+      extensions: {
+        coingeckoId: 'liquity-bold-2',
+      },
+    },
   },
 }
