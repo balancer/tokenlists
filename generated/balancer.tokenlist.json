@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 413
+        "patch": 426
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-09-12T02:05:14.799Z",
+    "timestamp": "2025-09-18T08:01:46.053Z",
     "tokens": [
         {
             "chainId": 1,
@@ -5400,6 +5400,14 @@
         },
         {
             "chainId": 1,
+            "address": "0x56072C95FAA701256059aa122697B133aDEd9279",
+            "name": "SKY Governance Token",
+            "symbol": "SKY",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/39925/large/sky.jpg?1724827980"
+        },
+        {
+            "chainId": 1,
             "address": "0x3e1c0FC328E520CCb3c8b44F3d5b61e87136EeDc",
             "name": "Fly",
             "symbol": "FLY",
@@ -8060,6 +8068,22 @@
             "symbol": "VLR",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4e107a0000db66f0e9fd2039288bf811dd1f9c74.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x2FE4dC166ADbc0B39EdB47F4324F00A7374daBF7",
+            "name": "Wrapped Aave Ethereum USDtb",
+            "symbol": "waEthUSDtb",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2fe4dc166adbc0b39edb47f4324f00a7374dabf7.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xC139190F447e929f090Edeb554D95AbB8b18aC1C",
+            "name": "USDtb",
+            "symbol": "USDtb",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc139190f447e929f090edeb554d95abb8b18ac1c.png"
         },
         {
             "chainId": 10,
@@ -13686,6 +13710,17 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-trevee-boosted.png"
         },
         {
+            "chainId": 146,
+            "address": "0xf05a207442f14E446b0e32b12D2043bfc68Cb1C9",
+            "name": "BOLD Stablecoin",
+            "symbol": "BOLD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf05a207442f14e446b0e32b12d2043bfc68cb1c9.png",
+            "extensions": {
+                "coingeckoId": "liquity-bold-2"
+            }
+        },
+        {
             "chainId": 250,
             "address": "0xf1648C50d2863f780c57849D812b4B7686031A3D",
             "name": "LayerZero Wrapped Bitcoin",
@@ -19171,7 +19206,10 @@
             "name": "Staked Stream USD",
             "symbol": "xUSD",
             "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6eaf19b2fc24552925db245f9ff613157a7dbb4c.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6eaf19b2fc24552925db245f9ff613157a7dbb4c_42161.png",
+            "extensions": {
+                "coingeckoId": "staked-stream-usd"
+            }
         },
         {
             "chainId": 42161,
@@ -20116,7 +20154,34 @@
             "name": "Staked Stream USD",
             "symbol": "xUSD",
             "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x94f9bb5c972285728dcee7eaece48bec2ff341ce.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x94f9bb5c972285728dcee7eaece48bec2ff341ce.png",
+            "extensions": {
+                "coingeckoId": "staked-stream-usd"
+            }
+        },
+        {
+            "chainId": 43114,
+            "address": "0x6eAf19b2FC24552925dB245F9Ff613157a7dbb4C",
+            "name": "Staked Stream BTC",
+            "symbol": "xBTC",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6eaf19b2fc24552925db245f9ff613157a7dbb4c_43114.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x1f8E769B5B6010B2C2BBCd68629EA1a0a0Eda7E3",
+            "name": "MEV BTC",
+            "symbol": "mevBTC",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1f8e769b5b6010b2c2bbcd68629ea1a0a0eda7e3.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xFECebF56f150A68dDd197c3a6101da35C46693Ac",
+            "name": "EVK Vault esdeUSD-2",
+            "symbol": "esdeUSD-2",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfecebf56f150a68ddd197c3a6101da35c46693ac.png"
         },
         {
             "chainId": 11155111,

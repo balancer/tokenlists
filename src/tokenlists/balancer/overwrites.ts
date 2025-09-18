@@ -538,6 +538,13 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg',
     },
+    '0x6eaf19b2fc24552925db245f9ff613157a7dbb4c': {
+      extensions: {
+        coingeckoId: 'staked-stream-usd',
+      },
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6eaf19b2fc24552925db245f9ff613157a7dbb4c_42161.png',
+    },
   },
   [Network.Optimism]: {
     '0xe05A08226c49b636ACf99c40Da8DC6aF83CE5bB3': {
@@ -1332,6 +1339,15 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/sUSDp.svg',
     },
+    '0x94f9bb5c972285728dcee7eaece48bec2ff341ce': {
+      extensions: {
+        coingeckoId: 'staked-stream-usd',
+      },
+    },
+    '0x6eaf19b2fc24552925db245f9ff613157a7dbb4c': {
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6eaf19b2fc24552925db245f9ff613157a7dbb4c_43114.png',
+    },
   },
   [Network.Fraxtal]: {
     '0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2': {
@@ -1988,6 +2004,11 @@ export const overwrites: OverwritesForList = {
       symbol: 'Trevee scUSD',
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-trevee-boosted.png',
+    },
+    '0xf05a207442f14E446b0e32b12D2043bfc68Cb1C9': {
+      extensions: {
+        coingeckoId: 'liquity-bold-2',
+      },
     },
   },
 }
