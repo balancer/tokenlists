@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 427
+        "patch": 428
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-09-18T13:14:13.483Z",
+    "timestamp": "2025-09-18T20:02:12.849Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8084,6 +8084,14 @@
             "symbol": "USDtb",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc139190f447e929f090edeb554d95abb8b18ac1c.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x6eAf19b2FC24552925dB245F9Ff613157a7dbb4C",
+            "name": "Stream USD",
+            "symbol": "streamUSD",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6eaf19b2fc24552925db245f9ff613157a7dbb4c_1.png"
         },
         {
             "chainId": 10,
