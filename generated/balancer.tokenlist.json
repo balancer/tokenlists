@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 426
+        "patch": 427
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-09-18T08:01:46.053Z",
+    "timestamp": "2025-09-18T13:14:13.483Z",
     "tokens": [
         {
             "chainId": 1,
@@ -20123,6 +20123,14 @@
             "symbol": "USDp",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x9D92c21205383651610f90722131655A5B8ED3E0",
+            "name": "Staked USDp",
+            "symbol": "sUSDp",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/sUSDp.svg"
         },
         {
             "chainId": 43114,
