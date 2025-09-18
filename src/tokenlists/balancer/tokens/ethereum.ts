@@ -1046,4 +1046,5 @@ export default [
   '0x4e107a0000db66f0e9fd2039288bf811dd1f9c74', // VLR
   '0x2fe4dc166adbc0b39edb47f4324f00a7374dabf7', // waEthUSDtb
   '0xc139190f447e929f090edeb554d95abb8b18ac1c', // USDtb
+  '0x6eaf19b2fc24552925db245f9ff613157a7dbb4c', // xUSD
 ]
