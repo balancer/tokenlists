@@ -1334,6 +1334,11 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg',
     },
+    '0x9d92c21205383651610f90722131655a5b8ed3e0': {
+      name: 'Staked USDp',
+      logoURI:
+        'https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/sUSDp.svg',
+    },
     '0x94f9bb5c972285728dcee7eaece48bec2ff341ce': {
       extensions: {
         coingeckoId: 'staked-stream-usd',
