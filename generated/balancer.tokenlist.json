@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 424
+        "patch": 425
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-09-17T19:39:15.118Z",
+    "timestamp": "2025-09-18T07:58:03.162Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8078,6 +8078,14 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2fe4dc166adbc0b39edb47f4324f00a7374dabf7.png"
         },
         {
+            "chainId": 1,
+            "address": "0xC139190F447e929f090Edeb554D95AbB8b18aC1C",
+            "name": "USDtb",
+            "symbol": "USDtb",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc139190f447e929f090edeb554d95abb8b18ac1c.png"
+        },
+        {
             "chainId": 10,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -13706,7 +13714,11 @@
             "address": "0xf05a207442f14E446b0e32b12D2043bfc68Cb1C9",
             "name": "BOLD Stablecoin",
             "symbol": "BOLD",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf05a207442f14e446b0e32b12d2043bfc68cb1c9.png",
+            "extensions": {
+                "coingeckoId": "liquity-bold-2"
+            }
         },
         {
             "chainId": 250,
