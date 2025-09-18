@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 424
+        "patch": 425
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-09-17T19:39:15.118Z",
+    "timestamp": "2025-09-17T20:58:50.454Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8076,6 +8076,14 @@
             "symbol": "waEthUSDtb",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2fe4dc166adbc0b39edb47f4324f00a7374dabf7.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xC139190F447e929f090Edeb554D95AbB8b18aC1C",
+            "name": "USDtb",
+            "symbol": "USDtb",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc139190f447e929f090edeb554d95abb8b18ac1c.png"
         },
         {
             "chainId": 10,
