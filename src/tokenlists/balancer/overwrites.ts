@@ -175,6 +175,11 @@ export const overwrites: OverwritesForList = {
         'https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/sUSDp.svg',
     },
   },
+  '0x6eaf19b2fc24552925db245f9ff613157a7dbb4c': {
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6eaf19b2fc24552925db245f9ff613157a7dbb4c_1.png',
+    },
+  },
   [Network.HyperEVM]: {
     '0x5555555555555555555555555555555555555555': {
       extensions: {
