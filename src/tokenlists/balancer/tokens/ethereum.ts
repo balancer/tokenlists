@@ -1046,4 +1046,6 @@ export default [
   '0x4e107a0000db66f0e9fd2039288bf811dd1f9c74', // VLR
   '0x2fe4dc166adbc0b39edb47f4324f00a7374dabf7', // waEthUSDtb
   '0xc139190f447e929f090edeb554d95abb8b18ac1c', // USDtb
+  '0xe2fc85bfb48c4cf147921fbe110cf92ef9f26f94', // xUSD
+  '0x8399c8fc273bd165c346af74a02e65f10e4fd78f', // vgUSDC (Silo Varlamore Growth USDC)
 ]

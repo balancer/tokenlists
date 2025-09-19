@@ -112,6 +112,7 @@ export default [
   '0x72f92a966f1874f74e1b601bee7cf57031b53a03', // re7 savUSD
   '0x2cd3cdb3bd68eea0d3be81da707bc0c8743d7335', // yBTC.b
   '0x9eE1963f05553eF838604Dd39403be21ceF26AA4', // USDp
+  '0x9d92c21205383651610f90722131655a5b8ed3e0', // sUSDp
   '0x14a84f1a61ccd7d1be596a6cc11fe33a36bc1646', // tAVAX
   '0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553', // Frankencoin (ZCHF)
   '0x4dc1ce9b9f9ef00c144bfad305f16c62293dc0e8', // mev usdc

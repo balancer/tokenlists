@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 425
+        "patch": 429
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-09-17T20:58:50.454Z",
+    "timestamp": "2025-09-19T01:36:54.594Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8086,6 +8086,22 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc139190f447e929f090edeb554d95abb8b18ac1c.png"
         },
         {
+            "chainId": 1,
+            "address": "0xE2Fc85BfB48C4cF147921fBE110cf92Ef9f26F94",
+            "name": "Staked Stream USD",
+            "symbol": "xUSD",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe2fc85bfb48c4cf147921fbe110cf92ef9f26f94.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x8399C8Fc273bD165C346Af74A02e65f10e4FD78F",
+            "name": "Varlamore USDC Growth",
+            "symbol": "vgUSDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x8399c8fc273bd165c346af74a02e65f10e4fd78f.png"
+        },
+        {
             "chainId": 10,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -13714,7 +13730,11 @@
             "address": "0xf05a207442f14E446b0e32b12D2043bfc68Cb1C9",
             "name": "BOLD Stablecoin",
             "symbol": "BOLD",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf05a207442f14e446b0e32b12d2043bfc68cb1c9.png",
+            "extensions": {
+                "coingeckoId": "liquity-bold-2"
+            }
         },
         {
             "chainId": 250,
@@ -20119,6 +20139,14 @@
             "symbol": "USDp",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x9D92c21205383651610f90722131655A5B8ED3E0",
+            "name": "Staked USDp",
+            "symbol": "sUSDp",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/sUSDp.svg"
         },
         {
             "chainId": 43114,
