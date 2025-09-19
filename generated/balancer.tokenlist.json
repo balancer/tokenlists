@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 428
+        "patch": 429
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-09-18T20:02:12.849Z",
+    "timestamp": "2025-09-19T01:36:54.594Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8087,11 +8087,19 @@
         },
         {
             "chainId": 1,
-            "address": "0x6eAf19b2FC24552925dB245F9Ff613157a7dbb4C",
-            "name": "Stream USD",
-            "symbol": "streamUSD",
+            "address": "0xE2Fc85BfB48C4cF147921fBE110cf92Ef9f26F94",
+            "name": "Staked Stream USD",
+            "symbol": "xUSD",
             "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6eaf19b2fc24552925db245f9ff613157a7dbb4c_1.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe2fc85bfb48c4cf147921fbe110cf92ef9f26f94.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x8399C8Fc273bD165C346Af74A02e65f10e4FD78F",
+            "name": "Varlamore USDC Growth",
+            "symbol": "vgUSDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x8399c8fc273bd165c346af74a02e65f10e4fd78f.png"
         },
         {
             "chainId": 10,
