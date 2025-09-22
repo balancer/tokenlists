@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 433
+        "patch": 434
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-09-22T16:48:13.468Z",
+    "timestamp": "2025-09-22T19:31:55.735Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8103,6 +8103,14 @@
             "symbol": "vgUSDC",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x8399c8fc273bd165c346af74a02e65f10e4fd78f.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x936faCdf10c8c36294e7b9d28345255539d81bc7",
+            "name": "RockSolid rETH Vault",
+            "symbol": "rock.rETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x936facdf10c8c36294e7b9d28345255539d81bc7.png"
         },
         {
             "chainId": 10,
