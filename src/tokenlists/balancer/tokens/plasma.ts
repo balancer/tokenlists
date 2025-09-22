@@ -1,0 +1,3 @@
+export default [
+  '0x6100E367285b01F48D07953803A2d8dCA5D19873', // wxXPL
+]

@@ -13,6 +13,7 @@ import fantom from './fantom'
 import fraxtal from './fraxtal'
 import mode from './mode'
 import sonic from './sonic'
+import plasma from './plasma'
 
 const config: Configs = {
   [Network.Arbitrum]: arbitrum,
@@ -29,6 +30,7 @@ const config: Configs = {
   [Network.Mode]: mode,
   [Network.Sonic]: sonic,
   [Network.HyperEVM]: hyperevm,
+  [Network.Plasma]: plasma,
 }
 
 export default config

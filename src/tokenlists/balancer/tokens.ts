@@ -13,6 +13,7 @@ import fantom from './tokens/fantom'
 import fraxtal from './tokens/fraxtal'
 import mode from './tokens/mode'
 import sonic from './tokens/sonic'
+import plasma from './tokens/plasma'
 
 export const tokens: TokensForList = {
   [Network.Ethereum]: ethereum,
@@ -29,4 +30,5 @@ export const tokens: TokensForList = {
   [Network.Mode]: mode,
   [Network.Sonic]: sonic,
   [Network.HyperEVM]: hyperevm,
+  [Network.Plasma]: plasma,
 }
