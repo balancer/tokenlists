@@ -2016,7 +2016,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x602BaeaB9B0DE4a99C457cf1249088932AA04FaC': {
       logoURI:
-        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/bUSD.png',
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/busd.png',
     },
   },
 }
