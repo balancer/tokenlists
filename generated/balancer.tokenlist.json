@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 431
+        "patch": 432
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-09-22T06:38:25.684Z",
+    "timestamp": "2025-09-22T09:37:56.057Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7877,7 +7877,10 @@
             "name": "Pareto synthetic dollar USP",
             "symbol": "USP",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x97ccc1c046d067ab945d3cf3cc6920d3b1e54c88.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x97ccc1c046d067ab945d3cf3cc6920d3b1e54c88.png",
+            "extensions": {
+                "coingeckoId": null
+            }
         },
         {
             "chainId": 1,
