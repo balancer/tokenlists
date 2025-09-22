@@ -178,6 +178,11 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6eaf19b2fc24552925db245f9ff613157a7dbb4c_1.png',
     },
+    '0x97ccc1c046d067ab945d3cf3cc6920d3b1e54c88': {
+      extensions: {
+        coingeckoId: null,
+      },
+    },
   },
   [Network.HyperEVM]: {
     '0x5555555555555555555555555555555555555555': {
