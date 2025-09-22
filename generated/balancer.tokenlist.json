@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 430
+        "patch": 431
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-09-19T19:25:59.833Z",
+    "timestamp": "2025-09-22T06:38:25.684Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13742,7 +13742,7 @@
             "name": "Brunch USD",
             "symbol": "bUSD",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/bUSD.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/busd.png"
         },
         {
             "chainId": 250,
