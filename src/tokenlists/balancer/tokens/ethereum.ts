@@ -1048,4 +1048,5 @@ export default [
   '0xc139190f447e929f090edeb554d95abb8b18ac1c', // USDtb
   '0xe2fc85bfb48c4cf147921fbe110cf92ef9f26f94', // xUSD
   '0x8399c8fc273bd165c346af74a02e65f10e4fd78f', // vgUSDC (Silo Varlamore Growth USDC)
+  '0x936facdf10c8c36294e7b9d28345255539d81bc7', // rock.RETH
 ]
