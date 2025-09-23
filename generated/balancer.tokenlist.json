@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 435
+        "patch": 436
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-09-23T16:37:56.691Z",
+    "timestamp": "2025-09-23T17:02:53.679Z",
     "tokens": [
         {
             "chainId": 1,
@@ -15019,7 +15019,7 @@
             "name": "USD₮0",
             "symbol": "USD₮0",
             "decimals": 6,
-            "logoURI": "https://coin-images.coingecko.com/coins/images/53705/large/usdt0.jpg?1737086183",
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb.png",
             "extensions": {
                 "coingeckoId": "usdt0"
             }
@@ -16843,7 +16843,8 @@
             "address": "0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb",
             "name": "USDT0",
             "symbol": "USDT0",
-            "decimals": 6
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb.png"
         },
         {
             "chainId": 9745,
