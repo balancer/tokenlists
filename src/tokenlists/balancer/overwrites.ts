@@ -2029,5 +2029,23 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6eaf19b2fc24552925db245f9ff613157a7dbb4c_9745.png',
     },
+    '0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34': {
+      extensions: { coingeckoId: 'ethena-usde' },
+    },
+    '0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2': {
+      extensions: { coingeckoId: 'ethena-staked-usde' },
+    },
+    '0xA3D68b74bF0528fdD07263c60d6488749044914b': {
+      extensions: { coingeckoId: 'wrapped-eeth' },
+    },
+    '0x9895D81bB462A195b4922ED7De0e3ACD007c32CB': {
+      extensions: { coingeckoId: 'weth' },
+    },
+    '0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb': {
+      extensions: { coingeckoId: 'usdt0' },
+    },
+    '0x0A1a1A107E45b7Ced86833863f482BC5f4ed82EF': {
+      extensions: { coingeckoId: 'usdai' },
+    },
   },
 }
