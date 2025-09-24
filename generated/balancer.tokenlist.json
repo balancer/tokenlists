@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 439
+        "patch": 440
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-09-24T07:25:21.188Z",
+    "timestamp": "2025-09-24T18:32:50.100Z",
     "tokens": [
         {
             "chainId": 1,
@@ -19454,7 +19454,10 @@
             "name": "BOLD Stablecoin",
             "symbol": "BOLD",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x03569cc076654f82679c4ba2124d64774781b01d.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x03569cc076654f82679c4ba2124d64774781b01d.png",
+            "extensions": {
+                "coingeckoId": "liquity-bold"
+            }
         },
         {
             "chainId": 43114,
