@@ -554,6 +554,11 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6eaf19b2fc24552925db245f9ff613157a7dbb4c_42161.png',
     },
+    '0x03569cc076654f82679c4ba2124d64774781b01d': {
+      extensions: {
+        coingeckoId: 'liquity-bold',
+      },
+    },
   },
   [Network.Optimism]: {
     '0xe05A08226c49b636ACf99c40Da8DC6aF83CE5bB3': {
