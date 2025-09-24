@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 436
+        "patch": 437
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-09-23T17:02:53.679Z",
+    "timestamp": "2025-09-24T01:23:11.037Z",
     "tokens": [
         {
             "chainId": 1,
@@ -15423,6 +15423,14 @@
             "symbol": "PURR",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/37125/large/PURR_CG.png?1713368828"
+        },
+        {
+            "chainId": 999,
+            "address": "0x4d0fF6a0DD9f7316b674Fb37993A3Ce28BEA340e",
+            "name": "Hyperdrive Liquid Staked Hype",
+            "symbol": "HYPED",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4d0ff6a0dd9f7316b674fb37993a3ce28bea340e.png"
         },
         {
             "chainId": 1101,
