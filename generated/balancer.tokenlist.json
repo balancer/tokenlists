@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 438
+        "patch": 439
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-09-24T05:54:12.434Z",
+    "timestamp": "2025-09-24T07:25:21.188Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13722,7 +13722,7 @@
         },
         {
             "chainId": 146,
-            "address": "0x4871c910877c4e89F72EC355FF709B2543c00375",
+            "address": "0x8ed344E89527C6cE382fd1E23B4D6D4c2865b6A9",
             "name": "ONE Stablecoin",
             "symbol": "ONE",
             "decimals": 18,
