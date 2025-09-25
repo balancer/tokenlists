@@ -2056,5 +2056,8 @@ export const overwrites: OverwritesForList = {
     '0x6100E367285b01F48D07953803A2d8dCA5D19873': {
       extensions: { coingeckoId: 'plasma' },
     },
+    '0x0B2b2B2076d95dda7817e785989fE353fe955ef9': {
+      extensions: { coingeckoId: 'susdai' },
+    },
   },
 }
