@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 440
+        "patch": 441
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-09-24T18:32:50.100Z",
+    "timestamp": "2025-09-25T01:18:54.814Z",
     "tokens": [
         {
             "chainId": 1,
@@ -16844,7 +16844,10 @@
             "name": "Wrapped XPL",
             "symbol": "WXPL",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6100e367285b01f48d07953803a2d8dca5d19873.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6100e367285b01f48d07953803a2d8dca5d19873.png",
+            "extensions": {
+                "coingeckoId": "plasma"
+            }
         },
         {
             "chainId": 9745,
@@ -16870,25 +16873,6 @@
         },
         {
             "chainId": 9745,
-            "address": "0xA3D68b74bF0528fdD07263c60d6488749044914b",
-            "name": "Wrapped eETH",
-            "symbol": "weETH",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa3d68b74bf0528fdd07263c60d6488749044914b.png",
-            "extensions": {
-                "coingeckoId": "wrapped-eeth"
-            }
-        },
-        {
-            "chainId": 9745,
-            "address": "0x1B64B9025EEbb9A6239575dF9Ea4b9Ac46D4d193",
-            "name": "XAUt0",
-            "symbol": "XAUt0",
-            "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1b64b9025eebb9a6239575df9ea4b9ac46d4d193.png"
-        },
-        {
-            "chainId": 9745,
             "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
             "name": "USDe",
             "symbol": "USDe",
@@ -16908,6 +16892,25 @@
             "extensions": {
                 "coingeckoId": "ethena-staked-usde"
             }
+        },
+        {
+            "chainId": 9745,
+            "address": "0xA3D68b74bF0528fdD07263c60d6488749044914b",
+            "name": "Wrapped eETH",
+            "symbol": "weETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa3d68b74bf0528fdd07263c60d6488749044914b.png",
+            "extensions": {
+                "coingeckoId": "wrapped-eeth"
+            }
+        },
+        {
+            "chainId": 9745,
+            "address": "0x1B64B9025EEbb9A6239575dF9Ea4b9Ac46D4d193",
+            "name": "XAUt0",
+            "symbol": "XAUt0",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1b64b9025eebb9a6239575df9ea4b9ac46d4d193.png"
         },
         {
             "chainId": 9745,
@@ -17014,7 +17017,10 @@
             "name": "Staked Stream USD",
             "symbol": "xUSD",
             "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6eaf19b2fc24552925db245f9ff613157a7dbb4c_9745.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6eaf19b2fc24552925db245f9ff613157a7dbb4c_9745.png",
+            "extensions": {
+                "coingeckoId": "staked-stream-usd"
+            }
         },
         {
             "chainId": 34443,
