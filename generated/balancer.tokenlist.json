@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 442
+        "patch": 443
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-09-25T01:47:27.199Z",
+    "timestamp": "2025-09-25T18:03:09.758Z",
     "tokens": [
         {
             "chainId": 1,
@@ -17024,6 +17024,30 @@
             "extensions": {
                 "coingeckoId": "staked-stream-usd"
             }
+        },
+        {
+            "chainId": 9745,
+            "address": "0xb1b385542B6E80F77B94393Ba8342c3Af699f15c",
+            "name": "Resolv USD",
+            "symbol": "USR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb1b385542b6e80f77b94393ba8342c3af699f15c.png"
+        },
+        {
+            "chainId": 9745,
+            "address": "0x2a52B289bA68bBd02676640aA9F605700c9e5699",
+            "name": "Wrapped Staked USR",
+            "symbol": "wstUSR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2a52b289ba68bbd02676640aa9f605700c9e5699.png"
+        },
+        {
+            "chainId": 9745,
+            "address": "0x35533f54740F1F1aA4179E57bA37039dfa16868B",
+            "name": "Resolv Liquidity Provider Token",
+            "symbol": "RLP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x35533f54740f1f1aa4179e57ba37039dfa16868b.png"
         },
         {
             "chainId": 34443,
