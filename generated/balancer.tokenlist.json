@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 445
+        "patch": 446
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-09-25T21:07:35.479Z",
+    "timestamp": "2025-09-25T21:24:06.062Z",
     "tokens": [
         {
             "chainId": 1,
@@ -17016,6 +17016,14 @@
         },
         {
             "chainId": 9745,
+            "address": "0xd1074E0AE85610dDBA0147e29eBe0D8E5873a000",
+            "name": "Plasma USD Vault",
+            "symbol": "PlasmaUSD",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd1074e0ae85610ddba0147e29ebe0d8e5873a000.png"
+        },
+        {
+            "chainId": 9745,
             "address": "0x6eAf19b2FC24552925dB245F9Ff613157a7dbb4C",
             "name": "Staked Stream USD",
             "symbol": "xUSD",
@@ -17024,13 +17032,6 @@
             "extensions": {
                 "coingeckoId": "staked-stream-usd"
             }
-        },
-        {
-            "chainId": 9745,
-            "address": "0xd1074E0AE85610dDBA0147e29eBe0D8E5873a000",
-            "name": "Plasma USD Vault",
-            "symbol": "PlasmaUSD",
-            "decimals": 6
         },
         {
             "chainId": 9745,
