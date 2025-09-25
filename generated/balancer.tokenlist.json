@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 441
+        "patch": 442
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-09-25T01:18:54.814Z",
+    "timestamp": "2025-09-25T01:47:27.199Z",
     "tokens": [
         {
             "chainId": 1,
@@ -16937,7 +16937,10 @@
             "name": "Staked USDai",
             "symbol": "sUSDai",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0b2b2b2076d95dda7817e785989fe353fe955ef9.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0b2b2b2076d95dda7817e785989fe353fe955ef9.png",
+            "extensions": {
+                "coingeckoId": "susdai"
+            }
         },
         {
             "chainId": 9745,
