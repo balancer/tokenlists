@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 444
+        "patch": 445
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-09-25T20:10:49.040Z",
+    "timestamp": "2025-09-25T21:07:35.479Z",
     "tokens": [
         {
             "chainId": 1,
@@ -17027,6 +17027,13 @@
         },
         {
             "chainId": 9745,
+            "address": "0xd1074E0AE85610dDBA0147e29eBe0D8E5873a000",
+            "name": "Plasma USD Vault",
+            "symbol": "PlasmaUSD",
+            "decimals": 6
+        },
+        {
+            "chainId": 9745,
             "address": "0xb1b385542B6E80F77B94393Ba8342c3Af699f15c",
             "name": "Resolv USD",
             "symbol": "USR",
@@ -17048,13 +17055,6 @@
             "symbol": "RLP",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x35533f54740f1f1aa4179e57ba37039dfa16868b.png"
-        },
-        {
-            "chainId": 9745,
-            "address": "0xd1074E0AE85610dDBA0147e29eBe0D8E5873a000",
-            "name": "Plasma USD Vault",
-            "symbol": "PlasmaUSD",
-            "decimals": 6
         },
         {
             "chainId": 34443,
