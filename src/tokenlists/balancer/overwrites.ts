@@ -2052,5 +2052,11 @@ export const overwrites: OverwritesForList = {
     '0x0A1a1A107E45b7Ced86833863f482BC5f4ed82EF': {
       extensions: { coingeckoId: 'usdai' },
     },
+    '0x6eAf19b2FC24552925dB245F9Ff613157a7dbb4C': {
+      extensions: { coingeckoId: 'staked-stream-usd' },
+    },
+    '0x6100E367285b01F48D07953803A2d8dCA5D19873': {
+      extensions: { coingeckoId: 'plasma' },
+    },
   },
 }
