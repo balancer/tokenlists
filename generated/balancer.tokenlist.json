@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 446
+        "patch": 447
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-09-25T21:24:06.062Z",
+    "timestamp": "2025-09-26T18:33:22.876Z",
     "tokens": [
         {
             "chainId": 1,
@@ -17056,6 +17056,14 @@
             "symbol": "RLP",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x35533f54740f1f1aa4179e57ba37039dfa16868b.png"
+        },
+        {
+            "chainId": 9745,
+            "address": "0xC4374775489CB9C56003BF2C9b12495fC64F0771",
+            "name": "Syrup USDT",
+            "symbol": "syrupUSDT",
+            "decimals": 6,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/69514/large/SyrupUSDT.png?1758823529"
         },
         {
             "chainId": 34443,
