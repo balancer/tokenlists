@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 447
+        "patch": 448
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-09-26T18:33:22.876Z",
+    "timestamp": "2025-09-27T01:54:41.953Z",
     "tokens": [
         {
             "chainId": 1,
@@ -16972,7 +16972,10 @@
             "name": "rsETHWrapper",
             "symbol": "wrsETH",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe561fe05c39075312aa9bc6af79ddae981461359.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe561fe05c39075312aa9bc6af79ddae981461359.png",
+            "extensions": {
+                "coingeckoId": "wrapped-rseth"
+            }
         },
         {
             "chainId": 9745,
