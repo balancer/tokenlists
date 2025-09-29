@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 448
+        "patch": 449
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-09-27T01:54:41.953Z",
+    "timestamp": "2025-09-29T17:39:28.075Z",
     "tokens": [
         {
             "chainId": 1,
@@ -17067,6 +17067,14 @@
             "symbol": "syrupUSDT",
             "decimals": 6,
             "logoURI": "https://coin-images.coingecko.com/coins/images/69514/large/SyrupUSDT.png?1758823529"
+        },
+        {
+            "chainId": 9745,
+            "address": "0x92A01Ab7317Ac318b39b00EB6704ba56F0245D7a",
+            "name": "trillions",
+            "symbol": "trillions",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/69560/large/trillions.png?1759039612"
         },
         {
             "chainId": 34443,
