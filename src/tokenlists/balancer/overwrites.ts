@@ -2031,7 +2031,6 @@ export const overwrites: OverwritesForList = {
   },
   [Network.Plasma]: {
     '0x6eAf19b2FC24552925dB245F9Ff613157a7dbb4C': {
-      extensions: { coingeckoId: 'staked-stream-usd' },
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6eaf19b2fc24552925db245f9ff613157a7dbb4c_9745.png',
     },
