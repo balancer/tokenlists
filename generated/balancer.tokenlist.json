@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 449
+        "patch": 450
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-09-29T17:39:28.075Z",
+    "timestamp": "2025-10-02T13:31:45.824Z",
     "tokens": [
         {
             "chainId": 1,
@@ -16837,6 +16837,17 @@
             "symbol": "VLR",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4e107a0000db66f0e9fd2039288bf811dd1f9c74.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0xe5020A6d073a794B6E7f05678707dE47986Fb0b6",
+            "name": "Frax USD",
+            "symbol": "frxUSD",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/53963/large/frxUSD.png?1737792154",
+            "extensions": {
+                "coingeckoId": "frax-usd"
+            }
         },
         {
             "chainId": 9745,
