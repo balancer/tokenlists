@@ -152,4 +152,5 @@ export default [
   '0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553', // Frankencoin (ZCHF)
   '0x22c0a2e55aed8b317a285ccbd4f3d8ee24c9e5e3', // FYNI
   '0x4e107a0000db66f0e9fd2039288bf811dd1f9c74', // VLR
+  '0xe5020a6d073a794b6e7f05678707de47986fb0b6', // frxUSD
 ]

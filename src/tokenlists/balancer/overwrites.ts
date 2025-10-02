@@ -888,6 +888,13 @@ export const overwrites: OverwritesForList = {
         coingeckoId: 'usdx-money-usdx',
       },
     },
+    '0xe5020a6d073a794b6e7f05678707de47986fb0b6': {
+      name: 'Frax USD',
+      symbol: 'frxUSD',
+      extensions: {
+        coingeckoId: 'frax-usd',
+      },
+    },
   },
   [Network.Fantom]: {
     '0xf1648C50d2863f780c57849D812b4B7686031A3D': {
