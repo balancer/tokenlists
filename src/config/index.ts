@@ -1,5 +1,6 @@
 import { Network, Configs } from '../types'
 import arbitrum from './arbitrum'
+import hyperevm from './hyperevm'
 import avalanche from './avalanche'
 import base from './base'
 import gnosis from './gnosis'
@@ -12,6 +13,7 @@ import fantom from './fantom'
 import fraxtal from './fraxtal'
 import mode from './mode'
 import sonic from './sonic'
+import plasma from './plasma'
 
 const config: Configs = {
   [Network.Arbitrum]: arbitrum,
@@ -27,6 +29,8 @@ const config: Configs = {
   [Network.Fraxtal]: fraxtal,
   [Network.Mode]: mode,
   [Network.Sonic]: sonic,
+  [Network.HyperEVM]: hyperevm,
+  [Network.Plasma]: plasma,
 }
 
 export default config

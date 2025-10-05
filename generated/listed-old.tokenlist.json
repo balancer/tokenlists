@@ -3,13 +3,13 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 6
+        "patch": 7
     },
     "keywords": [
         "Balancer"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-01-29T15:39:01.134Z",
+    "timestamp": "2025-08-27T15:13:12.084Z",
     "tokens": [
         {
             "chainId": 1,
@@ -1922,7 +1922,7 @@
         {
             "chainId": 137,
             "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
-            "name": "(PoS) Tether USD",
+            "name": "USDT0",
             "symbol": "USDT",
             "decimals": 6,
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xc2132D05D31c914a87C6611C10748AEb04B58e8F/logo.png"
