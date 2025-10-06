@@ -1049,4 +1049,6 @@ export default [
   '0xe2fc85bfb48c4cf147921fbe110cf92ef9f26f94', // xUSD
   '0x8399c8fc273bd165c346af74a02e65f10e4fd78f', // vgUSDC (Silo Varlamore Growth USDC)
   '0x936facdf10c8c36294e7b9d28345255539d81bc7', // rock.RETH
+  '0x826180541412D574cf1336d22c0C0a287822678A', // ChainFlip
+  '0x10Ea9E5303670331Bdddfa66A4cEA47dae4fcF3b', // Session
 ]
