@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 453
+        "patch": 454
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-10-08T13:51:20.954Z",
+    "timestamp": "2025-10-08T16:05:32.116Z",
     "tokens": [
         {
             "chainId": 1,
@@ -17122,6 +17122,22 @@
             "symbol": "tcUSDT0",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa9c251f8304b1b3fc2b9e8fcae78d94eff82ac66.png"
+        },
+        {
+            "chainId": 9745,
+            "address": "0x616185600989Bf8339b58aC9e539d49536598343",
+            "name": "Staked Plasma USD",
+            "symbol": "splUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x616185600989bf8339b58ac9e539d49536598343.png"
+        },
+        {
+            "chainId": 9745,
+            "address": "0xf91c31299E998C5127Bc5F11e4a657FC0cF358CD",
+            "name": "Plasma USD",
+            "symbol": "plUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf91c31299e998c5127bc5f11e4a657fc0cf358cd.png"
         },
         {
             "chainId": 34443,
