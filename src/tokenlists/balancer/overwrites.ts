@@ -888,6 +888,11 @@ export const overwrites: OverwritesForList = {
         coingeckoId: 'usdx-money-usdx',
       },
     },
+    '0xd09acb80c1e8f2291862c4978a008791c9167003': {
+      extensions: {
+        coingeckoId: 'treehouse-eth',
+      },
+    },
     '0xe5020a6d073a794b6e7f05678707de47986fb0b6': {
       name: 'Frax USD',
       symbol: 'frxUSD',
