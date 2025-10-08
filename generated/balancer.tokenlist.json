@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 452
+        "patch": 453
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-10-07T15:11:20.590Z",
+    "timestamp": "2025-10-08T13:51:20.954Z",
     "tokens": [
         {
             "chainId": 1,
@@ -16872,7 +16872,10 @@
             "name": "Treehouse ETH",
             "symbol": "tETH",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd09acb80c1e8f2291862c4978a008791c9167003.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd09acb80c1e8f2291862c4978a008791c9167003.png",
+            "extensions": {
+                "coingeckoId": "treehouse-eth"
+            }
         },
         {
             "chainId": 9745,
