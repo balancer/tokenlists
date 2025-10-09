@@ -2077,5 +2077,8 @@ export const overwrites: OverwritesForList = {
     '0x29AD7fE4516909b9e498B5a65339e54791293234': {
       extensions: { coingeckoId: 'metronome-synth-usd' },
     },
+    '0xA29420057F3e3B9512D4786df135Da1674BD74D4': {
+      extensions: { coingeckoId: 'avant-staked-usd' },
+    },
   },
 }
