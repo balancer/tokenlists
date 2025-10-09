@@ -2074,5 +2074,8 @@ export const overwrites: OverwritesForList = {
     '0xe561FE05C39075312Aa9Bc6af79DdaE981461359': {
       extensions: { coingeckoId: 'wrapped-rseth' },
     },
+    '0x29AD7fE4516909b9e498B5a65339e54791293234': {
+      extensions: { coingeckoId: 'metronome-synth-usd' },
+    },
   },
 }
