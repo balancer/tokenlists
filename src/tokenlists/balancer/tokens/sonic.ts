@@ -144,4 +144,5 @@ export default [
   '0x391b3F70E254d582588B27e97E48D1CFcdf0BE7e', // mithras scusd vault
   '0xf05a207442f14E446b0e32b12D2043bfc68Cb1C9', // BOLD
   '0x602BaeaB9B0DE4a99C457cf1249088932AA04FaC', // bUSD
+  '0xc76995054ce51dfbbc954840d699b2f33d2538ee', // loopS
 ]
