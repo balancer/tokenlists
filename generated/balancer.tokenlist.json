@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 455
+        "patch": 456
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-10-09T16:31:07.063Z",
+    "timestamp": "2025-10-10T13:11:42.821Z",
     "tokens": [
         {
             "chainId": 1,
@@ -17145,6 +17145,7 @@
             "name": "Metronome Synth USD",
             "symbol": "msUSD",
             "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x29ad7fe4516909b9e498b5a65339e54791293234.png",
             "extensions": {
                 "coingeckoId": "metronome-synth-usd"
             }
@@ -17155,6 +17156,7 @@
             "name": "Staked avUSD",
             "symbol": "savUSD",
             "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa29420057f3e3b9512d4786df135da1674bd74d4.png",
             "extensions": {
                 "coingeckoId": "avant-staked-usd"
             }
@@ -17164,7 +17166,8 @@
             "address": "0x76309A9a56309104518847BbA321c261B7B4a43f",
             "name": "USDT0",
             "symbol": "dUSDT0-V3-0",
-            "decimals": 6
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x76309a9a56309104518847bba321c261b7b4a43f.png"
         },
         {
             "chainId": 34443,
