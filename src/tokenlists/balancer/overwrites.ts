@@ -1439,6 +1439,10 @@ export const overwrites: OverwritesForList = {
     },
   },
   [Network.Sonic]: {
+    '0xc76995054ce51dfbbc954840d699b2f33d2538ee': {
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc76995054ce51dfbbc954840d699b2f33d2538ee.png',
+    },
     '0xe6cc4D855B4fD4A9D02F46B9adae4C5EfB1764B5': {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe6cc4D855B4fD4A9D02F46B9adae4C5EfB1764B5.png',
