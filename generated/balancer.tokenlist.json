@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 457
+        "patch": 458
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-10-10T15:27:10.056Z",
+    "timestamp": "2025-10-14T14:40:33.956Z",
     "tokens": [
         {
             "chainId": 1,
@@ -17176,6 +17176,21 @@
             "symbol": "dUSDT0-V3-0",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x76309a9a56309104518847bba321c261b7b4a43f.png"
+        },
+        {
+            "chainId": 9745,
+            "address": "0x9c46EE1f01d2b551048F5fF99a4659D98d04BED1",
+            "name": "246Club TelosC Earn USDT0",
+            "symbol": "246USDT0",
+            "decimals": 6
+        },
+        {
+            "chainId": 9745,
+            "address": "0xC8A8DF9B210243c55D31c73090F06787aD0A1Bf6",
+            "name": "Staked Yuzu USD",
+            "symbol": "syzUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc8a8df9b210243c55d31c73090f06787ad0a1bf6.png"
         },
         {
             "chainId": 34443,
