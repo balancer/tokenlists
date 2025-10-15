@@ -145,4 +145,5 @@ export default [
   '0xf05a207442f14E446b0e32b12D2043bfc68Cb1C9', // BOLD
   '0x602BaeaB9B0DE4a99C457cf1249088932AA04FaC', // bUSD
   '0xc76995054ce51dfbbc954840d699b2f33d2538ee', // loopS
+  '0xe90fe2de4a415ad48b6dcec08ba6ae98231948ac', // trevee
 ]

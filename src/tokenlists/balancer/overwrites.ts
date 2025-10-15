@@ -2044,6 +2044,10 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/busd.png',
     },
+    '0xe90fe2de4a415ad48b6dcec08ba6ae98231948ac': {
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/trevee.png',
+    },
   },
   [Network.Plasma]: {
     '0x6eAf19b2FC24552925dB245F9Ff613157a7dbb4C': {
