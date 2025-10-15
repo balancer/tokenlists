@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 458
+        "patch": 459
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-10-14T14:40:33.956Z",
+    "timestamp": "2025-10-15T04:20:37.114Z",
     "tokens": [
         {
             "chainId": 1,
@@ -17182,7 +17182,8 @@
             "address": "0x9c46EE1f01d2b551048F5fF99a4659D98d04BED1",
             "name": "246Club TelosC Earn USDT0",
             "symbol": "246USDT0",
-            "decimals": 6
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9c46ee1f01d2b551048f5ff99a4659d98d04bed1.png"
         },
         {
             "chainId": 9745,
