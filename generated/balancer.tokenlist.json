@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 460
+        "patch": 461
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-10-15T18:08:13.385Z",
+    "timestamp": "2025-10-16T14:08:13.757Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8127,6 +8127,22 @@
             "symbol": "SESH",
             "decimals": 9,
             "logoURI": "https://coin-images.coingecko.com/coins/images/56073/large/SES_Logo_RGB_Brandmark_Colour.png?1748330955"
+        },
+        {
+            "chainId": 1,
+            "address": "0x4f8e5DE400DE08B164E7421B3EE387f461beCD1A",
+            "name": "Usdd Stablecoin",
+            "symbol": "USDD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4f8e5de400de08b164e7421b3ee387f461becd1a.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x4f8e5DE400DE08B164E7421B3EE387f461beCD1A",
+            "name": "Usdd Stablecoin",
+            "symbol": "USDD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4f8e5de400de08b164e7421b3ee387f461becd1a.png"
         },
         {
             "chainId": 10,
