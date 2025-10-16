@@ -1051,4 +1051,6 @@ export default [
   '0x936facdf10c8c36294e7b9d28345255539d81bc7', // rock.RETH
   '0x826180541412D574cf1336d22c0C0a287822678A', // ChainFlip
   '0x10Ea9E5303670331Bdddfa66A4cEA47dae4fcF3b', // Session
+  '0x4f8e5de400de08b164e7421b3ee387f461becd1a', // usdd
+  '0x4f8e5de400de08b164e7421b3ee387f461becd1a', // susdd
 ]
