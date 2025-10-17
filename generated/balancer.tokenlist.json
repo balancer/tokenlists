@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 458
+        "patch": 462
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-10-14T14:40:33.956Z",
+    "timestamp": "2025-10-16T14:57:39.554Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8129,6 +8129,22 @@
             "logoURI": "https://coin-images.coingecko.com/coins/images/56073/large/SES_Logo_RGB_Brandmark_Colour.png?1748330955"
         },
         {
+            "chainId": 1,
+            "address": "0x4f8e5DE400DE08B164E7421B3EE387f461beCD1A",
+            "name": "Usdd Stablecoin",
+            "symbol": "USDD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4f8e5de400de08b164e7421b3ee387f461becd1a.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xC5d6A7B61d18AfA11435a889557b068BB9f29930",
+            "name": "Savings Usdd",
+            "symbol": "sUSDD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc5d6a7b61d18afa11435a889557b068bb9f29930.png"
+        },
+        {
             "chainId": 10,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -13781,6 +13797,14 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc76995054ce51dfbbc954840d699b2f33d2538ee.png"
         },
         {
+            "chainId": 146,
+            "address": "0xe90FE2DE4A415aD48B6DcEc08bA6ae98231948Ac",
+            "name": "Trevee Token",
+            "symbol": "TREVEE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/trevee.png"
+        },
+        {
             "chainId": 250,
             "address": "0xf1648C50d2863f780c57849D812b4B7686031A3D",
             "name": "LayerZero Wrapped Bitcoin",
@@ -17182,7 +17206,8 @@
             "address": "0x9c46EE1f01d2b551048F5fF99a4659D98d04BED1",
             "name": "246Club TelosC Earn USDT0",
             "symbol": "246USDT0",
-            "decimals": 6
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9c46ee1f01d2b551048f5ff99a4659d98d04bed1.png"
         },
         {
             "chainId": 9745,
