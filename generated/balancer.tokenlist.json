@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 462
+        "patch": 463
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-10-16T14:57:39.554Z",
+    "timestamp": "2025-10-17T13:46:38.678Z",
     "tokens": [
         {
             "chainId": 1,
@@ -15480,6 +15480,14 @@
             "symbol": "HYPED",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4d0ff6a0dd9f7316b674fb37993a3ce28bea340e.png"
+        },
+        {
+            "chainId": 999,
+            "address": "0x0E01e3aFd147C7f079eA19d0EcA166Ad3A22e79D",
+            "name": "Hyperwave",
+            "symbol": "HWAVE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0e01e3afd147c7f079ea19d0eca166ad3a22e79d.png"
         },
         {
             "chainId": 1101,
