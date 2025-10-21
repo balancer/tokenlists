@@ -1566,6 +1566,9 @@ export const overwrites: OverwritesForList = {
     },
     '0xd3DCe716f3eF535C5Ff8d041c1A41C3bd89b97aE': {
       logoURI: 'https://i.ibb.co/PFw2zkx/scUSD64.png',
+      extensions: {
+        coingeckoId: 'rings-scusd',
+      },
     },
     '0x3bcE5CB273F0F148010BbEa2470e7b5df84C7812': {
       logoURI: 'https://i.ibb.co/fMTYnj2/scETH64.png',
