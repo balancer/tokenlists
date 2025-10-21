@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 463
+        "patch": 464
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-10-17T13:46:38.678Z",
+    "timestamp": "2025-10-21T06:27:58.014Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12804,7 +12804,10 @@
             "name": "Sonic USD",
             "symbol": "scUSD",
             "decimals": 6,
-            "logoURI": "https://i.ibb.co/PFw2zkx/scUSD64.png"
+            "logoURI": "https://i.ibb.co/PFw2zkx/scUSD64.png",
+            "extensions": {
+                "coingeckoId": "rings-scusd"
+            }
         },
         {
             "chainId": 146,
