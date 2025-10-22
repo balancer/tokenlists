@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 464
+        "patch": 465
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-10-21T06:27:58.014Z",
+    "timestamp": "2025-10-22T16:01:48.648Z",
     "tokens": [
         {
             "chainId": 1,
@@ -16919,6 +16919,21 @@
             "extensions": {
                 "coingeckoId": "treehouse-eth"
             }
+        },
+        {
+            "chainId": 8453,
+            "address": "0xE9185Ee218cae427aF7B9764A011bb89FeA761B4",
+            "name": "BRZ Token",
+            "symbol": "BRZ",
+            "decimals": 18
+        },
+        {
+            "chainId": 8453,
+            "address": "0x18Bc5bcC660cf2B9cE3cd51a404aFe1a0cBD3C22",
+            "name": "IDRX",
+            "symbol": "IDRX",
+            "decimals": 2,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/34883/large/IDRX_BLUE_COIN_200x200.png?1734983273"
         },
         {
             "chainId": 9745,
