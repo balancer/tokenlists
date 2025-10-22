@@ -833,6 +833,11 @@ export const overwrites: OverwritesForList = {
     },
   },
   [Network.Base]: {
+    '0xE9185Ee218cae427aF7B9764A011bb89FeA761B4': {
+      extensions: {
+        coingeckoId: 'brz',
+      },
+    },
     '0x1f55a02A049033E3419a8E2975cF3F572F4e6E9A': {
       extensions: {
         coingeckoId: 'staked-frax-ether',
