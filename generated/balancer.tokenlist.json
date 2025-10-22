@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 465
+        "patch": 466
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-10-22T16:01:48.648Z",
+    "timestamp": "2025-10-22T16:07:18.430Z",
     "tokens": [
         {
             "chainId": 1,
@@ -16925,7 +16925,11 @@
             "address": "0xE9185Ee218cae427aF7B9764A011bb89FeA761B4",
             "name": "BRZ Token",
             "symbol": "BRZ",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe9185ee218cae427af7b9764a011bb89fea761b4.png",
+            "extensions": {
+                "coingeckoId": "brz"
+            }
         },
         {
             "chainId": 8453,
