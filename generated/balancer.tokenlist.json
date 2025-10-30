@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 467
+        "patch": 468
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-10-30T01:17:35.899Z",
+    "timestamp": "2025-10-30T20:49:06.236Z",
     "tokens": [
         {
             "chainId": 1,
@@ -15499,6 +15499,20 @@
             "symbol": "HWAVE",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0e01e3afd147c7f079ea19d0eca166ad3a22e79d.png"
+        },
+        {
+            "chainId": 999,
+            "address": "0xa2f8Da4a55898B6c947Fa392eF8d6BFd87A4Ff77",
+            "name": "hwUSD",
+            "symbol": "hwUSD",
+            "decimals": 6
+        },
+        {
+            "chainId": 999,
+            "address": "0x20ecF3936Df08556b62fD15a4E167ae99d73b957",
+            "name": "Static USDH Hypurr",
+            "symbol": "stathyUSDH",
+            "decimals": 6
         },
         {
             "chainId": 1101,
