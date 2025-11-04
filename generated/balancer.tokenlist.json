@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 468
+        "patch": 469
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-10-30T20:49:06.236Z",
+    "timestamp": "2025-11-04T18:20:08.521Z",
     "tokens": [
         {
             "chainId": 1,
@@ -15505,7 +15505,8 @@
             "address": "0xa2f8Da4a55898B6c947Fa392eF8d6BFd87A4Ff77",
             "name": "hwUSD",
             "symbol": "hwUSD",
-            "decimals": 6
+            "decimals": 6,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/70507/large/hwstable.png?1762267461"
         },
         {
             "chainId": 999,
@@ -17268,6 +17269,13 @@
             "symbol": "syzUSD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc8a8df9b210243c55d31c73090f06787ad0a1bf6.png"
+        },
+        {
+            "chainId": 9745,
+            "address": "0xEf7B1A03E0897C33b63159e38d779e3970C0E2fc",
+            "name": "ebUSD Stablecoin",
+            "symbol": "ebUSD",
+            "decimals": 18
         },
         {
             "chainId": 34443,
