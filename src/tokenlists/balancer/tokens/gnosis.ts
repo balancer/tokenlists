@@ -94,4 +94,5 @@ export default [
   '0x9eE1963f05553eF838604Dd39403be21ceF26AA4', // USDp
   '0x58d9acac48a4077e4909181c48decd00e5ba5de4', // stata aave GHO
   '0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553', // Frankencoin (ZCHF)
+  '0xe6fF35dc3227a0c46e92b640bCb5c5895AD8C687', // FOUR
 ]
