@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 470
+        "patch": 471
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-11-12T14:49:03.428Z",
+    "timestamp": "2025-11-13T01:36:48.418Z",
     "tokens": [
         {
             "chainId": 1,
@@ -17285,6 +17285,14 @@
             "symbol": "ebUSD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xef7b1a03e0897c33b63159e38d779e3970c0e2fc.png"
+        },
+        {
+            "chainId": 9745,
+            "address": "0x888888bAb58A7bd3068110749BC7B63B62CE874d",
+            "name": "Staked chUSD",
+            "symbol": "schUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x888888bab58a7bd3068110749bc7b63b62ce874d.png"
         },
         {
             "chainId": 34443,
