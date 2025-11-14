@@ -1,0 +1,3 @@
+export default [
+  '0xe538905cf8410324e03A5A23C1c177a474D59b2b', // wOKB
+]
