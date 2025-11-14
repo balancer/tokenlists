@@ -14,6 +14,7 @@ import fraxtal from './fraxtal'
 import mode from './mode'
 import sonic from './sonic'
 import plasma from './plasma'
+import xlayer from './xlayer'
 
 const config: Configs = {
   [Network.Arbitrum]: arbitrum,
@@ -31,6 +32,7 @@ const config: Configs = {
   [Network.Sonic]: sonic,
   [Network.HyperEVM]: hyperevm,
   [Network.Plasma]: plasma,
+  [Network.XLayer]: xlayer,
 }
 
 export default config
