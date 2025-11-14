@@ -65,7 +65,7 @@ export default [
   '0x9f281eb58fd98ad98ede0fc4c553ad4d73e7ca2c', // stataOptUSDC.e
   '0x4dd03dfd36548c840b563745e3fbec320f37ba7e', // stataOptUSDCn
   '0x035c93db04e5aaea54e6cd0261c492a3e0638b37', // stataOptUSDT
-  '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee', //ether
+  '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee', // ether
   '0x6806411765af15bddd26f8f544a34cc40cb9838b', // frxEth
   '0x2dd1b4d4548accea497050619965f91f78b3b532', // sFrax
   '0x3ee6107d9c93955acbb3f39871d32b02f82b78ab', // stERN

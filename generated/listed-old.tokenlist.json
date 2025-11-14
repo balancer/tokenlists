@@ -3,13 +3,13 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 7
+        "patch": 8
     },
     "keywords": [
         "Balancer"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-08-27T15:13:12.084Z",
+    "timestamp": "2025-11-14T14:50:27.349Z",
     "tokens": [
         {
             "chainId": 1,
@@ -66,14 +66,6 @@
             "symbol": "R",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x183015a9ba6ff60230fdeadc3f43b3d788b13e21.png"
-        },
-        {
-            "chainId": 1,
-            "address": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
-            "name": "Maker",
-            "symbol": "MKR",
-            "decimals": 18,
-            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2/logo.png"
         },
         {
             "chainId": 1,
