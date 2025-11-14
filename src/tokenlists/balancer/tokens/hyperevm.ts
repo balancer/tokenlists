@@ -54,4 +54,5 @@ export default [
   '0x0E01e3aFd147C7f079eA19d0EcA166Ad3A22e79D', // hwave
   '0xa2f8Da4a55898B6c947Fa392eF8d6BFd87A4Ff77', // hwUSD
   '0x20ecF3936Df08556b62fD15a4E167ae99d73b957', // statahyUSDH
+  '0x3df418be6dad3f824d00a7c516dad3ea2a5a79c6', // statahyHYPE
 ]
