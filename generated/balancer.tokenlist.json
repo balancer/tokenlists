@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 471
+        "patch": 472
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-11-13T01:36:48.418Z",
+    "timestamp": "2025-11-14T16:26:32.143Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13806,6 +13806,35 @@
             "symbol": "TREVEE",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/trevee.png"
+        },
+        {
+            "chainId": 196,
+            "address": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
+            "name": "Wrapped OKB",
+            "symbol": "WOKB",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/37278/large/okb.png?1713935642"
+        },
+        {
+            "chainId": 196,
+            "address": "0x779Ded0c9e1022225f8E0630b35a9b54bE713736",
+            "name": "USD₮0",
+            "symbol": "USD₮0",
+            "decimals": 6
+        },
+        {
+            "chainId": 196,
+            "address": "0x4ae46a509F6b1D9056937BA4500cb143933D2dc8",
+            "name": "Global Dollar",
+            "symbol": "USDG",
+            "decimals": 6
+        },
+        {
+            "chainId": 196,
+            "address": "0xb7C00000bcDEeF966b20B3D884B98E64d2b06b4f",
+            "name": "OKX Wrapped BTC",
+            "symbol": "xBTC",
+            "decimals": 8
         },
         {
             "chainId": 250,
