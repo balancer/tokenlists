@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 466
+        "patch": 469
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-10-22T16:07:18.430Z",
+    "timestamp": "2025-11-14T14:50:23.321Z",
     "tokens": [
         {
             "chainId": 1,
@@ -122,14 +122,6 @@
             "symbol": "R",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x183015a9ba6ff60230fdeadc3f43b3d788b13e21.png"
-        },
-        {
-            "chainId": 1,
-            "address": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
-            "name": "Maker",
-            "symbol": "MKR",
-            "decimals": 18,
-            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2/logo.png"
         },
         {
             "chainId": 1,
@@ -1778,14 +1770,6 @@
             "name": "Q DAO Governance token v1.0",
             "symbol": "QDAO",
             "decimals": 18
-        },
-        {
-            "chainId": 1,
-            "address": "0x89d24A6b4CcB1B6fAA2625fE562bDD9a23260359",
-            "name": "Sai Stablecoin v1.0",
-            "symbol": "SAI",
-            "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/1442/large/dai.png?1547035520"
         },
         {
             "chainId": 1,
@@ -17180,7 +17164,7 @@
         {
             "chainId": 9745,
             "address": "0xa9C251F8304b1B3Fc2b9e8fcae78D94Eff82Ac66",
-            "name": "TelosC Earn USDT0",
+            "name": "TelosC Surge",
             "symbol": "tcUSDT0",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa9c251f8304b1b3fc2b9e8fcae78d94eff82ac66.png"
@@ -17234,7 +17218,7 @@
         {
             "chainId": 9745,
             "address": "0x9c46EE1f01d2b551048F5fF99a4659D98d04BED1",
-            "name": "246Club TelosC Earn USDT0",
+            "name": "TelosC Haven",
             "symbol": "246USDT0",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9c46ee1f01d2b551048f5ff99a4659d98d04bed1.png"

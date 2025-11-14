@@ -14,7 +14,6 @@ export default [
   '0x91a40c733c97a6e1bf876eaf9ed8c08102eb491f',
   '0x8d11ec38a3eb5e956b052f67da8bdc9bef8abf3e',
   '0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83',
-  '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee',
   '0x6a07a792ab2965c72a5b8088d3a069a7ac3a993b',
   '0xdc301622e621166bd8e82f2ca0a26c13ad0be355',
   '0x7d016eec9c25232b01f23ef992d98ca97fc2af5a',
