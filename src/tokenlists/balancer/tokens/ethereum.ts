@@ -1047,4 +1047,5 @@ export default [
   '0x10Ea9E5303670331Bdddfa66A4cEA47dae4fcF3b', // Session
   '0x4f8e5de400de08b164e7421b3ee387f461becd1a', // usdd
   '0xc5d6a7b61d18afa11435a889557b068bb9f29930', // susdd
+  '0x24a3d725c37a8d1a66eb87f0e5d07fe67c120035', // EDEN
 ]
