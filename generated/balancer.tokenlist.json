@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 474
+        "patch": 475
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-11-17T03:21:28.573Z",
+    "timestamp": "2025-11-17T07:44:38.609Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13806,6 +13806,13 @@
             "symbol": "TREVEE",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/trevee.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0x618383942cABb00aa3a13101b825a703DC082752",
+            "name": "Main Street Yield",
+            "symbol": "msY",
+            "decimals": 18
         },
         {
             "chainId": 196,
