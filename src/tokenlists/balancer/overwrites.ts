@@ -2101,4 +2101,9 @@ export const overwrites: OverwritesForList = {
       extensions: { coingeckoId: 'avant-staked-usd' },
     },
   },
+  [Network.Xlayer]: {
+    '0xb7c00000bcdeef966b20b3d884b98e64d2b06b4f': {
+      extensions: { coingeckoId: 'okx-wrapped-btc' },
+    },
+  },
 }
