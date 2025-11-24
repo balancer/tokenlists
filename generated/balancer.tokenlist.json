@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 478
+        "patch": 479
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-11-18T14:22:59.384Z",
+    "timestamp": "2025-11-24T08:44:01.439Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13814,6 +13814,13 @@
             "symbol": "msY",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/msY.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0x2dDCF85D3Cf27DEA338e0371D38409Ba80058630",
+            "name": "BMX: Wrapped Sonic Liquidity Token",
+            "symbol": "wSLT",
+            "decimals": 18
         },
         {
             "chainId": 196,
