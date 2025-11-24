@@ -147,4 +147,5 @@ export default [
   '0xc76995054ce51dfbbc954840d699b2f33d2538ee', // loopS
   '0xe90fe2de4a415ad48b6dcec08ba6ae98231948ac', // trevee
   '0x618383942cabb00aa3a13101b825a703dc082752', // msy
+  '0x2dDCF85D3Cf27DEA338e0371D38409Ba80058630', // wslt
 ]
