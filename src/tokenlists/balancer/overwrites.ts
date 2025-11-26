@@ -1948,6 +1948,9 @@ export const overwrites: OverwritesForList = {
     '0xb4444468e444f89e1c2cac2f1d3ee7e336cbd1f5': {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/rzr.png',
+      extensions: {
+        coingeckoId: 'rezerve-money',
+      },
     },
     '0xEEEEEEE6d95E55A468D32FeB5d6648754d10A967': {
       logoURI:
