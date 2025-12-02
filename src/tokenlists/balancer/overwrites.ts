@@ -1379,6 +1379,10 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6eaf19b2fc24552925db245f9ff613157a7dbb4c_43114.png',
     },
+    '0x1F0570a081FeE0e4dF6eAC470f9d2D53CDEDa1c5': {
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xffe8b2295cef70290819a8193834cc7900bcef5f.png',
+    },
   },
   [Network.Fraxtal]: {
     '0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2': {
