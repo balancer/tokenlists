@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 481
+        "patch": 482
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-12-03T14:39:58.885Z",
+    "timestamp": "2025-12-03T15:04:25.141Z",
     "tokens": [
         {
             "chainId": 1,
@@ -17343,6 +17343,14 @@
             "symbol": "yzUSD",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/70558/large/yzusd.png?1762518733"
+        },
+        {
+            "chainId": 9745,
+            "address": "0xb77E872A68C62CfC0dFb02C067Ecc3DA23B4bbf3",
+            "name": "Gho Token",
+            "symbol": "GHO",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/30663/large/gho-token-logo.png?1720517092"
         },
         {
             "chainId": 34443,
