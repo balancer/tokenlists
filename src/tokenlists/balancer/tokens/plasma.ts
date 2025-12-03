@@ -35,5 +35,5 @@ export default [
   '0xc8a8df9b210243c55d31c73090f06787ad0a1bf6', // syzUSD
   '0xef7b1a03e0897c33b63159e38d779e3970c0e2fc', // ebUSD
   '0x888888bab58a7bd3068110749bc7b63b62ce874d', // schUSD
-  '0x6695c0f8706c5ace3bdf8995073179cca47926dc' // yzUSD
+  '0x6695c0f8706c5ace3bdf8995073179cca47926dc', // yzUSD
 ]
