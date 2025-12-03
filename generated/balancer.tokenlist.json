@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 480
+        "patch": 481
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-11-26T06:49:55.320Z",
+    "timestamp": "2025-12-03T14:39:58.885Z",
     "tokens": [
         {
             "chainId": 1,
@@ -17337,6 +17337,14 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x888888bab58a7bd3068110749bc7b63b62ce874d.png"
         },
         {
+            "chainId": 9745,
+            "address": "0x6695c0f8706C5ACe3Bdf8995073179cCA47926dc",
+            "name": "Yuzu USD",
+            "symbol": "yzUSD",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/70558/large/yzusd.png?1762518733"
+        },
+        {
             "chainId": 34443,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -20742,6 +20750,14 @@
             "symbol": "esdeUSD-2",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfecebf56f150a68ddd197c3a6101da35c46693ac.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x1F0570a081FeE0e4dF6eAC470f9d2D53CDEDa1c5",
+            "name": "Gami USDC",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xffe8b2295cef70290819a8193834cc7900bcef5f.png"
         },
         {
             "chainId": 11155111,
