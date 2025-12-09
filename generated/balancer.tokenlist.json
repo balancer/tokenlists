@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 482
+        "patch": 483
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-12-03T15:04:25.141Z",
+    "timestamp": "2025-12-09T14:16:55.007Z",
     "tokens": [
         {
             "chainId": 1,
@@ -17351,6 +17351,13 @@
             "symbol": "GHO",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/30663/large/gho-token-logo.png?1720517092"
+        },
+        {
+            "chainId": 9745,
+            "address": "0x9d86B4fc23D8438fC4Aba58642DC35D5F64fE941",
+            "name": "EVK Vault eUSDT0-30",
+            "symbol": "eUSDT0-30",
+            "decimals": 6
         },
         {
             "chainId": 34443,
