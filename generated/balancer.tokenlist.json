@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 483
+        "patch": 484
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-12-09T14:16:55.007Z",
+    "timestamp": "2025-12-09T20:31:40.377Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8135,6 +8135,14 @@
             "symbol": "EDEN",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/68283/large/eden.png?1755242478"
+        },
+        {
+            "chainId": 1,
+            "address": "0xab5eB14c09D416F0aC63661E57EDB7AEcDb9BEfA",
+            "name": "Metronome Synth USD",
+            "symbol": "msUSD",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/67504/large/metronome_msusd.png?1753015705"
         },
         {
             "chainId": 10,
