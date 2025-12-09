@@ -37,4 +37,5 @@ export default [
   '0x888888bab58a7bd3068110749bc7b63b62ce874d', // schUSD
   '0x6695c0f8706c5ace3bdf8995073179cca47926dc', // yzUSD
   '0xb77e872a68c62cfc0dfb02c067ecc3da23b4bbf3', // GHO
+  '0x9d86B4fc23D8438fC4Aba58642DC35D5F64fE941', // EVK Vault eUSDT0-30
 ]
