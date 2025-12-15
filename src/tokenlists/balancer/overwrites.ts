@@ -1380,6 +1380,7 @@ export const overwrites: OverwritesForList = {
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6eaf19b2fc24552925db245f9ff613157a7dbb4c_43114.png',
     },
     '0x1F0570a081FeE0e4dF6eAC470f9d2D53CDEDa1c5': {
+      symbol: 'Gami-USDC',
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xffe8b2295cef70290819a8193834cc7900bcef5f.png',
     },
