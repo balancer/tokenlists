@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 484
+        "patch": 485
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-12-09T20:31:40.377Z",
+    "timestamp": "2025-12-15T12:07:31.850Z",
     "tokens": [
         {
             "chainId": 1,
@@ -20778,7 +20778,7 @@
             "chainId": 43114,
             "address": "0x1F0570a081FeE0e4dF6eAC470f9d2D53CDEDa1c5",
             "name": "Gami USDC",
-            "symbol": "USDC",
+            "symbol": "Gami-USDC",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xffe8b2295cef70290819a8193834cc7900bcef5f.png"
         },
