@@ -1050,5 +1050,5 @@ export default [
   '0x24a3d725c37a8d1a66eb87f0e5d07fe67c120035', // EDEN
   '0xab5eb14c09d416f0ac63661e57edb7aecdb9befa', // msUSD Metronome
   '0x4ba01f22827018b4772cd326c7627fb4956a7c00', // msUSD Mainstreet
-  '0x890a5122aa1da30fec4286de7904ff808f0bd74a' //msY
+  '0x890a5122aa1da30fec4286de7904ff808f0bd74a', //msY
 ]
