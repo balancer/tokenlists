@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 485
+        "patch": 486
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-12-15T12:07:31.850Z",
+    "timestamp": "2025-12-17T18:29:53.804Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8143,6 +8143,22 @@
             "symbol": "msUSD",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/67504/large/metronome_msusd.png?1753015705"
+        },
+        {
+            "chainId": 1,
+            "address": "0x4ba01f22827018b4772CD326C7627FB4956A7C00",
+            "name": "msUSD",
+            "symbol": "msUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4ba01f22827018b4772cd326c7627fb4956a7c00.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x890A5122Aa1dA30fEC4286DE7904Ff808F0bd74A",
+            "name": "msY",
+            "symbol": "msY",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x890a5122aa1da30fec4286de7904ff808f0bd74a.png"
         },
         {
             "chainId": 10,
