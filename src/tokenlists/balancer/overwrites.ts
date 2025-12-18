@@ -833,6 +833,10 @@ export const overwrites: OverwritesForList = {
     },
   },
   [Network.Base]: {
+    '0xd91857eeB279922CC72b6b3f543aeA6Ca465F5a5': {
+      logoURI:
+        'https://coin-images.coingecko.com/coins/images/70725/large/MEOW_200.png?1763269229',
+    },
     '0xE9185Ee218cae427aF7B9764A011bb89FeA761B4': {
       extensions: {
         coingeckoId: 'brz',
