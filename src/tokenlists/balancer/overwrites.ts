@@ -833,6 +833,10 @@ export const overwrites: OverwritesForList = {
     },
   },
   [Network.Base]: {
+    '0xF0Cb96a4011A0A6F73d100c7080Bf8020D10F87a': {
+      logoURI:
+        'https://coin-images.coingecko.com/coins/images/70333/large/MLS_200.png?1761626161',
+    },
     '0xE9185Ee218cae427aF7B9764A011bb89FeA761B4': {
       extensions: {
         coingeckoId: 'brz',
