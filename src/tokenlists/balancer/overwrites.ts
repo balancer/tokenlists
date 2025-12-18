@@ -833,6 +833,10 @@ export const overwrites: OverwritesForList = {
     },
   },
   [Network.Base]: {
+    '0x3aD8539Cf0E010c77d276Fb197061AC613511cAE': {
+      logoURI:
+        'https://coin-images.coingecko.com/coins/images/71113/large/MOON_logo_200x200.png?1765816703',
+    },
     '0xE9185Ee218cae427aF7B9764A011bb89FeA761B4': {
       extensions: {
         coingeckoId: 'brz',
