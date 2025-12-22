@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 486
+        "patch": 487
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-12-17T18:29:53.804Z",
+    "timestamp": "2025-12-22T18:34:45.093Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7283,7 +7283,7 @@
         {
             "chainId": 1,
             "address": "0xbdC7c08592Ee4aa51D06C27Ee23D5087D65aDbcD",
-            "name": "Lift Dollar",
+            "name": "Lift Dollar - Deprecated",
             "symbol": "USDL",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/38484/large/USDL-Token-200px.png?1725022887"
@@ -8159,6 +8159,14 @@
             "symbol": "msY",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x890a5122aa1da30fec4286de7904ff808f0bd74a.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xc8CF6D7991f15525488b2A83Df53468D682Ba4B0",
+            "name": "Staked Falcon USD",
+            "symbol": "sUSDf",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc8cf6d7991f15525488b2a83df53468d682ba4b0.png"
         },
         {
             "chainId": 10,
