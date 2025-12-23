@@ -833,6 +833,10 @@ export const overwrites: OverwritesForList = {
     },
   },
   [Network.Base]: {
+    '0x1111111111166b7FE7bd91427724B487980aFc69': {
+      logoURI:
+        'https://coin-images.coingecko.com/coins/images/54693/large/zora.jpg?1741094751',
+    },
     '0xE9185Ee218cae427aF7B9764A011bb89FeA761B4': {
       extensions: {
         coingeckoId: 'brz',
