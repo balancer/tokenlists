@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 487
+        "patch": 488
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-12-22T18:34:45.093Z",
+    "timestamp": "2025-12-30T15:32:38.918Z",
     "tokens": [
         {
             "chainId": 1,
@@ -17043,6 +17043,38 @@
             "symbol": "IDRX",
             "decimals": 2,
             "logoURI": "https://coin-images.coingecko.com/coins/images/34883/large/IDRX_BLUE_COIN_200x200.png?1734983273"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x1111111111166b7FE7bd91427724B487980aFc69",
+            "name": "Zora",
+            "symbol": "ZORA",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/54693/large/zora.jpg?1741094751"
+        },
+        {
+            "chainId": 8453,
+            "address": "0xd91857eeB279922CC72b6b3f543aeA6Ca465F5a5",
+            "name": "Meow on Zora",
+            "symbol": "MEOW",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/70725/large/MEOW_200.png?1763269229"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x3aD8539Cf0E010c77d276Fb197061AC613511cAE",
+            "name": "Lightspeed to the Moon!!!",
+            "symbol": "MOON",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/71113/large/MOON_logo_200x200.png?1765816703"
+        },
+        {
+            "chainId": 8453,
+            "address": "0xF0Cb96a4011A0A6F73d100c7080Bf8020D10F87a",
+            "name": "mr_lightspeed",
+            "symbol": "mr_lightspeed",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/70333/large/MLS_200.png?1761626161"
         },
         {
             "chainId": 9745,
