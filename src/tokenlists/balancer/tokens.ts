@@ -15,6 +15,7 @@ import mode from './tokens/mode'
 import sonic from './tokens/sonic'
 import plasma from './tokens/plasma'
 import xlayer from './tokens/xlayer'
+import monad from './tokens/monad'
 
 export const tokens: TokensForList = {
   [Network.Ethereum]: ethereum,
@@ -33,4 +34,5 @@ export const tokens: TokensForList = {
   [Network.HyperEVM]: hyperevm,
   [Network.Plasma]: plasma,
   [Network.XLayer]: xlayer,
+  [Network.Monad]: monad,
 }

@@ -15,6 +15,7 @@ import mode from './mode'
 import sonic from './sonic'
 import plasma from './plasma'
 import xlayer from './xlayer'
+import monad from './monad'
 
 const config: Configs = {
   [Network.Arbitrum]: arbitrum,
@@ -33,6 +34,7 @@ const config: Configs = {
   [Network.HyperEVM]: hyperevm,
   [Network.Plasma]: plasma,
   [Network.XLayer]: xlayer,
+  [Network.Monad]: monad,
 }
 
 export default config
