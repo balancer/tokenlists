@@ -17,6 +17,7 @@ export enum Network {
   Sonic = '146',
   Plasma = '9745',
   XLayer = '196',
+  Monad = '143',
 }
 
 export interface Config {
