@@ -1050,6 +1050,8 @@ export default [
   '0x24a3d725c37a8d1a66eb87f0e5d07fe67c120035', // EDEN
   '0xab5eb14c09d416f0ac63661e57edb7aecdb9befa', // msUSD Metronome
   '0x4ba01f22827018b4772cd326c7627fb4956a7c00', // msUSD Mainstreet
-  '0x890a5122aa1da30fec4286de7904ff808f0bd74a', //msY
-  '0xc8cf6d7991f15525488b2a83df53468d682ba4b0', //susdf
+  '0x890a5122aa1da30fec4286de7904ff808f0bd74a', // msY
+  '0xc8cf6d7991f15525488b2a83df53468d682ba4b0', // susdf
+  '0x8c1bed5b9a0928467c9b1341da1d7bd5e10b6549', // lsETH
+  '0xBb50A5341368751024ddf33385BA8cf61fE65FF9', // kpk-morpho-weth
 ]
