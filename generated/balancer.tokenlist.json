@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 491
+        "patch": 492
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-02-03T17:03:06.117Z",
+    "timestamp": "2026-02-03T21:42:11.859Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12656,35 +12656,40 @@
             "address": "0x484be0540aD49f351eaa04eeB35dF0f937D4E73f",
             "name": "Staked Yuzu USD",
             "symbol": "syzUSD",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x484be0540ad49f351eaa04eeb35df0f937d4e73f.png"
         },
         {
             "chainId": 143,
             "address": "0x9dcB0D17eDDE04D27F387c89fECb78654C373858",
             "name": "Yuzu USD",
             "symbol": "yzUSD",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9dcb0d17edde04d27f387c89fecb78654c373858.png"
         },
         {
             "chainId": 143,
             "address": "0x8E94704607E857eB3E10Bd21D90bf8C1Ecba0452",
             "name": "Curvance AUSD",
             "symbol": "cAUSD",
-            "decimals": 6
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x8e94704607e857eb3e10bd21d90bf8c1ecba0452.png"
         },
         {
             "chainId": 143,
             "address": "0x8498312A6B3CbD158bf0c93AbdCF29E6e4F55081",
             "name": "gMON",
             "symbol": "gMON",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x8498312a6b3cbd158bf0c93abdcf29e6e4f55081.png"
         },
         {
             "chainId": 143,
             "address": "0xf473568b26B8C5aadCa9fbC0eA17E1728d5ec925",
             "name": "Curvance Wrapped MON",
             "symbol": "cWMON",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf473568b26b8c5aadca9fbc0ea17e1728d5ec925.png"
         },
         {
             "chainId": 143,
@@ -12699,7 +12704,8 @@
             "address": "0x0fcEd51b526BfA5619F83d97b54a57e3327eB183",
             "name": "Curvance Wrapped MON",
             "symbol": "cWMON",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0fced51b526bfa5619f83d97b54a57e3327eb183.png"
         },
         {
             "chainId": 146,
