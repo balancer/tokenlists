@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 489
+        "patch": 490
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-01-28T16:20:51.932Z",
+    "timestamp": "2026-02-03T16:22:09.823Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8169,6 +8169,21 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc8cf6d7991f15525488b2a83df53468d682ba4b0.png"
         },
         {
+            "chainId": 1,
+            "address": "0x8c1BEd5b9a0928467c9B1341Da1D7BD5e10b6549",
+            "name": "Liquid Staked ETH",
+            "symbol": "LsETH",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/28848/large/LsETH-receipt-token-circle.png?1696527824"
+        },
+        {
+            "chainId": 1,
+            "address": "0xBb50A5341368751024ddf33385BA8cf61fE65FF9",
+            "name": "kpk ETH Prime V2",
+            "symbol": "kpk_ETH_PrimeV2",
+            "decimals": 18
+        },
+        {
             "chainId": 10,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -12635,6 +12650,42 @@
             "symbol": "USDC",
             "decimals": 6,
             "logoURI": "https://coin-images.coingecko.com/coins/images/6319/large/USDC.png?1769615602"
+        },
+        {
+            "chainId": 143,
+            "address": "0x8E94704607E857eB3E10Bd21D90bf8C1Ecba0452",
+            "name": "Curvance AUSD",
+            "symbol": "cAUSD",
+            "decimals": 6
+        },
+        {
+            "chainId": 143,
+            "address": "0x8498312A6B3CbD158bf0c93AbdCF29E6e4F55081",
+            "name": "gMON",
+            "symbol": "gMON",
+            "decimals": 18
+        },
+        {
+            "chainId": 143,
+            "address": "0xf473568b26B8C5aadCa9fbC0eA17E1728d5ec925",
+            "name": "Curvance Wrapped MON",
+            "symbol": "cWMON",
+            "decimals": 18
+        },
+        {
+            "chainId": 143,
+            "address": "0x1B68626dCa36c7fE922fD2d55E4f631d962dE19c",
+            "name": "ShMonad",
+            "symbol": "shMON",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/70837/large/SHMONAD_ICON_%281%29.png?1764108788"
+        },
+        {
+            "chainId": 143,
+            "address": "0x0fcEd51b526BfA5619F83d97b54a57e3327eB183",
+            "name": "Curvance Wrapped MON",
+            "symbol": "cWMON",
+            "decimals": 18
         },
         {
             "chainId": 146,
