@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 492
+        "patch": 493
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-02-03T21:42:11.859Z",
+    "timestamp": "2026-02-09T20:05:41.069Z",
     "tokens": [
         {
             "chainId": 1,
@@ -17533,6 +17533,14 @@
             "name": "EVK Vault eUSDT0-30",
             "symbol": "eUSDT0-30",
             "decimals": 6
+        },
+        {
+            "chainId": 9745,
+            "address": "0xfdf91362B7E9330F232e500c0236a02B0DE3e492",
+            "name": "Stability",
+            "symbol": "STBL",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfdf91362b7e9330f232e500c0236a02b0de3e492.png"
         },
         {
             "chainId": 34443,
