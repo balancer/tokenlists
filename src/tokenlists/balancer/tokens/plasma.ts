@@ -38,4 +38,5 @@ export default [
   '0x6695c0f8706c5ace3bdf8995073179cca47926dc', // yzUSD
   '0xb77e872a68c62cfc0dfb02c067ecc3da23b4bbf3', // GHO
   '0x9d86B4fc23D8438fC4Aba58642DC35D5F64fE941', // EVK Vault eUSDT0-30
+  '0xfdf91362b7e9330f232e500c0236a02b0de3e492', // stbl
 ]
