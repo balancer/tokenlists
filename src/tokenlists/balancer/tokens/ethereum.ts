@@ -1058,7 +1058,10 @@ export default [
   '0x2d1f7226bd1f780af6b9a49dcc0ae00e8df4bdee', // NVIDIA (Ondo Tokenized)
   '0x59644165402b611b350645555b50afb581c71eb2', // Meta Platforms (Ondo Tokenized)
   '0xb812837b81a3a6b81d7cd74cfb19a7f2784555e5', // Microsoft (Ondo Tokenized)
-  '0xba47214edd2bb43099611b208f75e4b42fdcfedc', //Alphabet Class A (Ondo Tokenized)
+  '0xba47214edd2bb43099611b208f75e4b42fdcfedc', // Alphabet Class A (Ondo Tokenized)
   '0xbb8774fb97436d23d74c1b882e8e9a69322cfd31', // Amazon (Ondo Tokenized)
   '0xf6b1117ec07684d3958cad8beb1b302bfd21103f', // Tesla (Ondo Tokenized)
+  '0xc86168d2424d28942EE0866F043c1206bc9E4900', // jUSD
+  '0x4AA8949bb47da4b4F27345404Ba1e5E7EA90bdb3', // sjUSD
+  '0x4Ef53d2cAa51C447fdFEEedee8F07FD1962C9ee6', // kpk-morpho-usdc-prime
 ]
