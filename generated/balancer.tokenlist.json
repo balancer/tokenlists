@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 493
+        "patch": 494
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-02-09T20:05:41.069Z",
+    "timestamp": "2026-02-12T01:00:49.721Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8182,6 +8182,62 @@
             "name": "kpk ETH Prime V2",
             "symbol": "kpk_ETH_PrimeV2",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x14c3abF95Cb9C93a8b82C1CdCB76D72Cb87b2d4c",
+            "name": "Apple (Ondo Tokenized)",
+            "symbol": "AAPLon",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/68616/large/aaplon_160x160.png?1756130122"
+        },
+        {
+            "chainId": 1,
+            "address": "0x2D1F7226Bd1F780AF6B9A49DCC0aE00E8Df4bDEE",
+            "name": "NVIDIA (Ondo Tokenized)",
+            "symbol": "NVDAon",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/68623/large/nvdaon_160x160.png?1756130268"
+        },
+        {
+            "chainId": 1,
+            "address": "0x59644165402b611b350645555B50Afb581C71EB2",
+            "name": "Meta Platforms (Ondo Tokenized)",
+            "symbol": "METAon",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/68645/large/metaon_160x160.png?1756156152"
+        },
+        {
+            "chainId": 1,
+            "address": "0xB812837b81a3a6b81d7CD74CfB19A7f2784555E5",
+            "name": "Microsoft (Ondo Tokenized)",
+            "symbol": "MSFTon",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/68625/large/msfton_160x160.png?1756130286"
+        },
+        {
+            "chainId": 1,
+            "address": "0xbA47214eDd2bb43099611b208f75E4b42FDcfEDc",
+            "name": "Alphabet Class A (Ondo Tokenized)",
+            "symbol": "GOOGLon",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/68606/large/googlon_160x160.png?1756130033"
+        },
+        {
+            "chainId": 1,
+            "address": "0xbb8774FB97436d23d74C1b882E8E9A69322cFD31",
+            "name": "Amazon (Ondo Tokenized)",
+            "symbol": "AMZNon",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/68604/large/amznon_160x160.png?1756129958"
+        },
+        {
+            "chainId": 1,
+            "address": "0xf6b1117ec07684D3958caD8BEb1b302bfD21103f",
+            "name": "Tesla (Ondo Tokenized)",
+            "symbol": "TSLAon",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/68628/large/tslaon_160x160.png?1756130306"
         },
         {
             "chainId": 10,
