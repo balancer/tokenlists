@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 494
+        "patch": 495
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-02-12T01:00:49.721Z",
+    "timestamp": "2026-02-13T15:16:59.412Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8181,7 +8181,8 @@
             "address": "0xBb50A5341368751024ddf33385BA8cf61fE65FF9",
             "name": "kpk ETH Prime V2",
             "symbol": "kpk_ETH_PrimeV2",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xbb50a5341368751024ddf33385ba8cf61fe65ff9.png"
         },
         {
             "chainId": 1,
@@ -8238,6 +8239,30 @@
             "symbol": "TSLAon",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/68628/large/tslaon_160x160.png?1756130306"
+        },
+        {
+            "chainId": 1,
+            "address": "0xc86168d2424d28942EE0866F043c1206bc9E4900",
+            "name": "JUSD",
+            "symbol": "JUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc86168d2424d28942ee0866f043c1206bc9e4900.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x4AA8949bb47da4b4F27345404Ba1e5E7EA90bdb3",
+            "name": "Staked JUSD",
+            "symbol": "sJUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4aa8949bb47da4b4f27345404ba1e5e7ea90bdb3.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x4Ef53d2cAa51C447fdFEEedee8F07FD1962C9ee6",
+            "name": "kpk USDC Prime V2",
+            "symbol": "kpk_USDC_PrimeV2",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4ef53d2caa51c447fdfeeedee8f07fd1962c9ee6.png"
         },
         {
             "chainId": 10,
