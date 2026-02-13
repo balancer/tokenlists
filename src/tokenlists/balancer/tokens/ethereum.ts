@@ -1063,5 +1063,5 @@ export default [
   '0xf6b1117ec07684d3958cad8beb1b302bfd21103f', // Tesla (Ondo Tokenized)
   '0xc86168d2424d28942ee0866f043c1206bc9e4900', // jUSD
   '0x4aa8949bb47da4b4f27345404ba1e5e7ea90bdb3', // sjUSD
-  '0x4ef53d2caa51c447fdfeedee8f07fd1962c9ee6', // kpk-morpho-usdc-prime
+  '0x4ef53d2caa51c447fdfeeedee8f07fd1962c9ee6', // kpk-morpho-usdc-prime
 ]
