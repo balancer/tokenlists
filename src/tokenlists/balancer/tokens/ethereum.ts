@@ -1053,12 +1053,15 @@ export default [
   '0x890a5122aa1da30fec4286de7904ff808f0bd74a', // msY
   '0xc8cf6d7991f15525488b2a83df53468d682ba4b0', // susdf
   '0x8c1bed5b9a0928467c9b1341da1d7bd5e10b6549', // lsETH
-  '0xBb50A5341368751024ddf33385BA8cf61fE65FF9', // kpk-morpho-weth
+  '0xbb50a5341368751024ddf33385ba8cf61fe65ff9', // kpk-morpho-weth
   '0x14c3abf95cb9c93a8b82c1cdcb76d72cb87b2d4c', // Apple (Ondo Tokenized)
   '0x2d1f7226bd1f780af6b9a49dcc0ae00e8df4bdee', // NVIDIA (Ondo Tokenized)
   '0x59644165402b611b350645555b50afb581c71eb2', // Meta Platforms (Ondo Tokenized)
   '0xb812837b81a3a6b81d7cd74cfb19a7f2784555e5', // Microsoft (Ondo Tokenized)
-  '0xba47214edd2bb43099611b208f75e4b42fdcfedc', //Alphabet Class A (Ondo Tokenized)
+  '0xba47214edd2bb43099611b208f75e4b42fdcfedc', // Alphabet Class A (Ondo Tokenized)
   '0xbb8774fb97436d23d74c1b882e8e9a69322cfd31', // Amazon (Ondo Tokenized)
   '0xf6b1117ec07684d3958cad8beb1b302bfd21103f', // Tesla (Ondo Tokenized)
+  '0xc86168d2424d28942ee0866f043c1206bc9e4900', // jUSD
+  '0x4aa8949bb47da4b4f27345404ba1e5e7ea90bdb3', // sjUSD
+  '0x4ef53d2caa51c447fdfeeedee8f07fd1962c9ee6', // kpk-morpho-usdc-prime
 ]
