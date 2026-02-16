@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 495
+        "patch": 496
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-02-13T15:16:59.412Z",
+    "timestamp": "2026-02-16T14:58:59.247Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12787,6 +12787,91 @@
             "symbol": "cWMON",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0fced51b526bfa5619f83d97b54a57e3327eb183.png"
+        },
+        {
+            "chainId": 143,
+            "address": "0xA3227C5969757783154C60bF0bC1944180ed81B9",
+            "name": "Kintsu Staked Monad",
+            "symbol": "sMON",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/70835/large/sMON_%281%29.png?1764091581"
+        },
+        {
+            "chainId": 143,
+            "address": "0x4917a5ec9fCb5e10f47CBB197aBe6aB63be81fE8",
+            "name": "Asian Dollar",
+            "symbol": "AZND",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/70762/large/AZND_4x.png?1763565962"
+        },
+        {
+            "chainId": 143,
+            "address": "0x9c82eB49B51F7Dc61e22Ff347931CA32aDc6cd90",
+            "name": "Locked AZND",
+            "symbol": "loAZND",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/70764/large/loAZND_4x.png?1763566149"
+        },
+        {
+            "chainId": 143,
+            "address": "0x336D414754967C6682B5A665C7DAF6F1409E63e8",
+            "name": "mu Bond",
+            "symbol": "muBOND",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/70763/large/muBOND_4x.png?1763566024"
+        },
+        {
+            "chainId": 143,
+            "address": "0xD786F7569C39A9F64E6A54Eb77db21364E90F279",
+            "name": "Wrapped Neverland loAZND",
+            "symbol": "wnLOAZND",
+            "decimals": 18
+        },
+        {
+            "chainId": 143,
+            "address": "0x82c370ba90E38ef6Acd8b1b078d34fD86FC6bAC9",
+            "name": "Wrapped Neverland AUSD",
+            "symbol": "wnAUSD",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x82c370ba90e38ef6acd8b1b078d34fd86fc6bac9.png"
+        },
+        {
+            "chainId": 143,
+            "address": "0x8d5c2Df3Eef09088Fcccf3376D8EcD0Dd505f642",
+            "name": "Wrapped Neverland USDC",
+            "symbol": "wnUSDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x8d5c2df3eef09088fcccf3376d8ecd0dd505f642.png"
+        },
+        {
+            "chainId": 143,
+            "address": "0x4e8aaecCE10ad9394e96fE5f2bd4e587A7B04298",
+            "name": "Wrapped Neverland USDT0",
+            "symbol": "wnUSDT0",
+            "decimals": 6
+        },
+        {
+            "chainId": 143,
+            "address": "0xAD96C3dffCD6374294e2573A7fBBA96097CC8d7c",
+            "name": "Pixie Dust",
+            "symbol": "DUST",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/71148/large/dust_200.png?1765996628"
+        },
+        {
+            "chainId": 143,
+            "address": "0xdB39A9D4a1f1b4e93A5684d602207628aD60613C",
+            "name": "Wrapped Neverland WMON",
+            "symbol": "wnWMON",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdb39a9d4a1f1b4e93a5684d602207628ad60613c.png"
+        },
+        {
+            "chainId": 143,
+            "address": "0x4809010926aec940b550D34a46A52739f996D75D",
+            "name": "Wrapped Savings rUSD",
+            "symbol": "wsrUSD",
+            "decimals": 18
         },
         {
             "chainId": 146,
