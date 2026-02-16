@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 495
+        "patch": 496
     },
     "keywords": [
         "Balancer",
@@ -21416,13 +21416,6 @@
         },
         {
             "chainId": 11155111,
-            "address": "0x779877A7B0D9E8603169DdbD7836e478b4624789",
-            "name": "ChainLink Token",
-            "symbol": "LINK",
-            "decimals": 18
-        },
-        {
-            "chainId": 11155111,
             "address": "0x29f2D40B0605204364af54EC677bD022dA425d03",
             "name": "WBTC",
             "symbol": "WBTC",
@@ -21430,6 +21423,13 @@
             "extensions": {
                 "coingeckoId": "wrapped-bitcoin"
             }
+        },
+        {
+            "chainId": 11155111,
+            "address": "0x779877A7B0D9E8603169DdbD7836e478b4624789",
+            "name": "ChainLink Token",
+            "symbol": "LINK",
+            "decimals": 18
         }
     ]
 }
