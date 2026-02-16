@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 496
+        "patch": 497
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-02-16T14:58:59.247Z",
+    "timestamp": "2026-02-16T19:25:17.951Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12825,7 +12825,8 @@
             "address": "0xD786F7569C39A9F64E6A54Eb77db21364E90F279",
             "name": "Wrapped Neverland loAZND",
             "symbol": "wnLOAZND",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd786f7569c39a9f64e6a54eb77db21364e90f279.png"
         },
         {
             "chainId": 143,
@@ -12848,7 +12849,8 @@
             "address": "0x4e8aaecCE10ad9394e96fE5f2bd4e587A7B04298",
             "name": "Wrapped Neverland USDT0",
             "symbol": "wnUSDT0",
-            "decimals": 6
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4e8aaecce10ad9394e96fe5f2bd4e587a7b04298.png"
         },
         {
             "chainId": 143,
