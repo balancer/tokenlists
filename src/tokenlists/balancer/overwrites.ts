@@ -1448,6 +1448,13 @@ export const overwrites: OverwritesForList = {
       },
     },
   },
+  [Network.Monad]: {
+    '0x484be0540ad49f351eaa04eeb35df0f937d4e73f': {
+      extensions: {
+        coingeckoId: 'staked-yuzu-usd',
+      },
+    },
+  },
   [Network.Sonic]: {
     '0xc76995054ce51dfbbc954840d699b2f33d2538ee': {
       logoURI:
