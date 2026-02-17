@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 497
+        "patch": 498
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-02-16T19:25:17.951Z",
+    "timestamp": "2026-02-17T18:07:59.327Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12738,7 +12738,10 @@
             "name": "Staked Yuzu USD",
             "symbol": "syzUSD",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x484be0540ad49f351eaa04eeb35df0f937d4e73f.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x484be0540ad49f351eaa04eeb35df0f937d4e73f.png",
+            "extensions": {
+                "coingeckoId": "staked-yuzu-usd"
+            }
         },
         {
             "chainId": 143,
