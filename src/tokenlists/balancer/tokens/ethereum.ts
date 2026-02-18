@@ -1064,4 +1064,7 @@ export default [
   '0xc86168d2424d28942ee0866f043c1206bc9e4900', // jUSD
   '0x4aa8949bb47da4b4f27345404ba1e5e7ea90bdb3', // sjUSD
   '0x4ef53d2caa51c447fdfeeedee8f07fd1962c9ee6', // kpk-morpho-usdc-prime
+  '0x4274cd7277c7bb0806bd5fe84b9adae466a8da0a', // YUSD
+  '0xfe0ccc9942e98c963fe6b4e5194eb6e3baa4cb64', // sYUSD
+  '0xd5cce260e7a755ddf0fb9cdf06443d593aaeaa13', // kpk-morpho-usdc-yield
 ]
