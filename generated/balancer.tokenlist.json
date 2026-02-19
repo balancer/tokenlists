@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 499
+        "patch": 500
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-02-19T14:02:36.465Z",
+    "timestamp": "2026-02-19T15:22:08.429Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12901,6 +12901,14 @@
             "name": "Wrapped Savings rUSD",
             "symbol": "wsrUSD",
             "decimals": 18
+        },
+        {
+            "chainId": 143,
+            "address": "0xe7cd86e13AC4309349F30B3435a9d337750fC82D",
+            "name": "USDT0",
+            "symbol": "USDT0",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe7cd86e13ac4309349f30b3435a9d337750fc82d.png"
         },
         {
             "chainId": 146,
