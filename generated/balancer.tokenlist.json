@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 498
+        "patch": 499
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-02-17T18:07:59.327Z",
+    "timestamp": "2026-02-19T14:02:36.465Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8265,6 +8265,30 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4ef53d2caa51c447fdfeeedee8f07fd1962c9ee6.png"
         },
         {
+            "chainId": 1,
+            "address": "0x4274cD7277C7bb0806Bd5FE84b9aDAE466a8DA0a",
+            "name": "YUSD",
+            "symbol": "YUSD",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/55085/large/LOGO_YUSD_BLACK.png?1756548564"
+        },
+        {
+            "chainId": 1,
+            "address": "0xfE0ccc9942E98C963Fe6b4e5194EB6e3Baa4cb64",
+            "name": "Staked YUSD",
+            "symbol": "sYUSD",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/69737/large/sYUSD.png?1759476764"
+        },
+        {
+            "chainId": 1,
+            "address": "0xD5cCe260E7a755DDf0Fb9cdF06443d593AaeaA13",
+            "name": "kpk USDC Yield V2",
+            "symbol": "kpk_USDC_YieldV2",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd5cce260e7a755ddf0fb9cdf06443d593aaeaa13.png"
+        },
+        {
             "chainId": 10,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -15878,6 +15902,14 @@
             "symbol": "stathyWHYPE",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x3df418be6dad3f824d00a7c516dad3ea2a5a79c6.png"
+        },
+        {
+            "chainId": 999,
+            "address": "0xe8b10461ea0b04FF30F4cBfc3E93957Cac00DEd4",
+            "name": "HypurrFi Earn HYPE",
+            "symbol": "purrHYPE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe8b10461ea0b04ff30f4cbfc3e93957cac00ded4.png"
         },
         {
             "chainId": 1101,
