@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 501
+        "patch": 502
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-02-20T14:50:53.013Z",
+    "timestamp": "2026-02-20T15:27:04.224Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8287,6 +8287,22 @@
             "symbol": "kpk_USDC_YieldV2",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd5cce260e7a755ddf0fb9cdf06443d593aaeaa13.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xE5F130253fF137f9917C0107659A4c5262abf6b0",
+            "name": "SavingsVault ZCHF",
+            "symbol": "svZCHF",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe5f130253ff137f9917c0107659a4c5262abf6b0.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xe4a10951f962e6cB93Cb843a4ef05d2F99DB1F94",
+            "name": "Sagix Club Edelweiss",
+            "symbol": "ixEdel",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe4a10951f962e6cb93cb843a4ef05d2f99db1f94.png"
         },
         {
             "chainId": 10,
