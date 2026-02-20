@@ -1067,4 +1067,5 @@ export default [
   '0x4274cd7277c7bb0806bd5fe84b9adae466a8da0a', // YUSD
   '0xfe0ccc9942e98c963fe6b4e5194eb6e3baa4cb64', // sYUSD
   '0xd5cce260e7a755ddf0fb9cdf06443d593aaeaa13', // kpk-morpho-usdc-yield
+  '0xe5f130253ff137f9917c0107659a4c5262abf6b0', // svZCHF
 ]
