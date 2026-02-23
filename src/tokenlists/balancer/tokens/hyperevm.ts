@@ -57,4 +57,5 @@ export default [
   '0x20ecF3936Df08556b62fD15a4E167ae99d73b957', // statahyUSDH
   '0x3df418be6dad3f824d00a7c516dad3ea2a5a79c6', // statahyHYPE
   '0xe8b10461ea0b04ff30f4cbfc3e93957cac00ded4', // purrHype
+  '0xc200aab602cd7046389b5c8fb088884323f8dd0f', // EVK Vault eUSDC-3
 ]
