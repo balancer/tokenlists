@@ -1069,4 +1069,6 @@ export default [
   '0xd5cce260e7a755ddf0fb9cdf06443d593aaeaa13', // kpk-morpho-usdc-yield
   '0xe4a10951f962e6cb93cb843a4ef05d2f99db1f94', // ixEdel
   '0xe5f130253ff137f9917c0107659a4c5262abf6b0', // svZCHF
+  '0x58d97b57bb95320f9a05dc918aef65434969c2b2', // morpho
+  '0x643c4e15d7d62ad0abec4a9bd4b001aa3ef52d66', // syrup
 ]
