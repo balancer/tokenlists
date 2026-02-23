@@ -148,4 +148,5 @@ export default [
   '0xe90fe2de4a415ad48b6dcec08ba6ae98231948ac', // trevee
   '0x618383942cabb00aa3a13101b825a703dc082752', // msy
   '0x2dDCF85D3Cf27DEA338e0371D38409Ba80058630', // wslt
+  '0x5dd1a7a369e8273371d2dbf9d83356057088082c', // FT
 ]
