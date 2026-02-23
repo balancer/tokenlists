@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 503
+        "patch": 504
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-02-20T15:48:59.655Z",
+    "timestamp": "2026-02-23T13:36:04.789Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14188,6 +14188,14 @@
             "decimals": 18
         },
         {
+            "chainId": 146,
+            "address": "0x5DD1A7A369e8273371d2DBf9d83356057088082c",
+            "name": "Flying Tulip",
+            "symbol": "FT",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/68285/large/FlyingTulip_FT_200px.png?1759802398"
+        },
+        {
             "chainId": 196,
             "address": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
             "name": "Wrapped OKB",
@@ -15942,6 +15950,14 @@
             "symbol": "purrHYPE",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe8b10461ea0b04ff30f4cbfc3e93957cac00ded4.png"
+        },
+        {
+            "chainId": 999,
+            "address": "0xC200AaB602Cd7046389B5C8FB088884323F8dD0f",
+            "name": "EVK Vault eUSDC-3",
+            "symbol": "eUSDC-3",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc200aab602cd7046389b5c8fb088884323f8dd0f.png"
         },
         {
             "chainId": 1101,
