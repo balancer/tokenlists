@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 504
+        "patch": 505
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-02-23T13:36:04.789Z",
+    "timestamp": "2026-02-23T15:48:36.940Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8303,6 +8303,22 @@
             "symbol": "svZCHF",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe5f130253ff137f9917c0107659a4c5262abf6b0.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x58D97B57BB95320F9a05dC918Aef65434969c2B2",
+            "name": "Morpho Token",
+            "symbol": "MORPHO",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/29837/large/Morpho-token-icon.png?1726771230"
+        },
+        {
+            "chainId": 1,
+            "address": "0x643C4E15d7d62Ad0aBeC4a9BD4b001aA3Ef52d66",
+            "name": "Syrup Token",
+            "symbol": "SYRUP",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/51232/large/_syrup_token_logo.png?1747292046"
         },
         {
             "chainId": 10,
