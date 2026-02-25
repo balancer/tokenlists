@@ -2075,6 +2075,9 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/msY.png',
     },
+    '0x5DD1A7A369e8273371d2DBf9d83356057088082c': {
+      extensions: { coingeckoId: 'flying-tulip' },
+    },
   },
   [Network.Plasma]: {
     '0x6eAf19b2FC24552925dB245F9Ff613157a7dbb4C': {
