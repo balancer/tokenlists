@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 505
+        "patch": 506
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-02-23T15:48:36.940Z",
+    "timestamp": "2026-02-25T16:26:21.365Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14209,7 +14209,10 @@
             "name": "Flying Tulip",
             "symbol": "FT",
             "decimals": 18,
-            "logoURI": "https://coin-images.coingecko.com/coins/images/68285/large/FlyingTulip_FT_200px.png?1759802398"
+            "logoURI": "https://coin-images.coingecko.com/coins/images/68285/large/FlyingTulip_FT_200px.png?1759802398",
+            "extensions": {
+                "coingeckoId": "flying-tulip"
+            }
         },
         {
             "chainId": 196,
@@ -17453,6 +17456,22 @@
             "symbol": "mr_lightspeed",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/70333/large/MLS_200.png?1761626161"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x22aF33FE49fD1Fa80c7149773dDe5890D3c76F3b",
+            "name": "BankrCoin",
+            "symbol": "BNKR",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/52626/large/bankr-static.png?1736405365"
+        },
+        {
+            "chainId": 8453,
+            "address": "0xacfE6019Ed1A7Dc6f7B508C02d1b04ec88cC21bf",
+            "name": "Venice Token",
+            "symbol": "VVV",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/54023/large/VVV_Token_Transparent.png?1741856877"
         },
         {
             "chainId": 9745,
