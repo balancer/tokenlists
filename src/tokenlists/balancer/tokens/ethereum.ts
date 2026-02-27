@@ -1071,4 +1071,5 @@ export default [
   '0xe5f130253ff137f9917c0107659a4c5262abf6b0', // svZCHF
   '0x58d97b57bb95320f9a05dc918aef65434969c2b2', // morpho
   '0x643c4e15d7d62ad0abec4a9bd4b001aa3ef52d66', // syrup
+  '0xe108fbc04852b5df72f9e44d7c29f47e7a993add', // kpk-morpho-usdc-prime-v1.1
 ]
