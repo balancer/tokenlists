@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 506
+        "patch": 507
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-02-25T16:26:21.365Z",
+    "timestamp": "2026-02-27T16:10:32.307Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8319,6 +8319,14 @@
             "symbol": "SYRUP",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/51232/large/_syrup_token_logo.png?1747292046"
+        },
+        {
+            "chainId": 1,
+            "address": "0xe108fbc04852B5df72f9E44d7C29F47e7A993aDd",
+            "name": " kpk USDC Prime",
+            "symbol": "kpk_USDC_Prime",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe108fbc04852b5df72f9e44d7c29f47e7a993add.png"
         },
         {
             "chainId": 10,
