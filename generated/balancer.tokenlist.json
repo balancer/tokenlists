@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 508
+        "patch": 509
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-03-02T16:50:21.495Z",
+    "timestamp": "2026-03-02T17:30:58.404Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12955,21 +12955,24 @@
             "address": "0x5e073494678fB7FA4a05bB17d45941Dd9Dc469c1",
             "name": "Wrapped Neverland shMON",
             "symbol": "wnSHMON",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5e073494678fb7fa4a05bb17d45941dd9dc469c1.png"
         },
         {
             "chainId": 143,
             "address": "0x08139339dd9A480CEB84D9C7CcE48BE436dB20b3",
             "name": "Wrapped Neverland sMON",
             "symbol": "wnSMON",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x08139339dd9a480ceb84d9c7cce48be436db20b3.png"
         },
         {
             "chainId": 143,
             "address": "0x29D2075E5151B1A6863bDC40EA86bD5e8aFd1705",
             "name": "Wrapped Neverland gMON",
             "symbol": "wnGMON",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x29d2075e5151b1a6863bdc40ea86bd5e8afd1705.png"
         },
         {
             "chainId": 146,
