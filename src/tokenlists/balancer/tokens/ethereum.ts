@@ -1072,4 +1072,5 @@ export default [
   '0x58d97b57bb95320f9a05dc918aef65434969c2b2', // morpho
   '0x643c4e15d7d62ad0abec4a9bd4b001aa3ef52d66', // syrup
   '0xe108fbc04852b5df72f9e44d7c29f47e7a993add', // kpk-morpho-usdc-prime-v1.1
+  '0xc582f04d8a82795aa2ff9c8bb4c1c889fe7b754e', // morpho-gauntlet-usdc-frontier
 ]
