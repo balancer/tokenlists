@@ -2078,6 +2078,9 @@ export const overwrites: OverwritesForList = {
     '0x5DD1A7A369e8273371d2DBf9d83356057088082c': {
       extensions: { coingeckoId: 'flying-tulip' },
     },
+    '0x000000000eCcFf26B795F73fb0A70d48da657fEf': {
+      extensions: { coingeckoId: 'us-sonic-dollar' },
+    },
   },
   [Network.Plasma]: {
     '0x6eAf19b2FC24552925dB245F9Ff613157a7dbb4C': {
