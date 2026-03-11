@@ -2078,6 +2078,12 @@ export const overwrites: OverwritesForList = {
     '0x5DD1A7A369e8273371d2DBf9d83356057088082c': {
       extensions: { coingeckoId: 'flying-tulip' },
     },
+    '0x423a7A5709213dEa0F0C2368e5fB16338c87bBA7': {
+      symbol: 'openUSDC',
+      name: 'Silo Vault Wrapped USDC',
+      logoURI:
+        'https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5954ce6671d97D24B782920ddCdBB4b1E63aB2De.png',
+    },
   },
   [Network.Plasma]: {
     '0x6eAf19b2FC24552925dB245F9Ff613157a7dbb4C': {
