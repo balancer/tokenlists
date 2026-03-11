@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 511
+        "patch": 512
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-03-09T08:23:32.275Z",
+    "timestamp": "2026-03-11T16:51:01.953Z",
     "tokens": [
         {
             "chainId": 1,
@@ -3897,7 +3897,8 @@
             "address": "0x178c820f862B14f316509ec36b13123DA19A6054",
             "name": "Energy Web Token Bridged",
             "symbol": "EWTB",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/10886/large/EWF_1.png?1773198639"
         },
         {
             "chainId": 1,
@@ -14261,6 +14262,14 @@
             "symbol": "USSD",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/102172319/large/soniclabs.jpg?1772835159"
+        },
+        {
+            "chainId": 146,
+            "address": "0x423a7A5709213dEa0F0C2368e5fB16338c87bBA7",
+            "name": "Silo Vault Wrapped USDC",
+            "symbol": "openUSDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5954ce6671d97D24B782920ddCdBB4b1E63aB2De.png"
         },
         {
             "chainId": 196,
