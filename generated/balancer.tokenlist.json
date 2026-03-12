@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 512
+        "patch": 513
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-03-11T16:51:01.953Z",
+    "timestamp": "2026-03-12T16:50:06.474Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12982,6 +12982,14 @@
             "symbol": "wnGMON",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x29d2075e5151b1a6863bdc40ea86bd5e8afd1705.png"
+        },
+        {
+            "chainId": 143,
+            "address": "0xe9c082921dc3564e10196c5cc15dB1250AC7d5C6",
+            "name": "Etherfuse KTB",
+            "symbol": "KTB",
+            "decimals": 6,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/102172092/large/KTB_Image.png?1771517177"
         },
         {
             "chainId": 146,
