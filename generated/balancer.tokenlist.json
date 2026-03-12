@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 513
+        "patch": 514
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-03-12T16:50:06.474Z",
+    "timestamp": "2026-03-12T19:52:42.174Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8336,6 +8336,14 @@
             "symbol": "gtusdcf",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc582f04d8a82795aa2ff9c8bb4c1c889fe7b754e.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xdC035D45d973E3EC169d2276DDab16f1e407384F",
+            "name": "USDS Stablecoin",
+            "symbol": "USDS",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/39926/large/usds.webp?1726666683"
         },
         {
             "chainId": 10,
