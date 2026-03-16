@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 514
+        "patch": 515
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-03-12T19:52:42.174Z",
+    "timestamp": "2026-03-16T19:16:58.133Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8344,6 +8344,14 @@
             "symbol": "USDS",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/39926/large/usds.webp?1726666683"
+        },
+        {
+            "chainId": 1,
+            "address": "0xC0c17dD08263C16f6b64E772fB9B723Bf1344DdF",
+            "name": "Precious Metals USD",
+            "symbol": "pmUSD",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/71149/large/pmUSD.png?1766015276"
         },
         {
             "chainId": 10,
