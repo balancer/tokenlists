@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 515
+        "patch": 516
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-03-16T19:16:58.133Z",
+    "timestamp": "2026-03-18T19:15:57.896Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8352,6 +8352,13 @@
             "symbol": "pmUSD",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/71149/large/pmUSD.png?1766015276"
+        },
+        {
+            "chainId": 1,
+            "address": "0x9F4330700a36B29952869fac9b33f45EEdd8A3d8",
+            "name": "Yearn BOLD",
+            "symbol": "yBOLD",
+            "decimals": 18
         },
         {
             "chainId": 10,
