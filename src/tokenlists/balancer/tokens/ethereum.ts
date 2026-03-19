@@ -1075,7 +1075,6 @@ export default [
   '0xc582f04d8a82795aa2ff9c8bb4c1c889fe7b754e', // morpho-gauntlet-usdc-frontier
   '0xdc035d45d973e3ec169d2276ddab16f1e407384f', // USDS
   '0xc0c17dd08263c16f6b64e772fb9b723bf1344ddf', // pmUSD
-  '0x06bb4ab600b7d22eb2c312f9babc22be6a619046', // PRISM
   '0x9F4330700a36B29952869fac9b33f45EEdd8A3d8', // yBOLD
   '0x06bb4ab600b7d22eb2c312f9babc22be6a619046', // PRISM
 ]
