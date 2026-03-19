@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 517
+        "patch": 518
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-03-19T13:09:57.226Z",
+    "timestamp": "2026-03-19T13:15:24.035Z",
     "tokens": [
         {
             "chainId": 1,
@@ -17923,6 +17923,13 @@
             "symbol": "STBL",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfdf91362b7e9330f232e500c0236a02b0de3e492.png"
+        },
+        {
+            "chainId": 9745,
+            "address": "0x28C48A7630A730F5f2297dA7A72b7F31d9E99e19",
+            "name": "Wrapped Aave Plasma GHO",
+            "symbol": "waPlaGHO",
+            "decimals": 18
         },
         {
             "chainId": 34443,
