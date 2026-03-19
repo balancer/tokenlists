@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 516
+        "patch": 517
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-03-18T19:15:57.896Z",
+    "timestamp": "2026-03-19T13:09:57.226Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8359,6 +8359,14 @@
             "name": "Yearn BOLD",
             "symbol": "yBOLD",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x06Bb4ab600b7D22eB2c312f9bAbC22Be6a619046",
+            "name": "Portfolio of Risk-adjusted Investment Strategy Mix",
+            "symbol": "PRISM",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/102172020/large/PRISM.png?1771038415"
         },
         {
             "chainId": 10,
