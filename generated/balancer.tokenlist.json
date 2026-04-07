@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 518
+        "patch": 519
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-03-19T13:15:24.035Z",
+    "timestamp": "2026-04-07T21:57:35.298Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8367,6 +8367,14 @@
             "symbol": "PRISM",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/102172020/large/PRISM.png?1771038415"
+        },
+        {
+            "chainId": 1,
+            "address": "0x7C135549504245B5eAe64fc0E99Fa5ebabb8e35D",
+            "name": "Fidelity Digital Dollar",
+            "symbol": "FIDD",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/102171776/large/FIDD-Green_%28792px%29.png?1769612802"
         },
         {
             "chainId": 10,
