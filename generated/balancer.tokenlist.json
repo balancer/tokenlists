@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 519
+        "patch": 520
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-04-07T21:57:35.298Z",
+    "timestamp": "2026-04-17T13:06:41.609Z",
     "tokens": [
         {
             "chainId": 1,
@@ -3292,7 +3292,7 @@
         {
             "chainId": 1,
             "address": "0xcaDC0acd4B445166f12d2C07EAc6E2544FbE2Eef",
-            "name": "CAD Coin",
+            "name": "CADC",
             "symbol": "CADC",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/14149/large/cadc_2.png?1614666625"
@@ -8377,6 +8377,14 @@
             "logoURI": "https://coin-images.coingecko.com/coins/images/102171776/large/FIDD-Green_%28792px%29.png?1769612802"
         },
         {
+            "chainId": 1,
+            "address": "0xDDB3422497E61e13543BeA06989C0789117555c5",
+            "name": "COTI Token",
+            "symbol": "COTI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xddb3422497e61e13543bea06989c0789117555c5.png"
+        },
+        {
             "chainId": 10,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -10938,7 +10946,7 @@
         {
             "chainId": 137,
             "address": "0x9de41aFF9f55219D5bf4359F167d1D0c772A396D",
-            "name": "CAD Coin",
+            "name": "CADC",
             "symbol": "CADC",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9de41aff9f55219d5bf4359f167d1d0c772a396d.png"
