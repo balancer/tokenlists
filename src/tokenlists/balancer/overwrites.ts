@@ -1454,6 +1454,11 @@ export const overwrites: OverwritesForList = {
         coingeckoId: 'staked-yuzu-usd',
       },
     },
+    '0xc50f2e735edd9dcd8ccd41ecfe9894e679e3195f': {
+      extensions: {
+        coingeckoId: 'rocket-pool-eth',
+      },
+    },
   },
   [Network.Sonic]: {
     '0xc76995054ce51dfbbc954840d699b2f33d2538ee': {
