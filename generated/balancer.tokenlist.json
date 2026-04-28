@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 520
+        "patch": 521
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-04-17T13:06:41.609Z",
+    "timestamp": "2026-04-28T18:35:37.202Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13032,11 +13032,33 @@
         },
         {
             "chainId": 143,
+            "address": "0xB3b850ac62B89fe9f4eFB652b516108a8aEb8848",
+            "name": "Wrapped Neverland WETH",
+            "symbol": "wnWETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 143,
             "address": "0xe9c082921dc3564e10196c5cc15dB1250AC7d5C6",
             "name": "Etherfuse KTB",
             "symbol": "KTB",
             "decimals": 6,
             "logoURI": "https://coin-images.coingecko.com/coins/images/102172092/large/KTB_Image.png?1771517177"
+        },
+        {
+            "chainId": 143,
+            "address": "0xA3D68b74bF0528fdD07263c60d6488749044914b",
+            "name": "Wrapped eETH",
+            "symbol": "weETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa3d68b74bf0528fdd07263c60d6488749044914b.png"
+        },
+        {
+            "chainId": 143,
+            "address": "0xC50f2e735eDd9dCD8Ccd41EcFE9894E679e3195f",
+            "name": "Rocket Pool ETH",
+            "symbol": "rETH",
+            "decimals": 18
         },
         {
             "chainId": 146,
