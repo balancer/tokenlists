@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 521
+        "patch": 522
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-04-28T18:35:37.202Z",
+    "timestamp": "2026-04-28T18:57:41.732Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13058,7 +13058,16 @@
             "address": "0xC50f2e735eDd9dCD8Ccd41EcFE9894E679e3195f",
             "name": "Rocket Pool ETH",
             "symbol": "rETH",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc50f2e735edd9dcd8ccd41ecfe9894e679e3195f.png"
+        },
+        {
+            "chainId": 143,
+            "address": "0x10Aeaf63194db8d453d4D85a06E5eFE1dd0b5417",
+            "name": "Wrapped liquid staked Ether 2.0",
+            "symbol": "wstETH",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/18834/large/wstETH.png?1696518295"
         },
         {
             "chainId": 146,
