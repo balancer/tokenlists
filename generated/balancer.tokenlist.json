@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 522
+        "patch": 523
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-04-28T18:57:41.732Z",
+    "timestamp": "2026-04-28T19:06:38.707Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13059,7 +13059,10 @@
             "name": "Rocket Pool ETH",
             "symbol": "rETH",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc50f2e735edd9dcd8ccd41ecfe9894e679e3195f.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc50f2e735edd9dcd8ccd41ecfe9894e679e3195f.png",
+            "extensions": {
+                "coingeckoId": "rocket-pool-eth"
+            }
         },
         {
             "chainId": 143,
