@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 523
+        "patch": 524
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-04-28T19:06:38.707Z",
+    "timestamp": "2026-04-29T17:33:05.509Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8383,6 +8383,21 @@
             "symbol": "COTI",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xddb3422497e61e13543bea06989c0789117555c5.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x8c106EEDAd96553e64287A5A6839c3Cc78afA3D0",
+            "name": "Gauntlet USDC Prime",
+            "symbol": "gtusdcp",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/71233/large/gauntlet.png?1766513225"
+        },
+        {
+            "chainId": 1,
+            "address": "0x870F0BF29A25A40E7CC087cD5C53e70C11F2C8A8",
+            "name": "kpk USDT Prime V2",
+            "symbol": "kpk_USDT_PrimeV2",
+            "decimals": 18
         },
         {
             "chainId": 10,
