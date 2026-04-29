@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 524
+        "patch": 525
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-04-29T17:33:05.509Z",
+    "timestamp": "2026-04-29T19:56:45.977Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8390,14 +8390,15 @@
             "name": "Gauntlet USDC Prime",
             "symbol": "gtusdcp",
             "decimals": 18,
-            "logoURI": "https://coin-images.coingecko.com/coins/images/71233/large/gauntlet.png?1766513225"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x8c106eedad96553e64287a5a6839c3cc78afa3d0.png"
         },
         {
             "chainId": 1,
             "address": "0x870F0BF29A25A40E7CC087cD5C53e70C11F2C8A8",
             "name": "kpk USDT Prime V2",
             "symbol": "kpk_USDT_PrimeV2",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x870f0bf29a25a40e7cc087cd5c53e70c11f2c8a8.png"
         },
         {
             "chainId": 10,
