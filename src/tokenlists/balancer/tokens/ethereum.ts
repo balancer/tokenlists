@@ -1079,6 +1079,6 @@ export default [
   '0x06bb4ab600b7d22eb2c312f9babc22be6a619046', // PRISM
   '0x7c135549504245b5eae64fc0e99fa5ebabb8e35d', // FIDD
   '0xddb3422497e61e13543bea06989c0789117555c5', // COTI
-  '0x8c106EEDAd96553e64287A5A6839c3Cc78afA3D0', // gauntlet-usdc-prime
-  '0x870F0BF29A25A40E7CC087cD5C53e70C11F2C8A8', // kpk-usdt-prime
+  '0x8c106eedad96553e64287a5a6839c3cc78afa3d0', // gauntlet-usdc-prime
+  '0x870f0bf29a25a40e7cc087cd5c53e70c11f2c8a8', // kpk-usdt-prime
 ]
