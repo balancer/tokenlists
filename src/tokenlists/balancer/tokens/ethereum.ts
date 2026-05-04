@@ -1081,4 +1081,6 @@ export default [
   '0xddb3422497e61e13543bea06989c0789117555c5', // COTI
   '0x8c106eedad96553e64287a5a6839c3cc78afa3d0', // gauntlet-usdc-prime
   '0x870f0bf29a25a40e7cc087cd5c53e70c11f2c8a8', // kpk-usdt-prime
+  '0x23238f20b894f29041f48D88eE91131C395Aaa71', // USDat
+  '0xD166337499E176bbC38a1FBd113Ab144e5bd2Df7', // sUSDat
 ]
