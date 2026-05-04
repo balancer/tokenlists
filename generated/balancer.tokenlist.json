@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 525
+        "patch": 526
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-04-29T19:56:45.977Z",
+    "timestamp": "2026-05-04T18:32:27.822Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13051,7 +13051,8 @@
             "address": "0xB3b850ac62B89fe9f4eFB652b516108a8aEb8848",
             "name": "Wrapped Neverland WETH",
             "symbol": "wnWETH",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb3b850ac62b89fe9f4efb652b516108a8aeb8848.png"
         },
         {
             "chainId": 143,
