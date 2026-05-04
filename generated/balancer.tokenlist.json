@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 526
+        "patch": 527
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-05-04T18:32:27.822Z",
+    "timestamp": "2026-05-04T20:45:09.336Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8399,6 +8399,22 @@
             "symbol": "kpk_USDT_PrimeV2",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x870f0bf29a25a40e7cc087cd5c53e70c11f2c8a8.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x23238f20b894f29041f48D88eE91131C395Aaa71",
+            "name": "USDat",
+            "symbol": "USDat",
+            "decimals": 6,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/102172645/large/usdat.png?1774503009"
+        },
+        {
+            "chainId": 1,
+            "address": "0xD166337499E176bbC38a1FBd113Ab144e5bd2Df7",
+            "name": "Staked USDat",
+            "symbol": "sUSDat",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/102172722/large/susdat.png?1775048870"
         },
         {
             "chainId": 10,
