@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 527
+        "patch": 528
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-05-04T20:45:09.336Z",
+    "timestamp": "2026-05-14T13:11:47.201Z",
     "tokens": [
         {
             "chainId": 1,
@@ -16156,6 +16156,30 @@
             "symbol": "eUSDC-3",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc200aab602cd7046389b5c8fb088884323f8dd0f.png"
+        },
+        {
+            "chainId": 999,
+            "address": "0xb2A2104D9fC202a38d74d8F6c3c45Da6eef8F5e0",
+            "name": "Static HyperLend HyperEVM kHYPE v2",
+            "symbol": "stathHyperEvmkHYPEv2",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb2a2104d9fc202a38d74d8f6c3c45da6eef8f5e0.png"
+        },
+        {
+            "chainId": 999,
+            "address": "0xb83D27f0f4133a7B0377a88089583131A903FDc7",
+            "name": "Treehouse HYPE",
+            "symbol": "tHYPE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb83d27f0f4133a7b0377a88089583131a903fdc7.png"
+        },
+        {
+            "chainId": 999,
+            "address": "0xfD739d4e423301CE9385c1fb8850539D657C296D",
+            "name": "Kinetiq Staked HYPE",
+            "symbol": "kHYPE",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/67388/large/khype.png?1752632397"
         },
         {
             "chainId": 1101,
