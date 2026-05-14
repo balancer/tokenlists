@@ -59,6 +59,6 @@ export default [
   '0xe8b10461ea0b04ff30f4cbfc3e93957cac00ded4', // purrHype
   '0xc200aab602cd7046389b5c8fb088884323f8dd0f', // EVK Vault eUSDC-3
   '0xb2a2104d9fc202a38d74d8f6c3c45da6eef8f5e0', // Hyperlend kHYPE
-  '0xb83D27f0f4133a7B0377a88089583131A903FDc7', // tHYPE
+  '0xb83d27f0f4133a7b0377a88089583131a903fdc7', // tHYPE
   '0xfD739d4e423301CE9385c1fb8850539D657C296D', // kHYPE
 ]
