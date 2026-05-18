@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 528
+        "patch": 529
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-05-14T13:11:47.201Z",
+    "timestamp": "2026-05-18T19:57:56.758Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8180,7 +8180,7 @@
         {
             "chainId": 1,
             "address": "0xBb50A5341368751024ddf33385BA8cf61fE65FF9",
-            "name": "kpk ETH Prime V2",
+            "name": "KPK ETH Prime",
             "symbol": "kpk_ETH_PrimeV2",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xbb50a5341368751024ddf33385ba8cf61fe65ff9.png"
@@ -8260,7 +8260,7 @@
         {
             "chainId": 1,
             "address": "0x4Ef53d2cAa51C447fdFEEedee8F07FD1962C9ee6",
-            "name": "kpk USDC Prime V2",
+            "name": "KPK USDC Prime",
             "symbol": "kpk_USDC_PrimeV2",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4ef53d2caa51c447fdfeeedee8f07fd1962c9ee6.png"
@@ -8284,7 +8284,7 @@
         {
             "chainId": 1,
             "address": "0xD5cCe260E7a755DDf0Fb9cdF06443d593AaeaA13",
-            "name": "kpk USDC Yield V2",
+            "name": "KPK USDC Yield",
             "symbol": "kpk_USDC_YieldV2",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd5cce260e7a755ddf0fb9cdf06443d593aaeaa13.png"
@@ -8395,7 +8395,7 @@
         {
             "chainId": 1,
             "address": "0x870F0BF29A25A40E7CC087cD5C53e70C11F2C8A8",
-            "name": "kpk USDT Prime V2",
+            "name": "KPK USDT Prime",
             "symbol": "kpk_USDT_PrimeV2",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x870f0bf29a25a40e7cc087cd5c53e70c11f2c8a8.png"
@@ -8415,6 +8415,14 @@
             "symbol": "sUSDat",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/102172722/large/susdat.png?1775048870"
+        },
+        {
+            "chainId": 1,
+            "address": "0xE1753F2e00940cC31213dd92013cF019DFE4ca1d",
+            "name": "sGho",
+            "symbol": "sGho",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe1753f2e00940cc31213dd92013cf019dfe4ca1d.png"
         },
         {
             "chainId": 10,
