@@ -1083,4 +1083,5 @@ export default [
   '0x870f0bf29a25a40e7cc087cd5c53e70c11f2c8a8', // kpk-usdt-prime
   '0x23238f20b894f29041f48D88eE91131C395Aaa71', // USDat
   '0xD166337499E176bbC38a1FBd113Ab144e5bd2Df7', // sUSDat
+  '0xe1753f2e00940cc31213dd92013cf019dfe4ca1d', // sGHO
 ]
