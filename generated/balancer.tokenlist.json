@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 529
+        "patch": 530
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-05-18T19:57:56.758Z",
+    "timestamp": "2026-05-20T20:06:00.052Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8425,6 +8425,14 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe1753f2e00940cc31213dd92013cf019dfe4ca1d.png"
         },
         {
+            "chainId": 1,
+            "address": "0x08d23468A467d2bb86FaE0e32F247A26C7E2e994",
+            "name": "Staked Inv",
+            "symbol": "sINV",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/53505/large/sINVx512.png?1736535779"
+        },
+        {
             "chainId": 10,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -16152,7 +16160,7 @@
         {
             "chainId": 999,
             "address": "0xe8b10461ea0b04FF30F4cBfc3E93957Cac00DEd4",
-            "name": "HypurrFi Earn HYPE",
+            "name": "Clearstar Earn HYPE",
             "symbol": "purrHYPE",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe8b10461ea0b04ff30f4cbfc3e93957cac00ded4.png"
