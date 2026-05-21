@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 531
+        "patch": 532
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-05-21T15:07:25.125Z",
+    "timestamp": "2026-05-21T17:57:39.926Z",
     "tokens": [
         {
             "chainId": 1,
@@ -17707,6 +17707,14 @@
             "symbol": "VVV",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/54023/large/VVV_Token_Transparent.png?1741856877"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x9c5C365e764829876243d0b289733B9D2b729685",
+            "name": "DeFi Janus Henderson Anemoy S&P500® Fund Token",
+            "symbol": "deSPXA",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/102172741/large/Group_427319050.png?1775200266"
         },
         {
             "chainId": 9745,
