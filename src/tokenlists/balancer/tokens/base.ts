@@ -162,4 +162,5 @@ export default [
   '0xF0Cb96a4011A0A6F73d100c7080Bf8020D10F87a', // mr_lightspeed
   '0x22af33fe49fd1fa80c7149773dde5890d3c76f3b', // BNKR
   '0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf', // VVV
+  '0x9c5c365e764829876243d0b289733b9d2b729685', // deSPXA
 ]
