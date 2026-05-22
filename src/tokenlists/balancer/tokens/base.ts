@@ -163,4 +163,5 @@ export default [
   '0x22af33fe49fd1fa80c7149773dde5890d3c76f3b', // BNKR
   '0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf', // VVV
   '0x9c5c365e764829876243d0b289733b9d2b729685', // deSPXA
+  '0x1d4CeA73e212829d06B9a774d2e06be9DEe5AAB0', // ZARO
 ]
