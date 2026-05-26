@@ -1087,4 +1087,6 @@ export default [
   '0x08d23468a467d2bb86fae0e32f247a26c7e2e994', // sINV
   '0x2df6dfbd281f127a3690c87e4572076778a9eda5', // waEthUSDG
   '0xe343167631d89b6ffc58b88d6b7fb0228795491d', // USDG
+  '0xf17d6f98a5c6eaa99d149079984119e0a4ef6900', // sUSG
+  '0xb1c2db5d6ca03fce73dbd304d320bf76c55ae1b1', // USG
 ]
