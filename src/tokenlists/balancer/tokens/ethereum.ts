@@ -1091,4 +1091,3 @@
   '0xf17d6f98a5c6eaa99d149079984119e0a4ef6900', // sUSG
   '0xb1c2db5d6ca03fce73dbd304d320bf76c55ae1b1', // USG
 ]
-
