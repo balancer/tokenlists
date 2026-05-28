@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 534
+        "patch": 535
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-05-28T17:12:58.926Z",
+    "timestamp": "2026-05-28T17:16:00.113Z",
     "tokens": [
         {
             "chainId": 1,
@@ -16236,6 +16236,30 @@
             "symbol": "kHYPE",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/67388/large/khype.png?1752632397"
+        },
+        {
+            "chainId": 999,
+            "address": "0xF868A2B30854FE13e26F7AB7a92609cCb6b9c0e1",
+            "name": "Clearstar Earn USDC",
+            "symbol": "csUSDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf868a2b30854fe13e26f7ab7a92609ccb6b9c0e1.png"
+        },
+        {
+            "chainId": 999,
+            "address": "0xF38eA9DE758a8F6be08B6E65bc0Ff2f3e3aB741b",
+            "name": "Clearstar Earn USDH",
+            "symbol": "csUSDH",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf38ea9de758a8f6be08b6e65bc0ff2f3e3ab741b.png"
+        },
+        {
+            "chainId": 999,
+            "address": "0x6dd448d5cb73DC96788d5BE605DD3C5c83864a36",
+            "name": "Clearstar Earn USDT0",
+            "symbol": "csUSDT0",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6dd448d5cb73dc96788d5be605dd3c5c83864a36.png"
         },
         {
             "chainId": 1101,
