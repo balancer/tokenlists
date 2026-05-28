@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 532
+        "patch": 533
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-05-21T17:57:39.926Z",
+    "timestamp": "2026-05-26T16:56:36.631Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8447,6 +8447,22 @@
             "symbol": "USDG",
             "decimals": 6,
             "logoURI": "https://coin-images.coingecko.com/coins/images/51281/large/GDN_USDG_Token_200x200.png?1730484111"
+        },
+        {
+            "chainId": 1,
+            "address": "0xF17D6f98A5C6EAA99d149079984119e0A4EF6900",
+            "name": "Savings USG",
+            "symbol": "sUSG",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf17d6f98a5c6eaa99d149079984119e0a4ef6900.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xB1c2Db5d6cA03FCe73dBd304d320bF76C55Ae1B1",
+            "name": "Tangent USD",
+            "symbol": "USG",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb1c2db5d6ca03fce73dbd304d320bf76c55ae1b1.png"
         },
         {
             "chainId": 10,
