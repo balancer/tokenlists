@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 535
+        "patch": 536
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-05-28T17:16:00.113Z",
+    "timestamp": "2026-05-28T19:45:40.946Z",
     "tokens": [
         {
             "chainId": 1,
@@ -17771,6 +17771,14 @@
             "symbol": "ZARO",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/68493/large/zaro.png?1779845306"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x8B7DdE054BE9D180c1Be7FaE0874697374A49832",
+            "name": "Wrapped PROS",
+            "symbol": "PROS",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/102173044/large/pros.jpg?1777444312"
         },
         {
             "chainId": 9745,
