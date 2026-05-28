@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 533
+        "patch": 534
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-05-26T16:56:36.631Z",
+    "timestamp": "2026-05-28T17:12:58.926Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8447,6 +8447,14 @@
             "symbol": "USDG",
             "decimals": 6,
             "logoURI": "https://coin-images.coingecko.com/coins/images/51281/large/GDN_USDG_Token_200x200.png?1730484111"
+        },
+        {
+            "chainId": 1,
+            "address": "0xc311FD6DA9686507F33991543d8158EF5FaDd5E7",
+            "name": "Zaro Coin",
+            "symbol": "ZARO",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/68493/large/zaro.png?1779845306"
         },
         {
             "chainId": 1,
@@ -17731,6 +17739,14 @@
             "symbol": "deSPXA",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/102172741/large/Group_427319050.png?1775200266"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x1d4CeA73e212829d06B9a774d2e06be9DEe5AAB0",
+            "name": "Zaro Coin",
+            "symbol": "ZARO",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/68493/large/zaro.png?1779845306"
         },
         {
             "chainId": 9745,
