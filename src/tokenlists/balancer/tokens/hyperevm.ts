@@ -61,4 +61,7 @@ export default [
   '0xb2a2104d9fc202a38d74d8f6c3c45da6eef8f5e0', // Hyperlend kHYPE
   '0xb83d27f0f4133a7b0377a88089583131a903fdc7', // tHYPE
   '0xfD739d4e423301CE9385c1fb8850539D657C296D', // kHYPE
+  '0xf868a2b30854fe13e26f7ab7a92609ccb6b9c0e1', // csUSDC
+  '0xf38ea9de758a8f6be08b6e65bc0ff2f3e3ab741b', // csUSDH
+  '0x6dd448d5cb73dc96788d5be605dd3c5c83864a36', // csUSDT0
 ]
