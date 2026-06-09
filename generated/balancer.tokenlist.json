@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 536
+        "patch": 537
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-05-28T19:45:40.946Z",
+    "timestamp": "2026-06-09T18:10:48.263Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13162,6 +13162,14 @@
             "logoURI": "https://coin-images.coingecko.com/coins/images/18834/large/wstETH.png?1696518295"
         },
         {
+            "chainId": 143,
+            "address": "0xE1BcA19baA63894D374578320551633320436523",
+            "name": "Clearstar Earn USDC",
+            "symbol": "CSUSDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe1bca19baa63894d374578320551633320436523.png"
+        },
+        {
             "chainId": 146,
             "address": "0xe6cc4D855B4fD4A9D02F46B9adae4C5EfB1764B5",
             "name": "LUDWIG",
@@ -17779,6 +17787,21 @@
             "symbol": "PROS",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/102173044/large/pros.jpg?1777444312"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x9C8cd8d3961F445D653713dE65C6578bE11668e7",
+            "name": "SINC",
+            "symbol": "SINC",
+            "decimals": 8
+        },
+        {
+            "chainId": 8453,
+            "address": "0xFb31f85A8367210B2e4Ed2360D2dA9Dc2D2Ccc95",
+            "name": "Edel",
+            "symbol": "EDEL",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/70661/large/Edel_Logo_Dark_-_200px.png?1762997249"
         },
         {
             "chainId": 9745,
