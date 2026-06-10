@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 537
+        "patch": 538
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-06-09T18:10:48.263Z",
+    "timestamp": "2026-06-10T20:18:03.924Z",
     "tokens": [
         {
             "chainId": 1,
@@ -9468,6 +9468,14 @@
             "symbol": "VLR",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4e107a0000db66f0e9fd2039288bf811dd1f9c74.png"
+        },
+        {
+            "chainId": 10,
+            "address": "0x3E29D3A9316dAB217754d13b28646B76607c5f04",
+            "name": "Alchemix ETH",
+            "symbol": "alETH",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/16271/large/aleth.png?1696515869"
         },
         {
             "chainId": 100,
