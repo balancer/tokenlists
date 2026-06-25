@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 539
+        "patch": 540
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-06-25T17:26:57.432Z",
+    "timestamp": "2026-06-25T19:50:32.756Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8479,6 +8479,14 @@
             "symbol": "PRIME",
             "decimals": 6,
             "logoURI": "https://coin-images.coingecko.com/coins/images/71002/large/Frame_427319702.png?1765093510"
+        },
+        {
+            "chainId": 1,
+            "address": "0x6aD038cA6C04e885630851278ca0a856Ad9a66Cc",
+            "name": "Hastra wYLDS",
+            "symbol": "wYLDS",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6ad038ca6c04e885630851278ca0a856ad9a66cc.png"
         },
         {
             "chainId": 10,
