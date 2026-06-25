@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 538
+        "patch": 539
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-06-10T20:18:03.924Z",
+    "timestamp": "2026-06-25T17:26:57.432Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8471,6 +8471,14 @@
             "symbol": "USG",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb1c2db5d6ca03fce73dbd304d320bf76c55ae1b1.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x19ebb35279A16207Ec4ba82799CC64715065F7F6",
+            "name": "Hastra PRIME",
+            "symbol": "PRIME",
+            "decimals": 6,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/71002/large/Frame_427319702.png?1765093510"
         },
         {
             "chainId": 10,
