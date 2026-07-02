@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 540
+        "patch": 541
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-06-25T19:50:32.756Z",
+    "timestamp": "2026-07-02T20:13:59.501Z",
     "tokens": [
         {
             "chainId": 1,
@@ -8487,6 +8487,22 @@
             "symbol": "wYLDS",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6ad038ca6c04e885630851278ca0a856ad9a66cc.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x098697bA3Fee4eA76294C5d6A466a4e3b3E95FE6",
+            "name": "USP Yield Optimized Stablecoin",
+            "symbol": "USP",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/70895/large/usp_200.png?1764404741"
+        },
+        {
+            "chainId": 1,
+            "address": "0x827Ce7E8e35861D9Ac7fE002755767b695A5594a",
+            "name": "Morini StockMarketTRBasisTrade Vault",
+            "symbol": "StockMarketTRBasisTrade",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/102173651/large/morini.png?1780723891"
         },
         {
             "chainId": 10,
@@ -17791,7 +17807,7 @@
         {
             "chainId": 8453,
             "address": "0x9c5C365e764829876243d0b289733B9D2b729685",
-            "name": "DeFi Janus Henderson Anemoy S&P500® Fund Token",
+            "name": "SPXA deRWA",
             "symbol": "deSPXA",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/102172741/large/Group_427319050.png?1775200266"
