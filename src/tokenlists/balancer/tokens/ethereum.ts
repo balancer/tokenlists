@@ -1092,4 +1092,6 @@
   '0xb1c2db5d6ca03fce73dbd304d320bf76c55ae1b1', // USG
   '0x19ebb35279a16207ec4ba82799cc64715065f7f6', // PRIME
   '0x6ad038ca6c04e885630851278ca0a856ad9a66cc', // wYLDS
+  '0x098697ba3fee4ea76294c5d6a466a4e3b3e95fe6', // USP
+  '0x827ce7e8e35861d9ac7fe002755767b695a5594a', // StockMarketTRBasisTrade
 ]
