@@ -32,4 +32,12 @@ export default [
   '0xC50f2e735eDd9dCD8Ccd41EcFE9894E679e3195f', // rETH
   '0x10Aeaf63194db8d453d4D85a06E5eFE1dd0b5417', // wstETH
   '0xe1bca19baa63894d374578320551633320436523', // CSUSDC
+  '0x5e7109a755fd2b86361f95065cde07fbab50ca1d', // waMonUSDT0
+  '0xc554affe2f581f5e0811e0d42d484ecac5c6b8e2', // waMonUSDC
+  '0x9e1acc5bfbf34e2e579763ce14042d957719fe76', // waMonAUSD
+  '0x967d427ef0eb4aeb7a1b523a98b04061f094276b', // waMonWETH
+  '0x6a7c826974994c4ce012b2fb32fe9d30d6366380', // waMonmUSD
+  '0x7c9e74e6c6e5dafaf9b44f60bf8ebbe81ca70d4f', // waMonGHO
+  '0xaca92e438df0b2401ff60da7e4337b687a2435da', // mUSD
+  '0xfc421ad3c883bf9e7c4f42de845c4e4405799e73', // GHO
 ]
