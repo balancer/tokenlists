@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 541
+        "patch": 542
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-07-02T20:13:59.501Z",
+    "timestamp": "2026-07-03T19:16:47.190Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13208,6 +13208,70 @@
             "symbol": "CSUSDC",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe1bca19baa63894d374578320551633320436523.png"
+        },
+        {
+            "chainId": 143,
+            "address": "0x5E7109A755fD2b86361F95065cDE07FbAb50CA1D",
+            "name": "Wrapped Aave Monad USDT0",
+            "symbol": "waMonUSDT0",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5e7109a755fd2b86361f95065cde07fbab50ca1d.png"
+        },
+        {
+            "chainId": 143,
+            "address": "0xC554aFfE2f581F5E0811e0D42D484ECaC5c6B8e2",
+            "name": "Wrapped Aave Monad USDC",
+            "symbol": "waMonUSDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc554affe2f581f5e0811e0d42d484ecac5c6b8e2.png"
+        },
+        {
+            "chainId": 143,
+            "address": "0x9e1AcC5BFbf34e2E579763cE14042d957719fE76",
+            "name": "Wrapped Aave Monad AUSD",
+            "symbol": "waMonAUSD",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9e1acc5bfbf34e2e579763ce14042d957719fe76.png"
+        },
+        {
+            "chainId": 143,
+            "address": "0x967d427eF0Eb4AEB7a1B523A98B04061F094276B",
+            "name": "Wrapped Aave Monad WETH",
+            "symbol": "waMonWETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x967d427ef0eb4aeb7a1b523a98b04061f094276b.png"
+        },
+        {
+            "chainId": 143,
+            "address": "0x6A7C826974994c4CE012B2fb32FE9D30d6366380",
+            "name": "Wrapped Aave Monad mUSD",
+            "symbol": "waMonmUSD",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6a7c826974994c4ce012b2fb32fe9d30d6366380.png"
+        },
+        {
+            "chainId": 143,
+            "address": "0x7c9e74e6C6E5DafAf9b44F60bf8eBbe81CA70d4F",
+            "name": "Wrapped Aave Monad GHO",
+            "symbol": "waMonGHO",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7c9e74e6c6e5dafaf9b44f60bf8ebbe81ca70d4f.png"
+        },
+        {
+            "chainId": 143,
+            "address": "0xacA92E438df0B2401fF60dA7E4337B687a2435DA",
+            "name": "MetaMask USD",
+            "symbol": "mUSD",
+            "decimals": 6,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/68451/large/MetaMask-mUSD-Icon-200x200.png?1755878384"
+        },
+        {
+            "chainId": 143,
+            "address": "0xfc421aD3C883Bf9E7C4f42dE845C4e4405799e73",
+            "name": "Gho Token",
+            "symbol": "GHO",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfc421ad3c883bf9e7c4f42de845c4e4405799e73.png"
         },
         {
             "chainId": 146,
