@@ -3,13 +3,13 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 9
+        "patch": 10
     },
     "keywords": [
         "Balancer"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-04-17T13:06:45.153Z",
+    "timestamp": "2026-07-09T18:52:27.554Z",
     "tokens": [
         {
             "chainId": 1,
@@ -141,7 +141,7 @@
         {
             "chainId": 1,
             "address": "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51",
-            "name": "Synth sUSD",
+            "name": "Synth sUSD (retired)",
             "symbol": "sUSD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x57ab1ec28d129707052df4df418d58a2d46d5f51.png"

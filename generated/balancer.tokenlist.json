@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 542
+        "patch": 543
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-07-03T19:16:47.190Z",
+    "timestamp": "2026-07-09T18:52:23.946Z",
     "tokens": [
         {
             "chainId": 1,
@@ -182,7 +182,7 @@
         {
             "chainId": 1,
             "address": "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51",
-            "name": "Synth sUSD",
+            "name": "Synth sUSD (retired)",
             "symbol": "sUSD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x57ab1ec28d129707052df4df418d58a2d46d5f51.png"
@@ -8505,6 +8505,38 @@
             "logoURI": "https://coin-images.coingecko.com/coins/images/102173651/large/morini.png?1780723891"
         },
         {
+            "chainId": 1,
+            "address": "0x531E90a2376902DE8915789Fcc1075e3B0c153E7",
+            "name": "Wrapped Aave Core USDC",
+            "symbol": "waCoreUSDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x531e90a2376902de8915789fcc1075e3b0c153e7.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x5eC44a70F309854fe04d495cFE1B5dA63DD1cc73",
+            "name": "Wrapped Aave Core USDT",
+            "symbol": "waCoreUSDT",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5ec44a70f309854fe04d495cfe1b5da63dd1cc73.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x58C14a5E061c9bC6926c5b853445290F296C2F7B",
+            "name": "Wrapped Aave Core GHO",
+            "symbol": "waCoreGHO",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x58c14a5e061c9bc6926c5b853445290f296c2f7b.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xAC2435E3C25e8246870D33ce0a26988A46d5DB68",
+            "name": "Wrapped Aave Core USDG",
+            "symbol": "waCoreUSDG",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xac2435e3c25e8246870d33ce0a26988a46d5db68.png"
+        },
+        {
             "chainId": 10,
             "address": "0x4200000000000000000000000000000000000006",
             "name": "Wrapped Ether",
@@ -8765,7 +8797,7 @@
         {
             "chainId": 10,
             "address": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
-            "name": "Synth sUSD",
+            "name": "Synth sUSD (retired)",
             "symbol": "sUSD",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/37867/large/sus.png?1715815715"
@@ -17608,7 +17640,7 @@
         {
             "chainId": 8453,
             "address": "0x0000000f2eB9f69274678c76222B35eEc7588a65",
-            "name": "yoVaultUSD",
+            "name": "yoUSD",
             "symbol": "yoUSD",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0000000f2eb9f69274678c76222b35eec7588a65.png"
@@ -17616,7 +17648,7 @@
         {
             "chainId": 8453,
             "address": "0xbCbc8cb4D1e8ED048a6276a5E94A3e952660BcbC",
-            "name": "yoVaultBTC",
+            "name": "yoBTC",
             "symbol": "yoBTC",
             "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xbcbc8cb4d1e8ed048a6276a5e94a3e952660bcbc.png"
@@ -17624,7 +17656,7 @@
         {
             "chainId": 8453,
             "address": "0x3A43AEC53490CB9Fa922847385D82fe25d0E9De7",
-            "name": "yoVaultETH",
+            "name": "yoETH",
             "symbol": "yoETH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x3a43aec53490cb9fa922847385d82fe25d0e9de7.png"
