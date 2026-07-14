@@ -1721,7 +1721,7 @@ export const overwrites: OverwritesForList = {
       },
     },
     '0x39838b880BA948C49aaB7253f61Ce1e00C30c014': {
-      logoURI: 'https://maxflowo2.com/img/image.png',
+      logoURI: 'https://i.ibb.co/WvbDHsWp/fmulti.png',
     },
     '0x44E23B1F3f4511b3a7e81077Fd9F2858dF1B7579': {
       logoURI:
