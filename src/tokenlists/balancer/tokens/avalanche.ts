@@ -123,5 +123,4 @@ export default [
   '0x1F0570a081FeE0e4dF6eAC470f9d2D53CDEDa1c5', // gami_USDC
   '0x01d7f7b7ce2123192fecc20bd1caf3e4d9e4c10d', // waCoreUSDC
   '0x2e4ba06ff97e10d09fa4f5a270e97301eae729a9', // waCoreUSDT
-  '0x7b538a1840eaf2ed92eeb67ee744ae627335e201', // waCoreEURC
 ]
