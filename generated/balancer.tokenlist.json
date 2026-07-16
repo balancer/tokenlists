@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 543
+        "patch": 544
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-07-09T18:52:23.946Z",
+    "timestamp": "2026-07-14T19:20:36.387Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13808,7 +13808,7 @@
             "name": "FUCKMULTI",
             "symbol": "fMULTI",
             "decimals": 18,
-            "logoURI": "https://maxflowo2.com/img/image.png"
+            "logoURI": "https://i.ibb.co/WvbDHsWp/fmulti.png"
         },
         {
             "chainId": 146,
