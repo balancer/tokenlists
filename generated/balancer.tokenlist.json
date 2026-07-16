@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 544
+        "patch": 545
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-07-14T19:20:36.387Z",
+    "timestamp": "2026-07-16T16:44:08.326Z",
     "tokens": [
         {
             "chainId": 1,
@@ -21715,6 +21715,22 @@
             "symbol": "Gami-USDC",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xffe8b2295cef70290819a8193834cc7900bcef5f.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x01D7f7B7CE2123192fECC20bd1caF3e4d9e4C10D",
+            "name": "Wrapped Aave Core USDC",
+            "symbol": "waCoreUSDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x01d7f7b7ce2123192fecc20bd1caf3e4d9e4c10d.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x2E4BA06fF97E10D09FA4F5a270e97301eae729A9",
+            "name": "Wrapped Aave Core USDT",
+            "symbol": "waCoreUSDT",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2e4ba06ff97e10d09fa4f5a270e97301eae729a9.png"
         },
         {
             "chainId": 11155111,
