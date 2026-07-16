@@ -121,4 +121,6 @@ export default [
   '0x1f8E769B5B6010B2C2BBCd68629EA1a0a0Eda7E3', // mevBTC
   '0xFECebF56f150A68dDd197c3a6101da35C46693Ac', //esdeUSD-2 (Euler sdeUSD RE7 Cluster)
   '0x1F0570a081FeE0e4dF6eAC470f9d2D53CDEDa1c5', // gami_USDC
+  '0x01d7f7b7ce2123192fecc20bd1caf3e4d9e4c10d', // waCoreUSDC
+  '0x2e4ba06ff97e10d09fa4f5a270e97301eae729a9', // waCoreUSDT
 ]
