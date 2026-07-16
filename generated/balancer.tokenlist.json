@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 546
+        "patch": 547
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-07-16T19:01:42.001Z",
+    "timestamp": "2026-07-16T19:48:46.609Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13310,14 +13310,16 @@
             "address": "0x0D9D741FE423Cd5419e4BCb6cB2FfA87AFa93bA4",
             "name": "avUSD",
             "symbol": "avUSD",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0d9d741fe423cd5419e4bcb6cb2ffa87afa93ba4.png"
         },
         {
             "chainId": 143,
             "address": "0x9648dB94F1e6B19e7D755585542981F97dc806c6",
             "name": "Staked avUSD",
             "symbol": "savUSD",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9648db94f1e6b19e7d755585542981f97dc806c6.png"
         },
         {
             "chainId": 146,
