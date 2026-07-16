@@ -40,4 +40,5 @@ export default [
   '0x7c9e74e6c6e5dafaf9b44f60bf8ebbe81ca70d4f', // waMonGHO
   '0xaca92e438df0b2401ff60da7e4337b687a2435da', // mUSD
   '0xfc421ad3c883bf9e7c4f42de845c4e4405799e73', // GHO
+  '0x0d9d741fe423cd5419e4bcb6cb2ffa87afa93ba4', // avUSD
 ]
