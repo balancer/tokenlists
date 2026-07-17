@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 547
+        "patch": 548
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-07-16T19:48:46.609Z",
+    "timestamp": "2026-07-17T14:46:37.052Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13311,7 +13311,10 @@
             "name": "avUSD",
             "symbol": "avUSD",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0d9d741fe423cd5419e4bcb6cb2ffa87afa93ba4.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0d9d741fe423cd5419e4bcb6cb2ffa87afa93ba4.png",
+            "extensions": {
+                "coingeckoId": "avant-usd"
+            }
         },
         {
             "chainId": 143,
@@ -13319,7 +13322,10 @@
             "name": "Staked avUSD",
             "symbol": "savUSD",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9648db94f1e6b19e7d755585542981f97dc806c6.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9648db94f1e6b19e7d755585542981f97dc806c6.png",
+            "extensions": {
+                "coingeckoId": "avant-staked-usd"
+            }
         },
         {
             "chainId": 146,
