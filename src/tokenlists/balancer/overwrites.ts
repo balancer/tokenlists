@@ -1449,9 +1449,19 @@ export const overwrites: OverwritesForList = {
     },
   },
   [Network.Monad]: {
+    '0x0d9d741fe423cd5419e4bcb6cb2ffa87afa93ba4': {
+      extensions: {
+        coingeckoId: 'avant-usd',
+      },
+    },
     '0x484be0540ad49f351eaa04eeb35df0f937d4e73f': {
       extensions: {
         coingeckoId: 'staked-yuzu-usd',
+      },
+    },
+    '0x9648db94f1e6b19e7d755585542981f97dc806c6': {
+      extensions: {
+        coingeckoId: 'avant-staked-usd',
       },
     },
     '0xc50f2e735edd9dcd8ccd41ecfe9894e679e3195f': {
