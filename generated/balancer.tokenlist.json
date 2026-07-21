@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 549
+        "patch": 550
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-07-21T16:53:55.722Z",
+    "timestamp": "2026-07-21T18:27:33.121Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13325,6 +13325,79 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9648db94f1e6b19e7d755585542981f97dc806c6.png",
             "extensions": {
                 "coingeckoId": "avant-staked-usd"
+            }
+        },
+        {
+            "chainId": 143,
+            "address": "0x6f2cdF03c8343E1eA608668812Fb094E46C41C80",
+            "name": "Wrapped Aave Monad syrupUSDC",
+            "symbol": "waMonsyrupUSDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6f2cdf03c8343e1ea608668812fb094e46c41c80.png"
+        },
+        {
+            "chainId": 143,
+            "address": "0xDc00342D80de85a8b843Dab1f29bb407B3abeB64",
+            "name": "Wrapped Aave Monad USDe",
+            "symbol": "waMonUSDe",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdc00342d80de85a8b843dab1f29bb407b3abeb64.png"
+        },
+        {
+            "chainId": 143,
+            "address": "0x50591A9F86972C591b6FE858b465f5B65d5c24ee",
+            "name": "Wrapped Aave Monad wstETH",
+            "symbol": "waMonwstETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x50591a9f86972c591b6fe858b465f5b65d5c24ee.png"
+        },
+        {
+            "chainId": 143,
+            "address": "0xcdc050015042701f6B3af3b87990945d415FA657",
+            "name": "Wrapped Aave Monad weETH",
+            "symbol": "waMonweETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xcdc050015042701f6b3af3b87990945d415fa657.png"
+        },
+        {
+            "chainId": 143,
+            "address": "0x4eC854a6fDF52Eb64F8CabF87FafD3B1f1743a00",
+            "name": "Wrapped Aave Monad sUSDe",
+            "symbol": "waMonsUSDe",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4ec854a6fdf52eb64f8cabf87fafd3b1f1743a00.png"
+        },
+        {
+            "chainId": 143,
+            "address": "0xaB6e5a0C3799d020c790D34F7B2C02639e238AF7",
+            "name": "Syrup USDC",
+            "symbol": "syrupUSDC",
+            "decimals": 6,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/54658/large/syrupUSDC.png?1761824955",
+            "extensions": {
+                "coingeckoId": "syrupusdc"
+            }
+        },
+        {
+            "chainId": 143,
+            "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+            "name": "USDe",
+            "symbol": "USDe",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34.png",
+            "extensions": {
+                "coingeckoId": "ethena-usde"
+            }
+        },
+        {
+            "chainId": 143,
+            "address": "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
+            "name": "Staked USDe",
+            "symbol": "sUSDe",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2.png",
+            "extensions": {
+                "coingeckoId": "ethena-staked-usde"
             }
         },
         {
