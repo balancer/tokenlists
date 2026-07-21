@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 548
+        "patch": 549
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-07-17T14:46:37.052Z",
+    "timestamp": "2026-07-21T16:53:55.722Z",
     "tokens": [
         {
             "chainId": 1,
@@ -21753,6 +21753,14 @@
             "symbol": "waCoreUSDT",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2e4ba06ff97e10d09fa4f5a270e97301eae729a9.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x7b538a1840EAf2Ed92EEB67eE744AE627335e201",
+            "name": "Wrapped Aave Core EURC",
+            "symbol": "waCoreEURC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7b538a1840eaf2ed92eeb67ee744ae627335e201.png"
         },
         {
             "chainId": 11155111,
