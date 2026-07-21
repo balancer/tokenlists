@@ -1454,14 +1454,29 @@ export const overwrites: OverwritesForList = {
         coingeckoId: 'avant-usd',
       },
     },
+    '0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2': {
+      extensions: {
+        coingeckoId: 'ethena-staked-usde',
+      },
+    },
     '0x484be0540ad49f351eaa04eeb35df0f937d4e73f': {
       extensions: {
         coingeckoId: 'staked-yuzu-usd',
       },
     },
+    '0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34': {
+      extensions: {
+        coingeckoId: 'ethena-usde',
+      },
+    },
     '0x9648db94f1e6b19e7d755585542981f97dc806c6': {
       extensions: {
         coingeckoId: 'avant-staked-usd',
+      },
+    },
+    '0xab6e5a0c3799d020c790d34f7b2c02639e238af7': {
+      extensions: {
+        coingeckoId: 'syrupusdc',
       },
     },
     '0xc50f2e735edd9dcd8ccd41ecfe9894e679e3195f': {
