@@ -42,4 +42,12 @@ export default [
   '0xfc421ad3c883bf9e7c4f42de845c4e4405799e73', // GHO
   '0x0d9d741fe423cd5419e4bcb6cb2ffa87afa93ba4', // avUSD
   '0x9648db94f1e6b19e7d755585542981f97dc806c6', // savUSD
+  '0x6f2cdf03c8343e1ea608668812fb094e46c41c80', // waMonsyrupUSDC
+  '0xdc00342d80de85a8b843dab1f29bb407b3abeb64', // waMonUSDe
+  '0x50591a9f86972c591b6fe858b465f5b65d5c24ee', // waMonwstETH
+  '0xcdc050015042701f6b3af3b87990945d415fa657', // waMonweETH
+  '0x4ec854a6fdf52eb64f8cabf87fafd3b1f1743a00', // waMonsUSDe
+  '0xab6e5a0c3799d020c790d34f7b2c02639e238af7', // syrupUSDC
+  '0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34', // USDe
+  '0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2', // sUSDe
 ]
