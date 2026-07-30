@@ -169,7 +169,7 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg',
     },
-    '0x0d45b129dc868963025Db79A9074EA9c9e32Cae4': {
+    '0xd3a452B305C8285c0Dd7b8537665c734d3D279eF': {
       name: 'Staked USDp',
       logoURI:
         'https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/sUSDp.svg',
