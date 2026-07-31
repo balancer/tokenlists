@@ -65,4 +65,5 @@ export default [
   '0xf38ea9de758a8f6be08b6e65bc0ff2f3e3ab741b', // csUSDH
   '0x6dd448d5cb73dc96788d5be605dd3c5c83864a36', // csUSDT0
   '0x77146784315ba81904d654466968e3a7c196d1f3', // TREE
+  '0xd0ee0cf300dfb598270cd7f4d0c6e0d8f6e13f29', // AVLT
 ]
