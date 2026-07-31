@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 552
+        "patch": 553
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-07-31T14:43:20.800Z",
+    "timestamp": "2026-07-31T14:45:57.851Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13399,6 +13399,14 @@
             "extensions": {
                 "coingeckoId": "ethena-staked-usde"
             }
+        },
+        {
+            "chainId": 143,
+            "address": "0x4FC5B9f8933597D3ecf84d0611687E1Dc8DD576f",
+            "name": "SPDR Bloomberg 1-3M T-Bill aStock",
+            "symbol": "aBIL",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4fc5b9f8933597d3ecf84d0611687e1dc8dd576f.png"
         },
         {
             "chainId": 146,
