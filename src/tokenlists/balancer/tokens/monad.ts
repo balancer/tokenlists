@@ -51,4 +51,6 @@ export default [
   '0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34', // USDe
   '0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2', // sUSDe
   '0x4fc5b9f8933597d3ecf84d0611687e1dc8dd576f', // aBIL
+  '0xdc3f4ad99aafb4603737bab56db0a13da4f42f08', // dreUSD
+  '0x7b331861de33a2c216b3c0d4b9089a5034836689', // dreUSDs
 ]
