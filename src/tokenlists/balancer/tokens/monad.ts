@@ -51,4 +51,5 @@ export default [
   '0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34', // USDe
   '0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2', // sUSDe
   '0x4fc5b9f8933597d3ecf84d0611687e1dc8dd576f', // aBIL
+  '0x0bb150dfa86ea5d7742f07fefcd8e8eda81d64ef', // USDat
 ]
