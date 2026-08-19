@@ -52,4 +52,7 @@ export default [
   '0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2', // sUSDe
   '0x4fc5b9f8933597d3ecf84d0611687e1dc8dd576f', // aBIL
   '0x0bb150dfa86ea5d7742f07fefcd8e8eda81d64ef', // USDat
+  '0x8959f4e6ed1f4567a464959793d5f8f6f33c1c8b', // wnWBTC
+  '0x98a297e6424787e57af119949d7e00b721f832bb', // wnCBBTC
+  '0xd18b7ec58cdf4876f6afebd3ed1730e4ce10414b', // cbBTC
 ]
