@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 555
+        "patch": 556
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-08-05T18:44:31.675Z",
+    "timestamp": "2026-08-19T20:33:38.364Z",
     "tokens": [
         {
             "chainId": 1,
@@ -12994,7 +12994,10 @@
             "name": "Wrapped BTC",
             "symbol": "WBTC",
             "decimals": 8,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0555e30da8f98308edb960aa94c0db47230d2b9c.png"
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0555e30da8f98308edb960aa94c0db47230d2b9c.png",
+            "extensions": {
+                "coingeckoId": "wrapped-bitcoin"
+            }
         },
         {
             "chainId": 143,
@@ -13415,6 +13418,33 @@
             "symbol": "USDat",
             "decimals": 6,
             "logoURI": "https://coin-images.coingecko.com/coins/images/102172645/large/usdat.png?1774503009"
+        },
+        {
+            "chainId": 143,
+            "address": "0x8959f4E6ED1f4567a464959793d5f8f6f33C1C8B",
+            "name": "Wrapped Neverland WBTC",
+            "symbol": "wnWBTC",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x8959f4e6ed1f4567a464959793d5f8f6f33c1c8b.png"
+        },
+        {
+            "chainId": 143,
+            "address": "0x98a297e6424787E57Af119949d7E00b721F832BB",
+            "name": "Wrapped Neverland cbBTC",
+            "symbol": "wnCBBTC",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x98a297e6424787e57af119949d7e00b721f832bb.png"
+        },
+        {
+            "chainId": 143,
+            "address": "0xd18B7EC58Cdf4876f6AFebd3Ed1730e4Ce10414b",
+            "name": "Coinbase Wrapped BTC",
+            "symbol": "cbBTC",
+            "decimals": 8,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/40143/large/cbbtc.webp?1726136727",
+            "extensions": {
+                "coingeckoId": "coinbase-wrapped-btc"
+            }
         },
         {
             "chainId": 146,
@@ -18030,7 +18060,7 @@
         {
             "chainId": 8453,
             "address": "0x9c5C365e764829876243d0b289733B9D2b729685",
-            "name": "SPXA deRWA",
+            "name": "S&P 500 DeFi (Centrifuge)",
             "symbol": "deSPXA",
             "decimals": 18,
             "logoURI": "https://coin-images.coingecko.com/coins/images/102172741/large/Group_427319050.png?1775200266"
