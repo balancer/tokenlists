@@ -1449,6 +1449,11 @@ export const overwrites: OverwritesForList = {
     },
   },
   [Network.Monad]: {
+    '0x0555e30da8f98308edb960aa94c0db47230d2b9c': {
+      extensions: {
+        coingeckoId: 'wrapped-bitcoin',
+      },
+    },
     '0x0d9d741fe423cd5419e4bcb6cb2ffa87afa93ba4': {
       extensions: {
         coingeckoId: 'avant-usd',
@@ -1482,6 +1487,11 @@ export const overwrites: OverwritesForList = {
     '0xc50f2e735edd9dcd8ccd41ecfe9894e679e3195f': {
       extensions: {
         coingeckoId: 'rocket-pool-eth',
+      },
+    },
+    '0xd18b7ec58cdf4876f6afebd3ed1730e4ce10414b': {
+      extensions: {
+        coingeckoId: 'coinbase-wrapped-btc',
       },
     },
   },
