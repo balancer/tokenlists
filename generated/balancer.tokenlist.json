@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 556
+        "patch": 557
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-08-19T20:33:38.364Z",
+    "timestamp": "2026-08-24T19:08:12.943Z",
     "tokens": [
         {
             "chainId": 1,
@@ -14733,6 +14733,17 @@
             "symbol": "openUSDC",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5954ce6671d97D24B782920ddCdBB4b1E63aB2De.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0xF7D85EC4E7710f71992752eac2111312e73E9C9C",
+            "name": "Flying Tulip USD",
+            "symbol": "ftUSD",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/FlyingTulip_ftUSD.png",
+            "extensions": {
+                "coingeckoId": "flying-tulip-usd"
+            }
         },
         {
             "chainId": 196,
