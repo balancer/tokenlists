@@ -151,4 +151,5 @@ export default [
   '0x5dd1a7a369e8273371d2dbf9d83356057088082c', // FT
   '0x000000000eccff26b795f73fb0a70d48da657fef', // ussd
   '0x423a7A5709213dEa0F0C2368e5fB16338c87bBA7', // openUSDC
+  '0xf7d85ec4e7710f71992752eac2111312e73e9c9c', // ftusd
 ]
