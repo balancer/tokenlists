@@ -1098,4 +1098,6 @@
   '0x5ec44a70f309854fe04d495cfe1b5da63dd1cc73', // waCoreUSDT
   '0x58c14a5e061c9bc6926c5b853445290f296c2f7b', // waCoreGHO
   '0xac2435e3c25e8246870d33ce0a26988a46d5db68', // waCoreUSDG
+  '0x831a3962e31037cf4eb8847cb7ea05aac1db35b6', // pizza
+  '0x829f4b62eebe12af653b4dd4ffc480966f7d7f09', // sato
 ]
