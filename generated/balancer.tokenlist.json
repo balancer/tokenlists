@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 557
+        "patch": 558
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-08-24T19:08:12.943Z",
+    "timestamp": "2026-08-31T18:22:52.740Z",
     "tokens": [
         {
             "chainId": 1,
@@ -218,14 +218,6 @@
             "symbol": "sXAG",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6a22e5e94388464181578aa7a6b869e00fe27846.png"
-        },
-        {
-            "chainId": 1,
-            "address": "0x0327112423F3A68efdF1fcF402F6c5CB9f7C33fd",
-            "name": "PieDAO BTC++",
-            "symbol": "BTC++",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd.png"
         },
         {
             "chainId": 1,
@@ -1647,14 +1639,6 @@
             "symbol": "uDOO",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/3078/large/HYPRR-WIDGET-CIRCLE-ONBLACK-1.jpg?1646752306"
-        },
-        {
-            "chainId": 1,
-            "address": "0xaD6A626aE2B43DCb1B39430Ce496d2FA0365BA9C",
-            "name": "PieDAO DEFI Small Cap",
-            "symbol": "DEFI+S",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xad6a626ae2b43dcb1b39430ce496d2fa0365ba9c.png"
         },
         {
             "chainId": 1,
@@ -8535,6 +8519,22 @@
             "symbol": "waCoreUSDG",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xac2435e3c25e8246870d33ce0a26988a46d5db68.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x831A3962e31037cf4Eb8847cb7eA05aaC1Db35B6",
+            "name": "Pizza",
+            "symbol": "pizza",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x831a3962e31037cf4eb8847cb7ea05aac1db35b6.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x829f4B62EEBE12Af653b4dD4fFc480966F7d7f09",
+            "name": "sato",
+            "symbol": "sato",
+            "decimals": 18,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/102174062/large/sato-logo-binance-web3.png?1782207199"
         },
         {
             "chainId": 10,
