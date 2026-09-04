@@ -3,7 +3,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 558
+        "patch": 559
     },
     "keywords": [
         "Balancer",
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2026-08-31T18:22:52.740Z",
+    "timestamp": "2026-09-04T13:49:25.094Z",
     "tokens": [
         {
             "chainId": 1,
@@ -13445,6 +13445,41 @@
             "extensions": {
                 "coingeckoId": "coinbase-wrapped-btc"
             }
+        },
+        {
+            "chainId": 143,
+            "address": "0x22139A346b6312EB0A9812C67CfCe4A694676d59",
+            "name": "Wrapped Neverland XAUt0",
+            "symbol": "wnXAUT0",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x22139a346b6312eb0a9812c67cfce4a694676d59.png"
+        },
+        {
+            "chainId": 143,
+            "address": "0x01bFF41798a0BcF287b996046Ca68b395DbC1071",
+            "name": "XAUt0",
+            "symbol": "XAUt0",
+            "decimals": 6,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/66560/large/XAUt0_Token_Icon_Gold.png?1749747942",
+            "extensions": {
+                "coingeckoId": "tether-gold-tokens"
+            }
+        },
+        {
+            "chainId": 143,
+            "address": "0xC2ddc1004CA0d6cC4bFd1dCD03Dcf855bED8E670",
+            "name": "Blueberry AUSD",
+            "symbol": "blbAUSD",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc2ddc1004ca0d6cc4bfd1dcd03dcf855bed8e670.png"
+        },
+        {
+            "chainId": 143,
+            "address": "0x215394B5677Cb7a18B6fA8cc2cD155C024ee6b2E",
+            "name": "Blueberry USDC",
+            "symbol": "blbUSDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x215394b5677cb7a18b6fa8cc2cd155c024ee6b2e.png"
         },
         {
             "chainId": 146,
