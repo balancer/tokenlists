@@ -57,4 +57,6 @@ export default [
   '0xd18b7ec58cdf4876f6afebd3ed1730e4ce10414b', // cbBTC
   '0x22139a346b6312eb0a9812c67cfce4a694676d59', // wnXAUT0
   '0x01bff41798a0bcf287b996046ca68b395dbc1071', // XAUt0
+  '0xc2ddc1004ca0d6cc4bfd1dcd03dcf855bed8e670', // blbAUSD
+  '0x215394b5677cb7a18b6fa8cc2cd155c024ee6b2e', // blbUSDC
 ]
