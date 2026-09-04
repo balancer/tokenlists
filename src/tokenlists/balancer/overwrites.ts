@@ -1449,6 +1449,11 @@ export const overwrites: OverwritesForList = {
     },
   },
   [Network.Monad]: {
+    '0x01bff41798a0bcf287b996046ca68b395dbc1071': {
+      extensions: {
+        coingeckoId: 'tether-gold-tokens',
+      },
+    },
     '0x0555e30da8f98308edb960aa94c0db47230d2b9c': {
       extensions: {
         coingeckoId: 'wrapped-bitcoin',
